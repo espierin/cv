@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Eric Spierings – Transplantation Immunology</title>
+  <title>Eric Spierings – Transplantation Immunology & HLA Data Standards</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- SEO -->
@@ -39,6 +39,7 @@
       background: radial-gradient(circle at top left, #18213c 0, #060714 45%);
       color: var(--text-main);
       -webkit-font-smoothing: antialiased;
+      scroll-behavior: smooth;
     }
 
     .page { min-height: 100vh; display: flex; justify-content: center; padding: 32px 16px; }
@@ -86,9 +87,24 @@
     .tag {
       font-size: 11px; text-transform: uppercase; letter-spacing: 0.16em;
       padding: 4px 10px; border-radius: var(--radius-pill);
-      border: 1px solid rgba(148,163,184,0.4); color: #d1d5db; background: rgba(15,23,42,0.8);
+      border: 1px solid rgba(148,163,184,0.4); color: #d1d5db;
+      background: rgba(15,23,42,0.8);
+      cursor: default;
     }
-    .tag--accent { background: var(--accent-soft); border-color: rgba(79,209,197,0.8); color: var(--accent-strong); }
+    .tag-button {
+      cursor: pointer;
+      border: 1px solid rgba(148,163,184,0.4);
+      background: rgba(15,23,42,0.9);
+    }
+    .tag-button:hover {
+      border-color: rgba(79,209,197,0.9);
+      color: var(--accent-strong);
+    }
+    .tag--accent {
+      background: var(--accent-soft);
+      border-color: rgba(79,209,197,0.8);
+      color: var(--accent-strong);
+    }
 
     .meta { display: flex; flex-wrap: wrap; gap: 12px; font-size: 12px; color: var(--text-muted); }
     .meta span {
@@ -127,12 +143,14 @@
       background: radial-gradient(circle at top left, rgba(79,209,197,0.08), transparent 55%);
       pointer-events:none;
     }
-    .card-title-row { display: flex; justify-content: space-between; margin-bottom: 10px; }
+    .card-inner { position: relative; z-index: 1; }
+    .card-title-row { display: flex; justify-content: space-between; margin-bottom: 10px; gap: 12px; }
     .card-title { font-size: 14px; text-transform: uppercase; letter-spacing: 0.14em; }
     .card-pill {
       font-size: 10px; text-transform: uppercase; letter-spacing: 0.18em;
       border-radius: var(--radius-pill); padding: 3px 9px;
       background: rgba(15,23,42,0.9); border: 1px solid rgba(148,163,184,0.45);
+      white-space: nowrap;
     }
 
     .lead { font-size: 14px; color: var(--text-muted); line-height: 1.5; margin-bottom: 10px; }
@@ -167,8 +185,68 @@
     }
     .pub-label-dot { width:6px; height:6px; border-radius:999px; background:var(--accent); }
 
+    .timeline {
+      border-left: 1px solid rgba(148,163,184,0.34);
+      padding-left: 12px;
+      margin-top: 4px;
+    }
+    .timeline-item {
+      position: relative;
+      padding-left: 12px;
+      margin-bottom: 10px;
+    }
+    .timeline-item::before {
+      content: "";
+      position: absolute;
+      left: -13px;
+      top: 4px;
+      width: 8px;
+      height: 8px;
+      border-radius: 999px;
+      background: var(--accent);
+      box-shadow: 0 0 0 4px rgba(79, 209, 197, 0.18);
+    }
+    .timeline-title { font-size: 13px; font-weight: 600; color: #e5e7eb; }
+    .timeline-meta { font-size: 11px; color: var(--text-muted); }
+
+    .contact {
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 1px dashed rgba(148, 163, 184, 0.4);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 13px;
+    }
+
+    .link {
+      color: var(--accent-strong);
+      text-decoration: none;
+      border-bottom: 1px dotted rgba(79, 209, 197, 0.6);
+    }
+    .link:hover { border-bottom-style: solid; }
+
+    /* Topic sections under the main layout */
+    .topics-grid {
+      margin-top: 22px;
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+    }
+    @media (max-width: 960px) {
+      .topics-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .topic-card { position: relative; }
+    .topic-highlight {
+      box-shadow: 0 0 0 1px rgba(79,209,197,0.9), 0 0 0 6px rgba(79,209,197,0.25);
+      transition: box-shadow 0.4s ease-out;
+    }
+
     footer {
-      margin-top:18px; font-size:11px; color:var(--text-muted);
+      margin-top: 18px; font-size: 11px; color: var(--text-muted);
       display:flex; justify-content:space-between; gap:8px; padding-top:10px;
       border-top:1px solid var(--border-subtle);
     }
@@ -196,10 +274,10 @@
         <div class="role">Transplantation Immunologist & Immunogeneticist · UMC Utrecht</div>
 
         <div class="tags">
-          <div class="tag tag--accent">CV & Portfolio</div>
-          <div class="tag">HLA Data Standards</div>
-          <div class="tag">Diagnostic Innovation</div>
-          <div class="tag">Research & Implementation</div>
+          <div class="tag tag--accent">CV &amp; Portfolio</div>
+          <button type="button" class="tag tag-button" data-topic="hla">HLA Data Standards</button>
+          <button type="button" class="tag tag-button" data-topic="diagnostics">Diagnostic Innovation</button>
+          <button type="button" class="tag tag-button" data-topic="research">Research &amp; Implementation</button>
         </div>
 
         <div class="meta">
@@ -209,7 +287,7 @@
 
         <nav>
           <button class="nav-button active" data-target="section-bio"><span>●</span> Bio</button>
-          <button class="nav-button" data-target="section-cv"><span>●</span> CV & Roles</button>
+          <button class="nav-button" data-target="section-cv"><span>●</span> CV &amp; Roles</button>
           <button class="nav-button" data-target="section-pubs"><span>●</span> Publications</button>
         </nav>
       </div>
@@ -235,7 +313,7 @@
 
           <div class="chips">
             <span class="chip chip--accent">Transplantation Immunology</span>
-            <span class="chip">HLA Typing & Antibodies</span>
+            <span class="chip">HLA Typing &amp; Antibodies</span>
             <span class="chip">Data Standards (GL-, PL-, AL-strings)</span>
             <span class="chip">Laboratory Diagnostics</span>
             <span class="chip">Translational Research</span>
@@ -275,7 +353,7 @@
 
           <div class="timeline">
             <div class="timeline-item">
-              <div class="timeline-title">Transplantation Immunology & Diagnostics</div>
+              <div class="timeline-title">Transplantation Immunology &amp; Diagnostics</div>
               <div class="timeline-meta">UMC Utrecht · Current</div>
               <ul>
                 <li>Leading and supervising HLA and antibody diagnostics.</li>
@@ -285,8 +363,8 @@
             </div>
 
             <div class="timeline-item">
-              <div class="timeline-title">Data Standards & Informatics</div>
-              <div class="timeline-meta">EFI & International Consortia · Current</div>
+              <div class="timeline-title">Data Standards &amp; Informatics</div>
+              <div class="timeline-meta">EFI &amp; International Consortia · Current</div>
               <ul>
                 <li>Development of PL- and AL-string formats for HLA antigens and antibodies.</li>
                 <li>Contributions to recommendations for standardized HLA data exchange.</li>
@@ -295,7 +373,7 @@
             </div>
 
             <div class="timeline-item">
-              <div class="timeline-title">Research & Translation</div>
+              <div class="timeline-title">Research &amp; Translation</div>
               <div class="timeline-meta">Matchis / CTI / TCU · Current</div>
               <ul>
                 <li>Supporting studies on epitope-based matching and donor-specific antibodies.</li>
@@ -370,6 +448,66 @@
 
     </main>
 
+    <!-- TOPIC SECTIONS -->
+    <section class="topics-grid" id="topics">
+      <article class="card topic-card" id="topic-hla">
+        <div class="card-inner">
+          <div class="card-title-row">
+            <div class="card-title">HLA Data Standards</div>
+            <div class="card-pill">Structure &amp; Interoperability</div>
+          </div>
+          <p class="lead">
+            Work on HLA data standards focuses on defining clear, compact formats for representing
+            alleles, antigens, epitopes, and antibodies across laboratories and IT systems.
+          </p>
+          <ul>
+            <li>Development and refinement of PL- and AL-string representations.</li>
+            <li>Alignment with existing formats such as GL-strings and HML output.</li>
+            <li>Enabling unambiguous data exchange between registries, allocation systems, and labs.</li>
+            <li>Preparing formats for use in FHIR-based data exchange and modern APIs.</li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="card topic-card" id="topic-diagnostics">
+        <div class="card-inner">
+          <div class="card-title-row">
+            <div class="card-title">Diagnostic Innovation</div>
+            <div class="card-pill">From Bench to Report</div>
+          </div>
+          <p class="lead">
+            Diagnostic innovation connects novel immunological concepts with the concrete reality of
+            clinical reporting, quality standards, and turnaround times.
+          </p>
+          <ul>
+            <li>Embedding epitope-based risk scores in routine HLA and antibody reporting.</li>
+            <li>Designing decision-support outputs for transplant physicians.</li>
+            <li>Continuous refinement of workflows for HLA typing, antibody screening, and DSA analysis.</li>
+            <li>Integration of new assays while maintaining ISO15189/EFI compliance.</li>
+          </ul>
+        </div>
+      </article>
+
+      <article class="card topic-card" id="topic-research">
+        <div class="card-inner">
+          <div class="card-title-row">
+            <div class="card-title">Research &amp; Implementation</div>
+            <div class="card-pill">Bridging Lab &amp; Clinic</div>
+          </div>
+          <p class="lead">
+            Research and implementation work ensures that concepts such as epitope matching and
+            data standards translate into measurable clinical benefit.
+          </p>
+          <ul>
+            <li>Design and support of studies on graft survival, rejection, and donor-specific antibodies.</li>
+            <li>Use of simulation studies to test allocation strategies before clinical rollout.</li>
+            <li>Collaboration with international partners to benchmark and harmonize approaches.</li>
+            <li>Implementation projects with transplant centers and donor registries.</li>
+          </ul>
+        </div>
+      </article>
+    </section>
+
     <footer>
       <div class="small-pill">Last updated: <span id="last-updated">2025</span></div>
       <div class="small-pill">Single-file HTML. Ready for GitHub Pages.</div>
@@ -379,6 +517,7 @@
 </div>
 
 <script>
+  // Tab navigation for Bio / CV / Publications
   const buttons = document.querySelectorAll('.nav-button');
   const sections = {
     'section-bio': document.getElementById('section-bio'),
@@ -397,6 +536,7 @@
         if (id === target) {
           sections[id].classList.remove('hidden');
         } else if (id === 'section-pubs') {
+          // Publications card always visible on the right
           sections[id].classList.remove('hidden');
         } else {
           sections[id].classList.add('hidden');
@@ -405,6 +545,28 @@
     });
   });
 
+  // Topic tag click -> scroll to section and highlight
+  const topicMap = {
+    hla: document.getElementById('topic-hla'),
+    diagnostics: document.getElementById('topic-diagnostics'),
+    research: document.getElementById('topic-research')
+  };
+
+  document.querySelectorAll('.tag-button[data-topic]').forEach(tag => {
+    tag.addEventListener('click', () => {
+      const key = tag.getAttribute('data-topic');
+      const targetEl = topicMap[key];
+      if (!targetEl) return;
+
+      targetEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      targetEl.classList.add('topic-highlight');
+      setTimeout(() => {
+        targetEl.classList.remove('topic-highlight');
+      }, 1200);
+    });
+  });
+
+  // Footer year
   document.getElementById('last-updated').textContent = new Date().getFullYear();
 </script>
 
