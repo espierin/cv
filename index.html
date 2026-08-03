@@ -1402,7 +1402,121 @@
   }
 }
 
-</style>
+
+    /* Professional contact cards */
+    .contact-links {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .contact-card {
+      min-width: 0;
+      min-height: 150px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 20px;
+      padding: 22px;
+      border: 1px solid rgba(255, 255, 255, 0.26);
+      border-radius: 18px;
+      color: white;
+      background: rgba(255, 255, 255, 0.07);
+      text-decoration: none;
+      transition:
+        transform 0.18s ease,
+        background 0.18s ease,
+        border-color 0.18s ease,
+        box-shadow 0.18s ease;
+    }
+
+    .contact-card:hover,
+    .contact-card:focus-visible {
+      transform: translateY(-3px);
+      border-color: rgba(255, 255, 255, 0.58);
+      background: rgba(255, 255, 255, 0.12);
+      box-shadow: 0 14px 30px rgba(0, 20, 42, 0.22);
+    }
+
+    .contact-icon {
+      width: 52px;
+      height: 52px;
+      display: grid;
+      place-items: center;
+      border-radius: 15px;
+      color: white;
+      background: var(--umcu-blue);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+    }
+
+    .contact-card:nth-child(2) .contact-icon {
+      background: var(--umcu-cyan);
+    }
+
+    .contact-card:nth-child(3) .contact-icon {
+      background: var(--umcu-orange);
+    }
+
+    .contact-card:nth-child(4) .contact-icon {
+      background: #0877b9;
+    }
+
+    .contact-icon svg {
+      width: 30px;
+      height: 30px;
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 2.4;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+
+    .contact-icon .contact-icon-fill {
+      fill: currentColor;
+      stroke: none;
+    }
+
+    .contact-copy {
+      display: block;
+      min-width: 0;
+    }
+
+    .contact-copy strong {
+      display: block;
+      margin-bottom: 5px;
+      color: white;
+      font-size: 0.94rem;
+    }
+
+    .contact-copy span {
+      display: block;
+      overflow-wrap: anywhere;
+      color: rgba(255, 255, 255, 0.76);
+      font-size: 0.87rem;
+      line-height: 1.4;
+    }
+
+    @media (max-width: 899px) {
+      .contact-links {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 560px) {
+      .contact-links {
+        grid-template-columns: 1fr;
+      }
+
+      .contact-card {
+        min-height: 126px;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+      }
+    }
+
+  </style>
 </head>
 
 <body>
@@ -1855,35 +1969,69 @@
         </div>
 
         
-<div class="contact-links">
+<div class="contact-links" aria-label="Professional contact links">
 
-  <a href="mailto:e.spierings@umcutrecht.nl">
-    <span class="contact-label">Email</span>
-    <span>e.spierings (a) umcutrecht.nl</span>
-  </a>
-
-  <a href="https://orcid.org/0000-0001-9441-1019" target="_blank" rel="noopener noreferrer">
-    <span class="contact-label">ORCID</span>
-    <span>0000-0001-9441-1019</span>
-  </a>
-
-  <a href="https://scholar.google.com/citations?user=Yw5l0l8AAAAJ" target="_blank" rel="noopener noreferrer">
-    <span class="contact-label">Google Scholar</span>
-    <span>Publications &amp; citations</span>
-  </a>
-
-  <a href="https://www.linkedin.com/in/ericspierings/" target="_blank" rel="noopener noreferrer">
-    <span class="contact-label">LinkedIn</span>
-    <span>Professional profile</span>
-  </a>
-
-</div>
-
-
-          <a class="contact-link" href="#publications">
-            <strong>Publications</strong>
-            <span>View selected academic output</span>
+          <a class="contact-link contact-card" href="mailto:e.spierings@umcutrecht.nl" aria-label="Send email to Eric Spierings">
+            <span class="contact-icon" aria-hidden="true">
+              <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                <rect x="7" y="11" width="34" height="26" rx="5"></rect>
+                <path d="M9 14l15 12 15-12"></path>
+                <path d="M9 35l11-10"></path>
+                <path d="M39 35L28 25"></path>
+              </svg>
+            </span>
+            <span class="contact-copy">
+              <strong>Email</strong>
+              <span>e.spierings (a) umcutrecht.nl</span>
+            </span>
           </a>
+
+          <a class="contact-link contact-card" href="https://orcid.org/0000-0001-9441-1019" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' ORCID profile">
+            <span class="contact-icon" aria-hidden="true">
+              <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="24" cy="24" r="17"></circle>
+                <circle cx="18" cy="18" r="2.2" class="contact-icon-fill"></circle>
+                <path d="M18 23v10"></path>
+                <path d="M24 33V23h5c4 0 7 2 7 5s-3 5-7 5h-5Z"></path>
+              </svg>
+            </span>
+            <span class="contact-copy">
+              <strong>ORCID</strong>
+              <span>0000-0001-9441-1019</span>
+            </span>
+          </a>
+
+          <a class="contact-link contact-card" href="https://scholar.google.com/citations?user=Yw5l0l8AAAAJ" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' Google Scholar profile">
+            <span class="contact-icon" aria-hidden="true">
+              <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                <path d="M6 18l18-10 18 10-18 10L6 18Z"></path>
+                <path d="M13 23v9c7 6 15 6 22 0v-9"></path>
+                <path d="M40 20v11"></path>
+                <circle cx="40" cy="34" r="2.5" class="contact-icon-fill"></circle>
+              </svg>
+            </span>
+            <span class="contact-copy">
+              <strong>Google Scholar</strong>
+              <span>Publications &amp; citations</span>
+            </span>
+          </a>
+
+          <a class="contact-link contact-card" href="https://www.linkedin.com/in/ericspierings/" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' LinkedIn profile">
+            <span class="contact-icon" aria-hidden="true">
+              <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                <rect x="7" y="7" width="34" height="34" rx="7"></rect>
+                <circle cx="16" cy="17" r="2.4" class="contact-icon-fill"></circle>
+                <path d="M15 23v10"></path>
+                <path d="M23 33V23"></path>
+                <path d="M23 28c0-3 2-5 5-5 4 0 5 3 5 7v3"></path>
+              </svg>
+            </span>
+            <span class="contact-copy">
+              <strong>LinkedIn</strong>
+              <span>Professional profile</span>
+            </span>
+          </a>
+
         </div>
       </div>
     </section>
