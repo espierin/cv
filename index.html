@@ -2,828 +2,1148 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Eric Spierings – Transplantation Immunology & HLA Data Standards</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <!-- SEO -->
-  <meta name="description" content="CV and portfolio of Eric Spierings, transplantation immunologist and immunogeneticist at UMC Utrecht, focusing on HLA diagnostics, epitope matching, and data standards.">
-
-  <!-- Open Graph -->
-  <meta property="og:title" content="Eric Spierings – CV & Portfolio">
-  <meta property="og:description" content="Transplantation immunology, HLA diagnostics, epitope-based matching, and data standards.">
+  <title>Eric Spierings | Transplantation Immunology & Immunogenetics</title>
+  <meta name="description" content="Professional profile of Eric Spierings, Associate Professor and medical immunologist at UMC Utrecht, working in transplantation immunology, immunogenetics, HLA diagnostics, epitope matching, and clinical implementation.">
+  <meta name="theme-color" content="#005eb8">
+  <meta property="og:title" content="Eric Spierings | Transplantation Immunology & Immunogenetics">
+  <meta property="og:description" content="Diagnostics, immunogenetics, epitope-based matching, data standards, and clinical translation at UMC Utrecht.">
   <meta property="og:type" content="website">
-
-  <meta name="theme-color" content="#060714">
 
   <style>
     :root {
-      --bg: #060714;
-      --bg-soft: #0c1020;
-      --bg-softer: #13172b;
-      --accent: #4fd1c5;
-      --accent-soft: rgba(79, 209, 197, 0.18);
-      --accent-strong: #2fc4b5;
-      --text-main: #f4f6fb;
-      --text-muted: #a0a4c0;
-      --border-subtle: #262b45;
-      --chip-bg: #1a1f3a;
-      --shadow-soft: 0 18px 45px rgba(0, 0, 0, 0.55);
-      --radius-lg: 18px;
-      --radius-pill: 999px;
-      --transition-fast: 0.18s ease-out;
-
-      /* orange/gradient accents */
-      --accent-orange: #f6ad55;
-      --accent-yellow: #fbd38d;
-      --accent-blue: #4fd1c5;
+      --umcu-blue: #005eb8;
+      --umcu-blue-dark: #003b70;
+      --umcu-blue-soft: #eaf4fb;
+      --umcu-cyan: #00a6d6;
+      --umcu-orange: #f28c28;
+      --umcu-orange-soft: #fff2e5;
+      --ink: #182230;
+      --muted: #5d6876;
+      --line: #d9e0e7;
+      --soft: #f5f8fb;
+      --white: #ffffff;
+      --shadow: 0 16px 36px rgba(0, 59, 112, 0.09);
+      --radius-lg: 24px;
+      --radius-md: 14px;
+      --max-width: 1180px;
     }
 
-    * { box-sizing: border-box; }
+    * {
+      box-sizing: border-box;
+    }
 
-    body {
-      margin: 0;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background: radial-gradient(circle at top left, #18213c 0, #060714 45%);
-      color: var(--text-main);
-      -webkit-font-smoothing: antialiased;
+    html {
       scroll-behavior: smooth;
     }
 
-    .page {
-      min-height: 100vh;
-      display: flex;
-      justify-content: center;
-      padding: 32px 16px;
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--white);
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.58;
+      -webkit-font-smoothing: antialiased;
     }
 
-    .shell {
-      width: 100%;
-      max-width: 1120px;
-      background: linear-gradient(145deg, rgba(255,255,255,0.02), rgba(255,255,255,0));
-      border-radius: 28px;
-      border: 1px solid rgba(255,255,255,0.04);
-      box-shadow: var(--shadow-soft);
-      padding: 28px 22px 26px;
-      backdrop-filter: blur(20px);
+    a {
+      color: inherit;
     }
 
-    @media (min-width: 960px) {
-      .shell { padding: 32px 32px 28px; }
+    button,
+    select {
+      font: inherit;
     }
 
-    header {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 22px;
-      align-items: center;
-      margin-bottom: 20px;
-      border-bottom: 1px solid var(--border-subtle);
-      padding-bottom: 16px;
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(255, 255, 255, 0.96);
+      border-bottom: 1px solid var(--line);
+      backdrop-filter: blur(14px);
     }
 
-    .avatar {
-      width: 88px;
-      height: 88px;
-      border-radius: 24px;
-      background: conic-gradient(
-        from 210deg,
-        #4fd1c5,
-        #63b3ed,
-        #f6ad55,
-        #4fd1c5
-      );
-      padding: 2px;
-      position: relative;
-      flex-shrink: 0;
+    .nav-shell,
+    .container {
+      width: min(var(--max-width), calc(100% - 36px));
+      margin: 0 auto;
     }
 
-    .avatar-inner {
-      width: 100%;
-      height: 100%;
-      border-radius: 22px;
-      background: radial-gradient(circle at 20% 0, #1f2937 0, #020617 55%);
+    .nav-shell {
+      min-height: 72px;
       display: flex;
       align-items: center;
-      justify-content: center;
-      overflow: hidden; /* belangrijk voor de foto */
+      justify-content: space-between;
+      gap: 28px;
     }
 
-    .avatar-img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      border-radius: 22px;
-      display: block;
-    }
-
-    .avatar-pill {
-  margin-top: 8px;                 /* ruimte tussen avatar en pill */
-  padding: 4px 10px;
-  border-radius: var(--radius-pill);
-  background: rgba(15, 23, 42, 0.94);
-  border: 1px solid rgba(148, 163, 184, 0.7);
-  font-size: 10px;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: var(--text-muted);
-  display: inline-block;
-  position: static;                /* belangrijk: geen absolute positionering */
-    }
-
-    .head-main { flex: 1; min-width: 220px; }
-
-    .name {
-      font-size: clamp(26px, 2.6vw, 30px);
-      font-weight: 700;
-      letter-spacing: 0.03em;
-      margin-bottom: 6px;
-    }
-
-    .role {
-      font-size: 15px;
-      color: var(--text-muted);
-      margin-bottom: 10px;
-    }
-
-    .tags {
+    .wordmark {
       display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
-      margin-bottom: 6px;
-    }
-
-    .tag {
-      font-size: 11px;
-      text-transform: uppercase;
-      letter-spacing: 0.16em;
-      padding: 4px 10px;
-      border-radius: var(--radius-pill);
-      border: 1px solid rgba(148, 163, 184, 0.4);
-      color: #d1d5db;
-      background: rgba(15, 23, 42, 0.8);
-    }
-
-    .tag--accent {
-      background: var(--accent-soft);
-      border-color: rgba(79, 209, 197, 0.8);
-      color: var(--accent-strong);
-    }
-
-    .tag-button {
-      cursor: pointer;
-      border: 1px solid rgba(246,173,85,0.35);
-      background: rgba(15,23,42,0.9);
-      transition: 0.25s ease-out;
-    }
-
-    .tag-button:hover {
-      border-color: rgba(246,173,85,0.9);
-      color: var(--accent-yellow);
-      box-shadow: 0 0 12px rgba(246,173,85,0.45);
-    }
-
-    .meta {
-      display: flex;
-      flex-wrap: wrap;
+      align-items: center;
       gap: 12px;
-      font-size: 12px;
-      color: var(--text-muted);
+      text-decoration: none;
+      color: var(--umcu-blue-dark);
     }
 
-    .meta span {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      padding: 4px 9px;
-      border-radius: var(--radius-pill);
-      background: rgba(15, 23, 42, 0.84);
-      border: 1px solid rgba(148, 163, 184, 0.35);
-    }
-
-    .meta-dot {
-      width: 6px;
-      height: 6px;
-      border-radius: 999px;
-      background: var(--accent-blue);
-    }
-
-    nav {
-      margin-top: 10px;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-    }
-
-    .nav-button {
-      border-radius: var(--radius-pill);
-      border: 1px solid rgba(246,173,85,0.35);
-      background: rgba(15,23,42,0.92);
-      color: var(--text-muted);
-      font-size: 12px;
-      padding: 7px 13px;
-      cursor: pointer;
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      transition: 0.25s ease-out;
-    }
-
-    .nav-button span { font-size: 14px; }
-
-    .nav-button:hover {
-      color: var(--accent-orange);
-      border-color: rgba(246,173,85,0.9);
-      box-shadow: 0 0 12px rgba(246,173,85,0.4);
-    }
-
-    .nav-button.active {
-      color: var(--accent-yellow);
-      border-color: rgba(246,173,85,1);
-      background: linear-gradient(
-        145deg,
-        rgba(246,173,85,0.15),
-        rgba(79,209,197,0.15)
-      );
-      box-shadow: 0 0 16px rgba(246,173,85,0.45);
-      transform: translateY(-1px);
-    }
-
-    .layout {
-      margin-top: 22px;
+    .wordmark-mark {
+      width: 42px;
+      height: 42px;
       display: grid;
-      grid-template-columns: minmax(0, 2fr) minmax(0, 1.5fr);
-      gap: 18px;
+      place-items: center;
+      border-radius: 11px;
+      background:
+        linear-gradient(135deg, var(--umcu-blue) 0 62%, var(--umcu-orange) 62% 100%);
+      color: white;
+      font-weight: 800;
+      letter-spacing: 0.03em;
     }
 
-    @media (max-width: 880px) {
-      .layout { grid-template-columns: 1fr; }
+    .wordmark-text strong {
+      display: block;
+      font-size: 0.98rem;
     }
 
-    .card {
-      background: radial-gradient(circle at top, #111827 0, #020617 58%);
-      border-radius: var(--radius-lg);
-      border: 1px solid var(--border-subtle);
-      padding: 16px 16px 14px;
+    .wordmark-text span {
+      display: block;
+      color: var(--muted);
+      font-size: 0.75rem;
+    }
+
+    .primary-nav {
+      display: flex;
+      align-items: center;
+      gap: 24px;
+    }
+
+    .primary-nav a {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.92rem;
+      font-weight: 700;
+    }
+
+    .primary-nav a:hover,
+    .primary-nav a:focus {
+      color: var(--umcu-blue);
+    }
+
+    .hero {
       position: relative;
       overflow: hidden;
-      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.5);
+      background:
+        linear-gradient(135deg, #ffffff 0%, #f1f7fc 56%, #e6f1f9 100%);
+      border-bottom: 1px solid var(--line);
     }
 
-    .card::before {
+    .hero::after {
       content: "";
       position: absolute;
-      inset: -28px;
-      background: radial-gradient(circle at top left, rgba(79, 209, 197, 0.08), transparent 55%);
+      right: -180px;
+      top: -200px;
+      width: 520px;
+      height: 520px;
+      border-radius: 50%;
+      background:
+        radial-gradient(circle at 50% 50%, rgba(0, 94, 184, 0.13), rgba(0, 166, 214, 0.04) 58%, transparent 72%);
       pointer-events: none;
     }
 
-    .card-inner { position: relative; z-index: 1; }
-
-    .card-title-row {
-      display: flex;
-      justify-content: space-between;
-      align-items: baseline;
-      margin-bottom: 10px;
-      gap: 12px;
+    .hero-inner {
+      position: relative;
+      z-index: 1;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 320px;
+      gap: 64px;
+      align-items: center;
+      min-height: 640px;
+      padding: 74px 0 62px;
     }
 
-    .card-title {
-      font-size: 14px;
-      text-transform: uppercase;
+    .hero-kicker {
+      margin: 0 0 20px;
+      color: var(--umcu-orange);
+      font-size: 0.82rem;
+      font-weight: 800;
       letter-spacing: 0.14em;
-      color: #e5e7eb;
-    }
-
-    .card-pill {
-      font-size: 10px;
-      letter-spacing: 0.18em;
       text-transform: uppercase;
-      color: var(--text-muted);
-      padding: 3px 9px;
-      border-radius: var(--radius-pill);
-      border: 1px solid rgba(148, 163, 184, 0.45);
-      background: rgba(15, 23, 42, 0.9);
-      white-space: nowrap;
     }
 
-    .lead {
-      font-size: 14px;
-      color: var(--text-muted);
-      line-height: 1.5;
-      margin-bottom: 10px;
+    .hero-name {
+      margin: 0;
+      color: var(--umcu-blue-dark);
+      font-size: clamp(3.2rem, 7vw, 6.7rem);
+      font-weight: 800;
+      letter-spacing: -0.055em;
+      line-height: 0.9;
     }
 
-    .lead strong { color: var(--text-main); }
+    .hero-name span {
+      display: block;
+    }
 
-    .chips {
+    .hero-role {
+      max-width: 780px;
+      margin: 26px 0 0;
+      color: var(--ink);
+      font-size: clamp(1.2rem, 2.1vw, 1.75rem);
+      line-height: 1.32;
+    }
+
+    .hero-summary {
+      max-width: 790px;
+      margin: 20px 0 0;
+      color: var(--muted);
+      font-size: 1.03rem;
+    }
+
+    .hero-actions {
       display: flex;
       flex-wrap: wrap;
-      gap: 6px;
-      margin: 9px 0 6px;
-    }
-
-    .chip {
-      font-size: 11px;
-      padding: 5px 9px;
-      border-radius: var(--radius-pill);
-      background: var(--chip-bg);
-      color: #cbd5f5;
-      border: 1px solid rgba(148, 163, 184, 0.25);
-      white-space: nowrap;
-    }
-
-    .chip--accent {
-      border-color: rgba(79, 209, 197, 0.8);
-      background: rgba(79, 209, 197, 0.16);
-      color: var(--accent-strong);
-    }
-
-    .twocol {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
       gap: 12px;
+      margin-top: 30px;
     }
 
-    @media (max-width: 640px) {
-      .twocol { grid-template-columns: 1fr; }
-    }
-
-    .subhead {
-      font-size: 12px;
-      text-transform: uppercase;
-      letter-spacing: 0.18em;
-      color: var(--text-muted);
-      margin-bottom: 4px;
-    }
-
-    dl {
-      margin: 0;
-      font-size: 13px;
-      color: var(--text-muted);
-    }
-
-    dt {
-      font-weight: 600;
-      color: #e5e7eb;
-      margin-top: 6px;
-    }
-
-    dd { margin: 1px 0 2px 0; }
-
-    ul {
-      list-style: none;
-      padding: 0;
-      margin: 8px 0 0;
-      font-size: 13px;
-      color: var(--text-muted);
-    }
-
-    li + li { margin-top: 6px; }
-
-    .pub-title {
-      color: #e5e7eb;
-      font-weight: 500;
-    }
-
-    .pub-meta {
-      font-size: 12px;
-      color: var(--text-muted);
-    }
-
-    .pub-label {
+    .button {
       display: inline-flex;
       align-items: center;
-      gap: 5px;
-      font-size: 10px;
-      text-transform: uppercase;
-      letter-spacing: 0.18em;
-      padding: 3px 7px;
-      border-radius: var(--radius-pill);
-      border: 1px solid rgba(79, 209, 197, 0.7);
-      color: var(--accent-strong);
-      background: rgba(15, 23, 42, 0.98);
-      margin-left: 4px;
+      justify-content: center;
+      min-height: 44px;
+      padding: 10px 17px;
+      border: 1px solid var(--umcu-blue);
+      border-radius: 999px;
+      text-decoration: none;
+      font-weight: 800;
+      transition: transform 0.16s ease, box-shadow 0.16s ease, background 0.16s ease;
     }
 
-    .pub-label-dot {
-      width: 6px;
-      height: 6px;
+    .button:hover {
+      transform: translateY(-1px);
+    }
+
+    .button-primary {
+      color: white;
+      background: var(--umcu-blue);
+      box-shadow: 0 8px 22px rgba(0, 94, 184, 0.17);
+    }
+
+    .button-secondary {
+      color: var(--umcu-blue);
+      background: white;
+    }
+
+    .portrait-card {
+      position: relative;
+      padding: 12px;
+      border: 1px solid rgba(0, 94, 184, 0.18);
+      border-radius: 30px;
+      background: rgba(255, 255, 255, 0.9);
+      box-shadow: var(--shadow);
+    }
+
+    .portrait-card::before {
+      content: "";
+      position: absolute;
+      left: -10px;
+      bottom: 38px;
+      width: 10px;
+      height: 92px;
+      background: var(--umcu-orange);
+      border-radius: 10px 0 0 10px;
+    }
+
+    .portrait-card img {
+      display: block;
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+      border-radius: 21px;
+      background: #dce9f4;
+    }
+
+    .portrait-caption {
+      padding: 14px 8px 4px;
+    }
+
+    .portrait-caption strong {
+      display: block;
+      color: var(--umcu-blue-dark);
+      font-size: 0.94rem;
+    }
+
+    .portrait-caption span {
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+
+    main {
+      overflow: hidden;
+    }
+
+    .section {
+      padding: 84px 0;
+      scroll-margin-top: 82px;
+    }
+
+    .section-alt {
+      background: var(--soft);
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .section-head {
+      display: grid;
+      grid-template-columns: 260px minmax(0, 1fr);
+      gap: 38px;
+      align-items: start;
+      margin-bottom: 34px;
+    }
+
+    .section-label {
+      margin: 3px 0 0;
+      color: var(--umcu-orange);
+      font-size: 0.78rem;
+      font-weight: 800;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+
+    .section-head h2 {
+      max-width: 820px;
+      margin: 0;
+      color: var(--umcu-blue-dark);
+      font-size: clamp(2rem, 4vw, 3.35rem);
+      letter-spacing: -0.035em;
+      line-height: 1.08;
+    }
+
+    .section-intro {
+      max-width: 850px;
+      margin: 16px 0 0;
+      color: var(--muted);
+      font-size: 1.02rem;
+    }
+
+    .profile-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.65fr);
+      gap: 24px;
+    }
+
+    .panel {
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      background: white;
+      box-shadow: var(--shadow);
+    }
+
+    .panel-body {
+      padding: 30px;
+    }
+
+    .panel-title {
+      margin: 0 0 12px;
+      color: var(--umcu-blue-dark);
+      font-size: 1.22rem;
+    }
+
+    .panel p:last-child {
+      margin-bottom: 0;
+    }
+
+    .mission {
+      position: relative;
+      padding-left: 28px;
+      color: var(--umcu-blue-dark);
+      font-size: 1.16rem;
+      font-weight: 700;
+    }
+
+    .mission::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.12em;
+      bottom: 0.12em;
+      width: 5px;
+      border-radius: 5px;
+      background: var(--umcu-orange);
+    }
+
+    .fact-list {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .fact-list li {
+      padding: 15px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .fact-list li:first-child {
+      padding-top: 0;
+    }
+
+    .fact-list li:last-child {
+      padding-bottom: 0;
+      border-bottom: 0;
+    }
+
+    .fact-list strong {
+      display: block;
+      color: var(--umcu-blue-dark);
+      font-size: 0.92rem;
+    }
+
+    .fact-list span {
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .focus-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    .focus-card {
+      min-height: 310px;
+      padding: 26px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      background: white;
+      box-shadow: var(--shadow);
+      scroll-margin-top: 92px;
+    }
+
+    .focus-number {
+      color: var(--umcu-orange);
+      font-size: 0.76rem;
+      font-weight: 800;
+      letter-spacing: 0.13em;
+    }
+
+    .focus-card h3 {
+      margin: 54px 0 14px;
+      color: var(--umcu-blue-dark);
+      font-size: 1.3rem;
+      line-height: 1.18;
+    }
+
+    .focus-card p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .roles-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 20px;
+    }
+
+    .role-card {
+      display: grid;
+      grid-template-columns: 86px minmax(0, 1fr);
+      gap: 18px;
+      padding: 24px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius-md);
+      background: white;
+    }
+
+    .role-icon {
+      width: 68px;
+      height: 68px;
+      display: grid;
+      place-items: center;
+      border-radius: 18px;
+      color: white;
+      background: var(--umcu-blue);
+      font-size: 1.05rem;
+      font-weight: 800;
+    }
+
+    .role-card h3 {
+      margin: 0 0 5px;
+      color: var(--umcu-blue-dark);
+      font-size: 1.08rem;
+    }
+
+    .role-card p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.93rem;
+    }
+
+    .output-toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 26px;
+    }
+
+    .filter-button {
+      padding: 9px 14px;
+      border: 1px solid var(--line);
       border-radius: 999px;
-      background: var(--accent-blue);
+      color: var(--muted);
+      background: white;
+      cursor: pointer;
+      font-weight: 700;
+    }
+
+    .filter-button:hover,
+    .filter-button.active {
+      color: white;
+      border-color: var(--umcu-blue);
+      background: var(--umcu-blue);
+    }
+
+    .publication-list {
+      display: grid;
+      gap: 14px;
+    }
+
+    .publication {
+      display: grid;
+      grid-template-columns: 110px minmax(0, 1fr) 130px;
+      gap: 20px;
+      align-items: start;
+      padding: 24px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius-md);
+      background: white;
+      transition: transform 0.16s ease, box-shadow 0.16s ease;
+    }
+
+    .publication:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow);
+    }
+
+    .publication-year {
+      color: var(--umcu-orange);
+      font-size: 1.32rem;
+      font-weight: 800;
+    }
+
+    .publication h3 {
+      margin: 0 0 7px;
+      color: var(--umcu-blue-dark);
+      font-size: 1.06rem;
+      line-height: 1.35;
+    }
+
+    .publication-meta {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.91rem;
+    }
+
+    .publication-tag {
+      justify-self: end;
+      padding: 6px 9px;
+      border-radius: 999px;
+      color: var(--umcu-blue-dark);
+      background: var(--umcu-blue-soft);
+      font-size: 0.75rem;
+      font-weight: 800;
+      text-align: center;
     }
 
     .timeline {
-      border-left: 1px solid rgba(148, 163, 184, 0.34);
-      padding-left: 12px;
-      margin-top: 4px;
+      position: relative;
+      margin-left: 10px;
+      padding-left: 34px;
+      border-left: 2px solid #c9d8e6;
     }
 
     .timeline-item {
       position: relative;
-      padding-left: 12px;
-      margin-bottom: 10px;
+      padding: 0 0 30px;
+    }
+
+    .timeline-item:last-child {
+      padding-bottom: 0;
     }
 
     .timeline-item::before {
       content: "";
       position: absolute;
-      left: -13px;
+      left: -43px;
       top: 4px;
-      width: 8px;
-      height: 8px;
-      border-radius: 999px;
-      background: var(--accent-blue);
-      box-shadow: 0 0 0 4px rgba(79, 209, 197, 0.18);
+      width: 16px;
+      height: 16px;
+      border: 4px solid white;
+      border-radius: 50%;
+      background: var(--umcu-orange);
+      box-shadow: 0 0 0 1px var(--umcu-orange);
     }
 
-    .timeline-title {
-      font-size: 13px;
-      font-weight: 600;
-      color: #e5e7eb;
+    .timeline-time {
+      color: var(--umcu-orange);
+      font-size: 0.78rem;
+      font-weight: 800;
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
     }
 
-    .timeline-meta {
-      font-size: 11px;
-      color: var(--text-muted);
+    .timeline-item h3 {
+      margin: 5px 0 4px;
+      color: var(--umcu-blue-dark);
+      font-size: 1.08rem;
     }
 
-    .contact {
-      margin-top: 10px;
-      padding-top: 10px;
-      border-top: 1px dashed rgba(148, 163, 184, 0.4);
+    .timeline-item p {
+      max-width: 800px;
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .contact-band {
+      color: white;
+      background: var(--umcu-blue-dark);
+    }
+
+    .contact-band .section-label {
+      color: #ffad5b;
+    }
+
+    .contact-band .section-head h2,
+    .contact-band .section-intro {
+      color: white;
+    }
+
+    .contact-links {
       display: flex;
       flex-wrap: wrap;
-      gap: 8px;
-      font-size: 13px;
+      gap: 14px;
     }
 
-    .link {
-      color: var(--accent-orange);
+    .contact-link {
+      min-width: 220px;
+      padding: 16px 18px;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      border-radius: var(--radius-md);
+      color: white;
       text-decoration: none;
-      border-bottom: 1px dotted rgba(246, 173, 85, 0.6);
-      transition: 0.25s ease-out;
+      background: rgba(255, 255, 255, 0.06);
     }
 
-    .link:hover {
-      border-bottom-style: solid;
-      color: var(--accent-yellow);
-      text-shadow: 0 0 8px rgba(246, 173, 85, 0.55);
+    .contact-link strong,
+    .contact-link span {
+      display: block;
     }
 
-    /* Topic sections under the main layout */
-    .topics-grid {
-      margin-top: 22px;
-      display: grid;
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      gap: 16px;
+    .contact-link strong {
+      font-size: 0.84rem;
     }
 
-    @media (max-width: 960px) {
-      .topics-grid { grid-template-columns: 1fr; }
+    .contact-link span {
+      margin-top: 3px;
+      color: rgba(255, 255, 255, 0.78);
+      font-size: 0.9rem;
     }
 
-    .topic-card { position: relative; }
-
-    .topic-highlight {
-      box-shadow:
-        0 0 0 2px rgba(246,173,85,0.9),
-        0 0 22px rgba(246,173,85,0.6);
-      transition: box-shadow 0.4s ease-out;
+    .site-footer {
+      background: #052d50;
+      color: rgba(255, 255, 255, 0.72);
     }
 
-    footer {
-      margin-top: 18px;
-      font-size: 11px;
-      color: var(--text-muted);
+    .footer-inner {
       display: flex;
       justify-content: space-between;
-      gap: 8px;
-      padding-top: 10px;
-      border-top: 1px solid var(--border-subtle);
+      flex-wrap: wrap;
+      gap: 16px;
+      padding: 20px 0;
+      font-size: 0.85rem;
     }
 
-    .small-pill {
-      padding: 3px 8px;
-      border-radius: var(--radius-pill);
-      border: 1px solid rgba(148, 163, 184, 0.35);
-      background: rgba(15, 23, 42, 0.9);
+    .hidden-publication {
+      display: none;
     }
 
-    .hidden { display: none; }
+    @media (max-width: 1040px) {
+      .focus-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 860px) {
+      .primary-nav {
+        display: none;
+      }
+
+      .hero-inner,
+      .section-head,
+      .profile-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .hero-inner {
+        min-height: auto;
+        gap: 36px;
+      }
+
+      .portrait-card {
+        max-width: 300px;
+      }
+
+      .section-head {
+        gap: 8px;
+      }
+
+      .roles-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .publication {
+        grid-template-columns: 84px minmax(0, 1fr);
+      }
+
+      .publication-tag {
+        grid-column: 2;
+        justify-self: start;
+      }
+    }
+
+    @media (max-width: 620px) {
+      .hero-inner {
+        padding: 54px 0 44px;
+      }
+
+      .section {
+        padding: 62px 0;
+      }
+
+      .focus-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .focus-card {
+        min-height: 0;
+      }
+
+      .focus-card h3 {
+        margin-top: 28px;
+      }
+
+      .role-card {
+        grid-template-columns: 1fr;
+      }
+
+      .publication {
+        grid-template-columns: 1fr;
+      }
+
+      .publication-tag {
+        grid-column: auto;
+      }
+
+      .hero-name {
+        font-size: clamp(3rem, 20vw, 5.5rem);
+      }
+    }
   </style>
 </head>
+
 <body>
-<div class="page">
-  <div class="shell">
+  <header class="site-header">
+    <div class="nav-shell">
+      <a class="wordmark" href="#top" aria-label="Back to top">
+        <span class="wordmark-mark">ES</span>
+        <span class="wordmark-text">
+          <strong>Eric Spierings</strong>
+          <span>Transplantation Immunology</span>
+        </span>
+      </a>
 
-    <header>
-      <div class="avatar">
-        <div class="avatar-inner">
-          <img src="profile.png" alt="Eric Spierings" class="avatar-img">
-        </div>
-        </div>
-    <!-- <div class="avatar-pill">Transplantation Immunology</div> --!>
-      
-      <div class="head-main">
-        <div class="name">Eric Spierings</div>
-        <div class="role">Transplantation Immunologist &amp; Immunogeneticist · UMC Utrecht</div>
+      <nav class="primary-nav" aria-label="Main navigation">
+        <a href="#profile">Profile</a>
+        <a href="#focus">Focus</a>
+        <a href="#roles">Roles</a>
+        <a href="#publications">Publications</a>
+        <a href="#career">Career</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
 
-        <div class="tags">
-          <div class="tag tag--accent">CV &amp; Portfolio</div>
-          <button type="button" class="tag tag-button" data-topic="hla">HLA Data Standards</button>
-          <button type="button" class="tag tag-button" data-topic="diagnostics">Diagnostic Innovation</button>
-          <button type="button" class="tag tag-button" data-topic="research">Research &amp; Translation</button>
-        </div>
+  <section class="hero" id="top">
+    <div class="container hero-inner">
+      <div>
+        <p class="hero-kicker">Associate Professor · Medical Immunologist</p>
+        <h1 class="hero-name">
+          <span>Eric</span>
+          <span>Spierings</span>
+        </h1>
 
-        <div class="meta">
-          <span><span class="meta-dot"></span> Based in Utrecht, NL</span>
-          <span>Focus: HLA, epitopes, data structures</span>
-        </div>
+        <p class="hero-role">
+          Advancing transplantation through immunogenetic matching, diagnostic innovation, and clinically implementable data.
+        </p>
 
-        <nav>
-          <button class="nav-button active" data-target="section-bio"><span>●</span> Bio</button>
-          <button class="nav-button" data-target="section-cv"><span>●</span> CV &amp; Roles</button>
-          <button class="nav-button" data-target="section-pubs"><span>●</span> Publications</button>
-        </nav>
+        <p class="hero-summary">
+          Based at UMC Utrecht, his work connects accredited transplantation diagnostics with research on HLA compatibility, indirect T-cell epitope recognition, donor-specific antibodies, immune monitoring, and international data standards.
+        </p>
+
+        <div class="hero-actions">
+          <a class="button button-primary" href="#profile">Explore profile</a>
+          <a class="button button-secondary" href="#publications">Selected publications</a>
+        </div>
       </div>
-    </header>
 
-    <main class="layout">
+      <aside class="portrait-card">
+        <img src="profile.png" alt="Portrait of Eric Spierings">
+        <div class="portrait-caption">
+          <strong>UMC Utrecht</strong>
+          <span>Central Diagnostic Laboratory · Center for Translational Immunology</span>
+        </div>
+      </aside>
+    </div>
+  </section>
 
-      <!-- BIO -->
-      <section class="card" id="section-bio">
-        <div class="card-inner">
-          <div class="card-title-row">
-            <div class="card-title">Short Biography</div>
-            <div class="card-pill">Professional Summary</div>
+  <main>
+    <section class="section" id="profile">
+      <div class="container">
+        <div class="section-head">
+          <p class="section-label">Profile</p>
+          <div>
+            <h2>Diagnostics, science, and implementation in one professional profile</h2>
+            <p class="section-intro">
+              Eric Spierings is an Associate Professor and medical immunologist at UMC Utrecht. He leads transplantation diagnostics within the Central Diagnostic Laboratory and works at the interface of routine care, translational immunology, immunogenetics, and clinical data innovation.
+            </p>
           </div>
+        </div>
 
-          <p class="lead">
-            Clinical and translational scientist with a strong focus on
-            <strong>HLA diagnostics</strong>, <strong>epitope-based matching</strong>,
-            and <strong>data structures for transplantation immunology</strong>.
-            Combines daily diagnostic responsibilities with the development of
-            practical data standards and their translation in clinical care.
-          </p>
-
-          <div class="chips">
-            <span class="chip chip--accent">Transplantation Immunology</span>
-            <span class="chip">HLA Typing &amp; Antibodies</span>
-            <span class="chip">Data Standards (GL-, PL-, AL-strings)</span>
-            <span class="chip">Laboratory Diagnostics</span>
-            <span class="chip">Translational Research</span>
-          </div>
-
-          <div class="twocol">
-            <div>
-              <div class="subhead">Core Roles</div>
-              <dl>
-                <dt>UMC Utrecht</dt>
-                <dd>Transplantation immunologist / immunogeneticist</dd>
-                <dt>Diagnostics</dt>
-                <dd>Responsible for HLA and antibody diagnostics</dd>
-                <dt>Networks</dt>
-                <dd>Active in EFI, Eurotransplant, and Matchis</dd>
-              </dl>
+        <div class="profile-grid">
+          <article class="panel">
+            <div class="panel-body">
+              <p class="mission">
+                My mission is to ensure that every transplant patient achieves the best possible outcome by embedding advanced immunogenetic matching and innovative diagnostics into daily clinical practice.
+              </p>
+              <p>
+                His scientific work addresses how donor-recipient immunogenetic differences shape allo-immunity and transplant outcome. This includes HLA typing, antibody diagnostics, indirect HLA epitope recognition, PIRCHE-based risk assessment, donor-specific antibodies, graft rejection, graft failure, and immune monitoring after transplantation.
+              </p>
+              <p>
+                A consistent principle across this work is that novel analytical methods should move beyond proof of concept. They must be interpretable, technically robust, compatible with laboratory quality systems, and connected to clinical workflows.
+              </p>
             </div>
-            <div>
-              <div class="subhead">Focus Areas</div>
-              <ul>
-                <li>Translating immunological expertise into practical diagnostic tools.</li>
-                <li>Design and translation of HLA-related data standards.</li>
-                <li>Bridging clinical teams, laboratory diagnostics, and IT infrastructures.</li>
+          </article>
+
+          <aside class="panel">
+            <div class="panel-body">
+              <h3 class="panel-title">Current base</h3>
+              <ul class="fact-list">
+                <li>
+                  <strong>UMC Utrecht</strong>
+                  <span>Central Diagnostic Laboratory and Center for Translational Immunology</span>
+                </li>
+                <li>
+                  <strong>Primary function</strong>
+                  <span>Medical immunologist and Director Transplantation Diagnostics</span>
+                </li>
+                <li>
+                  <strong>Research environment</strong>
+                  <span>Transplantation immunology, immunogenetics, and clinical implementation</span>
+                </li>
+                <li>
+                  <strong>ORCID</strong>
+                  <span>0000-0001-9441-1019</span>
+                </li>
               </ul>
             </div>
-          </div>
+          </aside>
         </div>
-      </section>
-
-      <!-- CV -->
-      <section class="card hidden" id="section-cv">
-        <div class="card-inner">
-          <div class="card-title-row">
-            <div class="card-title">CV Overview</div>
-            <div class="card-pill">Main Responsibilities</div>
-          </div>
-
-          <div class="timeline">
-            <div class="timeline-item">
-              <div class="timeline-title">Transplantation Immunology &amp; Diagnostics</div>
-              <div class="timeline-meta">UMC Utrecht · Current</div>
-              <ul>
-                <li>Leading and supervising HLA and antibody diagnostics.</li>
-                <li>Integrating epitope-based matching into clinical decision-making.</li>
-                <li>Collaboration across kidney, stem cell, and solid organ programs.</li>
-              </ul>
-            </div>
-
-            <div class="timeline-item">
-              <div class="timeline-title">Data Standards &amp; Informatics</div>
-              <div class="timeline-meta">EFI &amp; International Consortia · Current</div>
-              <ul>
-                <li>Development of PL- and AL-string formats for HLA antigens and antibodies.</li>
-                <li>Contributions to recommendations for standardized HLA data exchange.</li>
-                <li>Integration of laboratory data with FHIR and modern IT structures.</li>
-              </ul>
-            </div>
-
-            <div class="timeline-item">
-              <div class="timeline-title">Research &amp; Translation</div>
-              <div class="timeline-meta">Matchis / CTI / TCU · Current</div>
-              <ul>
-                <li>Supporting studies on epitope-based matching and donor-specific antibodies.</li>
-                <li>Strengthening diagnostic-driven research programs.</li>
-                <li>Connecting national and international scientific networks.</li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="contact">
-            <span>Email: <a class="link" href="mailto:example@umcutrecht.nl">example@umcutrecht.nl</a></span>
-            <span>ORCID: <a class="link" href="https://orcid.org/0000-0001-9441-1019" target="_blank" rel="noreferrer">0000-0001-9441-1019</a></span>
-          </div>
-        </div>
-      </section>
-
-      <!-- PUBLICATIONS -->
-      <section class="card" id="section-pubs">
-        <div class="card-inner">
-          <div class="card-title-row">
-            <div class="card-title">Selected Publications</div>
-            <div class="card-pill">Compact Selection</div>
-          </div>
-
-          <p class="lead">
-            A focused selection highlighting work on
-            <strong>epitope matching</strong>,
-            <strong>risk stratification</strong>,
-            and <strong>HLA data standardization</strong>.
-          </p>
-
-          <ul>
-            <li>
-              <div class="pub-title">
-                Advancing risk stratification in kidney transplantation: integrating HLA-derived T-cell and B-cell epitope matching algorithms
-                <span class="pub-label"><span class="pub-label-dot"></span> Highlight</span>
-              </div>
-              <div class="pub-meta">
-                Niemann M, Matern BM, Gupta G, Halleck F, Budde K, <strong>Spierings E</strong>. Front Immunol. 2025;16:1548934.
-              </div>
-            </li>
-
-            <li>
-              <div class="pub-title">
-                Donor HLA-derived T-cell epitopes determine the risk for vascular rejection after kidney transplantation
-              </div>
-              <div class="pub-meta">
-                Betjes MGH, Peereboom ETM, Otten HG, <strong>Spierings E</strong>. Front Immunol. 2022;13:973968.
-              </div>
-            </li>
-
-            <li>
-              <div class="pub-title">
-                PIRCHE-II is associated with graft failure after kidney transplantation
-              </div>
-              <div class="pub-meta">
-                Geneugelijk K, Niemann M, Drylewicz J, <strong>Spierings E</strong>. Front Immunol. 2018;9:321.
-              </div>
-            </li>
-
-            <li>
-              <div class="pub-title">
-                Eurotransplant kidney allocation simulations demonstrate feasibility and benefit of T-cell epitope matching
-              </div>
-              <div class="pub-meta">
-                Niemann M, Lachmann N, Geneugelijk K, <strong>Spierings E</strong>. PLoS Comput Biol. 2021;17(7):e1009248.
-              </div>
-            </li>
-          </ul>
-        </div>
-      </section>
-
-    </main>
-
-    <!-- TOPIC SECTIONS -->
-    <section class="topics-grid" id="topics">
-      <article class="card topic-card" id="topic-hla">
-        <div class="card-inner">
-          <div class="card-title-row">
-            <div class="card-title">HLA Data Standards</div>
-            <div class="card-pill">Structure &amp; Exchange</div>
-          </div>
-          <p class="lead">
-            Work on HLA data standards focuses on defining clear, compact formats for representing
-            alleles, antigens, epitopes, and antibodies across laboratories and IT systems.
-          </p>
-          <ul>
-            <li>Development and refinement of PL-string representation and HAML.</li>
-            <li>Alignment with existing formats such as GL-strings and HML output.</li>
-            <li>Enabling unambiguous data exchange between registries, allocation systems, and labs.</li>
-            <li>Preparing formats for use in FHIR-based data exchange and modern APIs.</li>
-          </ul>
-        </div>
-      </article>
-
-      <article class="card topic-card" id="topic-diagnostics">
-        <div class="card-inner">
-          <div class="card-title-row">
-            <div class="card-title">Diagnostic Innovation</div>
-            <div class="card-pill">From Bench to Report</div>
-          </div>
-          <p class="lead">
-            Diagnostic innovation connects novel immunological concepts with the concrete reality of
-            clinical reporting, quality standards, and turnaround times.
-          </p>
-          <ul>
-            <li>Embedding epitope-based risk scores in routine HLA and antibody reporting.</li>
-            <li>Designing decision-support outputs for transplant physicians.</li>
-            <li>Continuous refinement of workflows for HLA typing, antibody screening, and DSA analysis.</li>
-            <li>Integration of new assays while maintaining ISO15189/EFI compliance.</li>
-          </ul>
-        </div>
-      </article>
-
-      <article class="card topic-card" id="topic-research">
-        <div class="card-inner">
-          <div class="card-title-row">
-            <div class="card-title">Research &amp; translation</div>
-            <div class="card-pill">Bridging Lab &amp; Clinic</div>
-          </div>
-          <p class="lead">
-            Research and translation work ensures that concepts such as epitope matching and
-            data standards translate into measurable clinical benefit.
-          </p>
-          <ul>
-            <li>Design and support of studies on graft survival, rejection, and donor-specific antibodies.</li>
-            <li>Use of simulation studies to test allocation strategies before clinical rollout.</li>
-            <li>Collaboration with international partners to benchmark and harmonize approaches.</li>
-            <li>translation projects with transplant centers and donor registries.</li>
-          </ul>
-        </div>
-      </article>
+      </div>
     </section>
 
-    <footer>
-      <div class="small-pill">Last updated: <span id="last-updated">2025</span></div>
-      <div class="small-pill">© 2025 Eric Spierings.</div>
-    </footer>
+    <section class="section section-alt" id="focus">
+      <div class="container">
+        <div class="section-head">
+          <p class="section-label">Scientific focus</p>
+          <div>
+            <h2>Four connected fields of work</h2>
+            <p class="section-intro">
+              His focus combines high-quality transplantation diagnostics with mechanistic research, computational matching, and implementation into clinical and laboratory systems.
+            </p>
+          </div>
+        </div>
 
-  </div>
-</div>
+        <div class="focus-grid">
+          <article class="focus-card" id="hla-diagnostics">
+            <span class="focus-number">01</span>
+            <h3>HLA diagnostics</h3>
+            <p>
+              Accredited HLA typing and antibody diagnostics, including clinical interpretation, donor-recipient compatibility assessment, donor-specific antibody evaluation, and direct consultation with transplant teams.
+            </p>
+          </article>
 
-<script>
-  // Tab navigation
-  const buttons = document.querySelectorAll('.nav-button');
-  const sections = {
-    'section-bio': document.getElementById('section-bio'),
-    'section-cv': document.getElementById('section-cv'),
-    'section-pubs': document.getElementById('section-pubs')
-  };
+          <article class="focus-card" id="epitope-matching">
+            <span class="focus-number">02</span>
+            <h3>Epitope matching</h3>
+            <p>
+              Quantifying immunological compatibility through indirect T-cell epitope recognition, PIRCHE-II, B-cell epitope concepts, and combined risk models for rejection and graft outcome.
+            </p>
+          </article>
 
-  buttons.forEach(btn => {
-    btn.addEventListener('click', () => {
-      const target = btn.getAttribute('data-target');
+          <article class="focus-card" id="data-standards">
+            <span class="focus-number">03</span>
+            <h3>Data standards</h3>
+            <p>
+              Developing interoperable representations for HLA and antibody data, including GL String, HML, HAML, and related structures that support reproducible exchange between laboratories, registries, software, and research systems.
+            </p>
+          </article>
 
-      buttons.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
+          <article class="focus-card" id="clinical-implementation">
+            <span class="focus-number">04</span>
+            <h3>Clinical implementation</h3>
+            <p>
+              Translating assays, algorithms, and data models into validated workflows, interpretable reports, decision support, and infrastructure for routine transplantation care.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
 
-      Object.keys(sections).forEach(id => {
-        if (id === target) {
-          sections[id].classList.remove('hidden');
-        } else if (id === 'section-pubs') {
-          // Publications card always visible
-          sections[id].classList.remove('hidden');
-        } else {
-          sections[id].classList.add('hidden');
-        }
+    <section class="section" id="roles">
+      <div class="container">
+        <div class="section-head">
+          <p class="section-label">Current roles</p>
+          <div>
+            <h2>Institutional and international responsibilities</h2>
+            <p class="section-intro">
+              His work links laboratory leadership at UMC Utrecht with scientific, educational, and standardization activities in international histocompatibility and immunogenetics networks.
+            </p>
+          </div>
+        </div>
+
+        <div class="roles-grid">
+          <article class="role-card">
+            <div class="role-icon">CDL</div>
+            <div>
+              <h3>Director Transplantation Diagnostics</h3>
+              <p>Scientific and professional responsibility for HLA and transplantation diagnostics within the Central Diagnostic Laboratory at UMC Utrecht.</p>
+            </div>
+          </article>
+
+          <article class="role-card">
+            <div class="role-icon">UU</div>
+            <div>
+              <h3>Associate Professor</h3>
+              <p>Research, supervision, teaching, and academic development in transplantation immunology and immunogenetics.</p>
+            </div>
+          </article>
+
+          <article class="role-card">
+            <div class="role-icon">EFI</div>
+            <div>
+              <h3>EFI Scientific Committee and BITCom</h3>
+              <p>Member of the EFI Scientific Committee and founding chair of the Bioinformatics and Information Technology Committee.</p>
+            </div>
+          </article>
+
+          <article class="role-card">
+            <div class="role-icon">IHIW</div>
+            <div>
+              <h3>International HLA &amp; Immunogenetics Workshop</h3>
+              <p>Co-president of the IHIW Council, supporting international collaboration, standards, and workshop-based scientific programs.</p>
+            </div>
+          </article>
+
+          <article class="role-card">
+            <div class="role-icon">TCU</div>
+            <div>
+              <h3>Diagnostics ambassador</h3>
+              <p>Representative for the diagnostics pillar within the Transplantation Center Utrecht, connecting laboratory disciplines with care, research, innovation, and education.</p>
+            </div>
+          </article>
+
+          <article class="role-card">
+            <div class="role-icon">AI</div>
+            <div>
+              <h3>Data-driven diagnostics and AI</h3>
+              <p>CDL-wide leadership in data-driven working and artificial intelligence, including operational dashboards, workflow analytics, and diagnostic decision support.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt" id="publications">
+      <div class="container">
+        <div class="section-head">
+          <p class="section-label">Academic output</p>
+          <div>
+            <h2>Selected publications</h2>
+            <p class="section-intro">
+              A focused selection showing the development from PIRCHE-based risk assessment to integrated T-cell and B-cell epitope models and transplant allocation.
+            </p>
+          </div>
+        </div>
+
+        <div class="output-toolbar" role="group" aria-label="Filter publications">
+          <button class="filter-button active" data-filter="all">All</button>
+          <button class="filter-button" data-filter="matching">Epitope matching</button>
+          <button class="filter-button" data-filter="outcome">Transplant outcome</button>
+          <button class="filter-button" data-filter="allocation">Allocation</button>
+          <button class="filter-button" data-filter="standards">Standards</button>
+        </div>
+
+        <div class="publication-list">
+          <article class="publication" data-category="matching outcome">
+            <div class="publication-year">2025</div>
+            <div>
+              <h3>Advancing risk stratification in kidney transplantation: integrating HLA-derived T-cell epitope and B-cell epitope matching algorithms for enhanced predictive accuracy of HLA compatibility</h3>
+              <p class="publication-meta">Niemann M, Matern BM, Gupta G, Tanriover B, Halleck F, Budde K, Spierings E. Frontiers in Immunology.</p>
+            </div>
+            <div class="publication-tag">Matching</div>
+          </article>
+
+          <article class="publication" data-category="matching outcome">
+            <div class="publication-year">2022</div>
+            <div>
+              <h3>The number of donor HLA-derived T cell epitopes available for indirect antigen presentation determines the risk for vascular rejection after kidney transplantation</h3>
+              <p class="publication-meta">Betjes MGH, Peereboom ETM, Otten HG, Spierings E. Frontiers in Immunology.</p>
+            </div>
+            <div class="publication-tag">Outcome</div>
+          </article>
+
+          <article class="publication" data-category="matching outcome">
+            <div class="publication-year">2021</div>
+            <div>
+              <h3>T-Cell Epitopes Shared Between Immunizing HLA and Donor HLA Associate With Graft Failure After Kidney Transplantation</h3>
+              <p class="publication-meta">Peereboom ETM, Matern BM, Tomosugi T, Niemann M, and colleagues, including Spierings E. Frontiers in Immunology.</p>
+            </div>
+            <div class="publication-tag">Outcome</div>
+          </article>
+
+          <article class="publication" data-category="allocation matching">
+            <div class="publication-year">2021</div>
+            <div>
+              <h3>Computational Eurotransplant kidney allocation simulations demonstrate the feasibility and benefit of T-cell epitope matching</h3>
+              <p class="publication-meta">Niemann M, Lachmann N, Geneugelijk K, Spierings E. PLoS Computational Biology.</p>
+            </div>
+            <div class="publication-tag">Allocation</div>
+          </article>
+
+          <article class="publication" data-category="matching outcome">
+            <div class="publication-year">2018</div>
+            <div>
+              <h3>PIRCHE-II is related to graft failure after kidney transplantation</h3>
+              <p class="publication-meta">Geneugelijk K, Niemann M, Drylewicz J, and colleagues, including Spierings E. Frontiers in Immunology.</p>
+            </div>
+            <div class="publication-tag">PIRCHE-II</div>
+          </article>
+
+          <article class="publication" data-category="standards">
+            <div class="publication-year">2023</div>
+            <div>
+              <h3>World Marrow Donor Association guidelines for the reporting of novel HLA alleles</h3>
+              <p class="publication-meta">Peereboom ETM, Venter A, Urban C, Spierings E, and colleagues. HLA.</p>
+            </div>
+            <div class="publication-tag">Standards</div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="career">
+      <div class="container">
+        <div class="section-head">
+          <p class="section-label">Career</p>
+          <div>
+            <h2>From molecular HLA typing to integrated transplantation diagnostics</h2>
+          </div>
+        </div>
+
+        <div class="timeline">
+          <article class="timeline-item">
+            <div class="timeline-time">Current</div>
+            <h3>UMC Utrecht</h3>
+            <p>Associate Professor, medical immunologist, and Director Transplantation Diagnostics within the Central Diagnostic Laboratory.</p>
+          </article>
+
+          <article class="timeline-item">
+            <div class="timeline-time">Academic development</div>
+            <h3>Transplantation immunology and immunogenetics</h3>
+            <p>Development of a research line integrating donor-recipient matching, PIRCHE, antibody risk, immune monitoring, computational models, and clinical implementation.</p>
+          </article>
+
+          <article class="timeline-item">
+            <div class="timeline-time">Postdoctoral period</div>
+            <h3>Minor histocompatibility antigens</h3>
+            <p>Postdoctoral research in the laboratory of Els Goulmy, expanding expertise from HLA into cellular allo-immunity and minor histocompatibility antigens.</p>
+          </article>
+
+          <article class="timeline-item">
+            <div class="timeline-time">Education</div>
+            <h3>Leiden University Medical Center</h3>
+            <p>MSc in Biomedical Sciences and PhD in Immunology. First practical HLA experience in 1992 through PCR-SSOP work with Marius Giphart.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section contact-band" id="contact">
+      <div class="container">
+        <div class="section-head">
+          <p class="section-label">Connect</p>
+          <div>
+            <h2>Professional profiles and contact</h2>
+            <p class="section-intro">
+              For scientific collaboration, transplantation diagnostics, standards, education, or international committee work.
+            </p>
+          </div>
+        </div>
+
+        <div class="contact-links">
+          <a class="contact-link" href="https://orcid.org/0000-0001-9441-1019" target="_blank" rel="noreferrer">
+            <strong>ORCID</strong>
+            <span>0000-0001-9441-1019</span>
+          </a>
+
+          <a class="contact-link" href="mailto:example@umcutrecht.nl">
+            <strong>Email</strong>
+            <span>Replace with preferred UMC Utrecht address</span>
+          </a>
+
+          <a class="contact-link" href="#publications">
+            <strong>Publications</strong>
+            <span>View selected academic output</span>
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span>© 2026 Eric Spierings</span>
+      <span>Transplantation Immunology &amp; Immunogenetics</span>
+    </div>
+  </footer>
+
+  <script>
+    const filterButtons = document.querySelectorAll(".filter-button");
+    const publications = document.querySelectorAll(".publication");
+
+    filterButtons.forEach((button) => {
+      button.addEventListener("click", () => {
+        const filter = button.dataset.filter;
+
+        filterButtons.forEach((item) => item.classList.remove("active"));
+        button.classList.add("active");
+
+        publications.forEach((publication) => {
+          const categories = publication.dataset.category.split(" ");
+          const show = filter === "all" || categories.includes(filter);
+          publication.classList.toggle("hidden-publication", !show);
+        });
       });
     });
-  });
-
-  // Topic tag click -> scroll to section and highlight
-  const topicMap = {
-    hla: document.getElementById('topic-hla'),
-    diagnostics: document.getElementById('topic-diagnostics'),
-    research: document.getElementById('topic-research')
-  };
-
-  document.querySelectorAll('.tag-button[data-topic]').forEach(tag => {
-    tag.addEventListener('click', () => {
-      const key = tag.getAttribute('data-topic');
-      const targetEl = topicMap[key];
-      if (!targetEl) return;
-
-      targetEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      targetEl.classList.add('topic-highlight');
-      setTimeout(() => {
-        targetEl.classList.remove('topic-highlight');
-      }, 1200);
-    });
-  });
-
-  // Footer year
-  document.getElementById('last-updated').textContent = new Date().getFullYear();
-</script>
-
+  </script>
 </body>
 </html>
