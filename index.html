@@ -901,6 +901,190 @@
         font-size: clamp(3rem, 20vw, 5.5rem);
       }
     }
+  
+    .publication-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 13px;
+    }
+
+    .publication-action {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 34px;
+      padding: 6px 11px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      color: var(--umcu-blue);
+      background: white;
+      text-decoration: none;
+      font-size: 0.78rem;
+      font-weight: 800;
+      cursor: pointer;
+    }
+
+    .publication-action:hover,
+    .publication-action:focus {
+      color: white;
+      border-color: var(--umcu-blue);
+      background: var(--umcu-blue);
+      text-decoration: none;
+    }
+
+    .publication-action.abstract-unavailable {
+      color: var(--muted);
+      border-color: var(--line);
+      background: var(--soft);
+      cursor: default;
+      opacity: 0.72;
+    }
+
+    body.modal-open {
+      overflow: hidden;
+    }
+
+    .abstract-modal {
+      position: fixed;
+      inset: 0;
+      z-index: 1000;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+
+    .abstract-modal.open {
+      display: flex;
+    }
+
+    .abstract-modal-backdrop {
+      position: absolute;
+      inset: 0;
+      background: rgba(0, 35, 66, 0.72);
+      backdrop-filter: blur(5px);
+    }
+
+    .abstract-modal-dialog {
+      position: relative;
+      z-index: 1;
+      width: min(860px, 100%);
+      max-height: min(86vh, 920px);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      border: 1px solid rgba(255, 255, 255, 0.35);
+      border-radius: 24px;
+      background: white;
+      box-shadow: 0 28px 70px rgba(0, 35, 66, 0.34);
+    }
+
+    .abstract-modal-header {
+      position: relative;
+      padding: 28px 70px 22px 30px;
+      color: white;
+      background:
+        linear-gradient(135deg, var(--umcu-blue-dark), var(--umcu-blue));
+    }
+
+    .abstract-modal-kicker {
+      margin: 0 0 8px;
+      color: #ffd3a3;
+      font-size: 0.72rem;
+      font-weight: 800;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .abstract-modal-title {
+      margin: 0;
+      font-size: clamp(1.25rem, 3vw, 1.85rem);
+      line-height: 1.25;
+    }
+
+    .abstract-modal-close {
+      position: absolute;
+      top: 18px;
+      right: 18px;
+      width: 40px;
+      height: 40px;
+      display: grid;
+      place-items: center;
+      border: 1px solid rgba(255, 255, 255, 0.45);
+      border-radius: 50%;
+      color: white;
+      background: rgba(255, 255, 255, 0.08);
+      cursor: pointer;
+      font-size: 1.3rem;
+    }
+
+    .abstract-modal-close:hover,
+    .abstract-modal-close:focus {
+      background: rgba(255, 255, 255, 0.18);
+    }
+
+    .abstract-modal-body {
+      overflow-y: auto;
+      padding: 26px 30px 30px;
+    }
+
+    .abstract-modal-meta {
+      margin: 0 0 20px;
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .abstract-modal-meta strong {
+      color: var(--umcu-blue-dark);
+    }
+
+    .abstract-heading {
+      margin: 0 0 10px;
+      color: var(--umcu-orange);
+      font-size: 0.78rem;
+      font-weight: 800;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .abstract-text {
+      margin: 0;
+      color: var(--ink);
+      white-space: pre-line;
+      line-height: 1.7;
+    }
+
+    .abstract-modal-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 25px;
+      padding-top: 20px;
+      border-top: 1px solid var(--line);
+    }
+
+    @media (max-width: 620px) {
+      .abstract-modal {
+        padding: 10px;
+      }
+
+      .abstract-modal-dialog {
+        max-height: 94vh;
+        border-radius: 18px;
+      }
+
+      .abstract-modal-header,
+      .abstract-modal-body {
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+
+      .abstract-modal-header {
+        padding-right: 64px;
+      }
+    }
+
   </style>
 </head>
 
@@ -1332,6 +1516,39 @@
     </section>
   </main>
 
+
+  <div class="abstract-modal" id="abstract-modal" aria-hidden="true">
+    <div class="abstract-modal-backdrop" data-modal-close></div>
+
+    <section
+      class="abstract-modal-dialog"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="abstract-modal-title"
+      tabindex="-1"
+    >
+      <header class="abstract-modal-header">
+        <p class="abstract-modal-kicker">Publication abstract</p>
+        <h2 class="abstract-modal-title" id="abstract-modal-title"></h2>
+        <button
+          class="abstract-modal-close"
+          type="button"
+          aria-label="Close abstract"
+          data-modal-close
+        >×</button>
+      </header>
+
+      <div class="abstract-modal-body">
+        <p class="abstract-modal-meta" id="abstract-modal-meta"></p>
+
+        <h3 class="abstract-heading">Abstract</h3>
+        <p class="abstract-text" id="abstract-modal-text"></p>
+
+        <div class="abstract-modal-links" id="abstract-modal-links"></div>
+      </div>
+    </section>
+  </div>
+
   <footer class="site-footer">
     <div class="container footer-inner">
       <span>© 2026 Eric Spierings</span>
@@ -1354,6 +1571,14 @@
     const viewButtons = document.querySelectorAll(".view-button");
     const filterButtons = document.querySelectorAll(".filter-button");
 
+    const modal = document.getElementById("abstract-modal");
+    const modalDialog = modal.querySelector(".abstract-modal-dialog");
+    const modalTitle = document.getElementById("abstract-modal-title");
+    const modalMeta = document.getElementById("abstract-modal-meta");
+    const modalText = document.getElementById("abstract-modal-text");
+    const modalLinks = document.getElementById("abstract-modal-links");
+    let lastFocusedElement = null;
+
     function escapeHtml(value) {
       return String(value ?? "")
         .replaceAll("&", "&amp;")
@@ -1365,7 +1590,13 @@
 
     function formatAuthors(authors) {
       if (!Array.isArray(authors) || authors.length === 0) return "";
-      return authors.map(escapeHtml).join(", ");
+
+      return authors.map((author) => {
+        const safeAuthor = escapeHtml(author);
+        return /spierings/i.test(author)
+          ? `<strong>${safeAuthor}</strong>`
+          : safeAuthor;
+      }).join(", ");
     }
 
     function publicationUrl(publication) {
@@ -1373,6 +1604,19 @@
         return "https://doi.org/" + encodeURIComponent(publication.doi);
       }
       return publication.url || "";
+    }
+
+    function pubmedUrl(publication) {
+      return publication.pmid
+        ? `https://pubmed.ncbi.nlm.nih.gov/${encodeURIComponent(publication.pmid)}/`
+        : "";
+    }
+
+    function fullTextUrl(publication) {
+      if (publication.pmcid) {
+        return `https://europepmc.org/articles/${encodeURIComponent(publication.pmcid)}`;
+      }
+      return publication.fullTextUrl || "";
     }
 
     function compareByDateDescending(a, b) {
@@ -1406,6 +1650,11 @@
       );
     }
 
+    function externalLink(label, url) {
+      if (!url) return "";
+      return `<a class="publication-action" href="${escapeHtml(url)}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a>`;
+    }
+
     function renderPublications() {
       const publications = visiblePublications();
 
@@ -1421,10 +1670,10 @@
 
       listElement.innerHTML = publications.map((publication) => {
         const url = publicationUrl(publication);
+        const pubmed = pubmedUrl(publication);
+        const fullText = fullTextUrl(publication);
         const title = escapeHtml(publication.title || "Untitled work");
-        const linkedTitle = url
-          ? `<a class="publication-link" href="${escapeHtml(url)}" target="_blank" rel="noreferrer">${title}</a>`
-          : title;
+        const index = state.publications.indexOf(publication);
 
         const authors = formatAuthors(publication.authors);
         const journal = escapeHtml(publication.journal || publication.typeLabel || "");
@@ -1445,20 +1694,91 @@
           publication.primaryCategoryLabel || "Other"
         );
 
+        const abstractButton = publication.abstract
+          ? `<button class="publication-action" type="button" data-open-abstract="${index}">Abstract</button>`
+          : `<span class="publication-action abstract-unavailable">Abstract unavailable</span>`;
+
         return `
           <article class="publication ${publication.key ? "key-publication" : ""}">
             <div class="publication-year">${escapeHtml(publication.year || "n.d.")}</div>
             <div>
               ${keyLabel}
-              <h3>${linkedTitle}</h3>
+              <h3>${title}</h3>
               <p class="publication-meta">${metadata}</p>
               ${impactFactor}
+              <div class="publication-actions">
+                ${abstractButton}
+                ${externalLink("DOI", url)}
+                ${externalLink("PubMed", pubmed)}
+                ${externalLink("Full text", fullText)}
+              </div>
             </div>
             <div class="publication-tag">${categoryLabel}</div>
           </article>
         `;
       }).join("");
     }
+
+    function openAbstract(publication) {
+      if (!publication || !publication.abstract) return;
+
+      lastFocusedElement = document.activeElement;
+      modalTitle.textContent = publication.title || "Publication abstract";
+
+      const authorHtml = formatAuthors(publication.authors);
+      const journal = escapeHtml(publication.journal || "");
+      const year = escapeHtml(publication.year || "");
+      const metaParts = [
+        authorHtml,
+        [journal, year].filter(Boolean).join(", ")
+      ].filter(Boolean);
+
+      modalMeta.innerHTML = metaParts.join("<br>");
+      modalText.textContent = publication.abstract;
+
+      const links = [
+        externalLink("Open DOI", publicationUrl(publication)),
+        externalLink("Open PubMed", pubmedUrl(publication)),
+        externalLink("Open full text", fullTextUrl(publication))
+      ].filter(Boolean);
+
+      modalLinks.innerHTML = links.join("");
+
+      modal.classList.add("open");
+      modal.setAttribute("aria-hidden", "false");
+      document.body.classList.add("modal-open");
+      modalDialog.focus();
+    }
+
+    function closeAbstract() {
+      modal.classList.remove("open");
+      modal.setAttribute("aria-hidden", "true");
+      document.body.classList.remove("modal-open");
+
+      if (lastFocusedElement) {
+        lastFocusedElement.focus();
+      }
+    }
+
+    listElement.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-open-abstract]");
+      if (!button) return;
+
+      const index = Number(button.dataset.openAbstract);
+      openAbstract(state.publications[index]);
+    });
+
+    modal.addEventListener("click", (event) => {
+      if (event.target.closest("[data-modal-close]")) {
+        closeAbstract();
+      }
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && modal.classList.contains("open")) {
+        closeAbstract();
+      }
+    });
 
     async function loadPublications() {
       try {
@@ -1486,7 +1806,7 @@
         console.error(error);
         statusElement.innerHTML =
           "<strong>The ORCID dataset could not be loaded.</strong> " +
-          "Run the GitHub Action once and confirm that publications.json exists in the repository root.";
+          "Confirm that publications.json exists in the repository root.";
         statusElement.classList.add("error");
         listElement.innerHTML = "";
         countElement.textContent = "";
