@@ -1,12 +1,12 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-08-03T15:52:04.709Z",
+  "generatedAt": "2026-08-03T16:07:25.788Z",
   "source": "ORCID Public API v3.0, enriched with Crossref metadata",
   "count": 129,
   "publications": [
     {
       "putCode": 212273109,
-      "title": "Recommendations for\n                    <scp>HLA</scp>\n                    Genotyping Data Standards and Clinical Laboratory Staffing Considerations",
+      "title": "Recommendations for HLA Genotyping Data Standards and Clinical Laboratory Staffing Considerations",
       "year": 2026,
       "sortDate": "2026-04-00",
       "journal": "HLA",
@@ -112,7 +112,7 @@
     },
     {
       "putCode": 190299697,
-      "title": "Maternal–Foetal <scp>HLA</scp>‐<scp>DQB1</scp> Incompatibility Is Associated With Pregnancy‐Induced Hypertensive Disorders in a Genetically Isolated Population",
+      "title": "Maternal–Foetal HLA‐DQB1 Incompatibility Is Associated With Pregnancy‐Induced Hypertensive Disorders in a Genetically Isolated Population",
       "year": 2025,
       "sortDate": "2025-08-00",
       "journal": "HLA",
@@ -149,7 +149,7 @@
     },
     {
       "putCode": 186435369,
-      "title": "Swine Xenografts Share Few Predicted Indirectly Recognisable <scp>SLA</scp>‐Derived Epitopes With <scp>HLA</scp>‐Derived Epitopes From Human Kidney Grafts",
+      "title": "Swine Xenografts Share Few Predicted Indirectly Recognisable SLA‐Derived Epitopes With HLA‐Derived Epitopes From Human Kidney Grafts",
       "year": 2025,
       "sortDate": "2025-06-00",
       "journal": "HLA",
@@ -179,7 +179,7 @@
     },
     {
       "putCode": 189157261,
-      "title": "The Registry of Unmet Need: A World Marrow Donor Association Analysis of Patients Without an\n                    <scp>HLA</scp>\n                    Match",
+      "title": "The Registry of Unmet Need: A World Marrow Donor Association Analysis of Patients Without an HLA Match",
       "year": 2025,
       "sortDate": "2025-05-00",
       "journal": "HLA",
@@ -218,7 +218,7 @@
     },
     {
       "putCode": 189157251,
-      "title": "Indirect presentation of mismatched\n                    <scp>human leukocyte antigen</scp>\n                    ‐B associates with outcomes of cord blood transplantation",
+      "title": "Indirect presentation of mismatched human leukocyte antigen ‐B associates with outcomes of cord blood transplantation",
       "year": 2025,
       "sortDate": "2025-05-00",
       "journal": "British Journal of Haematology",
@@ -350,7 +350,7 @@
     },
     {
       "putCode": 169753118,
-      "title": "Paternal <scp>HLA</scp>‐Derived Epitopes and Live Birth in Secondary Recurrent Pregnancy Loss: New Insights From a Clinical Trial",
+      "title": "Paternal HLA‐Derived Epitopes and Live Birth in Secondary Recurrent Pregnancy Loss: New Insights From a Clinical Trial",
       "year": 2024,
       "sortDate": "2024-10-00",
       "journal": "HLA",
@@ -360,14 +360,14 @@
       "pmid": null,
       "url": "https://doi.org/10.1111/tan.15723",
       "authors": [
-        "Maria Christine Krog",
-        "Emma T. M. Peereboom",
+        "Maria Christine Krog",
+        "Emma T. M. Peereboom",
         "Kirsten Geneugelijk",
-        "Benedict M. Matern",
-        "Astrid Marie Kolte",
-        "Ole Bjarne Christiansen",
+        "Benedict M. Matern",
+        "Astrid Marie Kolte",
+        "Ole Bjarne Christiansen",
         "Rudi Steffensen",
-        "Henriette Svarre Nielsen",
+        "Henriette Svarre Nielsen",
         "Eric Spierings"
       ],
       "volumeIssuePages": "vol. 104, no. 4, pp. e15723",
@@ -381,7 +381,7 @@
     },
     {
       "putCode": 170065590,
-      "title": "Peptide Sharing Between <scp>CMV</scp> and Mismatched <scp>HLA</scp> Class I Peptides Promotes Early T‐Cell‐Mediated Rejection After Kidney Transplantation",
+      "title": "Peptide Sharing Between CMV and Mismatched HLA Class I Peptides Promotes Early T‐Cell‐Mediated Rejection After Kidney Transplantation",
       "year": 2024,
       "sortDate": "2024-10-00",
       "journal": "HLA",
@@ -391,15 +391,15 @@
       "pmid": null,
       "url": "https://doi.org/10.1111/tan.15719",
       "authors": [
-        "Emma T. M. Peereboom",
+        "Emma T. M. Peereboom",
         "Renato de Marco",
         "Kirsten Geneugelijk",
         "Jasvir Jairam",
-        "Frans M. Verduyn Lunel",
-        "Anna J. Blok",
+        "Frans M. Verduyn Lunel",
+        "Anna J. Blok",
         "José Medina‐Pestana",
         "Maria Gerbase‐DeLima",
-        "Arjan D. van Zuilen",
+        "Arjan D. van Zuilen",
         "Eric Spierings"
       ],
       "volumeIssuePages": "vol. 104, no. 4, pp. e15719",
@@ -446,7 +446,7 @@
       "title": "Histocompatibility",
       "year": 2024,
       "sortDate": "2024-04-11",
-      "journal": "The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th edition. ",
+      "journal": "The EBMT Handbook: Hematopoietic Cell Transplantation and Cellular Therapies. 8th edition.",
       "type": "book-chapter",
       "typeLabel": "Book-Chapter",
       "doi": null,
@@ -465,7 +465,7 @@
     },
     {
       "putCode": 166263562,
-      "title": "Determination of the clinical relevance of donor epitope‐specific <scp>HLA</scp>‐antibodies in kidney transplantation",
+      "title": "Determination of the clinical relevance of donor epitope‐specific HLA‐antibodies in kidney transplantation",
       "year": 2024,
       "sortDate": "2024-01-00",
       "journal": "HLA",
@@ -538,7 +538,7 @@
     },
     {
       "putCode": 149814801,
-      "title": "Ellipro scores of donor epitope specific <scp>HLA</scp> antibodies are not associated with kidney graft survival",
+      "title": "Ellipro scores of donor epitope specific HLA antibodies are not associated with kidney graft survival",
       "year": 2024,
       "sortDate": "2024-01-00",
       "journal": "HLA",
@@ -608,7 +608,7 @@
     },
     {
       "putCode": 144788419,
-      "title": "Repeated local ellipsoid protrusion supplements <scp>HLA</scp> surface characterization",
+      "title": "Repeated local ellipsoid protrusion supplements HLA surface characterization",
       "year": 2024,
       "sortDate": "2024-01-00",
       "journal": "HLA",
@@ -716,7 +716,7 @@
     },
     {
       "putCode": 132858989,
-      "title": "World Marrow Donor Association guidelines for the reporting of novel <scp>HLA</scp> alleles",
+      "title": "World Marrow Donor Association guidelines for the reporting of novel HLA alleles",
       "year": 2023,
       "sortDate": "2023-07-00",
       "journal": "HLA",
@@ -752,7 +752,7 @@
     },
     {
       "putCode": 129565936,
-      "title": "Using cloud infrastructure to facilitate data collection and conversion of <scp>HLA</scp> diagnostic data for the 18th <scp>International HLA</scp> and <scp>Immunogenetics Workshop</scp>",
+      "title": "Using cloud infrastructure to facilitate data collection and conversion of HLA diagnostic data for the 18th International HLA and Immunogenetics Workshop",
       "year": 2023,
       "sortDate": "2023-05-00",
       "journal": "HLA",
@@ -1022,7 +1022,7 @@
     },
     {
       "putCode": 189157729,
-      "title": "Genetics-first approach improves diagnostics of ESKD patients &amp;lt;50 years old",
+      "title": "Genetics-first approach improves diagnostics of ESKD patients &lt;50 years old",
       "year": 2022,
       "sortDate": "2022-01-25",
       "journal": "Nephrology Dialysis Transplantation",
@@ -1259,7 +1259,7 @@
       "title": "Next-Generation HLA Sequence Analysis Uncovers Shared Risk Alleles Between Clinically Distinct Forms of Childhood Uveitis",
       "year": 2021,
       "sortDate": "2021-07-13",
-      "journal": "Investigative Opthalmology &amp; Visual Science",
+      "journal": "Investigative Opthalmology & Visual Science",
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1167/iovs.62.9.19",
@@ -1287,7 +1287,7 @@
     },
     {
       "putCode": 189158618,
-      "title": "Standard reference sequences for submission of <scp>HLA</scp> genotyping for the 18th International HLA and Immunogenetics Workshop",
+      "title": "Standard reference sequences for submission of HLA genotyping for the 18th International HLA and Immunogenetics Workshop",
       "year": 2021,
       "sortDate": "2021-06-00",
       "journal": "HLA",
@@ -2955,7 +2955,7 @@
     },
     {
       "putCode": 41791185,
-      "title": "How can we reduce costs of solid‐phase multiplex‐bead assays used to determine anti‐<scp>HLA</scp> antibodies?",
+      "title": "How can we reduce costs of solid‐phase multiplex‐bead assays used to determine anti‐HLA antibodies?",
       "year": 2016,
       "sortDate": "2016-09-00",
       "journal": "HLA",
@@ -3524,7 +3524,7 @@
     },
     {
       "putCode": 20029049,
-      "title": "Minor H antigen matches and mismatches are equally distributed among recipients with or without complications after <scp>HLA</scp> identical sibling renal transplantation",
+      "title": "Minor H antigen matches and mismatches are equally distributed among recipients with or without complications after HLA identical sibling renal transplantation",
       "year": 2013,
       "sortDate": "2013-11-00",
       "journal": "Tissue Antigens",
@@ -3627,7 +3627,7 @@
     },
     {
       "putCode": 20029050,
-      "title": "The novel <i><scp>HLA</scp>‐A*24:215</i> allele, identified by sequencing‐based typing of a stem cell transplant patient and the sibling donor",
+      "title": "The novel HLA‐A*24:215 allele, identified by sequencing‐based typing of a stem cell transplant patient and the sibling donor",
       "year": 2013,
       "sortDate": "2013-08-00",
       "journal": "Tissue Antigens",
@@ -3718,7 +3718,7 @@
     },
     {
       "putCode": 20029053,
-      "title": "The novel <i><scp>HLA</scp>‐B*44:02:27</i> allele, identified by sequencing‐based typing of a candidate stem‐cell donor",
+      "title": "The novel HLA‐B*44:02:27 allele, identified by sequencing‐based typing of a candidate stem‐cell donor",
       "year": 2013,
       "sortDate": "2013-04-00",
       "journal": "Tissue Antigens",
@@ -4000,7 +4000,7 @@
     },
     {
       "putCode": 20029062,
-      "title": "Gene Therapy with IgG-HY Fusion Proteins to Reduce Male-Specific T-Cell Reactivity\n                    <i>In Vitro</i>",
+      "title": "Gene Therapy with IgG-HY Fusion Proteins to Reduce Male-Specific T-Cell Reactivity In Vitro",
       "year": 2011,
       "sortDate": "2011-01-00",
       "journal": "Human Gene Therapy",
@@ -4267,7 +4267,7 @@
       "title": "Risk assessment in haematopoietic stem cell transplantation: Minor histocompatibility antigens",
       "year": 2007,
       "sortDate": "2007-06-00",
-      "journal": "Best Practice &amp; Research Clinical Haematology",
+      "journal": "Best Practice & Research Clinical Haematology",
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1016/j.beha.2006.09.002",
@@ -4413,7 +4413,7 @@
     },
     {
       "putCode": 20029076,
-      "title": "A possible role for CCL27/CTACK‐CCR10 interaction in recruiting CD4<sup>+</sup> T cells to skin in human graft‐<i>versus</i>‐host disease",
+      "title": "A possible role for CCL27/CTACK‐CCR10 interaction in recruiting CD4+ T cells to skin in human graft‐versus‐host disease",
       "year": 2006,
       "sortDate": "2006-06-00",
       "journal": "British Journal of Haematology",
@@ -4626,7 +4626,7 @@
     },
     {
       "putCode": 20029083,
-      "title": "<i>Mycobacterium leprae</i>\n                    -Specific, HLA Class II-Restricted Killing of Human Schwann Cells by CD4+ Th1 Cells: A Novel Immunopathogenic Mechanism of Nerve Damage in Leprosy",
+      "title": "Mycobacterium leprae -Specific, HLA Class II-Restricted Killing of Human Schwann Cells by CD4+ Th1 Cells: A Novel Immunopathogenic Mechanism of Nerve Damage in Leprosy",
       "year": 2001,
       "sortDate": "2001-05-15",
       "journal": "The Journal of Immunology",
@@ -4675,10 +4675,10 @@
     },
     {
       "putCode": 20029085,
-      "title": "Novel mechanisms in the immunopathogenesis of leprosy nerve damage: The role of Schwann cells, T cells and <i>Mycobacterium leprae</i>",
+      "title": "Novel mechanisms in the immunopathogenesis of leprosy nerve damage: The role of Schwann cells, T cells and Mycobacterium leprae",
       "year": 2000,
       "sortDate": "2000-08-00",
-      "journal": "Immunology &amp; Cell Biology",
+      "journal": "Immunology & Cell Biology",
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1046/j.1440-1711.2000.00939.x",
