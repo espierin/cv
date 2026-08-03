@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Stylized HLA molecule</title>
+  <desc id="desc">A simplified HLA class I molecule with an orange peptide in the binding groove.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#005eb8"/>
+      <stop offset="1" stop-color="#003b70"/>
+    </linearGradient>
+    <linearGradient id="mol" x1="18" y1="15" x2="45" y2="49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#cce6f5"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="64" height="64" rx="15" fill="url(#bg)"/>
+
+  <!-- extracellular alpha domains -->
+  <path d="M16 19c0-4 3-7 7-7h7c3 0 5 2 5 5v8H23c-4 0-7-2-7-6Z"
+        fill="none" stroke="url(#mol)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M48 19c0-4-3-7-7-7h-7c-3 0-5 2-5 5v8h12c4 0 7-2 7-6Z"
+        fill="none" stroke="url(#mol)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- peptide-binding groove -->
+  <path d="M22 25c3 4 6 6 10 6s7-2 10-6"
+        fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M23 23.5c3.5-2 6.5-2.8 9-2.8s5.5.8 9 2.8"
+        fill="none" stroke="#f28c28" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- alpha3 domain and transmembrane stem -->
+  <path d="M24 31v8c0 4 3 7 7 7h2c4 0 7-3 7-7v-8"
+        fill="none" stroke="url(#mol)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M32 46v10"
+        fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round"/>
+
+  <!-- beta-2 microglobulin -->
+  <path d="M17 34c0-3 2-5 5-5h2v12h-2c-3 0-5-2-5-5v-2Z"
+        fill="none" stroke="#80c9e8" stroke-width="2.8" stroke-linejoin="round"/>
+
+  <!-- subtle molecular nodes -->
+  <circle cx="20" cy="18" r="1.6" fill="#80c9e8"/>
+  <circle cx="44" cy="18" r="1.6" fill="#80c9e8"/>
+  <circle cx="32" cy="53" r="1.6" fill="#f28c28"/>
+</svg>

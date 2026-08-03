@@ -87,16 +87,12 @@
     }
 
     .wordmark-mark {
-      width: 42px;
-      height: 42px;
-      display: grid;
-      place-items: center;
-      border-radius: 11px;
-      background:
-        linear-gradient(135deg, var(--umcu-blue) 0 62%, var(--umcu-orange) 62% 100%);
-      color: white;
-      font-weight: 800;
-      letter-spacing: 0.03em;
+      width: 44px;
+      height: 44px;
+      display: block;
+      flex: 0 0 44px;
+      border-radius: 12px;
+      box-shadow: 0 5px 14px rgba(0, 59, 112, 0.18);
     }
 
     .wordmark-text strong {
@@ -666,6 +662,51 @@
       display: none;
     }
 
+    .publication.key-publication {
+      border-left: 5px solid var(--umcu-orange);
+    }
+
+    .publication-key {
+      display: inline-block;
+      margin-bottom: 7px;
+      color: var(--umcu-orange);
+      font-size: 0.72rem;
+      font-weight: 800;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    .publication-link {
+      color: var(--umcu-blue);
+      text-decoration: none;
+    }
+
+    .publication-link:hover {
+      text-decoration: underline;
+    }
+
+    .publication-count {
+      margin-left: auto;
+      color: var(--muted);
+      font-size: 0.86rem;
+    }
+
+    .view-button {
+      padding: 9px 14px;
+      border: 1px solid var(--umcu-orange);
+      border-radius: 999px;
+      color: var(--umcu-orange);
+      background: white;
+      cursor: pointer;
+      font-weight: 800;
+    }
+
+    .view-button.active,
+    .view-button:hover {
+      color: white;
+      background: var(--umcu-orange);
+    }
+
     @media (max-width: 1040px) {
       .focus-grid {
         grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -754,7 +795,7 @@
   <header class="site-header">
     <div class="nav-shell">
       <a class="wordmark" href="#top" aria-label="Back to top">
-        <span class="wordmark-mark">ES</span>
+        <img class="wordmark-mark" src="hla-logo.svg" alt="Stylized HLA molecule with peptide">
         <span class="wordmark-text">
           <strong>Eric Spierings</strong>
           <span>Transplantation Immunology</span>
@@ -799,7 +840,7 @@
         <img src="profile.png" alt="Portrait of Eric Spierings">
         <div class="portrait-caption">
           <strong>UMC Utrecht</strong>
-          <span>Central Diagnostic Laboratory</br>Center for Translational Immunology</span>
+          <span>Central Diagnostic Laboratory · Center for Translational Immunology</span>
         </div>
       </aside>
     </div>
@@ -946,10 +987,10 @@
           </article>
 
           <article class="role-card">
-            <div class="role-icon">IHIW</div>
+            <div class="role-icon">M</div>
             <div>
-              <h3>International HLA &amp; Immunogenetics Workshop</h3>
-              <p>Co-president of the IHIW Council, supporting international collaboration, standards, and workshop-based scientific programs.</p>
+              <h3>Secondment at Matchis</h3>
+              <p>Seconded to Matchis to strengthen the connection between donor registry practice, HLA expertise, research development, and implementation of improved matching strategies.</p>
             </div>
           </article>
 
@@ -972,83 +1013,182 @@
       </div>
     </section>
 
+
     <section class="section section-alt" id="publications">
       <div class="container">
         <div class="section-head">
           <p class="section-label">Academic output</p>
           <div>
-            <h2>Selected publications</h2>
+            <h2>Selected and complete publication overview</h2>
             <p class="section-intro">
-              A focused selection showing the development from PIRCHE-based risk assessment to integrated T-cell and B-cell epitope models and transplant allocation.
+              Key publications are shown first. The controls below allow switching to the broader selection or filtering by scientific category. Bibliographic details and author order were checked against the ORCID record and primary publication records.
             </p>
           </div>
         </div>
 
-        <div class="output-toolbar" role="group" aria-label="Filter publications">
-          <button class="filter-button active" data-filter="all">All</button>
+        <div class="output-toolbar" role="group" aria-label="Publication display controls">
+          <button class="view-button active" data-view="key">Key publications</button>
+          <button class="view-button" data-view="all">All listed publications</button>
+
+          <button class="filter-button active" data-filter="all">All categories</button>
           <button class="filter-button" data-filter="matching">Epitope matching</button>
           <button class="filter-button" data-filter="outcome">Transplant outcome</button>
-          <button class="filter-button" data-filter="allocation">Allocation</button>
+          <button class="filter-button" data-filter="diagnostics">Diagnostics</button>
           <button class="filter-button" data-filter="standards">Standards</button>
+          <button class="filter-button" data-filter="cellular">Cellular immunology</button>
+
+          <span class="publication-count" id="publication-count"></span>
         </div>
 
         <div class="publication-list">
-          <article class="publication" data-category="matching outcome">
+          <article class="publication key-publication" data-key="true" data-category="matching outcome">
             <div class="publication-year">2025</div>
             <div>
+              <span class="publication-key">Key publication</span>
               <h3>Advancing risk stratification in kidney transplantation: integrating HLA-derived T-cell epitope and B-cell epitope matching algorithms for enhanced predictive accuracy of HLA compatibility</h3>
-              <p class="publication-meta">Niemann M, Matern BM, Gupta G, Tanriover B, Halleck F, Budde K, Spierings E. Frontiers in Immunology.</p>
+              <p class="publication-meta">Niemann M, Matern BM, Gupta G, Tanriover B, Halleck F, Budde K, Spierings E. <em>Frontiers in Immunology</em>. 2025;16:1548934. PMID: 40007544.</p>
             </div>
             <div class="publication-tag">Matching</div>
           </article>
 
-          <article class="publication" data-category="matching outcome">
+          <article class="publication key-publication" data-key="true" data-category="matching outcome">
             <div class="publication-year">2022</div>
             <div>
+              <span class="publication-key">Key publication</span>
               <h3>The number of donor HLA-derived T cell epitopes available for indirect antigen presentation determines the risk for vascular rejection after kidney transplantation</h3>
-              <p class="publication-meta">Betjes MGH, Peereboom ETM, Otten HG, Spierings E. Frontiers in Immunology.</p>
+              <p class="publication-meta">Betjes MGH, Peereboom ETM, Otten HG, Spierings E. <em>Frontiers in Immunology</em>. 2022;13:973968.</p>
             </div>
             <div class="publication-tag">Outcome</div>
           </article>
 
-          <article class="publication" data-category="matching outcome">
+          <article class="publication key-publication" data-key="true" data-category="matching outcome">
             <div class="publication-year">2021</div>
             <div>
+              <span class="publication-key">Key publication</span>
               <h3>T-Cell Epitopes Shared Between Immunizing HLA and Donor HLA Associate With Graft Failure After Kidney Transplantation</h3>
-              <p class="publication-meta">Peereboom ETM, Matern BM, Tomosugi T, Niemann M, and colleagues, including Spierings E. Frontiers in Immunology.</p>
+              <p class="publication-meta">Peereboom ETM, Matern BM, Tomosugi T, Niemann M, and colleagues, including Spierings E. <em>Frontiers in Immunology</em>. 2021;12:784040. PMID: 34868064.</p>
             </div>
             <div class="publication-tag">Outcome</div>
           </article>
 
-          <article class="publication" data-category="allocation matching">
-            <div class="publication-year">2021</div>
-            <div>
-              <h3>Computational Eurotransplant kidney allocation simulations demonstrate the feasibility and benefit of T-cell epitope matching</h3>
-              <p class="publication-meta">Niemann M, Lachmann N, Geneugelijk K, Spierings E. PLoS Computational Biology.</p>
-            </div>
-            <div class="publication-tag">Allocation</div>
-          </article>
-
-          <article class="publication" data-category="matching outcome">
+          <article class="publication key-publication" data-key="true" data-category="matching outcome">
             <div class="publication-year">2018</div>
             <div>
-              <h3>PIRCHE-II is related to graft failure after kidney transplantation</h3>
-              <p class="publication-meta">Geneugelijk K, Niemann M, Drylewicz J, and colleagues, including Spierings E. Frontiers in Immunology.</p>
+              <span class="publication-key">Key publication</span>
+              <h3>PIRCHE-II Is Related to Graft Failure after Kidney Transplantation</h3>
+              <p class="publication-meta">Geneugelijk K, Niemann M, Drylewicz J, van Zuilen AD, Joosten I, Allebes WA, van der Meer A, Hilbrands LB, Baas MC, Hack CE, van Reekum FE, Verhaar MC, Kamburova EG, Bots ML, Seelen MAJ, Sanders JS, Hepkema BG, Lambeck AJ, Bungener LB, Roozendaal C, Tilanus MGJ, Vanderlocht J, Voorter CEM, Wieten L, van Duijnhoven EM, Gelens M, Christiaans MHL, van Ittersum FJ, Nurmohamed A, Lardy JNML, Swelsen W, van der Pant KA, van der Weerd NC, ten Berge IJM, Bemelman FJ, Hoitsma A, van der Boog PJM, de Fijter JW, Betjes MGH, Heidt S, Roelen DL, Claas FHJ, Otten HG, Spierings E. <em>Frontiers in Immunology</em>. 2018;9:321. PMID: 29556227.</p>
             </div>
             <div class="publication-tag">PIRCHE-II</div>
           </article>
 
-          <article class="publication" data-category="standards">
-            <div class="publication-year">2023</div>
+          <article class="publication key-publication" data-key="true" data-category="matching outcome">
+            <div class="publication-year">2020</div>
             <div>
-              <h3>World Marrow Donor Association guidelines for the reporting of novel HLA alleles</h3>
-              <p class="publication-meta">Peereboom ETM, Venter A, Urban C, Spierings E, and colleagues. HLA.</p>
+              <span class="publication-key">Key publication</span>
+              <h3>PIRCHE-II: an algorithm to predict indirectly recognizable HLA epitopes in solid organ transplantation</h3>
+              <p class="publication-meta">Geneugelijk K, Spierings E. <em>Immunogenetics</em>. 2020;72(1-2):119-129. DOI: 10.1007/s00251-019-01140-x.</p>
+            </div>
+            <div class="publication-tag">Review</div>
+          </article>
+
+          <article class="publication key-publication" data-key="true" data-category="standards">
+            <div class="publication-year">2026</div>
+            <div>
+              <span class="publication-key">Key publication</span>
+              <h3>Recommendations for HLA Genotyping Data Standards and Clinical Laboratory Staffing Considerations</h3>
+              <p class="publication-meta">Spierings E, Brown NK, Latham K, Robinson J, Melchers M, Askar M, Morris GP, Weimer E, Maiers M, Madbouly A. <em>HLA</em>. 2026;107(4):e70725. DOI: 10.1111/tan.70725.</p>
             </div>
             <div class="publication-tag">Standards</div>
           </article>
+
+          <article class="publication" data-key="false" data-category="matching outcome">
+            <div class="publication-year">2024</div>
+            <div>
+              <h3>Paternal HLA-Derived Epitopes and Live Birth in Secondary Recurrent Pregnancy Loss: New Insights From a Clinical Trial</h3>
+              <p class="publication-meta">Krog MC, Peereboom ETM, Geneugelijk K, Matern BM, Kolte AM, Christiansen OB, Steffensen R, Nielsen HS, Spierings E. <em>HLA</em>. 2024;104(4):e15723. DOI: 10.1111/tan.15723.</p>
+            </div>
+            <div class="publication-tag">Matching</div>
+          </article>
+
+          <article class="publication" data-key="false" data-category="cellular diagnostics">
+            <div class="publication-year">2022</div>
+            <div>
+              <h3>The Value of Single-cell Technologies in Solid Organ Transplantation Studies</h3>
+              <p class="publication-meta">Peereboom ETM, Matern BM, Spierings E, Geneugelijk K. <em>Transplantation</em>. 2022;106(12):2325-2337. DOI: 10.1097/TP.0000000000004237.</p>
+            </div>
+            <div class="publication-tag">Single cell</div>
+          </article>
+
+          <article class="publication" data-key="false" data-category="diagnostics outcome">
+            <div class="publication-year">2018</div>
+            <div>
+              <h3>Development and Validation of a Multiplex Non-HLA Antibody Assay for the Screening of Kidney Transplant Recipients</h3>
+              <p class="publication-meta">Kamburova EG, Kardol-Hoefnagel T, Wisse BW, Joosten I, Allebes WA, van der Meer A, Hilbrands LB, Baas MC, Spierings E, and colleagues. <em>Frontiers in Immunology</em>. 2018;9.</p>
+            </div>
+            <div class="publication-tag">Antibodies</div>
+          </article>
+
+          <article class="publication" data-key="false" data-category="diagnostics">
+            <div class="publication-year">2019</div>
+            <div>
+              <h3>HLA-DQ Typing Kits in Diagnosis and Screening for Celiac Disease</h3>
+              <p class="publication-meta">Rouvroye MD, van Zijtveld S, Bonnet P, Spierings E, Bontkes HJ. <em>Genetic Testing and Molecular Biomarkers</em>. 2019;23(6):418-422. DOI: 10.1089/gtmb.2018.0329.</p>
+            </div>
+            <div class="publication-tag">Diagnostics</div>
+          </article>
+
+          <article class="publication" data-key="false" data-category="cellular">
+            <div class="publication-year">2009</div>
+            <div>
+              <h3>Steric hindrance and fast dissociation explain the lack of immunogenicity of the minor histocompatibility HA-1Arg null allele</h3>
+              <p class="publication-meta">Spierings E, Gras S, Reiser JB, Mommaas B, Almekinders M, Kester MGD, Chouquet A, Le Gorrec M, Drijfhout JW, Ossendorp F, Housset D, Goulmy E.</p>
+            </div>
+            <div class="publication-tag">Minor H antigens</div>
+          </article>
+
+          <article class="publication" data-key="false" data-category="cellular outcome">
+            <div class="publication-year">2006</div>
+            <div>
+              <h3>Matching of the minor histocompatibility antigen HLA-A1/H-Y may improve prognosis in corneal transplantation</h3>
+              <p class="publication-meta">Böhringer D, Spierings E, Enczmann J, Böhringer S, Sundmacher R, Goulmy E, Reinhard T. <em>Transplantation</em>. 2006;82(8):1037-1041. DOI: 10.1097/01.tp.0000235908.54766.44.</p>
+            </div>
+            <div class="publication-tag">Minor H antigens</div>
+          </article>
+
+          <article class="publication" data-key="false" data-category="matching outcome">
+            <div class="publication-year">2014</div>
+            <div>
+              <h3>Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host disease and relapse-related mortality in pediatric patients after cord blood transplantation</h3>
+              <p class="publication-meta">Thus KA, Kesmir C, Borst E, de Weger RA, Boelens JJ, Spierings E.</p>
+            </div>
+            <div class="publication-tag">HSCT</div>
+          </article>
+
+          <article class="publication" data-key="false" data-category="diagnostics">
+            <div class="publication-year">2022</div>
+            <div>
+              <h3>Genetics-first approach improves diagnostics of ESKD patients younger than 50 years</h3>
+              <p class="publication-meta">Snoek R, van Jaarsveld RH, Nguyen TQ, Peters EDJ, Elferink MG, Ernst RF, Rookmaaker MB, Lilien MR, Spierings E, Goldschmeding R, Knoers NVAM, van der Zwaag B, van Zuilen AD, van Eerde AM. <em>Nephrology Dialysis Transplantation</em>. 2022;37(2).</p>
+            </div>
+            <div class="publication-tag">Diagnostics</div>
+          </article>
+
+          <article class="publication" data-key="false" data-category="matching standards">
+            <div class="publication-year">2025</div>
+            <div>
+              <h3>Quantifying uncertainty of molecular mismatch introduced by mislabelled or imputed HLA genotypes</h3>
+              <p class="publication-meta">Matern BM, Spierings E, Bandstra S, and colleagues.</p>
+            </div>
+            <div class="publication-tag">Molecular mismatch</div>
+          </article>
         </div>
+
+        <p class="section-intro" style="margin-top:24px;">
+          The ORCID profile contains the complete publication record. <a class="publication-link" href="https://orcid.org/0000-0001-9441-1019" target="_blank" rel="noreferrer">View all works on ORCID</a>.
+        </p>
       </div>
     </section>
+
 
     <section class="section" id="career">
       <div class="container">
@@ -1105,10 +1245,10 @@
             <span>0000-0001-9441-1019</span>
           </a>
 
-          <a class="contact-link" href="mailto:example@umcutrecht.nl">
+          <div class="contact-link" role="group" aria-label="Email address">
             <strong>Email</strong>
-            <span>Replace with preferred UMC Utrecht address</span>
-          </a>
+            <span>e.spierings (a) umcutrecht.nl</span>
+          </div>
 
           <a class="contact-link" href="#publications">
             <strong>Publications</strong>
@@ -1128,22 +1268,49 @@
 
   <script>
     const filterButtons = document.querySelectorAll(".filter-button");
+    const viewButtons = document.querySelectorAll(".view-button");
     const publications = document.querySelectorAll(".publication");
+    const publicationCount = document.getElementById("publication-count");
+
+    let currentView = "key";
+    let currentFilter = "all";
+
+    function updatePublications() {
+      let visibleCount = 0;
+
+      publications.forEach((publication) => {
+        const categories = publication.dataset.category.split(" ");
+        const matchesView = currentView === "all" || publication.dataset.key === "true";
+        const matchesFilter = currentFilter === "all" || categories.includes(currentFilter);
+        const show = matchesView && matchesFilter;
+
+        publication.classList.toggle("hidden-publication", !show);
+        if (show) visibleCount += 1;
+      });
+
+      publicationCount.textContent =
+        visibleCount + (visibleCount === 1 ? " publication" : " publications");
+    }
+
+    viewButtons.forEach((button) => {
+      button.addEventListener("click", () => {
+        currentView = button.dataset.view;
+        viewButtons.forEach((item) => item.classList.remove("active"));
+        button.classList.add("active");
+        updatePublications();
+      });
+    });
 
     filterButtons.forEach((button) => {
       button.addEventListener("click", () => {
-        const filter = button.dataset.filter;
-
+        currentFilter = button.dataset.filter;
         filterButtons.forEach((item) => item.classList.remove("active"));
         button.classList.add("active");
-
-        publications.forEach((publication) => {
-          const categories = publication.dataset.category.split(" ");
-          const show = filter === "all" || categories.includes(filter);
-          publication.classList.toggle("hidden-publication", !show);
-        });
+        updatePublications();
       });
     });
+
+    updatePublications();
   </script>
 </body>
 </html>
