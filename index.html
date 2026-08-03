@@ -413,6 +413,45 @@
       scroll-margin-top: 92px;
     }
 
+
+    .focus-figure {
+      height: 132px;
+      margin: -4px -4px 24px;
+      display: grid;
+      place-items: center;
+      border-radius: 18px;
+      background:
+        linear-gradient(145deg, rgba(234, 244, 251, 0.95), rgba(255, 255, 255, 0.96));
+      border: 1px solid rgba(0, 94, 184, 0.11);
+      overflow: hidden;
+    }
+
+    .focus-figure svg {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    .focus-card h3 {
+      margin-top: 0;
+    }
+
+    .figure-blue {
+      stroke: var(--umcu-blue);
+    }
+
+    .figure-dark {
+      stroke: var(--umcu-blue-dark);
+    }
+
+    .figure-orange {
+      stroke: var(--umcu-orange);
+    }
+
+    .figure-cyan {
+      stroke: var(--umcu-cyan);
+    }
+
     .focus-number {
       color: var(--umcu-orange);
       font-size: 0.76rem;
@@ -662,6 +701,80 @@
       display: none;
     }
 
+    .orcid-status {
+      margin: 0 0 20px;
+      padding: 12px 15px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      color: var(--muted);
+      background: rgba(255, 255, 255, 0.72);
+      font-size: 0.9rem;
+    }
+
+    .orcid-status strong {
+      color: var(--umcu-blue-dark);
+    }
+
+    .orcid-status.error {
+      border-color: rgba(242, 140, 40, 0.45);
+      background: var(--umcu-orange-soft);
+    }
+
+    .publication.key-publication {
+      border-left: 5px solid var(--umcu-orange);
+    }
+
+    .publication-key {
+      display: inline-block;
+      margin-bottom: 7px;
+      color: var(--umcu-orange);
+      font-size: 0.72rem;
+      font-weight: 800;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    .publication-link {
+      color: var(--umcu-blue);
+      text-decoration: none;
+    }
+
+    .publication-link:hover {
+      text-decoration: underline;
+    }
+
+    .publication-count {
+      margin-left: auto;
+      color: var(--muted);
+      font-size: 0.86rem;
+    }
+
+    .view-button {
+      padding: 9px 14px;
+      border: 1px solid var(--umcu-orange);
+      border-radius: 999px;
+      color: var(--umcu-orange);
+      background: white;
+      cursor: pointer;
+      font-weight: 800;
+    }
+
+    .view-button.active,
+    .view-button:hover {
+      color: white;
+      background: var(--umcu-orange);
+    }
+
+    .publication-if {
+      margin-top: 7px;
+      color: var(--muted);
+      font-size: 0.78rem;
+    }
+
+    .publication-if strong {
+      color: var(--umcu-blue-dark);
+    }
+
     .publication.key-publication {
       border-left: 5px solid var(--umcu-orange);
     }
@@ -795,7 +908,7 @@
   <header class="site-header">
     <div class="nav-shell">
       <a class="wordmark" href="#top" aria-label="Back to top">
-        <img class="wordmark-mark" src="hla-logo.svg" alt="Stylized HLA molecule with peptide">
+        <img class="wordmark-mark" src="hla-logo.png" alt="Stylized HLA molecule with peptide">
         <span class="wordmark-text">
           <strong>Eric Spierings</strong>
           <span>Transplantation Immunology</span>
@@ -827,7 +940,7 @@
         </p>
 
         <p class="hero-summary">
-          Based at UMC Utrecht, his work connects accredited transplantation diagnostics with research on HLA compatibility, indirect T-cell epitope recognition, donor-specific antibodies, immune monitoring, and international data standards.
+          Based at UMC Utrecht, I connect accredited transplantation diagnostics with research on HLA compatibility, indirect T-cell epitope recognition, donor-specific antibodies, immune monitoring, and international data standards.
         </p>
 
         <div class="hero-actions">
@@ -840,7 +953,7 @@
         <img src="profile.png" alt="Portrait of Eric Spierings">
         <div class="portrait-caption">
           <strong>UMC Utrecht</strong>
-          <span>Central Diagnostic Laboratory</br>Center for Translational Immunology</span>
+          <span>Central Diagnostic Laboratory<br>Center for Translational Immunology</span>
         </div>
       </aside>
     </div>
@@ -854,7 +967,7 @@
           <div>
             <h2>Diagnostics, science, and implementation in one professional profile</h2>
             <p class="section-intro">
-              Eric Spierings is an Associate Professor and medical immunologist at UMC Utrecht. He leads transplantation diagnostics within the Central Diagnostic Laboratory and works at the interface of routine care, translational immunology, immunogenetics, and clinical data innovation.
+              I am an Associate Professor and medical immunologist at UMC Utrecht. I lead transplantation diagnostics within the Central Diagnostic Laboratory and work at the interface of routine care, translational immunology, immunogenetics, and clinical data innovation.
             </p>
           </div>
         </div>
@@ -866,10 +979,10 @@
                 My mission is to ensure that every transplant patient achieves the best possible outcome by embedding advanced immunogenetic matching and innovative diagnostics into daily clinical practice.
               </p>
               <p>
-                His scientific work addresses how donor-recipient immunogenetic differences shape allo-immunity and transplant outcome. This includes HLA typing, antibody diagnostics, indirect HLA epitope recognition, PIRCHE-based risk assessment, donor-specific antibodies, graft rejection, graft failure, and immune monitoring after transplantation.
+                My scientific work addresses how donor-recipient immunogenetic differences shape allo-immunity and transplant outcome. This includes HLA typing, antibody diagnostics, indirect HLA epitope recognition, PIRCHE-based risk assessment, donor-specific antibodies, graft rejection, graft failure, and immune monitoring after transplantation.
               </p>
               <p>
-                A consistent principle across this work is that novel analytical methods should move beyond proof of concept. They must be interpretable, technically robust, compatible with laboratory quality systems, and connected to clinical workflows.
+                A consistent principle in my work is that novel analytical methods should move beyond proof of concept. They must be interpretable, technically robust, compatible with laboratory quality systems, and connected to clinical workflows.
               </p>
             </div>
           </article>
@@ -908,41 +1021,122 @@
           <div>
             <h2>Four connected fields of work</h2>
             <p class="section-intro">
-              His focus combines high-quality transplantation diagnostics with mechanistic research, computational matching, and implementation into clinical and laboratory systems.
+              My focus combines high-quality transplantation diagnostics with mechanistic research, computational matching, and implementation into clinical and laboratory systems.
             </p>
           </div>
         </div>
 
         <div class="focus-grid">
           <article class="focus-card" id="hla-diagnostics">
+
+            <div class="focus-figure" aria-hidden="true">
+              <svg viewBox="0 0 320 132" xmlns="http://www.w3.org/2000/svg">
+                <rect width="320" height="132" fill="#f7fbfe"/>
+                <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M86 32c0-11 9-20 20-20h25c10 0 17 7 17 17v22h-39c-13 0-23-7-23-19Z" class="figure-blue" stroke-width="5"/>
+                  <path d="M234 32c0-11-9-20-20-20h-25c-10 0-17 7-17 17v22h39c13 0 23-7 23-19Z" class="figure-blue" stroke-width="5"/>
+                  <path d="M112 47c14 13 29 19 48 19s34-6 48-19" class="figure-dark" stroke-width="5"/>
+                  <path d="M117 43c15-7 29-10 43-10s28 3 43 10" class="figure-orange" stroke-width="8"/>
+                  <path d="M125 68v22c0 13 10 23 23 23h24c13 0 23-10 23-23V68" class="figure-blue" stroke-width="5"/>
+                  <path d="M160 113v13" class="figure-dark" stroke-width="5"/>
+                  <path d="M91 76c0-9 7-16 16-16h11v39h-11c-9 0-16-7-16-16V76Z" class="figure-cyan" stroke-width="4"/>
+                </g>
+                <circle cx="58" cy="32" r="7" fill="#f28c28" opacity=".8"/>
+                <circle cx="268" cy="92" r="10" fill="#00a6d6" opacity=".22"/>
+                <circle cx="280" cy="32" r="5" fill="#005eb8" opacity=".25"/>
+              </svg>
+            </div>
             <span class="focus-number">01</span>
             <h3>HLA diagnostics</h3>
             <p>
-              Accredited HLA typing and antibody diagnostics, including clinical interpretation, donor-recipient compatibility assessment, donor-specific antibody evaluation, and direct consultation with transplant teams.
+              I lead accredited HLA typing and antibody diagnostics, including clinical interpretation, donor-recipient compatibility assessment, donor-specific antibody evaluation, and direct consultation with transplant teams.
             </p>
           </article>
 
           <article class="focus-card" id="epitope-matching">
+
+            <div class="focus-figure" aria-hidden="true">
+              <svg viewBox="0 0 320 132" xmlns="http://www.w3.org/2000/svg">
+                <rect width="320" height="132" fill="#f7fbfe"/>
+                <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M45 82c25-42 48-58 77-48 18 6 27 20 48 18 25-2 31-25 56-27 19-2 36 8 49 30" class="figure-blue" stroke-width="6"/>
+                  <path d="M49 92c28-21 50-27 76-19 19 6 32 17 51 17 24 0 38-15 57-16 18-1 30 5 42 16" class="figure-cyan" stroke-width="4"/>
+                  <path d="M89 55l17-8 18 8 16-9 18 9 17-8 18 8" class="figure-orange" stroke-width="7"/>
+                  <path d="M88 104h144" class="figure-dark" stroke-width="3"/>
+                </g>
+                <g fill="#f28c28">
+                  <circle cx="89" cy="55" r="5"/>
+                  <circle cx="106" cy="47" r="5"/>
+                  <circle cx="124" cy="55" r="5"/>
+                  <circle cx="140" cy="46" r="5"/>
+                  <circle cx="158" cy="55" r="5"/>
+                  <circle cx="175" cy="47" r="5"/>
+                  <circle cx="193" cy="55" r="5"/>
+                </g>
+                <g fill="#005eb8" opacity=".16">
+                  <circle cx="40" cy="33" r="11"/>
+                  <circle cx="275" cy="38" r="15"/>
+                  <circle cx="252" cy="107" r="8"/>
+                </g>
+              </svg>
+            </div>
             <span class="focus-number">02</span>
             <h3>Epitope matching</h3>
             <p>
-              Quantifying immunological compatibility through indirect T-cell epitope recognition, PIRCHE-II, B-cell epitope concepts, and combined risk models for rejection and graft outcome.
+              I quantify immunological compatibility through indirect T-cell epitope recognition, PIRCHE-II, B-cell epitope concepts, and combined risk models for rejection and graft outcome.
             </p>
           </article>
 
           <article class="focus-card" id="data-standards">
+
+            <div class="focus-figure" aria-hidden="true">
+              <svg viewBox="0 0 320 132" xmlns="http://www.w3.org/2000/svg">
+                <rect width="320" height="132" fill="#f7fbfe"/>
+                <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+                  <rect x="42" y="29" width="97" height="69" rx="9" class="figure-blue" stroke-width="5"/>
+                  <path d="M66 52h50M66 66h38M66 80h57" class="figure-cyan" stroke-width="4"/>
+                  <path d="M139 64h39" class="figure-orange" stroke-width="5"/>
+                  <path d="M178 64l-10-8M178 64l-10 8" class="figure-orange" stroke-width="5"/>
+                  <ellipse cx="230" cy="42" rx="42" ry="12" class="figure-dark" stroke-width="5"/>
+                  <path d="M188 42v45c0 7 19 13 42 13s42-6 42-13V42" class="figure-dark" stroke-width="5"/>
+                  <path d="M188 64c0 7 19 13 42 13s42-6 42-13M188 84c0 7 19 13 42 13s42-6 42-13" class="figure-dark" stroke-width="4"/>
+                </g>
+                <g fill="#f28c28">
+                  <circle cx="157" cy="64" r="5"/>
+                  <circle cx="176" cy="64" r="5"/>
+                </g>
+              </svg>
+            </div>
             <span class="focus-number">03</span>
             <h3>Data standards</h3>
             <p>
-              Developing interoperable representations for HLA and antibody data, including GL String, HML, HAML, and related structures that support reproducible exchange between laboratories, registries, software, and research systems.
+              I develop interoperable representations for HLA and antibody data, including GL String, HML, HAML, and related structures that support reproducible exchange between laboratories, registries, software, and research systems.
             </p>
           </article>
 
           <article class="focus-card" id="clinical-implementation">
+
+            <div class="focus-figure" aria-hidden="true">
+              <svg viewBox="0 0 320 132" xmlns="http://www.w3.org/2000/svg">
+                <rect width="320" height="132" fill="#f7fbfe"/>
+                <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+                  <circle cx="87" cy="42" r="18" class="figure-blue" stroke-width="5"/>
+                  <path d="M54 101c3-26 15-39 33-39s30 13 33 39" class="figure-blue" stroke-width="5"/>
+                  <circle cx="224" cy="42" r="18" class="figure-cyan" stroke-width="5"/>
+                  <path d="M191 101c3-26 15-39 33-39s30 13 33 39" class="figure-cyan" stroke-width="5"/>
+                  <path d="M119 70h72" class="figure-orange" stroke-width="6"/>
+                  <path d="M177 58l14 12-14 12" class="figure-orange" stroke-width="6"/>
+                  <rect x="130" y="28" width="48" height="27" rx="7" class="figure-dark" stroke-width="4"/>
+                  <path d="M145 42h18M154 33v18" class="figure-dark" stroke-width="4"/>
+                  <path d="M63 108h48M200 108h48" class="figure-dark" stroke-width="4"/>
+                </g>
+                <circle cx="154" cy="94" r="10" fill="#f28c28" opacity=".2"/>
+              </svg>
+            </div>
             <span class="focus-number">04</span>
             <h3>Clinical implementation</h3>
             <p>
-              Translating assays, algorithms, and data models into validated workflows, interpretable reports, decision support, and infrastructure for routine transplantation care.
+              I translate assays, algorithms, and data models into validated workflows, interpretable reports, decision support, and infrastructure for routine transplantation care.
             </p>
           </article>
         </div>
@@ -956,7 +1150,7 @@
           <div>
             <h2>Institutional and international responsibilities</h2>
             <p class="section-intro">
-              His work links laboratory leadership at UMC Utrecht with scientific, educational, and standardization activities in international histocompatibility and immunogenetics networks.
+              My work links laboratory leadership at UMC Utrecht with scientific, educational, and standardization activities in international histocompatibility and immunogenetics networks.
             </p>
           </div>
         </div>
@@ -966,7 +1160,7 @@
             <div class="role-icon">CDL</div>
             <div>
               <h3>Director Transplantation Diagnostics</h3>
-              <p>Scientific and professional responsibility for HLA and transplantation diagnostics within the Central Diagnostic Laboratory at UMC Utrecht.</p>
+              <p>I hold scientific and professional responsibility for HLA and transplantation diagnostics within the Central Diagnostic Laboratory at UMC Utrecht.</p>
             </div>
           </article>
 
@@ -974,7 +1168,7 @@
             <div class="role-icon">UU</div>
             <div>
               <h3>Associate Professor</h3>
-              <p>Research, supervision, teaching, and academic development in transplantation immunology and immunogenetics.</p>
+              <p>I conduct research, supervise researchers and students, teach, and contribute to academic development in transplantation immunology and immunogenetics.</p>
             </div>
           </article>
 
@@ -982,7 +1176,7 @@
             <div class="role-icon">EFI</div>
             <div>
               <h3>EFI Scientific Committee and BITCom</h3>
-              <p>Member of the EFI Scientific Committee and founding chair of the Bioinformatics and Information Technology Committee.</p>
+              <p>I am a member of the EFI Scientific Committee and founding chair of the Bioinformatics and Information Technology Committee.</p>
             </div>
           </article>
 
@@ -990,7 +1184,7 @@
             <div class="role-icon">M</div>
             <div>
               <h3>Secondment at Matchis</h3>
-              <p>Seconded to Matchis to strengthen the connection between donor registry practice, HLA expertise, research development, and implementation of improved matching strategies.</p>
+              <p>Through my secondment at Matchis, I strengthen the connection between donor registry practice, HLA expertise, research development, and implementation of improved matching strategies.</p>
             </div>
           </article>
 
@@ -998,7 +1192,7 @@
             <div class="role-icon">TCU</div>
             <div>
               <h3>Diagnostics ambassador</h3>
-              <p>Representative for the diagnostics pillar within the Transplantation Center Utrecht, connecting laboratory disciplines with care, research, innovation, and education.</p>
+              <p>As diagnostics ambassador within the Transplantation Center Utrecht, I connect laboratory disciplines with care, research, innovation, and education.</p>
             </div>
           </article>
 
@@ -1006,7 +1200,7 @@
             <div class="role-icon">AI</div>
             <div>
               <h3>Data-driven diagnostics and AI</h3>
-              <p>CDL-wide leadership in data-driven working and artificial intelligence, including operational dashboards, workflow analytics, and diagnostic decision support.</p>
+              <p>I lead CDL-wide development in data-driven working and artificial intelligence, including operational dashboards, workflow analytics, and diagnostic decision support.</p>
             </div>
           </article>
         </div>
@@ -1209,19 +1403,19 @@
           <article class="timeline-item">
             <div class="timeline-time">Academic development</div>
             <h3>Transplantation immunology and immunogenetics</h3>
-            <p>Development of a research line integrating donor-recipient matching, PIRCHE, antibody risk, immune monitoring, computational models, and clinical implementation.</p>
+            <p>I developed a research line integrating donor-recipient matching, PIRCHE, antibody risk, immune monitoring, computational models, and clinical implementation.</p>
           </article>
 
           <article class="timeline-item">
             <div class="timeline-time">Postdoctoral period</div>
             <h3>Minor histocompatibility antigens</h3>
-            <p>Postdoctoral research in the laboratory of Els Goulmy, expanding expertise from HLA into cellular allo-immunity and minor histocompatibility antigens.</p>
+            <p>I conducted postdoctoral research in the laboratory of Els Goulmy, expanding my expertise from HLA into cellular allo-immunity and minor histocompatibility antigens.</p>
           </article>
 
           <article class="timeline-item">
             <div class="timeline-time">Education</div>
             <h3>Leiden University Medical Center</h3>
-            <p>MSc in Biomedical Sciences and PhD in Immunology. First practical HLA experience in 1992 through PCR-SSOP work with Marius Giphart.</p>
+            <p>I completed an MSc in Biomedical Sciences and a PhD in Immunology. My first practical HLA experience was in 1992 through PCR-SSOP work with Marius Giphart.</p>
           </article>
         </div>
       </div>
@@ -1267,50 +1461,178 @@
   </footer>
 
   <script>
-    const filterButtons = document.querySelectorAll(".filter-button");
+    const PUBLICATION_DATA_URL = "publications.json";
+
+    const state = {
+      publications: [],
+      view: "key",
+      category: "all"
+    };
+
+    const listElement = document.getElementById("publication-list");
+    const countElement = document.getElementById("publication-count");
+    const statusElement = document.getElementById("orcid-status");
     const viewButtons = document.querySelectorAll(".view-button");
-    const publications = document.querySelectorAll(".publication");
-    const publicationCount = document.getElementById("publication-count");
+    const filterButtons = document.querySelectorAll(".filter-button");
 
-    let currentView = "key";
-    let currentFilter = "all";
+    function escapeHtml(value) {
+      return String(value ?? "")
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
 
-    function updatePublications() {
-      let visibleCount = 0;
+    function formatAuthors(authors) {
+      if (!Array.isArray(authors) || authors.length === 0) return "";
+      return authors.map(escapeHtml).join(", ");
+    }
 
-      publications.forEach((publication) => {
-        const categories = publication.dataset.category.split(" ");
-        const matchesView = currentView === "all" || publication.dataset.key === "true";
-        const matchesFilter = currentFilter === "all" || categories.includes(currentFilter);
-        const show = matchesView && matchesFilter;
+    function publicationUrl(publication) {
+      if (publication.doi) {
+        return "https://doi.org/" + encodeURIComponent(publication.doi);
+      }
+      return publication.url || "";
+    }
 
-        publication.classList.toggle("hidden-publication", !show);
-        if (show) visibleCount += 1;
+    function compareByDateDescending(a, b) {
+      const dateA = a.sortDate || `${a.year || 0}-00-00`;
+      const dateB = b.sortDate || `${b.year || 0}-00-00`;
+      return dateB.localeCompare(dateA);
+    }
+
+    function compareKeyPublications(a, b) {
+      const impactA = Number(a.impactFactor || 0);
+      const impactB = Number(b.impactFactor || 0);
+
+      if (impactB !== impactA) return impactB - impactA;
+      return compareByDateDescending(a, b);
+    }
+
+    function visiblePublications() {
+      const filtered = state.publications.filter((publication) => {
+        const matchesView = state.view === "all" || publication.key === true;
+        const categories = Array.isArray(publication.categories)
+          ? publication.categories
+          : ["other"];
+        const matchesCategory =
+          state.category === "all" || categories.includes(state.category);
+
+        return matchesView && matchesCategory;
       });
 
-      publicationCount.textContent =
-        visibleCount + (visibleCount === 1 ? " publication" : " publications");
+      return filtered.sort(
+        state.view === "key" ? compareKeyPublications : compareByDateDescending
+      );
+    }
+
+    function renderPublications() {
+      const publications = visiblePublications();
+
+      countElement.textContent =
+        publications.length +
+        (publications.length === 1 ? " publication" : " publications");
+
+      if (publications.length === 0) {
+        listElement.innerHTML =
+          '<div class="orcid-status">No publications match this selection.</div>';
+        return;
+      }
+
+      listElement.innerHTML = publications.map((publication) => {
+        const url = publicationUrl(publication);
+        const title = escapeHtml(publication.title || "Untitled work");
+        const linkedTitle = url
+          ? `<a class="publication-link" href="${escapeHtml(url)}" target="_blank" rel="noreferrer">${title}</a>`
+          : title;
+
+        const authors = formatAuthors(publication.authors);
+        const journal = escapeHtml(publication.journal || publication.typeLabel || "");
+        const volumeIssue = escapeHtml(publication.volumeIssuePages || "");
+        const metadata = [authors, journal, volumeIssue]
+          .filter(Boolean)
+          .join(". ");
+
+        const impactFactor = publication.impactFactor
+          ? `<div class="publication-if"><strong>Journal impact factor used for ordering:</strong> ${escapeHtml(publication.impactFactor)}</div>`
+          : "";
+
+        const keyLabel = publication.key
+          ? '<span class="publication-key">Key publication</span>'
+          : "";
+
+        const categoryLabel = escapeHtml(
+          publication.primaryCategoryLabel || "Other"
+        );
+
+        return `
+          <article class="publication ${publication.key ? "key-publication" : ""}">
+            <div class="publication-year">${escapeHtml(publication.year || "n.d.")}</div>
+            <div>
+              ${keyLabel}
+              <h3>${linkedTitle}</h3>
+              <p class="publication-meta">${metadata}</p>
+              ${impactFactor}
+            </div>
+            <div class="publication-tag">${categoryLabel}</div>
+          </article>
+        `;
+      }).join("");
+    }
+
+    async function loadPublications() {
+      try {
+        const response = await fetch(
+          `${PUBLICATION_DATA_URL}?v=${Date.now()}`,
+          { cache: "no-store" }
+        );
+
+        if (!response.ok) {
+          throw new Error(`Publication dataset returned HTTP ${response.status}`);
+        }
+
+        const dataset = await response.json();
+        state.publications = Array.isArray(dataset.publications)
+          ? dataset.publications
+          : [];
+
+        statusElement.innerHTML =
+          `<strong>${state.publications.length} ORCID works loaded.</strong> ` +
+          `Dataset last refreshed ${escapeHtml(dataset.generatedAt || "at an unknown time")}.`;
+        statusElement.classList.remove("error");
+
+        renderPublications();
+      } catch (error) {
+        console.error(error);
+        statusElement.innerHTML =
+          "<strong>The ORCID dataset could not be loaded.</strong> " +
+          "Run the GitHub Action once and confirm that publications.json exists in the repository root.";
+        statusElement.classList.add("error");
+        listElement.innerHTML = "";
+        countElement.textContent = "";
+      }
     }
 
     viewButtons.forEach((button) => {
       button.addEventListener("click", () => {
-        currentView = button.dataset.view;
+        state.view = button.dataset.view;
         viewButtons.forEach((item) => item.classList.remove("active"));
         button.classList.add("active");
-        updatePublications();
+        renderPublications();
       });
     });
 
     filterButtons.forEach((button) => {
       button.addEventListener("click", () => {
-        currentFilter = button.dataset.filter;
+        state.category = button.dataset.filter;
         filterButtons.forEach((item) => item.classList.remove("active"));
         button.classList.add("active");
-        updatePublications();
+        renderPublications();
       });
     });
 
-    updatePublications();
+    loadPublications();
   </script>
 </body>
 </html>
