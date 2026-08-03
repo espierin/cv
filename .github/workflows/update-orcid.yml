@@ -1,1 +1,46 @@
+name: Refresh ORCID publications
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+  push:
+    paths:
+      - "scripts/fetch-orcid.mjs"
+      - "publication-config.json"
+      - ".github/workflows/update-orcid.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Fetch complete ORCID works record
+        env:
+          ORCID_CLIENT_ID: ${{ secrets.ORCID_CLIENT_ID }}
+          ORCID_CLIENT_SECRET: ${{ secrets.ORCID_CLIENT_SECRET }}
+        run: node scripts/fetch-orcid.mjs
+
+      - name: Commit refreshed publications.json
+        run: |
+          if git diff --quiet publications.json; then
+            echo "No publication changes detected."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add publications.json
+          git commit -m "Refresh ORCID publication record"
+          git push
