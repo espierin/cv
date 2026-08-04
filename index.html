@@ -2647,6 +2647,33 @@
       }
     }
 
+  
+    /* Explicit visual navigation order */
+    .primary-nav {
+      flex-wrap: nowrap;
+      white-space: nowrap;
+      gap: 18px;
+    }
+
+    .primary-nav .nav-profile { order: 1; }
+    .primary-nav .nav-roles { order: 2; }
+    .primary-nav .nav-career { order: 3; }
+    .primary-nav .nav-focus { order: 4; }
+    .primary-nav .nav-initiatives { order: 5; }
+    .primary-nav .nav-insights { order: 6; }
+    .primary-nav .nav-publications { order: 7; }
+    .primary-nav .nav-contact { order: 8; }
+
+    @media (max-width: 1180px) and (min-width: 861px) {
+      .primary-nav {
+        gap: 13px;
+      }
+
+      .primary-nav a {
+        font-size: 0.84rem;
+      }
+    }
+
   </style>
 
   <meta name="author" content="Eric Spierings">
@@ -2703,14 +2730,14 @@
       </a>
 
       <nav class="primary-nav" aria-label="Main navigation">
-        <a href="#profile">Profile</a>
-        <a href="#roles">Roles</a>
-        <a href="#career">Career</a>
-        <a href="#focus">Focus</a>
-        <a href="#initiatives">Initiatives</a>
-        <a href="#insights">Insights</a>
-        <a href="#publications">Publications</a>
-        <a href="#contact">Contact</a>
+        <a class="nav-profile" href="#profile">Profile</a>
+        <a class="nav-roles" href="#roles">Roles</a>
+        <a class="nav-career" href="#career">Career</a>
+        <a class="nav-focus" href="#focus">Focus</a>
+        <a class="nav-initiatives" href="#initiatives">Initiatives</a>
+        <a class="nav-insights" href="#insights">Insights</a>
+        <a class="nav-publications" href="#publications">Publications</a>
+        <a class="nav-contact" href="#contact">Contact</a>
       </nav>
 
       <div class="nav-controls">
