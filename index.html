@@ -1634,22 +1634,27 @@
 
     .timeline-chart {
       display: flex;
-      align-items: end;
+      align-items: flex-end;
       gap: 5px;
+      height: 220px;
       min-height: 220px;
+      max-height: 220px;
       overflow-x: auto;
-      padding: 20px 2px 3px;
+      overflow-y: hidden;
+      padding: 18px 2px 18px;
       border-bottom: 1px solid var(--line);
+      scrollbar-gutter: stable;
     }
 
     .year-bar-wrap {
       min-width: 28px;
-      height: 185px;
+      height: 176px;
       display: flex;
+      flex: 0 0 auto;
       flex-direction: column;
       justify-content: flex-end;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
     }
 
     .year-bar-value {
@@ -1670,7 +1675,7 @@
       transform: rotate(-55deg);
       transform-origin: center;
       white-space: nowrap;
-      margin-bottom: -16px;
+      margin-bottom: -12px;
     }
 
     .theme-bars,
@@ -2001,6 +2006,312 @@
       background: #eef7fc;
     }
 
+
+    /* Refined high-contrast dark theme */
+    html[data-theme="dark"] {
+      color-scheme: dark;
+      --ink: #f3f7fb;
+      --muted: #c3cfda;
+      --line: #3b5870;
+      --soft: #102b40;
+      --white: #081c2b;
+      --umcu-blue: #4ea3e3;
+      --umcu-blue-dark: #d8ecfb;
+      --umcu-blue-soft: #173b55;
+      --umcu-cyan: #45c4e8;
+      --umcu-orange: #ffad5b;
+      --umcu-orange-soft: #4a301b;
+      --shadow: 0 16px 38px rgba(0, 0, 0, 0.34);
+    }
+
+    html[data-theme="dark"] body {
+      color: var(--ink);
+      background: #061521;
+    }
+
+    html[data-theme="dark"] .site-header {
+      background: rgba(8, 28, 43, 0.97);
+      border-bottom-color: #35536b;
+    }
+
+    html[data-theme="dark"] .wordmark,
+    html[data-theme="dark"] .wordmark-text strong {
+      color: #f4f9fd;
+    }
+
+    html[data-theme="dark"] .wordmark-text span,
+    html[data-theme="dark"] .primary-nav a {
+      color: #c3cfda;
+    }
+
+    html[data-theme="dark"] .primary-nav a:hover,
+    html[data-theme="dark"] .primary-nav a:focus,
+    html[data-theme="dark"] .primary-nav a.active {
+      color: #ffffff;
+    }
+
+    html[data-theme="dark"] .hero {
+      background:
+        radial-gradient(circle at 85% 10%, rgba(69, 196, 232, 0.12), transparent 34%),
+        linear-gradient(135deg, #071d2e 0%, #0b2a41 58%, #0d3651 100%);
+      border-bottom-color: #35536b;
+    }
+
+    html[data-theme="dark"] .hero::after {
+      background:
+        radial-gradient(circle at 50% 50%, rgba(78, 163, 227, 0.20), rgba(69, 196, 232, 0.06) 58%, transparent 72%);
+    }
+
+    html[data-theme="dark"] .hero-name,
+    html[data-theme="dark"] .hero-role,
+    html[data-theme="dark"] .section-head h2,
+    html[data-theme="dark"] .panel-title,
+    html[data-theme="dark"] .focus-card h3,
+    html[data-theme="dark"] .role-card h3,
+    html[data-theme="dark"] .initiative-card h3,
+    html[data-theme="dark"] .publication h3,
+    html[data-theme="dark"] .analytics-head h3,
+    html[data-theme="dark"] .timeline-item h3,
+    html[data-theme="dark"] .mission,
+    html[data-theme="dark"] .fact-list strong,
+    html[data-theme="dark"] .metrics-line strong,
+    html[data-theme="dark"] .insight-card strong {
+      color: #f4f9fd;
+    }
+
+    html[data-theme="dark"] .hero-summary,
+    html[data-theme="dark"] .section-intro,
+    html[data-theme="dark"] .panel p,
+    html[data-theme="dark"] .focus-card p,
+    html[data-theme="dark"] .role-card p,
+    html[data-theme="dark"] .initiative-card p,
+    html[data-theme="dark"] .publication-meta,
+    html[data-theme="dark"] .publication-if,
+    html[data-theme="dark"] .publication-citations,
+    html[data-theme="dark"] .fact-list span,
+    html[data-theme="dark"] .timeline-item p,
+    html[data-theme="dark"] .timeline-time,
+    html[data-theme="dark"] .metrics-line,
+    html[data-theme="dark"] .insight-label,
+    html[data-theme="dark"] .analytics-head span,
+    html[data-theme="dark"] .most-cited-list li,
+    html[data-theme="dark"] .type-row,
+    html[data-theme="dark"] .theme-row,
+    html[data-theme="dark"] .orcid-status,
+    html[data-theme="dark"] .publication-count {
+      color: #c3cfda;
+    }
+
+    html[data-theme="dark"] .section-alt {
+      background: #0b2335;
+      border-color: #35536b;
+    }
+
+    html[data-theme="dark"] .panel,
+    html[data-theme="dark"] .focus-card,
+    html[data-theme="dark"] .role-card,
+    html[data-theme="dark"] .initiative-card,
+    html[data-theme="dark"] .publication,
+    html[data-theme="dark"] .insight-card,
+    html[data-theme="dark"] .analytics-panel,
+    html[data-theme="dark"] .portrait-card,
+    html[data-theme="dark"] .orcid-status {
+      color: var(--ink);
+      background: #0d2a3f;
+      border-color: #3b5870;
+      box-shadow: var(--shadow);
+    }
+
+    html[data-theme="dark"] .role-card.role-primary {
+      background: linear-gradient(135deg, #0d2a3f, #123a55);
+      border-color: #4f7592;
+    }
+
+    html[data-theme="dark"] .publication.key-publication {
+      border-left-color: #ffad5b;
+    }
+
+    html[data-theme="dark"] .publication-year,
+    html[data-theme="dark"] .section-label,
+    html[data-theme="dark"] .focus-number,
+    html[data-theme="dark"] .initiative-number,
+    html[data-theme="dark"] .publication-key,
+    html[data-theme="dark"] .abstract-heading {
+      color: #ffbd7a;
+    }
+
+    html[data-theme="dark"] .publication-tag,
+    html[data-theme="dark"] .micro-badge,
+    html[data-theme="dark"] .keyword-chip {
+      color: #e7f5ff;
+      background: #184563;
+      border-color: #4b718c;
+    }
+
+    html[data-theme="dark"] .micro-badge.orange {
+      color: #ffe2bf;
+      background: #563719;
+    }
+
+    html[data-theme="dark"] .micro-badge.green {
+      color: #d7ffec;
+      background: #164a38;
+    }
+
+    html[data-theme="dark"] .button-secondary,
+    html[data-theme="dark"] .view-button,
+    html[data-theme="dark"] .filter-button,
+    html[data-theme="dark"] .publication-action,
+    html[data-theme="dark"] .nav-control,
+    html[data-theme="dark"] .publication-search,
+    html[data-theme="dark"] .publication-selects select {
+      color: #edf7ff;
+      background: #102f46;
+      border-color: #557890;
+    }
+
+    html[data-theme="dark"] .button-secondary:hover,
+    html[data-theme="dark"] .view-button:hover,
+    html[data-theme="dark"] .view-button.active,
+    html[data-theme="dark"] .filter-button:hover,
+    html[data-theme="dark"] .filter-button.active,
+    html[data-theme="dark"] .publication-action:hover,
+    html[data-theme="dark"] .publication-action:focus,
+    html[data-theme="dark"] .nav-control:hover {
+      color: #061521;
+      background: #77c4f0;
+      border-color: #77c4f0;
+    }
+
+    html[data-theme="dark"] .publication-action.abstract-unavailable {
+      color: #9fb0bd;
+      background: #10283a;
+      border-color: #3b5870;
+    }
+
+    html[data-theme="dark"] .publication-search::placeholder {
+      color: #9fb0bd;
+      opacity: 1;
+    }
+
+    html[data-theme="dark"] .clear-search {
+      color: #d6e2ec;
+    }
+
+    html[data-theme="dark"] .bar-track {
+      background: #173a50;
+    }
+
+    html[data-theme="dark"] .bar-fill {
+      background: linear-gradient(90deg, #4ea3e3, #45c4e8);
+    }
+
+    html[data-theme="dark"] .timeline-chart,
+    html[data-theme="dark"] .citation-sparkline {
+      border-bottom-color: #3b5870;
+    }
+
+    html[data-theme="dark"] .year-bar-value,
+    html[data-theme="dark"] .year-bar-label,
+    html[data-theme="dark"] .citation-year {
+      color: #b9c7d2;
+    }
+
+    html[data-theme="dark"] .abstract-modal-backdrop {
+      background: rgba(0, 10, 18, 0.82);
+    }
+
+    html[data-theme="dark"] .abstract-modal-dialog {
+      color: var(--ink);
+      background: #0b2538;
+      border-color: #557890;
+    }
+
+    html[data-theme="dark"] .abstract-modal-header {
+      background: linear-gradient(135deg, #0b3554, #0f6093);
+    }
+
+    html[data-theme="dark"] .abstract-modal-kicker {
+      color: #ffd2a1;
+    }
+
+    html[data-theme="dark"] .abstract-modal-meta,
+    html[data-theme="dark"] .abstract-text {
+      color: #d5e0e8;
+    }
+
+    html[data-theme="dark"] .abstract-modal-meta strong,
+    html[data-theme="dark"] .publication-details dd {
+      color: #f2f8fc;
+    }
+
+    html[data-theme="dark"] .publication-details {
+      border-color: #46677f;
+    }
+
+    html[data-theme="dark"] .publication-details div {
+      border-bottom-color: #3b5870;
+      background: #102f46;
+    }
+
+    html[data-theme="dark"] .publication-details div:nth-child(odd) {
+      border-right-color: #3b5870;
+    }
+
+    html[data-theme="dark"] .publication-details dt {
+      color: #b8c6d1;
+    }
+
+    html[data-theme="dark"] .related-paper {
+      color: #edf7ff;
+      background: #102f46;
+      border-color: #46677f;
+    }
+
+    html[data-theme="dark"] .related-paper:hover,
+    html[data-theme="dark"] .related-paper:focus-visible {
+      background: #17435f;
+      border-color: #77c4f0;
+    }
+
+    html[data-theme="dark"] .related-paper span {
+      color: #bcc9d3;
+    }
+
+    html[data-theme="dark"] .focus-figure {
+      background: #eaf4fb;
+      border-color: #557890;
+    }
+
+    html[data-theme="dark"] .contact-band {
+      background: #041522;
+    }
+
+    html[data-theme="dark"] .contact-card {
+      background: #0c2b41;
+      border-color: #456780;
+    }
+
+    html[data-theme="dark"] .contact-card:hover,
+    html[data-theme="dark"] .contact-card:focus-visible {
+      background: #123b56;
+      border-color: #79c8f3;
+    }
+
+    html[data-theme="dark"] .contact-copy span {
+      color: #c4d1db;
+    }
+
+    html[data-theme="dark"] .site-footer {
+      background: #03111b;
+      color: #b8c6d1;
+    }
+
+    html[data-theme="dark"] :focus-visible {
+      outline-color: #ffbd7a;
+    }
+
+
     @media (max-width: 1120px) {
       .nav-shell {
         grid-template-columns: auto auto;
@@ -2107,6 +2418,516 @@
     }
 
   
+    /* Refined contact section */
+    .contact-band {
+      position: relative;
+      overflow: hidden;
+      padding: 72px 0 78px;
+      color: white;
+      background:
+        radial-gradient(circle at 88% 18%, rgba(16, 126, 204, 0.16), transparent 34%),
+        linear-gradient(135deg, #061f3f 0%, #082b54 58%, #0b3968 100%);
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .contact-pattern {
+      position: absolute;
+      right: -80px;
+      top: -100px;
+      width: 620px;
+      height: 620px;
+      opacity: 0.28;
+      pointer-events: none;
+      background:
+        radial-gradient(circle, rgba(44, 152, 229, 0.55) 0 1.5px, transparent 1.8px);
+      background-size: 18px 18px;
+      -webkit-mask-image: radial-gradient(circle at center, black 0, transparent 70%);
+      mask-image: radial-gradient(circle at center, black 0, transparent 70%);
+      transform: rotate(18deg);
+    }
+
+    .contact-layout {
+      position: relative;
+      z-index: 1;
+    }
+
+    .contact-intro {
+      max-width: 760px;
+      margin-bottom: 34px;
+    }
+
+    .contact-label {
+      margin-bottom: 8px;
+      color: #7fc7f4;
+    }
+
+    .contact-intro h2 {
+      margin: 0 0 14px;
+      color: white;
+      font-size: clamp(2rem, 4vw, 3.2rem);
+      line-height: 1.05;
+      letter-spacing: -0.02em;
+    }
+
+    .contact-intro p {
+      max-width: 720px;
+      margin: 0;
+      color: rgba(255, 255, 255, 0.76);
+      font-size: 1rem;
+      line-height: 1.7;
+    }
+
+    .contact-links {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 20px;
+    }
+
+    .contact-card {
+      position: relative;
+      min-width: 0;
+      min-height: 180px;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      grid-template-rows: 1fr auto;
+      align-items: center;
+      gap: 18px 20px;
+      padding: 26px 24px 22px;
+      border: 1px solid rgba(173, 213, 241, 0.32);
+      border-radius: 20px;
+      color: white;
+      background: linear-gradient(145deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.025));
+      text-decoration: none;
+      box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.04),
+        0 18px 35px rgba(0, 17, 36, 0.16);
+      transition:
+        transform 0.18s ease,
+        border-color 0.18s ease,
+        background 0.18s ease,
+        box-shadow 0.18s ease;
+    }
+
+    .contact-card:hover,
+    .contact-card:focus-visible {
+      transform: translateY(-4px);
+      border-color: rgba(141, 207, 248, 0.66);
+      background: linear-gradient(145deg, rgba(255, 255, 255, 0.11), rgba(255, 255, 255, 0.045));
+      box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.08),
+        0 22px 42px rgba(0, 17, 36, 0.28);
+    }
+
+    .contact-icon {
+      width: 72px;
+      height: 72px;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      color: white;
+      border: 1px solid rgba(255, 255, 255, 0.28);
+      box-shadow:
+        0 0 0 7px rgba(255, 255, 255, 0.035),
+        0 10px 26px rgba(0, 0, 0, 0.20);
+    }
+
+    .contact-icon-email {
+      background: radial-gradient(circle at 35% 30%, #238be5, #0a4c98 72%);
+      box-shadow:
+        0 0 0 7px rgba(38, 137, 229, 0.12),
+        0 0 24px rgba(38, 137, 229, 0.42);
+    }
+
+    .contact-icon-orcid {
+      background: radial-gradient(circle at 35% 30%, #38d0d5, #119fa8 72%);
+      box-shadow:
+        0 0 0 7px rgba(32, 197, 205, 0.12),
+        0 0 24px rgba(32, 197, 205, 0.38);
+    }
+
+    .contact-icon-scholar {
+      background: radial-gradient(circle at 35% 30%, #ffb255, #f18419 72%);
+      box-shadow:
+        0 0 0 7px rgba(241, 132, 25, 0.12),
+        0 0 24px rgba(241, 132, 25, 0.40);
+    }
+
+    .contact-icon-linkedin {
+      background: radial-gradient(circle at 35% 30%, #1d8fd2, #0a5d99 72%);
+      box-shadow:
+        0 0 0 7px rgba(29, 143, 210, 0.12),
+        0 0 24px rgba(29, 143, 210, 0.38);
+    }
+
+    .contact-icon svg {
+      width: 38px;
+      height: 38px;
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 2.3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+
+    .contact-icon .contact-icon-fill {
+      fill: currentColor;
+      stroke: none;
+    }
+
+    .contact-copy {
+      min-width: 0;
+    }
+
+    .contact-copy strong {
+      display: block;
+      margin-bottom: 7px;
+      color: white;
+      font-size: 1.04rem;
+      line-height: 1.2;
+    }
+
+    .contact-copy span {
+      display: block;
+      color: rgba(255, 255, 255, 0.72);
+      font-size: 0.9rem;
+      line-height: 1.45;
+      overflow-wrap: anywhere;
+    }
+
+    .contact-arrow {
+      grid-column: 2;
+      justify-self: end;
+      color: #32a8f0;
+      font-size: 1.9rem;
+      line-height: 1;
+      transition: transform 0.18s ease;
+    }
+
+    .contact-card-orcid .contact-arrow {
+      color: #24c3ca;
+    }
+
+    .contact-card-scholar .contact-arrow {
+      color: #ff9f30;
+    }
+
+    .contact-card:hover .contact-arrow,
+    .contact-card:focus-visible .contact-arrow {
+      transform: translateX(4px);
+    }
+
+    @media (max-width: 980px) {
+      .contact-links {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 620px) {
+      .contact-band {
+        padding: 56px 0 60px;
+      }
+
+      .contact-links {
+        grid-template-columns: 1fr;
+      }
+
+      .contact-card {
+        min-height: 148px;
+      }
+
+      .contact-icon {
+        width: 64px;
+        height: 64px;
+      }
+
+      .contact-icon svg {
+        width: 34px;
+        height: 34px;
+      }
+    }
+
+  
+    /* Explicit visual navigation order */
+    .primary-nav {
+      flex-wrap: nowrap;
+      white-space: nowrap;
+      gap: 18px;
+    }
+
+    .primary-nav .nav-profile { order: 1; }
+    .primary-nav .nav-roles { order: 2; }
+    .primary-nav .nav-activities { order: 3; }
+    .primary-nav .nav-career { order: 4; }
+    .primary-nav .nav-focus { order: 5; }
+    .primary-nav .nav-initiatives { order: 6; }
+    .primary-nav .nav-insights { order: 7; }
+    .primary-nav .nav-publications { order: 8; }
+    .primary-nav .nav-contact { order: 9; }
+
+    @media (max-width: 1180px) and (min-width: 861px) {
+      .primary-nav {
+        gap: 13px;
+      }
+
+      .primary-nav a {
+        font-size: 0.84rem;
+      }
+    }
+
+  
+    /* Activities */
+    .activities-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 22px;
+      align-items: stretch;
+    }
+
+    .activities-panel {
+      min-width: 0;
+      min-height: 440px;
+      display: flex;
+      flex-direction: column;
+      padding: 26px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      background: white;
+      box-shadow: var(--shadow);
+    }
+
+    .activities-upcoming {
+      border-top: 5px solid var(--umcu-orange);
+    }
+
+    .activities-history {
+      border-top: 5px solid var(--umcu-blue);
+    }
+
+    .activities-panel-head {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 18px;
+      margin-bottom: 22px;
+    }
+
+    .activities-kicker {
+      margin: 0 0 5px;
+      color: var(--muted);
+      font-size: 0.7rem;
+      font-weight: 800;
+      letter-spacing: 0.11em;
+      text-transform: uppercase;
+    }
+
+    .activities-panel h3 {
+      margin: 0;
+      color: var(--umcu-blue-dark);
+      font-size: 1.35rem;
+    }
+
+    .activities-count {
+      min-width: 36px;
+      height: 36px;
+      display: inline-grid;
+      place-items: center;
+      padding: 0 10px;
+      border-radius: 999px;
+      color: var(--umcu-blue-dark);
+      background: var(--umcu-blue-soft);
+      font-size: 0.84rem;
+      font-weight: 800;
+    }
+
+    .activities-upcoming .activities-count {
+      color: #8a4700;
+      background: var(--umcu-orange-soft);
+    }
+
+    .activities-list {
+      display: grid;
+      gap: 12px;
+    }
+
+    .activity-item {
+      display: grid;
+      grid-template-columns: 88px minmax(0, 1fr);
+      gap: 16px;
+      align-items: start;
+      padding: 16px 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .activity-item:first-child {
+      padding-top: 0;
+      border-top: 0;
+    }
+
+    .activity-date {
+      display: grid;
+      gap: 3px;
+      color: var(--umcu-blue-dark);
+      font-size: 0.78rem;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+
+    .activity-date strong {
+      color: var(--umcu-orange);
+      font-size: 1.08rem;
+      line-height: 1.1;
+    }
+
+    .activity-content {
+      min-width: 0;
+    }
+
+    .activity-content h4 {
+      margin: 0 0 5px;
+      color: var(--umcu-blue-dark);
+      font-size: 1rem;
+      line-height: 1.32;
+    }
+
+    .activity-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px 10px;
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.5;
+    }
+
+    .activity-meta span + span::before {
+      content: "·";
+      margin-right: 10px;
+      color: var(--umcu-orange);
+    }
+
+    .activity-link {
+      display: inline-flex;
+      margin-top: 8px;
+      color: var(--umcu-blue);
+      font-size: 0.8rem;
+      font-weight: 800;
+      text-decoration: none;
+    }
+
+    .activity-link:hover {
+      text-decoration: underline;
+    }
+
+    .activities-history-scroll {
+      height: 340px;
+      min-height: 340px;
+      max-height: 340px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      padding-right: 9px;
+      scrollbar-width: thin;
+      scrollbar-color: var(--umcu-blue) transparent;
+      scroll-behavior: smooth;
+    }
+
+    .activities-history-scroll::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    .activities-history-scroll::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .activities-history-scroll::-webkit-scrollbar-thumb {
+      border-radius: 999px;
+      background: rgba(0, 94, 184, 0.42);
+    }
+
+    .activities-empty {
+      padding: 24px 0;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .activities-source {
+      margin: 16px 0 0;
+      color: var(--muted);
+      font-size: 0.78rem;
+    }
+
+    html[data-theme="dark"] .activities-panel {
+      color: var(--ink);
+      background: #0d2a3f;
+      border-color: #3b5870;
+    }
+
+    html[data-theme="dark"] .activities-panel h3,
+    html[data-theme="dark"] .activity-content h4,
+    html[data-theme="dark"] .activity-date {
+      color: #f4f9fd;
+    }
+
+    html[data-theme="dark"] .activity-meta,
+    html[data-theme="dark"] .activities-kicker,
+    html[data-theme="dark"] .activities-source,
+    html[data-theme="dark"] .activities-empty {
+      color: #c3cfda;
+    }
+
+    @media (max-width: 860px) {
+      .activities-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .activities-panel {
+        min-height: auto;
+      }
+    }
+
+    @media (max-width: 520px) {
+      .activities-panel {
+        padding: 20px;
+      }
+
+      .activity-item {
+        grid-template-columns: 72px minmax(0, 1fr);
+        gap: 12px;
+      }
+
+      .activities-history-scroll {
+        height: 330px;
+        min-height: 330px;
+        max-height: 330px;
+      }
+    }
+
+  
+    .activities-upcoming-scroll {
+      height: 340px;
+      min-height: 340px;
+      max-height: 340px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      padding-right: 9px;
+      scrollbar-width: thin;
+      scrollbar-color: var(--umcu-orange) transparent;
+      scroll-behavior: smooth;
+    }
+
+    .activities-upcoming-scroll::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    .activities-upcoming-scroll::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .activities-upcoming-scroll::-webkit-scrollbar-thumb {
+      border-radius: 999px;
+      background: rgba(241, 132, 25, 0.44);
+    }
+
     .contact-card-email {
       cursor: default;
     }
@@ -2115,6 +2936,14 @@
     .contact-card-email:focus-visible {
       transform: none;
       text-decoration: none;
+    }
+
+    @media (max-width: 520px) {
+      .activities-upcoming-scroll {
+        height: 330px;
+        min-height: 330px;
+        max-height: 330px;
+      }
     }
 
   </style>
@@ -2173,14 +3002,15 @@
       </a>
 
       <nav class="primary-nav" aria-label="Main navigation">
-        <a href="#profile">Profile</a>
-        <a href="#focus">Focus</a>
-        <a href="#roles">Roles</a>
-        <a href="#initiatives">Initiatives</a>
-        <a href="#insights">Insights</a>
-        <a href="#publications">Publications</a>
-        <a href="#career">Career</a>
-        <a href="#contact">Contact</a>
+        <a class="nav-profile" href="#profile">Profile</a>
+        <a class="nav-roles" href="#roles">Current roles</a>
+        <a class="nav-activities" href="#activities">Activities</a>
+        <a class="nav-career" href="#career">Career</a>
+        <a class="nav-focus" href="#focus">Research focus</a>
+        <a class="nav-initiatives" href="#initiatives">Initiatives</a>
+        <a class="nav-insights" href="#insights">Insights</a>
+        <a class="nav-publications" href="#publications">Publications</a>
+        <a class="nav-contact" href="#contact">Contact</a>
       </nav>
 
       <div class="nav-controls">
@@ -2466,6 +3296,97 @@
     </section>
 
 
+    <section class="section section-alt" id="activities">
+      <div class="container">
+        <div class="section-head">
+          <p class="section-label">Activities</p>
+          <div>
+            <h2>Invited lectures and activities</h2>
+            <p class="section-intro">
+              Upcoming and previous activities are loaded from my ORCID record.
+            </p>
+          </div>
+        </div>
+
+        <div class="activities-grid">
+          <article class="activities-panel activities-upcoming">
+            <div class="activities-panel-head">
+              <div>
+                <p class="activities-kicker">Forward schedule</p>
+                <h3>Upcoming Activities</h3>
+              </div>
+              <span class="activities-count" id="upcoming-activities-count">0</span>
+            </div>
+
+            <div class="activities-history-scroll activities-upcoming-scroll" id="upcoming-activities-scroll">
+              <div class="activities-list" id="upcoming-activities-list">
+              <div class="activities-empty">Loading upcoming activities…</div>
+              </div>
+            </div>
+          </article>
+
+          <article class="activities-panel activities-history">
+            <div class="activities-panel-head">
+              <div>
+                <p class="activities-kicker">Previous engagements</p>
+                <h3>History</h3>
+              </div>
+              <span class="activities-count" id="history-activities-count">0</span>
+            </div>
+
+            <div class="activities-history-scroll" id="history-activities-scroll">
+              <div class="activities-list" id="history-activities-list">
+                <div class="activities-empty">Loading activity history…</div>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <p class="activities-source" id="activities-source">
+          Source: Curated activities merged with my ORCID record.
+        </p>
+      </div>
+    </section>
+
+
+<section class="section" id="career">
+      <div class="container">
+        <div class="section-head">
+          <p class="section-label">Career</p>
+          <div>
+            <h2>From molecular HLA typing to integrated transplantation diagnostics</h2>
+          </div>
+        </div>
+
+        <div class="timeline">
+          <article class="timeline-item">
+            <div class="timeline-time">Current</div>
+            <h3>UMC Utrecht</h3>
+            <p>Associate Professor, medical immunologist, and Director Transplantation Diagnostics within the Central Diagnostic Laboratory.</p>
+          </article>
+
+          <article class="timeline-item">
+            <div class="timeline-time">Academic development</div>
+            <h3>Transplantation immunology and immunogenetics</h3>
+            <p>I developed a research line integrating donor-recipient matching, PIRCHE, antibody risk, immune monitoring, computational models, and clinical implementation.</p>
+          </article>
+
+          <article class="timeline-item">
+            <div class="timeline-time">Postdoctoral period</div>
+            <h3>Minor histocompatibility antigens</h3>
+            <p>I conducted postdoctoral research in the laboratory of Els Goulmy, expanding my expertise from HLA into cellular allo-immunity and minor histocompatibility antigens.</p>
+          </article>
+
+          <article class="timeline-item">
+            <div class="timeline-time">Education</div>
+            <h3>Leiden University Medical Center</h3>
+            <p>I completed an MSc in Biomedical Sciences and a PhD in Immunology. My first practical HLA experience was in 1992 through PCR-SSOP work with Marius Giphart.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+
     <section class="section section-alt" id="initiatives">
       <div class="container">
         <div class="section-head">
@@ -2692,122 +3613,90 @@
       </div>
     </section>
 
-<section class="section" id="career">
-      <div class="container">
-        <div class="section-head">
-          <p class="section-label">Career</p>
-          <div>
-            <h2>From molecular HLA typing to integrated transplantation diagnostics</h2>
-          </div>
-        </div>
-
-        <div class="timeline">
-          <article class="timeline-item">
-            <div class="timeline-time">Current</div>
-            <h3>UMC Utrecht</h3>
-            <p>Associate Professor, medical immunologist, and Director Transplantation Diagnostics within the Central Diagnostic Laboratory.</p>
-          </article>
-
-          <article class="timeline-item">
-            <div class="timeline-time">Academic development</div>
-            <h3>Transplantation immunology and immunogenetics</h3>
-            <p>I developed a research line integrating donor-recipient matching, PIRCHE, antibody risk, immune monitoring, computational models, and clinical implementation.</p>
-          </article>
-
-          <article class="timeline-item">
-            <div class="timeline-time">Postdoctoral period</div>
-            <h3>Minor histocompatibility antigens</h3>
-            <p>I conducted postdoctoral research in the laboratory of Els Goulmy, expanding my expertise from HLA into cellular allo-immunity and minor histocompatibility antigens.</p>
-          </article>
-
-          <article class="timeline-item">
-            <div class="timeline-time">Education</div>
-            <h3>Leiden University Medical Center</h3>
-            <p>I completed an MSc in Biomedical Sciences and a PhD in Immunology. My first practical HLA experience was in 1992 through PCR-SSOP work with Marius Giphart.</p>
-          </article>
-        </div>
-      </div>
-    </section>
-
+    
     <section class="section contact-band" id="contact">
-      <div class="container">
-        <div class="section-head">
-          <p class="section-label">Connect</p>
-          <div>
-            <h2>Professional profiles and contact</h2>
-            <p class="section-intro">
-              For scientific collaboration, transplantation diagnostics, standards, education, or international committee work.
-            </p>
-          </div>
+      <div class="contact-pattern" aria-hidden="true"></div>
+
+      <div class="container contact-layout">
+        <div class="contact-intro">
+          <p class="section-label contact-label">Contact</p>
+          <h2>Get in touch</h2>
+          <p>
+            I am open to scientific collaborations, invited lectures and opportunities
+            that advance transplantation immunology, immunogenetics and data-driven diagnostics.
+          </p>
         </div>
 
-        
-<div class="contact-links" aria-label="Professional contact links">
+        <div class="contact-links" aria-label="Professional contact links">
 
-          <div class="contact-link contact-card contact-card-email" aria-label="Eric Spierings email address">
-            <span class="contact-icon" aria-hidden="true">
+          <div class="contact-card contact-card-email" aria-label="Eric Spierings email address">
+            <span class="contact-icon contact-icon-email" aria-hidden="true">
               <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-                <rect x="7" y="11" width="34" height="26" rx="5"></rect>
-                <path d="M9 14l15 12 15-12"></path>
-                <path d="M9 35l11-10"></path>
-                <path d="M39 35L28 25"></path>
+                <rect x="8" y="12" width="32" height="24" rx="3"></rect>
+                <path d="M10 15l14 11 14-11"></path>
+                <path d="M10 34l10-9"></path>
+                <path d="M38 34l-10-9"></path>
               </svg>
             </span>
             <span class="contact-copy">
               <strong>Email</strong>
               <span>e.spierings (a) umcutrecht.nl</span>
             </span>
+            <span class="contact-arrow" aria-hidden="true">→</span>
           </div>
 
-          <a class="contact-link contact-card" href="https://orcid.org/0000-0001-9441-1019" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' ORCID profile">
-            <span class="contact-icon" aria-hidden="true">
+          <a class="contact-card contact-card-orcid" href="https://orcid.org/0000-0001-9441-1019" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' ORCID profile">
+            <span class="contact-icon contact-icon-orcid" aria-hidden="true">
               <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="24" cy="24" r="17"></circle>
                 <circle cx="18" cy="18" r="2.2" class="contact-icon-fill"></circle>
                 <path d="M18 23v10"></path>
-                <path d="M24 33V23h5c4 0 7 2 7 5s-3 5-7 5h-5Z"></path>
+                <path d="M24 33V23h4.5c4.5 0 7.5 2.1 7.5 5s-3 5-7.5 5H24Z"></path>
               </svg>
             </span>
             <span class="contact-copy">
               <strong>ORCID</strong>
               <span>0000-0001-9441-1019</span>
             </span>
+            <span class="contact-arrow" aria-hidden="true">→</span>
           </a>
 
-          <a class="contact-link contact-card" href="https://scholar.google.com/citations?hl=en&user=dkQb9LAAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' Google Scholar profile">
-            <span class="contact-icon" aria-hidden="true">
+          <a class="contact-card contact-card-scholar" href="https://scholar.google.com/citations?hl=en&amp;user=dkQb9LAAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' Google Scholar profile">
+            <span class="contact-icon contact-icon-scholar" aria-hidden="true">
               <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-                <path d="M6 18l18-10 18 10-18 10L6 18Z"></path>
-                <path d="M13 23v9c7 6 15 6 22 0v-9"></path>
+                <path d="M7 18l17-9 17 9-17 9-17-9Z"></path>
+                <path d="M13 23v9c7 5 15 5 22 0v-9"></path>
                 <path d="M40 20v11"></path>
-                <circle cx="40" cy="34" r="2.5" class="contact-icon-fill"></circle>
               </svg>
             </span>
             <span class="contact-copy">
               <strong>Google Scholar</strong>
               <span>Publications &amp; citations</span>
             </span>
+            <span class="contact-arrow" aria-hidden="true">→</span>
           </a>
 
-          <a class="contact-link contact-card" href="https://www.linkedin.com/in/ericspierings/" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' LinkedIn profile">
-            <span class="contact-icon" aria-hidden="true">
+          <a class="contact-card contact-card-linkedin" href="https://www.linkedin.com/in/ericspierings/" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' LinkedIn profile">
+            <span class="contact-icon contact-icon-linkedin" aria-hidden="true">
               <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-                <rect x="7" y="7" width="34" height="34" rx="7"></rect>
-                <circle cx="16" cy="17" r="2.4" class="contact-icon-fill"></circle>
-                <path d="M15 23v10"></path>
-                <path d="M23 33V23"></path>
-                <path d="M23 28c0-3 2-5 5-5 4 0 5 3 5 7v3"></path>
+                <rect x="8" y="8" width="32" height="32" rx="4"></rect>
+                <circle cx="17" cy="18" r="2.2" class="contact-icon-fill"></circle>
+                <path d="M16 24v10"></path>
+                <path d="M24 34V24"></path>
+                <path d="M24 28c0-2.7 2-4.5 4.8-4.5 4 0 5.2 2.8 5.2 6.4V34"></path>
               </svg>
             </span>
             <span class="contact-copy">
               <strong>LinkedIn</strong>
               <span>Professional profile</span>
             </span>
+            <span class="contact-arrow" aria-hidden="true">→</span>
           </a>
 
         </div>
       </div>
     </section>
+
   </main>
 
 
@@ -3378,13 +4267,18 @@
         .map(([year, count]) => ({ year: Number(year), count }))
         .sort((a, b) => a.year - b.year);
       const maxYear = Math.max(...yearEntries.map((x) => x.count), 1);
-      document.getElementById("timeline-chart").innerHTML = yearEntries.map(({ year, count }) =>
+      const timelineChart = document.getElementById("timeline-chart");
+      timelineChart.innerHTML = yearEntries.map(({ year, count }) =>
         `<div class="year-bar-wrap" title="${year}: ${count} publications">
           <span class="year-bar-value">${count}</span>
-          <span class="year-bar" style="height:${Math.max(3, Math.round((count / maxYear) * 145))}px"></span>
+          <span class="year-bar" style="height:${Math.max(3, Math.round((count / maxYear) * 138))}px"></span>
           <span class="year-bar-label">${year}</span>
         </div>`
       ).join("");
+
+      requestAnimationFrame(() => {
+        timelineChart.scrollLeft = timelineChart.scrollWidth;
+      });
 
       const themeCounts = {};
       publications.forEach((p) => {
@@ -3528,6 +4422,139 @@
     positionFilter.addEventListener("change", () => { state.position = positionFilter.value; renderPublications(); });
     accessFilter.addEventListener("change", () => { state.access = accessFilter.value; renderPublications(); });
 
+
+    const ACTIVITIES_DATA_URL = "activities.json";
+
+    function formatActivityDate(activity) {
+      const rawDate = activity.startDate || "";
+      if (rawDate) {
+        const parsed = new Date(`${rawDate}T12:00:00`);
+        if (!Number.isNaN(parsed.getTime())) {
+          return {
+            primary: new Intl.DateTimeFormat("en-GB", {
+              day: "2-digit",
+              month: "short"
+            }).format(parsed),
+            secondary: String(parsed.getFullYear())
+          };
+        }
+      }
+
+      return {
+        primary: activity.year ? String(activity.year) : "Date",
+        secondary: activity.year ? "" : "unknown"
+      };
+    }
+
+    function activitySortDate(activity) {
+      if (activity.startDate) return activity.startDate;
+      if (activity.year) return `${activity.year}-00-00`;
+      return "0000-00-00";
+    }
+
+    function activityMeta(activity) {
+      return [
+        activity.activityType,
+        activity.event,
+        activity.location,
+        activity.role
+      ].filter(Boolean);
+    }
+
+    function renderActivity(activity) {
+      const date = formatActivityDate(activity);
+      const meta = activityMeta(activity)
+        .map((value) => `<span>${escapeHtml(value)}</span>`)
+        .join("");
+
+      const link = activity.url
+        ? `<a class="activity-link" href="${escapeHtml(activity.url)}" target="_blank" rel="noopener noreferrer">View activity →</a>`
+        : "";
+
+      return `
+        <article class="activity-item">
+          <div class="activity-date">
+            <strong>${escapeHtml(date.primary)}</strong>
+            <span>${escapeHtml(date.secondary)}</span>
+          </div>
+          <div class="activity-content">
+            <h4>${escapeHtml(activity.title || "Untitled activity")}</h4>
+            <p class="activity-meta">${meta}</p>
+            ${link}
+          </div>
+        </article>
+      `;
+    }
+
+    async function loadActivities() {
+      const upcomingList = document.getElementById("upcoming-activities-list");
+      const historyList = document.getElementById("history-activities-list");
+      const upcomingCount = document.getElementById("upcoming-activities-count");
+      const historyCount = document.getElementById("history-activities-count");
+      const upcomingScroll = document.getElementById("upcoming-activities-scroll");
+      const historyScroll = document.getElementById("history-activities-scroll");
+      const source = document.getElementById("activities-source");
+
+      try {
+        const response = await fetch(
+          `${ACTIVITIES_DATA_URL}?v=${Date.now()}`,
+          { cache: "no-store" }
+        );
+
+        if (!response.ok) {
+          throw new Error(`activities.json returned HTTP ${response.status}`);
+        }
+
+        const dataset = await response.json();
+        const activities = Array.isArray(dataset.activities)
+          ? dataset.activities
+          : [];
+
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+
+        const upcoming = activities
+          .filter((activity) => {
+            if (!activity.startDate) return false;
+            const date = new Date(`${activity.startDate}T12:00:00`);
+            return !Number.isNaN(date.getTime()) && date >= today;
+          })
+          .sort((a, b) => activitySortDate(a).localeCompare(activitySortDate(b)));
+
+        const history = activities
+          .filter((activity) => !upcoming.includes(activity))
+          .sort((a, b) => activitySortDate(b).localeCompare(activitySortDate(a)));
+
+        upcomingCount.textContent = upcoming.length;
+        historyCount.textContent = history.length;
+
+        upcomingList.innerHTML = upcoming.length
+          ? upcoming.map(renderActivity).join("")
+          : '<div class="activities-empty">No upcoming activities are currently listed.</div>';
+
+        historyList.innerHTML = history.length
+          ? history.map(renderActivity).join("")
+          : '<div class="activities-empty">No previous activities are currently available.</div>';
+
+        source.textContent =
+          `Source: ${dataset.source || "Public UMC Utrecht Pure Portal activity pages"}. ` +
+          `Last refreshed ${dataset.generatedAt || "at an unknown time"}.`;
+
+        requestAnimationFrame(() => {
+          upcomingScroll.scrollTop = 0;
+          historyScroll.scrollTop = 0;
+        });
+      } catch (error) {
+        console.error(error);
+        upcomingList.innerHTML =
+          '<div class="activities-empty">Upcoming activities could not be loaded.</div>';
+        historyList.innerHTML =
+          '<div class="activities-empty">Activity history could not be loaded.</div>';
+        source.textContent =
+          "The activities dataset could not be loaded. Confirm that activities.json exists in the repository root.";
+      }
+    }
+
     const navigationLinks = [...document.querySelectorAll(".primary-nav a[href^='#']")];
     const observedSections = navigationLinks
       .map((link) => document.querySelector(link.getAttribute("href")))
@@ -3564,6 +4591,7 @@
 
     document.getElementById("print-cv").addEventListener("click", () => window.print());
 
+    loadActivities();
     loadPublications();
   </script>
 </body>
