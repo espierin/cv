@@ -288,6 +288,78 @@ function detectSelfAuthorPositions(authors) {
   return [...positions];
 }
 
+
+const LECTURE_WORK_TYPES = new Set([
+  "conference-presentation",
+  "conference-paper",
+  "lecture-speech"
+]);
+
+function isLectureWorkType(type = "") {
+  return LECTURE_WORK_TYPES.has(String(type).trim().toLowerCase());
+}
+
+function lectureTypeLabel(type = "") {
+  return {
+    "conference-presentation": "Conference presentation",
+    "conference-paper": "Conference presentation",
+    "lecture-speech": "Lecture"
+  }[String(type).trim().toLowerCase()] || "Conference presentation";
+}
+
+function activityKey(activity) {
+  return `${normalizeTitle(activity.title)}|${activity.startDate || activity.year || ""}`;
+}
+
+async function loadManualActivities() {
+  try {
+    const data = JSON.parse(
+      await fs.readFile(
+        new URL("../activities-manual.json", import.meta.url),
+        "utf8"
+      )
+    );
+    return Array.isArray(data.activities) ? data.activities : [];
+  } catch {
+    return [];
+  }
+}
+
+function mergeActivities(manualActivities, orcidActivities) {
+  const merged = new Map();
+
+  for (const activity of manualActivities) {
+    merged.set(activityKey(activity), { ...activity });
+  }
+
+  for (const activity of orcidActivities) {
+    const key = activityKey(activity);
+    const existing = merged.get(key);
+
+    if (!existing) {
+      merged.set(key, activity);
+      continue;
+    }
+
+    merged.set(key, {
+      ...existing,
+      ...Object.fromEntries(
+        Object.entries(activity).filter(([, value]) =>
+          value !== null && value !== undefined && value !== ""
+        )
+      ),
+      source: [existing.source, activity.source].filter(Boolean).join("; "),
+      origin: "manual+orcid"
+    });
+  }
+
+  return [...merged.values()].sort((a, b) => {
+    const dateA = a.startDate || `${a.year || 0}-00-00`;
+    const dateB = b.startDate || `${b.year || 0}-00-00`;
+    return dateB.localeCompare(dateA) || a.title.localeCompare(b.title);
+  });
+}
+
 console.log(`Loading ORCID works for ${ORCID}...`);
 const token = await getToken();
 const summary = await orcidGet("works", token);
@@ -449,12 +521,43 @@ for (let index = 0; index < groups.length; index += 1) {
   }
 }
 
+const publicationRecords = records.filter(
+  (record) => !isLectureWorkType(record.type)
+);
+
+const lectureRecords = records
+  .filter((record) => isLectureWorkType(record.type))
+  .map((record) => ({
+    id: `orcid-${record.putCode}`,
+    title: record.title,
+    startDate:
+      record.sortDate && record.sortDate !== "0000-00-00"
+        ? record.sortDate
+        : null,
+    endDate: null,
+    year: record.year,
+    activityType: lectureTypeLabel(record.type),
+    role: "Speaker",
+    event: record.journal || null,
+    location: null,
+    recognition: null,
+    academic: "Academic",
+    description: record.abstract || null,
+    url: record.url || (record.doi ? `https://doi.org/${record.doi}` : null),
+    source: "ORCID Public API v3.0",
+    origin: "orcid",
+    orcidPutCode: record.putCode,
+    orcidWorkType: record.type
+  }));
+
 const deduplicated = [];
 const seen = new Set();
-for (const record of records) {
+
+for (const record of publicationRecords) {
   const key = record.doi
     ? `doi:${record.doi}`
     : `title:${normalizeTitle(record.title)}`;
+
   if (seen.has(key)) continue;
   seen.add(key);
   deduplicated.push(record);
@@ -464,18 +567,45 @@ deduplicated.sort((a, b) =>
   String(b.sortDate).localeCompare(String(a.sortDate))
 );
 
-const output = {
+const manualActivities = await loadManualActivities();
+const mergedActivities = mergeActivities(manualActivities, lectureRecords);
+const generatedAt = new Date().toISOString();
+
+const publicationOutput = {
   orcid: ORCID,
-  generatedAt: new Date().toISOString(),
+  generatedAt,
   source: "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
+  excludedWorkTypes: [...LECTURE_WORK_TYPES],
   count: deduplicated.length,
   publications: deduplicated
 };
 
-await fs.writeFile(
-  new URL("../publications.json", import.meta.url),
-  JSON.stringify(output, null, 2) + "\n",
-  "utf8"
-);
+const activitiesOutput = {
+  person: "Eric Spierings",
+  orcid: ORCID,
+  generatedAt,
+  source: "Curated activities merged with ORCID conference presentations, conference papers and lectures",
+  count: mergedActivities.length,
+  activities: mergedActivities
+};
 
-console.log(`Wrote ${deduplicated.length} publications to publications.json`);
+await Promise.all([
+  fs.writeFile(
+    new URL("../publications.json", import.meta.url),
+    JSON.stringify(publicationOutput, null, 2) + "\n",
+    "utf8"
+  ),
+  fs.writeFile(
+    new URL("../activities.json", import.meta.url),
+    JSON.stringify(activitiesOutput, null, 2) + "\n",
+    "utf8"
+  )
+]);
+
+console.log(
+  `Wrote ${deduplicated.length} publications to publications.json`
+);
+console.log(
+  `Wrote ${mergedActivities.length} activities to activities.json ` +
+  `(${manualActivities.length} curated, ${lectureRecords.length} from ORCID)`
+);
