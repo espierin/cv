@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-08-04T11:39:38.371Z",
+  "generatedAt": "2026-08-04T14:32:10.796Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -23760,11 +23760,11 @@
           "score": 0.9995999932289124
         }
       ],
-      "citedByCount": 96,
+      "citedByCount": 97,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -27454,7 +27454,7 @@
           "name": "Els Goulmy",
           "orcid": "",
           "position": "last",
-          "corresponding": false,
+          "corresponding": true,
           "institutions": [
             "Leiden University Medical Center"
           ]
@@ -30661,7 +30661,7 @@
       "pmcid": null,
       "url": "http://europepmc.org/abstract/med/16681643",
       "fullTextUrl": null,
-      "bestOpenAccessUrl": null,
+      "bestOpenAccessUrl": "https://doi.org/10.1111/j.1365-2141.2006.06058.x",
       "openAlexId": "https://openalex.org/W2063233683",
       "openAlexUrl": "https://openalex.org/W2063233683",
       "abstract": "Graft-versus-host disease (GvHD) is a serious complication of allogeneic stem cell transplantation (SCT) affecting the skin, gut and liver. The involvement of distinct organs suggests a role for tissue-specific chemokines and their receptors in directing activated donor T cells to these sites. In this study the potential involvement of the skin-specific CCL27/CTACK-CCR10 interaction was investigated in 15 paediatric SCT patients with skin GvHD. During the course of skin GvHD, peripheral blood T cells from these patients contained a high proportion of CD4+ CCR10+ T cells that disappeared after the GvHD was resolved. These cells were CD45RO+, expressed additional skin homing markers (cutaneous lymphocyte-associated antigen and CCR4), and produced the T-cell helper type 1-cytokines tumour necrosis factor-alpha and interleukin-2. The increase in CD4+ CCR10+ T cells was absent in SCT patients without GvHD. Immunohistochemical investigations showed CD4+ CCR10+ T cells in the GvHD skin biopsies of the same patients, but not in the gut biopsies of patients also suffering from gut GvHD. The infiltration of CD4+ CCR10+ T cells in the GvHD-affected skin correlated with an enhanced epidermal expression of CCL27/CTACK, the ligand for CCR10. These findings support the involvement of CCL27/CTACK-CCR10 interaction in recruiting CD4+ T cells to the skin, thus contributing to the pathogenesis of acute GvHD.",
@@ -30874,8 +30874,8 @@
           "cited_by_count": 4
         }
       ],
-      "isOpenAccess": false,
-      "openAccessStatus": "closed",
+      "isOpenAccess": true,
+      "openAccessStatus": "bronze",
       "relatedOpenAlexWorks": [
         "https://openalex.org/W2289050973",
         "https://openalex.org/W3032238519",
