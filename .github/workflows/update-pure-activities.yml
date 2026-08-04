@@ -13,10 +13,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: refresh-pure-activities
+  cancel-in-progress: true
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 5
 
     steps:
       - name: Check out repository
@@ -28,7 +32,7 @@ jobs:
           node-version: "24"
           package-manager-cache: false
 
-      - name: Discover and refresh public Pure activities
+      - name: Refresh public Pure activities
         run: node scripts/fetch-pure-activities.mjs
 
       - name: Commit refreshed activities.json
