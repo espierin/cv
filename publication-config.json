@@ -1,45 +1,46 @@
 {
   "orcid": "0000-0001-9441-1019",
+  "openAlexMailto": "e.spierings@umcutrecht.nl",
   "keyWorks": [
     {
       "titleContains": "Advancing risk stratification in kidney transplantation",
-      "impactFactor": 7,
-      "impactFactorSource": "Frontiers in Immunology journal page"
+      "impactFactor": 7.0,
+      "impactFactorSource": "Configured manually"
     },
     {
       "titleContains": "The number of donor HLA-derived T cell epitopes",
-      "impactFactor": 7,
-      "impactFactorSource": "Frontiers in Immunology journal page"
+      "impactFactor": 7.0,
+      "impactFactorSource": "Configured manually"
     },
     {
       "titleContains": "T-Cell Epitopes Shared Between Immunizing HLA",
-      "impactFactor": 7,
-      "impactFactorSource": "Frontiers in Immunology journal page"
+      "impactFactor": 7.0,
+      "impactFactorSource": "Configured manually"
     },
     {
       "titleContains": "PIRCHE-II Is Related to Graft Failure",
-      "impactFactor": 7,
-      "impactFactorSource": "Frontiers in Immunology journal page"
+      "impactFactor": 7.0,
+      "impactFactorSource": "Configured manually"
     },
     {
       "titleContains": "Recommendations for HLA Genotyping Data Standards",
-      "impactFactor": 5,
-      "impactFactorSource": "HLA journal page"
+      "impactFactor": 5.0,
+      "impactFactorSource": "Configured manually"
     },
     {
       "titleContains": "PIRCHE-II: an algorithm to predict indirectly recognizable HLA epitopes",
       "impactFactor": null,
-      "impactFactorSource": "Add current value when verified"
+      "impactFactorSource": "Add verified value when desired"
     },
     {
       "titleContains": "Computational Eurotransplant kidney allocation simulations",
       "impactFactor": null,
-      "impactFactorSource": "Add verified value if desired"
+      "impactFactorSource": "Add verified value when desired"
     }
   ],
   "journalImpactFactors": {
-    "Frontiers in Immunology": 7,
-    "HLA": 5,
-    "Transplantation": 5
+    "Frontiers in Immunology": 7.0,
+    "HLA": 5.0,
+    "Transplantation": 5.0
   }
 }
