@@ -1,8 +1,43 @@
 {
   "person": "Eric Spierings",
-  "generatedAt": null,
+  "generatedAt": "2026-08-04T08:55:32.774Z",
   "source": "Public UMC Utrecht Pure Portal activity pages",
-  "completeness": "Not generated yet. Run the Refresh Pure activities workflow.",
-  "count": 0,
-  "activities": []
+  "completeness": "Best-effort reconstruction. Completeness depends on public sitemap and search-engine indexing.",
+  "count": 2,
+  "activities": [
+    {
+      "id": "53a37234497bb9e5",
+      "title": "HLA epitopes and matching from a big data perspective",
+      "startDate": null,
+      "endDate": null,
+      "year": 2023,
+      "activityType": "Invited talk",
+      "role": "Speaker",
+      "event": "36th Annual Congress of the European Federation for Immunogenetics: Big Data In Immunogenetics At The Crossroad Of Care, Tools, And Research.",
+      "location": "Nantes, France Show on map",
+      "recognition": null,
+      "academic": null,
+      "description": null,
+      "url": "https://researchinformation.umcutrecht.nl/en/activities/hla-epitopes-and-matching-from-a-big-data-perspective/",
+      "source": "UMC Utrecht Pure Portal public activity page",
+      "hash": "b12b4281e72bbf39633154f25009f0a2b4f1ba630a3bec94d691f714b6adf8f8"
+    },
+    {
+      "id": "e8aca9a8a46e86da",
+      "title": "Predicted Indirectly Recognizable HLA Epitopes (PIRCHES) in hematopoietic stem-cell transplantation and solid organ transplantation",
+      "startDate": null,
+      "endDate": null,
+      "year": 2019,
+      "activityType": "Invited talk",
+      "role": "Speaker",
+      "event": null,
+      "location": null,
+      "recognition": "Local",
+      "academic": null,
+      "description": null,
+      "url": "https://researchinformation.umcutrecht.nl/en/activities/predicted-indirectly-recognizable-hla-epitopes-pirches-in-hematop-2/",
+      "source": "UMC Utrecht Pure Portal public activity page",
+      "hash": "b22a5e211423d92a7328e6b6ca17456abe924dbd5cd935f7c9e5eaa4b1310848"
+    }
+  ]
 }
