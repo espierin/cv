@@ -2763,7 +2763,7 @@
             </span>
           </a>
 
-          <a class="contact-link contact-card" href="https://scholar.google.com/citations?user=Yw5l0l8AAAAJ" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' Google Scholar profile">
+          <a class="contact-link contact-card" href="https://scholar.google.com/citations?hl=en&user=dkQb9LAAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' Google Scholar profile">
             <span class="contact-icon" aria-hidden="true">
               <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
                 <path d="M6 18l18-10 18 10-18 10L6 18Z"></path>
@@ -3540,8 +3540,7 @@
 
     const themeToggle = document.getElementById("theme-toggle");
     const storedTheme = localStorage.getItem("site-theme");
-    const preferredDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-    const initialTheme = storedTheme || (preferredDark ? "dark" : "light");
+    const initialTheme = storedTheme === "dark" ? "dark" : "light";
     document.documentElement.dataset.theme = initialTheme;
     themeToggle.setAttribute("aria-pressed", String(initialTheme === "dark"));
 

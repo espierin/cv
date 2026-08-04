@@ -1,4 +1,4 @@
-# Eric Spierings academic website v2
+# Eric Spierings website - phases 3 to 10
 
 ## What this version adds
 
@@ -42,3 +42,8 @@ The scheduled run remains daily at 04:17 UTC, which is 06:17 during Dutch summer
 OpenAlex citation counts and h-index can differ from Google Scholar. The website labels these metrics explicitly as OpenAlex-derived.
 
 Journal impact factors are not supplied by ORCID, Crossref, Europe PMC or OpenAlex. They remain curated in `publication-config.json`.
+
+
+## Theme behavior
+
+The light theme is the default. Dark mode is only activated after the visitor explicitly selects it; that choice is stored locally in the browser.
