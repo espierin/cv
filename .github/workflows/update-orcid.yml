@@ -3,7 +3,7 @@ name: Refresh ORCID publications
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 4 * * *"
+    - cron: "5 48 * * *"
   push:
     paths:
       - "scripts/fetch-orcid.mjs"
