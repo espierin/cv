@@ -1,0 +1,19 @@
+{
+  "portalBaseUrl": "https://researchinformation.umcutrecht.nl/",
+  "languagePath": "en",
+  "personName": "Eric Spierings",
+  "personSlug": "e-spierings",
+  "requestDelayMs": 1400,
+  "maxActivityPages": 250,
+  "enableSearchRssFallback": true,
+  "userAgent": "EricSpieringsActivitiesSync/1.0 (+https://espierin.github.io/cv/; mailto:e.spierings@umcutrecht.nl)",
+  "searchQueries": [
+    "site:researchinformation.umcutrecht.nl/en/activities \"Eric Spierings\"",
+    "site:researchinformation.umcutrecht.nl/en/activities \"Spierings\" \"Invited talk\"",
+    "site:researchinformation.umcutrecht.nl/en/activities \"Spierings\" \"Speaker\""
+  ],
+  "seedActivityUrls": [
+    "https://researchinformation.umcutrecht.nl/en/activities/hla-epitopes-and-matching-from-a-big-data-perspective",
+    "https://researchinformation.umcutrecht.nl/en/activities/predicted-indirectly-recognizable-hla-epitopes-pirches-in-hematop-2"
+  ]
+}
