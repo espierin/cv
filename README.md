@@ -1,51 +1,61 @@
-# Weekly Pure activities sync
+# Eric Spierings website - phases 3 to 10
 
-This package adds a separate GitHub Actions workflow for public activities only.
+## What this version adds
 
-## Files
+- Full ORCID publication record
+- Crossref metadata
+- Europe PMC abstracts, PMID, PMCID and MeSH terms
+- OpenAlex citation counts, annual citation history, topics and open-access data
+- Rich in-page publication modal
+- Search and filters for year, journal, type, authorship position and access
+- Related publications
+- Research insights and publication analytics
+- Active navigation
+- Dark mode
+- Print / Save as PDF CV view
+- Schema.org structured data
+- Mobile and keyboard accessibility improvements
 
-- `scripts/fetch-pure-activities.mjs`
-- `pure-activities-config.json`
-- `.github/workflows/update-pure-activities.yml`
-- `activities.json`
+## Upload
 
-## Schedule
+Replace or add these files in the repository:
 
-The workflow runs weekly on Sunday at 05:23 UTC:
+- `index.html`
+- `publication-config.json`
+- `scripts/fetch-orcid.mjs`
+- `.github/workflows/update-orcid.yml`
 
-```yaml
-cron: "23 5 * * 0"
-```
+Keep your current `publications.json`. It will be replaced by the workflow.
 
-That is 07:23 during Dutch summer time and 06:23 during Dutch winter time.
+## Run
 
-It can also be run manually through:
+1. Open GitHub Actions.
+2. Select **Refresh ORCID publications**.
+3. Choose **Run workflow** on the `main` branch.
+4. Wait until the refresh and Pages deployment are green.
+5. Reload the website.
 
-**Actions → Refresh Pure activities → Run workflow**
+The scheduled run remains daily at 04:17 UTC, which is 06:17 during Dutch summer time and 05:17 during Dutch winter time.
 
-## Discovery strategy
+## Notes
 
-The script uses several best-effort sources:
+OpenAlex citation counts and h-index can differ from Google Scholar. The website labels these metrics explicitly as OpenAlex-derived.
 
-1. previously known URLs already stored in `activities.json`;
-2. manually configured seed URLs;
-3. public sitemap URLs, when available;
-4. Bing's RSS search results as an optional fallback.
+Journal impact factors are not supplied by ORCID, Crossref, Europe PMC or OpenAlex. They remain curated in `publication-config.json`.
 
-It then requests only public UMC Utrecht Pure activity pages, waits between requests, checks `robots.txt`, and does not bypass a 403 response.
 
-## Important limitation
+## Theme behavior
 
-This is not an official Pure API integration. `activities.json` is therefore a best-effort reconstruction. Completeness depends on the portal sitemap and search-engine indexing.
+The light theme is the default. Dark mode is only activated after the visitor explicitly selects it; that choice is stored locally in the browser.
 
-For guaranteed completeness, use a Pure export or an institutionally issued Pure API key.
 
-## First run
+## Dark-theme revision
 
-1. Upload all files while preserving the folders.
-2. Open GitHub Actions.
-3. Select **Refresh Pure activities**.
-4. Run it manually on `main`.
-5. Inspect the generated `activities.json`.
+The dark theme has been revised for substantially stronger contrast and readability:
 
-Add any missing public activity URLs to `seedActivityUrls` in `pure-activities-config.json`. Those URLs will be retained and checked on all future runs.
+- lighter body and muted text;
+- clearer card and section separation;
+- higher-contrast controls and active states;
+- readable modal metadata and abstracts;
+- improved badges, filters, charts and contact cards;
+- light mode remains the default unless a visitor explicitly selected dark mode earlier.

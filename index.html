@@ -2657,12 +2657,13 @@
 
     .primary-nav .nav-profile { order: 1; }
     .primary-nav .nav-roles { order: 2; }
-    .primary-nav .nav-career { order: 3; }
-    .primary-nav .nav-focus { order: 4; }
-    .primary-nav .nav-initiatives { order: 5; }
-    .primary-nav .nav-insights { order: 6; }
-    .primary-nav .nav-publications { order: 7; }
-    .primary-nav .nav-contact { order: 8; }
+    .primary-nav .nav-activities { order: 3; }
+    .primary-nav .nav-career { order: 4; }
+    .primary-nav .nav-focus { order: 5; }
+    .primary-nav .nav-initiatives { order: 6; }
+    .primary-nav .nav-insights { order: 7; }
+    .primary-nav .nav-publications { order: 8; }
+    .primary-nav .nav-contact { order: 9; }
 
     @media (max-width: 1180px) and (min-width: 861px) {
       .primary-nav {
@@ -2671,6 +2672,233 @@
 
       .primary-nav a {
         font-size: 0.84rem;
+      }
+    }
+
+  
+    /* Activities */
+    .activities-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 22px;
+      align-items: stretch;
+    }
+
+    .activities-panel {
+      min-width: 0;
+      min-height: 440px;
+      display: flex;
+      flex-direction: column;
+      padding: 26px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      background: white;
+      box-shadow: var(--shadow);
+    }
+
+    .activities-upcoming {
+      border-top: 5px solid var(--umcu-orange);
+    }
+
+    .activities-history {
+      border-top: 5px solid var(--umcu-blue);
+    }
+
+    .activities-panel-head {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 18px;
+      margin-bottom: 22px;
+    }
+
+    .activities-kicker {
+      margin: 0 0 5px;
+      color: var(--muted);
+      font-size: 0.7rem;
+      font-weight: 800;
+      letter-spacing: 0.11em;
+      text-transform: uppercase;
+    }
+
+    .activities-panel h3 {
+      margin: 0;
+      color: var(--umcu-blue-dark);
+      font-size: 1.35rem;
+    }
+
+    .activities-count {
+      min-width: 36px;
+      height: 36px;
+      display: inline-grid;
+      place-items: center;
+      padding: 0 10px;
+      border-radius: 999px;
+      color: var(--umcu-blue-dark);
+      background: var(--umcu-blue-soft);
+      font-size: 0.84rem;
+      font-weight: 800;
+    }
+
+    .activities-upcoming .activities-count {
+      color: #8a4700;
+      background: var(--umcu-orange-soft);
+    }
+
+    .activities-list {
+      display: grid;
+      gap: 12px;
+    }
+
+    .activity-item {
+      display: grid;
+      grid-template-columns: 88px minmax(0, 1fr);
+      gap: 16px;
+      align-items: start;
+      padding: 16px 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .activity-item:first-child {
+      padding-top: 0;
+      border-top: 0;
+    }
+
+    .activity-date {
+      display: grid;
+      gap: 3px;
+      color: var(--umcu-blue-dark);
+      font-size: 0.78rem;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+
+    .activity-date strong {
+      color: var(--umcu-orange);
+      font-size: 1.08rem;
+      line-height: 1.1;
+    }
+
+    .activity-content {
+      min-width: 0;
+    }
+
+    .activity-content h4 {
+      margin: 0 0 5px;
+      color: var(--umcu-blue-dark);
+      font-size: 1rem;
+      line-height: 1.32;
+    }
+
+    .activity-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px 10px;
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.5;
+    }
+
+    .activity-meta span + span::before {
+      content: "·";
+      margin-right: 10px;
+      color: var(--umcu-orange);
+    }
+
+    .activity-link {
+      display: inline-flex;
+      margin-top: 8px;
+      color: var(--umcu-blue);
+      font-size: 0.8rem;
+      font-weight: 800;
+      text-decoration: none;
+    }
+
+    .activity-link:hover {
+      text-decoration: underline;
+    }
+
+    .activities-history-scroll {
+      height: 340px;
+      min-height: 340px;
+      max-height: 340px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      padding-right: 9px;
+      scrollbar-width: thin;
+      scrollbar-color: var(--umcu-blue) transparent;
+      scroll-behavior: smooth;
+    }
+
+    .activities-history-scroll::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    .activities-history-scroll::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .activities-history-scroll::-webkit-scrollbar-thumb {
+      border-radius: 999px;
+      background: rgba(0, 94, 184, 0.42);
+    }
+
+    .activities-empty {
+      padding: 24px 0;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .activities-source {
+      margin: 16px 0 0;
+      color: var(--muted);
+      font-size: 0.78rem;
+    }
+
+    html[data-theme="dark"] .activities-panel {
+      color: var(--ink);
+      background: #0d2a3f;
+      border-color: #3b5870;
+    }
+
+    html[data-theme="dark"] .activities-panel h3,
+    html[data-theme="dark"] .activity-content h4,
+    html[data-theme="dark"] .activity-date {
+      color: #f4f9fd;
+    }
+
+    html[data-theme="dark"] .activity-meta,
+    html[data-theme="dark"] .activities-kicker,
+    html[data-theme="dark"] .activities-source,
+    html[data-theme="dark"] .activities-empty {
+      color: #c3cfda;
+    }
+
+    @media (max-width: 860px) {
+      .activities-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .activities-panel {
+        min-height: auto;
+      }
+    }
+
+    @media (max-width: 520px) {
+      .activities-panel {
+        padding: 20px;
+      }
+
+      .activity-item {
+        grid-template-columns: 72px minmax(0, 1fr);
+        gap: 12px;
+      }
+
+      .activities-history-scroll {
+        height: 330px;
+        min-height: 330px;
+        max-height: 330px;
       }
     }
 
@@ -2732,6 +2960,7 @@
       <nav class="primary-nav" aria-label="Main navigation">
         <a class="nav-profile" href="#profile">Profile</a>
         <a class="nav-roles" href="#roles">Roles</a>
+        <a class="nav-activities" href="#activities">Activities</a>
         <a class="nav-career" href="#career">Career</a>
         <a class="nav-focus" href="#focus">Focus</a>
         <a class="nav-initiatives" href="#initiatives">Initiatives</a>
@@ -3021,6 +3250,58 @@
         </div>
       </div>
     </section>
+
+
+    <section class="section section-alt" id="activities">
+      <div class="container">
+        <div class="section-head">
+          <p class="section-label">Activities</p>
+          <div>
+            <h2>Invited lectures and professional activities</h2>
+            <p class="section-intro">
+              Upcoming and previous activities are loaded from the public UMC Utrecht Pure Portal dataset.
+            </p>
+          </div>
+        </div>
+
+        <div class="activities-grid">
+          <article class="activities-panel activities-upcoming">
+            <div class="activities-panel-head">
+              <div>
+                <p class="activities-kicker">Forward schedule</p>
+                <h3>Upcoming Activities</h3>
+              </div>
+              <span class="activities-count" id="upcoming-activities-count">0</span>
+            </div>
+
+            <div class="activities-list" id="upcoming-activities-list">
+              <div class="activities-empty">Loading upcoming activities…</div>
+            </div>
+          </article>
+
+          <article class="activities-panel activities-history">
+            <div class="activities-panel-head">
+              <div>
+                <p class="activities-kicker">Previous engagements</p>
+                <h3>History</h3>
+              </div>
+              <span class="activities-count" id="history-activities-count">0</span>
+            </div>
+
+            <div class="activities-history-scroll" id="history-activities-scroll">
+              <div class="activities-list" id="history-activities-list">
+                <div class="activities-empty">Loading activity history…</div>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <p class="activities-source" id="activities-source">
+          Source: public UMC Utrecht Pure Portal activity pages.
+        </p>
+      </div>
+    </section>
+
 
 <section class="section" id="career">
       <div class="container">
@@ -4095,6 +4376,137 @@
     positionFilter.addEventListener("change", () => { state.position = positionFilter.value; renderPublications(); });
     accessFilter.addEventListener("change", () => { state.access = accessFilter.value; renderPublications(); });
 
+
+    const ACTIVITIES_DATA_URL = "activities.json";
+
+    function formatActivityDate(activity) {
+      const rawDate = activity.startDate || "";
+      if (rawDate) {
+        const parsed = new Date(`${rawDate}T12:00:00`);
+        if (!Number.isNaN(parsed.getTime())) {
+          return {
+            primary: new Intl.DateTimeFormat("en-GB", {
+              day: "2-digit",
+              month: "short"
+            }).format(parsed),
+            secondary: String(parsed.getFullYear())
+          };
+        }
+      }
+
+      return {
+        primary: activity.year ? String(activity.year) : "Date",
+        secondary: activity.year ? "" : "unknown"
+      };
+    }
+
+    function activitySortDate(activity) {
+      if (activity.startDate) return activity.startDate;
+      if (activity.year) return `${activity.year}-00-00`;
+      return "0000-00-00";
+    }
+
+    function activityMeta(activity) {
+      return [
+        activity.activityType,
+        activity.event,
+        activity.location,
+        activity.role
+      ].filter(Boolean);
+    }
+
+    function renderActivity(activity) {
+      const date = formatActivityDate(activity);
+      const meta = activityMeta(activity)
+        .map((value) => `<span>${escapeHtml(value)}</span>`)
+        .join("");
+
+      const link = activity.url
+        ? `<a class="activity-link" href="${escapeHtml(activity.url)}" target="_blank" rel="noopener noreferrer">View activity →</a>`
+        : "";
+
+      return `
+        <article class="activity-item">
+          <div class="activity-date">
+            <strong>${escapeHtml(date.primary)}</strong>
+            <span>${escapeHtml(date.secondary)}</span>
+          </div>
+          <div class="activity-content">
+            <h4>${escapeHtml(activity.title || "Untitled activity")}</h4>
+            <p class="activity-meta">${meta}</p>
+            ${link}
+          </div>
+        </article>
+      `;
+    }
+
+    async function loadActivities() {
+      const upcomingList = document.getElementById("upcoming-activities-list");
+      const historyList = document.getElementById("history-activities-list");
+      const upcomingCount = document.getElementById("upcoming-activities-count");
+      const historyCount = document.getElementById("history-activities-count");
+      const historyScroll = document.getElementById("history-activities-scroll");
+      const source = document.getElementById("activities-source");
+
+      try {
+        const response = await fetch(
+          `${ACTIVITIES_DATA_URL}?v=${Date.now()}`,
+          { cache: "no-store" }
+        );
+
+        if (!response.ok) {
+          throw new Error(`activities.json returned HTTP ${response.status}`);
+        }
+
+        const dataset = await response.json();
+        const activities = Array.isArray(dataset.activities)
+          ? dataset.activities
+          : [];
+
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+
+        const upcoming = activities
+          .filter((activity) => {
+            if (!activity.startDate) return false;
+            const date = new Date(`${activity.startDate}T12:00:00`);
+            return !Number.isNaN(date.getTime()) && date >= today;
+          })
+          .sort((a, b) => activitySortDate(a).localeCompare(activitySortDate(b)));
+
+        const history = activities
+          .filter((activity) => !upcoming.includes(activity))
+          .sort((a, b) => activitySortDate(b).localeCompare(activitySortDate(a)));
+
+        upcomingCount.textContent = upcoming.length;
+        historyCount.textContent = history.length;
+
+        upcomingList.innerHTML = upcoming.length
+          ? upcoming.map(renderActivity).join("")
+          : '<div class="activities-empty">No upcoming activities are currently listed.</div>';
+
+        historyList.innerHTML = history.length
+          ? history.map(renderActivity).join("")
+          : '<div class="activities-empty">No previous activities are currently available.</div>';
+
+        source.textContent =
+          `Source: ${dataset.source || "Public UMC Utrecht Pure Portal activity pages"}. ` +
+          `Last refreshed ${dataset.generatedAt || "at an unknown time"}.`;
+
+        requestAnimationFrame(() => {
+          historyScroll.scrollTop = 0;
+        });
+      } catch (error) {
+        console.error(error);
+        upcomingList.innerHTML =
+          '<div class="activities-empty">Upcoming activities could not be loaded.</div>';
+        historyList.innerHTML =
+          '<div class="activities-empty">Activity history could not be loaded.</div>';
+        source.textContent =
+          "The activities dataset could not be loaded. Confirm that activities.json exists in the repository root.";
+      }
+    }
+
     const navigationLinks = [...document.querySelectorAll(".primary-nav a[href^='#']")];
     const observedSections = navigationLinks
       .map((link) => document.querySelector(link.getAttribute("href")))
@@ -4131,6 +4543,7 @@
 
     document.getElementById("print-cv").addEventListener("click", () => window.print());
 
+    loadActivities();
     loadPublications();
   </script>
 </body>
