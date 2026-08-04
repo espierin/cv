@@ -2417,6 +2417,236 @@
       }
     }
 
+  
+    /* Refined contact section */
+    .contact-band {
+      position: relative;
+      overflow: hidden;
+      padding: 72px 0 78px;
+      color: white;
+      background:
+        radial-gradient(circle at 88% 18%, rgba(16, 126, 204, 0.16), transparent 34%),
+        linear-gradient(135deg, #061f3f 0%, #082b54 58%, #0b3968 100%);
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .contact-pattern {
+      position: absolute;
+      right: -80px;
+      top: -100px;
+      width: 620px;
+      height: 620px;
+      opacity: 0.28;
+      pointer-events: none;
+      background:
+        radial-gradient(circle, rgba(44, 152, 229, 0.55) 0 1.5px, transparent 1.8px);
+      background-size: 18px 18px;
+      -webkit-mask-image: radial-gradient(circle at center, black 0, transparent 70%);
+      mask-image: radial-gradient(circle at center, black 0, transparent 70%);
+      transform: rotate(18deg);
+    }
+
+    .contact-layout {
+      position: relative;
+      z-index: 1;
+    }
+
+    .contact-intro {
+      max-width: 760px;
+      margin-bottom: 34px;
+    }
+
+    .contact-label {
+      margin-bottom: 8px;
+      color: #7fc7f4;
+    }
+
+    .contact-intro h2 {
+      margin: 0 0 14px;
+      color: white;
+      font-size: clamp(2rem, 4vw, 3.2rem);
+      line-height: 1.05;
+      letter-spacing: -0.02em;
+    }
+
+    .contact-intro p {
+      max-width: 720px;
+      margin: 0;
+      color: rgba(255, 255, 255, 0.76);
+      font-size: 1rem;
+      line-height: 1.7;
+    }
+
+    .contact-links {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 20px;
+    }
+
+    .contact-card {
+      position: relative;
+      min-width: 0;
+      min-height: 180px;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      grid-template-rows: 1fr auto;
+      align-items: center;
+      gap: 18px 20px;
+      padding: 26px 24px 22px;
+      border: 1px solid rgba(173, 213, 241, 0.32);
+      border-radius: 20px;
+      color: white;
+      background: linear-gradient(145deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.025));
+      text-decoration: none;
+      box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.04),
+        0 18px 35px rgba(0, 17, 36, 0.16);
+      transition:
+        transform 0.18s ease,
+        border-color 0.18s ease,
+        background 0.18s ease,
+        box-shadow 0.18s ease;
+    }
+
+    .contact-card:hover,
+    .contact-card:focus-visible {
+      transform: translateY(-4px);
+      border-color: rgba(141, 207, 248, 0.66);
+      background: linear-gradient(145deg, rgba(255, 255, 255, 0.11), rgba(255, 255, 255, 0.045));
+      box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.08),
+        0 22px 42px rgba(0, 17, 36, 0.28);
+    }
+
+    .contact-icon {
+      width: 72px;
+      height: 72px;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      color: white;
+      border: 1px solid rgba(255, 255, 255, 0.28);
+      box-shadow:
+        0 0 0 7px rgba(255, 255, 255, 0.035),
+        0 10px 26px rgba(0, 0, 0, 0.20);
+    }
+
+    .contact-icon-email {
+      background: radial-gradient(circle at 35% 30%, #238be5, #0a4c98 72%);
+      box-shadow:
+        0 0 0 7px rgba(38, 137, 229, 0.12),
+        0 0 24px rgba(38, 137, 229, 0.42);
+    }
+
+    .contact-icon-orcid {
+      background: radial-gradient(circle at 35% 30%, #38d0d5, #119fa8 72%);
+      box-shadow:
+        0 0 0 7px rgba(32, 197, 205, 0.12),
+        0 0 24px rgba(32, 197, 205, 0.38);
+    }
+
+    .contact-icon-scholar {
+      background: radial-gradient(circle at 35% 30%, #ffb255, #f18419 72%);
+      box-shadow:
+        0 0 0 7px rgba(241, 132, 25, 0.12),
+        0 0 24px rgba(241, 132, 25, 0.40);
+    }
+
+    .contact-icon-linkedin {
+      background: radial-gradient(circle at 35% 30%, #1d8fd2, #0a5d99 72%);
+      box-shadow:
+        0 0 0 7px rgba(29, 143, 210, 0.12),
+        0 0 24px rgba(29, 143, 210, 0.38);
+    }
+
+    .contact-icon svg {
+      width: 38px;
+      height: 38px;
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 2.3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+
+    .contact-icon .contact-icon-fill {
+      fill: currentColor;
+      stroke: none;
+    }
+
+    .contact-copy {
+      min-width: 0;
+    }
+
+    .contact-copy strong {
+      display: block;
+      margin-bottom: 7px;
+      color: white;
+      font-size: 1.04rem;
+      line-height: 1.2;
+    }
+
+    .contact-copy span {
+      display: block;
+      color: rgba(255, 255, 255, 0.72);
+      font-size: 0.9rem;
+      line-height: 1.45;
+      overflow-wrap: anywhere;
+    }
+
+    .contact-arrow {
+      grid-column: 2;
+      justify-self: end;
+      color: #32a8f0;
+      font-size: 1.9rem;
+      line-height: 1;
+      transition: transform 0.18s ease;
+    }
+
+    .contact-card-orcid .contact-arrow {
+      color: #24c3ca;
+    }
+
+    .contact-card-scholar .contact-arrow {
+      color: #ff9f30;
+    }
+
+    .contact-card:hover .contact-arrow,
+    .contact-card:focus-visible .contact-arrow {
+      transform: translateX(4px);
+    }
+
+    @media (max-width: 980px) {
+      .contact-links {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 620px) {
+      .contact-band {
+        padding: 56px 0 60px;
+      }
+
+      .contact-links {
+        grid-template-columns: 1fr;
+      }
+
+      .contact-card {
+        min-height: 148px;
+      }
+
+      .contact-icon {
+        width: 64px;
+        height: 64px;
+      }
+
+      .contact-icon svg {
+        width: 34px;
+        height: 34px;
+      }
+    }
+
   </style>
 
   <meta name="author" content="Eric Spierings">
@@ -3029,85 +3259,90 @@
       </div>
     </section>
 
+    
     <section class="section contact-band" id="contact">
-      <div class="container">
-        <div class="section-head">
-          <p class="section-label">Connect</p>
-          <div>
-            <h2>Professional profiles and contact</h2>
-            <p class="section-intro">
-              For scientific collaboration, transplantation diagnostics, standards, education, or international committee work.
-            </p>
-          </div>
+      <div class="contact-pattern" aria-hidden="true"></div>
+
+      <div class="container contact-layout">
+        <div class="contact-intro">
+          <p class="section-label contact-label">Contact</p>
+          <h2>Get in touch</h2>
+          <p>
+            I am open to scientific collaborations, invited lectures and opportunities
+            that advance transplantation immunology, immunogenetics and data-driven diagnostics.
+          </p>
         </div>
 
-        
-<div class="contact-links" aria-label="Professional contact links">
+        <div class="contact-links" aria-label="Professional contact links">
 
-          <a class="contact-link contact-card" href="mailto:e.spierings@umcutrecht.nl" aria-label="Send email to Eric Spierings">
-            <span class="contact-icon" aria-hidden="true">
+          <a class="contact-card contact-card-email" href="mailto:e.spierings@umcutrecht.nl" aria-label="Send email to Eric Spierings">
+            <span class="contact-icon contact-icon-email" aria-hidden="true">
               <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-                <rect x="7" y="11" width="34" height="26" rx="5"></rect>
-                <path d="M9 14l15 12 15-12"></path>
-                <path d="M9 35l11-10"></path>
-                <path d="M39 35L28 25"></path>
+                <rect x="8" y="12" width="32" height="24" rx="3"></rect>
+                <path d="M10 15l14 11 14-11"></path>
+                <path d="M10 34l10-9"></path>
+                <path d="M38 34l-10-9"></path>
               </svg>
             </span>
             <span class="contact-copy">
               <strong>Email</strong>
               <span>e.spierings (a) umcutrecht.nl</span>
             </span>
+            <span class="contact-arrow" aria-hidden="true">→</span>
           </a>
 
-          <a class="contact-link contact-card" href="https://orcid.org/0000-0001-9441-1019" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' ORCID profile">
-            <span class="contact-icon" aria-hidden="true">
+          <a class="contact-card contact-card-orcid" href="https://orcid.org/0000-0001-9441-1019" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' ORCID profile">
+            <span class="contact-icon contact-icon-orcid" aria-hidden="true">
               <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="24" cy="24" r="17"></circle>
                 <circle cx="18" cy="18" r="2.2" class="contact-icon-fill"></circle>
                 <path d="M18 23v10"></path>
-                <path d="M24 33V23h5c4 0 7 2 7 5s-3 5-7 5h-5Z"></path>
+                <path d="M24 33V23h4.5c4.5 0 7.5 2.1 7.5 5s-3 5-7.5 5H24Z"></path>
               </svg>
             </span>
             <span class="contact-copy">
               <strong>ORCID</strong>
               <span>0000-0001-9441-1019</span>
             </span>
+            <span class="contact-arrow" aria-hidden="true">→</span>
           </a>
 
-          <a class="contact-link contact-card" href="https://scholar.google.com/citations?hl=en&user=dkQb9LAAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' Google Scholar profile">
-            <span class="contact-icon" aria-hidden="true">
+          <a class="contact-card contact-card-scholar" href="https://scholar.google.com/citations?hl=en&amp;user=dkQb9LAAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' Google Scholar profile">
+            <span class="contact-icon contact-icon-scholar" aria-hidden="true">
               <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-                <path d="M6 18l18-10 18 10-18 10L6 18Z"></path>
-                <path d="M13 23v9c7 6 15 6 22 0v-9"></path>
+                <path d="M7 18l17-9 17 9-17 9-17-9Z"></path>
+                <path d="M13 23v9c7 5 15 5 22 0v-9"></path>
                 <path d="M40 20v11"></path>
-                <circle cx="40" cy="34" r="2.5" class="contact-icon-fill"></circle>
               </svg>
             </span>
             <span class="contact-copy">
               <strong>Google Scholar</strong>
               <span>Publications &amp; citations</span>
             </span>
+            <span class="contact-arrow" aria-hidden="true">→</span>
           </a>
 
-          <a class="contact-link contact-card" href="https://www.linkedin.com/in/ericspierings/" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' LinkedIn profile">
-            <span class="contact-icon" aria-hidden="true">
+          <a class="contact-card contact-card-linkedin" href="https://www.linkedin.com/in/ericspierings/" target="_blank" rel="noopener noreferrer" aria-label="Open Eric Spierings' LinkedIn profile">
+            <span class="contact-icon contact-icon-linkedin" aria-hidden="true">
               <svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-                <rect x="7" y="7" width="34" height="34" rx="7"></rect>
-                <circle cx="16" cy="17" r="2.4" class="contact-icon-fill"></circle>
-                <path d="M15 23v10"></path>
-                <path d="M23 33V23"></path>
-                <path d="M23 28c0-3 2-5 5-5 4 0 5 3 5 7v3"></path>
+                <rect x="8" y="8" width="32" height="32" rx="4"></rect>
+                <circle cx="17" cy="18" r="2.2" class="contact-icon-fill"></circle>
+                <path d="M16 24v10"></path>
+                <path d="M24 34V24"></path>
+                <path d="M24 28c0-2.7 2-4.5 4.8-4.5 4 0 5.2 2.8 5.2 6.4V34"></path>
               </svg>
             </span>
             <span class="contact-copy">
               <strong>LinkedIn</strong>
               <span>Professional profile</span>
             </span>
+            <span class="contact-arrow" aria-hidden="true">→</span>
           </a>
 
         </div>
       </div>
     </section>
+
   </main>
 
 
