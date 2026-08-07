@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-08-06T06:48:57.621Z",
+  "generatedAt": "2026-08-07T05:52:33.378Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -1819,11 +1819,11 @@
           "score": 0.007699999958276749
         }
       ],
-      "citedByCount": 11,
+      "citedByCount": 12,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -3968,9 +3968,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1159/000537789",
       "pmid": "38867810",
-      "pmcid": null,
+      "pmcid": "PMC11166409",
       "url": "https://doi.org/10.1159/000537789",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC11166409",
       "bestOpenAccessUrl": "https://doi.org/10.1159/000537789",
       "openAlexId": "https://openalex.org/W4393403761",
       "openAlexUrl": "https://openalex.org/W4393403761",
@@ -6339,11 +6339,11 @@
           "score": 0.9977999925613403
         }
       ],
-      "citedByCount": 50,
+      "citedByCount": 51,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2025,
