@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-08-18T04:55:14.465Z",
+  "generatedAt": "2026-08-19T04:54:32.768Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -6621,7 +6621,7 @@
       "pmcid": null,
       "url": "https://doi.org/10.4049/jimmunol.2001145",
       "fullTextUrl": null,
-      "bestOpenAccessUrl": "https://doi.org/10.4049/jimmunol.2001145",
+      "bestOpenAccessUrl": "https://dspace.library.uu.nl/handle/1874/444589",
       "openAlexId": "https://openalex.org/W4200425677",
       "openAlexUrl": "https://openalex.org/W4200425677",
       "abstract": "CD8 + T cells play an important role in the control of untreated HIV infection. Several studies have suggested a decisive role of TCRs involved in anti-HIV immunity. HLA-B*27 and B*57 are often associated with a delayed HIV disease progression, but the exact correlates that provide superior immunity against HIV are not known. To investigate if the T cell repertoire underlies the protective effect in disease outcome in HLA-B*27 and B*57 + individuals, we analyzed Ag-specific TCR profiles from progressors ( n = 13) and slow progressors ( n = 11) expressing either B*27 or B*57. Our data showed no differences in TCR diversity between progressors and slow progressors. Both alleles recruit biased T cell repertoires (i.e., TCR populations skewed toward specific TRBV families or CDR3 regions). This bias was unrelated to disease progression and was remarkably profound for HLA-B*57, in which TRBV family usage and CDR3 sequences were shared to some extent even between epitopes. Conclusively, these data suggest that the T cell repertoires recruited by protective HLA alleles are highly similar between progressors and slow progressors in terms of TCR diversity, TCR usage, and cross-reactivity.",
@@ -6759,7 +6759,7 @@
         }
       ],
       "isOpenAccess": true,
-      "openAccessStatus": "bronze",
+      "openAccessStatus": "green",
       "relatedOpenAlexWorks": [
         "https://openalex.org/W203802859",
         "https://openalex.org/W2048716591",
@@ -15630,7 +15630,7 @@
       "pmcid": "PMC6159979",
       "url": "http://dx.doi.org/10.1172/jci96107",
       "fullTextUrl": "https://europepmc.org/articles/PMC6159979",
-      "bestOpenAccessUrl": "https://doi.org/10.1172/jci96107",
+      "bestOpenAccessUrl": "https://pure.eur.nl/en/publications/0ab43f94-a767-43e9-bfda-eb8acd44a6e4",
       "openAlexId": "https://openalex.org/W2892128713",
       "openAlexUrl": "https://openalex.org/W2892128713",
       "abstract": "Chronic inflammatory diseases are characterized by recurrent inflammatory attacks in the tissues mediated by autoreactive T cells. Identity and functional programming of CD8+ T cells at the target site of inflammation still remain elusive. One key question is whether, in these antigen-rich environments, chronic stimulation leads to CD8+ T cell exhaustion comparable to what is observed in infectious disease contexts. In the synovial fluid (SF) of juvenile idiopathic arthritis (JIA) patients, a model of chronic inflammation, an overrepresentation of PD-1+CD8+ T cells was found. Gene expression profiling, gene set enrichment analysis, functional studies, and extracellular flux analysis identified PD-1+CD8+ T cells as metabolically active effectors, with no sign of exhaustion. Furthermore, PD-1+CD8+ T cells were enriched for a tissue-resident memory (Trm) cell transcriptional profile and demonstrated increased clonal expansion compared with the PD-1- counterpart, suggesting antigen-driven expansion of locally adapted cells. Interestingly, this subset was also found increased in target tissues in other human chronic inflammatory diseases. These data indicate that local chronic inflammation drives the induction and expansion of CD8+ T cells endowed with potential detrimental properties. Together, these findings lay the basis for investigation of PD-1-expressing CD8+ T cell targeting strategies in human chronic inflammatory diseases.",
@@ -15885,7 +15885,7 @@
         }
       ],
       "isOpenAccess": true,
-      "openAccessStatus": "bronze",
+      "openAccessStatus": "green",
       "relatedOpenAlexWorks": [
         "https://openalex.org/W1530034981",
         "https://openalex.org/W4320492283",
@@ -16444,7 +16444,7 @@
       "pmcid": "PMC6115667",
       "url": "https://doi.org/10.1681/ASN.2018020205",
       "fullTextUrl": "https://europepmc.org/articles/PMC6115667",
-      "bestOpenAccessUrl": "https://doi.org/10.1681/asn.2018020205",
+      "bestOpenAccessUrl": "https://cris.maastrichtuniversity.nl/en/publications/bcb56365-43f6-4b2e-a1e4-280ca39f46a6",
       "openAlexId": "https://openalex.org/W2884800739",
       "openAlexUrl": "https://openalex.org/W2884800739",
       "abstract": "Background Complement-fixing antibodies against donor HLA are considered a contraindication for kidney transplant. A modification of the IgG single-antigen bead (SAB) assay allows detection of anti-HLA antibodies that bind C3d. Because early humoral graft rejection is considered to be complement mediated, this SAB-based technique may provide a valuable tool in the pretransplant risk stratification of kidney transplant recipients. Methods Previously, we established that pretransplant donor-specific anti-HLA antibodies (DSAs) are associated with increased risk for long-term graft failure in complement-dependent cytotoxicity crossmatch-negative transplants. In this study, we further characterized the DSA-positive serum samples using the C3d SAB assay. Results Among 567 pretransplant DSA-positive serum samples, 97 (17%) contained at least one C3d-fixing DSA, whereas 470 (83%) had non-C3d-fixing DSA. At 10 years after transplant, patients with C3d-fixing antibodies had a death-censored, covariate-adjusted graft survival of 60%, whereas patients with non-C3d-fixing DSA had a graft survival of 64% (hazard ratio, 1.02; 95% confidence interval, 0.70 to 1.48 for C3d-fixing DSA compared with non-C3d-fixing DSA; P =0.93). Patients without DSA had a 10-year graft survival of 78%. Conclusions The C3d-fixing ability of pretransplant DSA is not associated with increased risk for graft failure.",
@@ -16933,7 +16933,7 @@
         }
       ],
       "isOpenAccess": true,
-      "openAccessStatus": "bronze",
+      "openAccessStatus": "green",
       "relatedOpenAlexWorks": [
         "https://openalex.org/W1969405541",
         "https://openalex.org/W941438169",
@@ -21362,7 +21362,7 @@
       "pmcid": null,
       "url": "https://doi.org/10.1182/blood-2015-06-649145",
       "fullTextUrl": null,
-      "bestOpenAccessUrl": "https://doi.org/10.1182/blood-2015-06-649145",
+      "bestOpenAccessUrl": "https://dspace.library.uu.nl/handle/1874/333587",
       "openAlexId": "https://openalex.org/W2175197370",
       "openAlexUrl": "https://openalex.org/W2175197370",
       "abstract": "Autologous hematopoietic stem cell transplantation (HSCT) is increasingly considered for patients with severe autoimmune diseases whose prognosis is poor with standard treatments. Regulatory T cells (Tregs) are thought to be important for disease remission after HSCT. However, eliciting the role of donor and host Tregs in autologous HSCT is not possible in humans due to the autologous nature of the intervention. Therefore, we investigated their role during immune reconstitution and re-establishment of immune tolerance and their therapeutic potential following congenic bone marrow transplantation (BMT) in a proteoglycan-induced arthritis (PGIA) mouse model. In addition, we determined Treg T-cell receptor (TCR) CDR3 diversity before and after HSCT in patients with juvenile idiopathic arthritis and juvenile dermatomyositis. In the PGIA BMT model, after an initial predominance of host Tregs, graft-derived Tregs started dominating and displayed a more stable phenotype with better suppressive capacity. Patient samples revealed a striking lack of diversity of the Treg repertoire before HSCT. This ameliorated after HSCT, confirming reset of the Treg compartment following HSCT. In the mouse model, a therapeutic approach was initiated by infusing extra Foxp3(GFP+) Tregs during BMT. Infusion of Foxp3(GFP+) Tregs did not elicit additional clinical improvement but conversely delayed reconstitution of the graft-derived T-cell compartment. These data indicate that HSCT-mediated amelioration of autoimmune disease involves renewal of the Treg pool. In addition, infusion of extra Tregs during BMT results in a delayed reconstitution of T-cell compartments. Therefore, Treg therapy may hamper development of long-term tolerance and should be approached with caution in the clinical autologous setting.",
@@ -21611,7 +21611,7 @@
         }
       ],
       "isOpenAccess": true,
-      "openAccessStatus": "bronze",
+      "openAccessStatus": "green",
       "relatedOpenAlexWorks": [
         "https://openalex.org/W2394822632",
         "https://openalex.org/W1996773663",
@@ -28732,7 +28732,7 @@
       "pmcid": null,
       "url": "http://europepmc.org/abstract/med/19342659",
       "fullTextUrl": null,
-      "bestOpenAccessUrl": "https://doi.org/10.4049/jimmunol.0803911",
+      "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W1780043079",
       "openAlexUrl": "https://openalex.org/W1780043079",
       "abstract": "The di-allelic HLA-A2 restricted minor histocompatibility Ag HA-1 locus codes for the highly immunogenic HA-1(His) and the nonimmunogenic HA-1(Arg) nonapeptides, differing in one amino acid. The HA-1(His) peptide is currently used for boosting the graft-vs-tumor responses after HLA matched HA-1 mismatched stem cell transplantation; usage of the HA-1(Arg) peptide would significantly enlarge the applicability for this therapy. Our studies on mechanisms causing the HA-1 unidirectional immunogenicity revealed marginal differences in proteasomal digestion, TAP translocation, and binding affinity, whereas both dissociation rates and structural analyses clearly showed marked differences in the stability of these two HLA-A2 bound alleles. These data provide a rationale for the lack of HA-1(Arg) peptide immunogenicity essential for the choice of tumor peptides for stem cell-based immunotherapeutic application.",
@@ -28994,8 +28994,8 @@
           "cited_by_count": 2
         }
       ],
-      "isOpenAccess": true,
-      "openAccessStatus": "bronze",
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
       "relatedOpenAlexWorks": [
         "https://openalex.org/W1581415616",
         "https://openalex.org/W1552738310",
@@ -33224,7 +33224,7 @@
       "pmcid": "PMC173672",
       "url": "https://europepmc.org/articles/PMC173672",
       "fullTextUrl": "https://europepmc.org/articles/PMC173672",
-      "bestOpenAccessUrl": "https://doi.org/10.1128/iai.63.12.4682-4685.1995",
+      "bestOpenAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/173672",
       "openAlexId": "https://openalex.org/W1930612456",
       "openAlexUrl": "https://openalex.org/W1930612456",
       "abstract": "A Mycobacterium leprae lambda gt11 clone designated T5 has previously been selected with sera from tuberculoid leprosy patients. Sequence analysis of this clone revealed the presence of two overlapping open reading frames (ORFs) present on the two cDNA strands. The first ORF codes for the serologically recognized antigen, which was fused with the lacZ gene in the lambda gt11 clone. The second ORF, present on the complementary strand, displays strong sequence homology with the aspartyl-tRNA synthetase genes of Escherichia coli and Thermus thermophilus. Here we show that the purified T5-derived product, overexpressed in E. coli, is recognized by T cells of the majority of the leprosy patients tested, including lepromatous leprosy patients who do not respond to whole M. leprae bacilli.",
@@ -33347,7 +33347,7 @@
         }
       ],
       "isOpenAccess": true,
-      "openAccessStatus": "bronze",
+      "openAccessStatus": "green",
       "relatedOpenAlexWorks": [
         "https://openalex.org/W1978801575",
         "https://openalex.org/W2029252138",
