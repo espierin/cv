@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-08-20T04:58:19.298Z",
+  "generatedAt": "2026-08-21T05:07:27.071Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -27566,7 +27566,7 @@
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2011714325",
       "openAlexUrl": "https://openalex.org/W2011714325",
-      "abstract": null,
+      "abstract": "Many parameters predict for outcome after unrelated donor (URD) allogeneic hematopoietic stem cell transplantation (alloSCT). High-resolution HLA-matching significantly impacts outcome and also the European Group of Blood and Marrow Transplantation (EBMT) risk score, based on patient age, disease stage, donor type, time from diagnosis to SCT and gender combination, may predict for non-relapse mortality and overall survival (OS). We evaluated the individual and combined effects of allele-matching and the EBMT risk score in 327 patients with poor-risk acute leukemia or myelodysplasia, who received a T-cell depleted URD alloSCT. Matching for HLA-A, -B, -C and -DRB1 alleles (8/8 match) was associated with a 5-year OS of 40% compared with 30% for mismatched (≤7/8) pairs (P=0.02). Patients with EBMT risk scores of 1-2, 3, 4 and 5-7 had 5-year OS estimates of 53, 43, 30 and 20%, respectively (P<0.001). The favorable prognostic impact of an 8/8 donor was most pronounced if the EBMT risk score was low (1-2). Five-year OS was 74±8% vs 39±11% for fully matched patients with a low-risk EBMT score as compared with EBMT low-risk patients with ≤7/8 donors. These data underscore the importance of incorporating both the EBMT risk score and the degree of high-resolution HLA-matching in the risk assessment prior to URD alloSCT.",
       "authors": [
         {
           "name": "Tom Lodewyck",
@@ -27713,13 +27713,28 @@
       ],
       "volumeIssuePages": "vol. 25, no. 10, pp. 1548-1554",
       "categories": [
+        "matching",
         "outcome"
       ],
-      "primaryCategoryLabel": "Outcome",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes",
+        "Humans",
+        "Leukemia",
+        "Myelodysplastic Syndromes",
+        "Acute Disease",
+        "Recurrence",
+        "Histocompatibility Testing",
+        "Bone Marrow Transplantation",
+        "Risk",
+        "Alleles",
+        "Adult",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "Internal medicine",
         "Transplantation",
@@ -27891,7 +27906,21 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Dendritic Cells",
+        "T-Lymphocytes, Cytotoxic",
+        "Skin",
+        "Humans",
+        "Skin Diseases",
+        "Graft vs Host Disease",
+        "Oligopeptides",
+        "Minor Histocompatibility Antigens",
+        "Immunotherapy",
+        "Lymphocyte Activation",
+        "Cell Movement",
+        "Models, Biological",
+        "In Vitro Techniques"
+      ],
       "keywords": [
         "Cytotoxic T cell",
         "Minor histocompatibility antigen",
@@ -27969,7 +27998,7 @@
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2025574606",
       "openAlexUrl": "https://openalex.org/W2025574606",
-      "abstract": "Graft-versus-host disease is still a major complication in stem-cell transplantation. In HLA-identical stem-cell transplantation, mismatches in minor histocompatibility antigens contribute to the development of graft-versus-host disease. As treatment of graft-versus-host disease with immunosuppressive drugs potentially also reduces the graft-versus-leukemia responses, antigen-specific tolerance induction may be used to reduce graft-versus-host disease while leaving the graft-versus-leukemia responses intact. In mouse models, induction of antigen-specific tolerance using IgG-antigen-transduced B cells can prevent and ameliorate autoimmunity. In this study, the principle of the in vivo animal model has been applied to a human in vitro model wherein induction of tolerance against the HLA class II-restricted male-specific minor histocompatibility antigen RPS4Y1 has been analyzed. T cells precultured in the presence of B cells expressing the IgG-coupled HY antigen showed reduced responsiveness selectively against the minor HY antigen RPS4Y1 in different in vitro protocols. These first observations serve as a basis for further studying and understanding the tolerizing potential of IgG constructs with human T cells. In this study, Dierselhuis et al. investigate the potential of using gene therapy to induce antigen-specific tolerance in humans. They use an in vitro culture system and demonstrate that transduction of female lymphocytes with a retroviral vector encoding an IgG-coupled HY antigen leads to tolerance against the minor HY antigen in different in vitro protocols.",
+      "abstract": "Graft-versus-host disease is still a major complication in stem-cell transplantation. In HLA-identical stem-cell transplantation, mismatches in minor histocompatibility antigens contribute to the development of graft-versus-host disease. As treatment of graft-versus-host disease with immunosuppressive drugs potentially also reduces the graft-versus-leukemia responses, antigen-specific tolerance induction may be used to reduce graft-versus-host disease while leaving the graft-versus-leukemia responses intact. In mouse models, induction of antigen-specific tolerance using IgG-antigen-transduced B cells can prevent and ameliorate autoimmunity. In this study, the principle of the in vivo animal model has been applied to a human in vitro model wherein induction of tolerance against the HLA class II-restricted male-specific minor histocompatibility antigen RPS4Y1 has been analyzed. T cells precultured in the presence of B cells expressing the IgG-coupled HY antigen showed reduced responsiveness selectively against the minor HY antigen RPS4Y1 in different in vitro protocols. These first observations serve as a basis for further studying and understanding the tolerizing potential of IgG constructs with human T cells.",
       "authors": [
         {
           "name": "Miranda P. Dierselhuis",
@@ -28025,7 +28054,25 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "B-Lymphocytes",
+        "T-Lymphocytes",
+        "Cell Line",
+        "Animals",
+        "Humans",
+        "Mice",
+        "Graft vs Host Disease",
+        "Immunoglobulin G",
+        "Recombinant Fusion Proteins",
+        "Histocompatibility Antigens Class II",
+        "Minor Histocompatibility Antigens",
+        "H-Y Antigen",
+        "Stem Cell Transplantation",
+        "Immune Tolerance",
+        "Female",
+        "Male",
+        "Genetic Therapy"
+      ],
       "keywords": [
         "Minor histocompatibility antigen",
         "Antigen",
@@ -28097,13 +28144,13 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1093/humrep/deq242",
       "pmid": "20823116",
-      "pmcid": null,
+      "pmcid": "PMC2955557",
       "url": "http://europepmc.org/abstract/med/20823116",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC2955557",
       "bestOpenAccessUrl": "https://doi.org/10.1093/humrep/deq242",
       "openAlexId": "https://openalex.org/W2148563151",
       "openAlexUrl": "https://openalex.org/W2148563151",
-      "abstract": "BACKGROUND: The birth of a boy is significantly more common than a girl prior to secondary recurrent miscarriage (SRM) and is associated with a poorer chance of a subsequent live birth. Children born after SRM are more likely to be girls. High-titer antisera specific for male antigens (H-Y) have been shown to arrest development of male bovine embryos efficiently. We consequently questioned the role of H-Y antibodies in women with SRM. METHODS: Serum samples from patients with unexplained SRM (n = 84), unexplained primary recurrent miscarriage (PRM) (n = 12) and healthy women (n = 37) were obtained. The samples were taken during pregnancy (gestational weeks 4-5) for 77 (80%) of the patients. Enzyme-linked immunosorbent assay was used to detect immunoglobulin G antibodies that specifically recognized any of the five recombinant H-Y proteins (EIF1AY, RPS4Y1, ZFY, DDX3Y and UTY) and their H-X homologs. RESULTS: H-Y-specific antibodies were more frequent in SRM patients (46%) compared with female controls (19%, P = 0.004) and PRM patients (8%, P = 0.01). The presence of H-Y antibodies in early pregnancy was associated with a low male: female birth ratio among the subsequent live births, as only 12% of children born to H-Y antibody-positive patients were boys compared with 44% boys born to H-Y antibody negative patients (P = 0.03). CONCLUSIONS: The high frequency of H-Y antibody-positive SRM patients and the association between the presence of these antibodies in early pregnancy and the low number of male offspring, suggest that maternal immune responses against H-Y antigens can cause pregnancy losses. Further exploring these mechanisms may increase our understanding of unexplained SRM.",
+      "abstract": "Background The birth of a boy is significantly more common than a girl prior to secondary recurrent miscarriage (SRM) and is associated with a poorer chance of a subsequent live birth. Children born after SRM are more likely to be girls. High-titer antisera specific for male antigens (H-Y) have been shown to arrest development of male bovine embryos efficiently. We consequently questioned the role of H-Y antibodies in women with SRM. Methods Serum samples from patients with unexplained SRM (n = 84), unexplained primary recurrent miscarriage (PRM) (n = 12) and healthy women (n = 37) were obtained. The samples were taken during pregnancy (gestational weeks 4-5) for 77 (80%) of the patients. Enzyme-linked immunosorbent assay was used to detect immunoglobulin G antibodies that specifically recognized any of the five recombinant H-Y proteins (EIF1AY, RPS4Y1, ZFY, DDX3Y and UTY) and their H-X homologs. Results H-Y-specific antibodies were more frequent in SRM patients (46%) compared with female controls (19%, P = 0.004) and PRM patients (8%, P = 0.01). The presence of H-Y antibodies in early pregnancy was associated with a low male: female birth ratio among the subsequent live births, as only 12% of children born to H-Y antibody-positive patients were boys compared with 44% boys born to H-Y antibody negative patients (P = 0.03). Conclusions The high frequency of H-Y antibody-positive SRM patients and the association between the presence of these antibodies in early pregnancy and the low number of male offspring, suggest that maternal immune responses against H-Y antigens can cause pregnancy losses. Further exploring these mechanisms may increase our understanding of unexplained SRM.",
       "authors": [
         {
           "name": "Henriette Svarre Nielsen",
@@ -28198,13 +28245,29 @@
       ],
       "volumeIssuePages": "vol. 25, no. 11, pp. 2745-2752",
       "categories": [
+        "outcome",
         "diagnostics"
       ],
-      "primaryCategoryLabel": "Diagnostics",
+      "primaryCategoryLabel": "Outcome",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Abortion, Habitual",
+        "Immunoglobulins, Intravenous",
+        "Isoantibodies",
+        "H-Y Antigen",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Pregnancy Outcome",
+        "Sex Ratio",
+        "Pregnancy",
+        "Pregnancy Trimester, First",
+        "Adolescent",
+        "Adult",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "Miscarriage",
         "Live birth",
@@ -28534,7 +28597,19 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Abortion, Habitual",
+        "Histocompatibility Antigens Class II",
+        "H-Y Antigen",
+        "Pregnancy Outcome",
+        "Pregnancy",
+        "Sex Characteristics",
+        "Female",
+        "Male",
+        "Live Birth",
+        "Histocompatibility, Maternal-Fetal"
+      ],
       "keywords": [
         "Firstborn",
         "Live birth",
@@ -28814,7 +28889,21 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Hela Cells",
+        "Humans",
+        "Proteasome Endopeptidase Complex",
+        "Histocompatibility Antigens Class I",
+        "Crystallography, X-Ray",
+        "Amino Acid Sequence",
+        "Protein Structure, Tertiary",
+        "Protein Binding",
+        "Protein Transport",
+        "Alleles",
+        "Models, Molecular",
+        "Time Factors",
+        "Molecular Sequence Data"
+      ],
       "keywords": [
         "Steric effects",
         "Immunogenicity",
@@ -29024,7 +29113,15 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes",
+        "CD8-Positive T-Lymphocytes",
+        "Humans",
+        "Minor Histocompatibility Antigens",
+        "Histocompatibility Testing",
+        "Hematopoietic Stem Cell Transplantation",
+        "Leukemia, Lymphocytic, Chronic, B-Cell"
+      ],
       "keywords": [
         "Minor histocompatibility antigen",
         "Histocompatibility",
