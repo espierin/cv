@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-08-22T04:52:26.218Z",
+  "generatedAt": "2026-08-23T04:54:03.588Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -5760,11 +5760,11 @@
           "score": 0.9994999766349792
         }
       ],
-      "citedByCount": 54,
+      "citedByCount": 55,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2025,
