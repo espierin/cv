@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-08-27T15:18:03.824Z",
+  "generatedAt": "2026-08-28T16:41:44.235Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -5991,7 +5991,7 @@
           "corresponding": false,
           "institutions": [
             "Centre Hospitalier Régional et Universitaire de Nancy",
-            "Ingénierie Moléculaire et Physiopathologie Articulaire"
+            "Ingénierie Moléculaire, Cellulaire et Physiopathologie"
           ]
         },
         {
@@ -11005,11 +11005,11 @@
           "score": 0.004999999888241291
         }
       ],
-      "citedByCount": 93,
+      "citedByCount": 95,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 10
+          "cited_by_count": 12
         },
         {
           "year": 2025,
