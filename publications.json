@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-09-01T09:26:42.371Z",
+  "generatedAt": "2026-09-02T08:50:03.511Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -1819,11 +1819,11 @@
           "score": 0.007699999958276749
         }
       ],
-      "citedByCount": 12,
+      "citedByCount": 13,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2025,
@@ -2054,8 +2054,12 @@
           "score": 0.9922999739646912
         }
       ],
-      "citedByCount": 1,
+      "citedByCount": 2,
       "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2025,
           "cited_by_count": 1
@@ -9475,7 +9479,7 @@
       "pmcid": null,
       "url": "https://doi.org/10.1158/2326-6066.CIR-19-0513",
       "fullTextUrl": null,
-      "bestOpenAccessUrl": "https://pure.amsterdamumc.nl/en/publications/258267e9-701c-4b8c-a6e0-fe12137490b8",
+      "bestOpenAccessUrl": "https://pure.amc.nl/en/publications/-tcell-receptors-derived-from-breast-cancerinfiltrating-t-lymphocytes-mediate-antitumor-reactivity(2109be4b-6b95-467c-b37b-35a6f7a79f82).html",
       "openAlexId": "https://openalex.org/W3004928071",
       "openAlexUrl": "https://openalex.org/W3004928071",
       "abstract": "γδ T cells in human solid tumors remain poorly defined. Here, we describe molecular and functional analyses of T-cell receptors (TCR) from tumor-infiltrating γδ T lymphocytes (γδ TIL) that were in direct contact with tumor cells in breast cancer lesions from archival material. We observed that the majority of γδ TILs harbored a proinflammatory phenotype and only a minority associated with the expression of IL17. We characterized TCRγ or TCRδ chains of γδ TILs and observed a higher proportion of Vδ2 + T cells compared with other tumor types. By reconstructing matched Vδ2 - TCRγ and TCRδ pairs derived from single-cell sequencing, our data suggest that γδ TILs could be active against breast cancer and other tumor types. The reactivity pattern against tumor cells depended on both the TCRγ and TCRδ chains and was independent of additional costimulation through other innate immune receptors. We conclude that γδ TILs can mediate tumor reactivity through their individual γδ TCR pairs and that engineered T cells expressing TCRγ and δ chains derived from γδ TILs display potent antitumor reactivity against different cancer cell types and, thus, may be a valuable tool for engineering immune cells for adoptive cell therapies.",
@@ -17967,11 +17971,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "HLA Antigens",
-        "Epitopes",
-        "Histocompatibility Testing"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Human leukocyte antigen",
         "Epitope",
@@ -18278,7 +18278,7 @@
       "bestOpenAccessUrl": "https://pure.amsterdamumc.nl/en/publications/d029d1c4-280a-4332-9170-20780c19a7c1",
       "openAlexId": "https://openalex.org/W2624350031",
       "openAlexUrl": "https://openalex.org/W2624350031",
-      "abstract": "Allogeneic stem cell transplantation (allo-SCT) with or without donor lymphocyte infusions (DLI) is the only curative option for several hematological malignancies. Unfortunately, allo-SCT is often associated with GvHD, and patients often relapse. We therefore aim to improve the graft-versus-tumor effect, without increasing the risk of GvHD, by targeting hematopoietic lineage-restricted and tumor-associated minor histocompatibility antigens using peptide-loaded dendritic cell (DC) vaccinations. In the present multicenter study, we report the feasibility, safety and efficacy of this concept. We treated nine multiple myeloma patients with persistent or relapsed disease after allo-SCT and a previous DLI, with donor monocyte-derived mHag-peptide-loaded DC vaccinations combined with a second DLI. Vaccinations were well tolerated and no occurrence of GvHD was observed. In five out of nine patients, we were able to show the induction of mHag-specific CD8 + T cells in peripheral blood. Five out of nine patients, of which four developed mHag-specific T cells, showed stable disease (SD) for 3.5-10 months. This study shows that mHag-based donor monocyte-derived DC vaccination combined with DLI is safe, feasible and capable of inducing objective mHag-specific T-cell responses. Future research should focus on further improvement of the vaccination strategy, toward translating the observed T-cell responses into robust clinical responses.",
+      "abstract": null,
       "authors": [
         {
           "name": "Laurens E. Franssen",
@@ -18452,25 +18452,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Dendritic Cells",
-        "Humans",
-        "Multiple Myeloma",
-        "Peptides",
-        "Antigens, Neoplasm",
-        "HLA Antigens",
-        "Lymphocyte Transfusion",
-        "Vaccination",
-        "Stem Cell Transplantation",
-        "Immunity, Cellular",
-        "Adult",
-        "Aged",
-        "Middle Aged",
-        "Blood Donors",
-        "Female",
-        "Male",
-        "Allografts"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Medicine",
         "Minor histocompatibility antigen",
@@ -18560,13 +18542,13 @@
       "typeLabel": "Journal-Article",
       "doi": "10.2967/jnumed.116.186007",
       "pmid": "28209904",
-      "pmcid": "PMC5450362",
+      "pmcid": null,
       "url": "http://europepmc.org/abstract/med/28209904",
-      "fullTextUrl": "https://europepmc.org/articles/PMC5450362",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.2967/jnumed.116.186007",
       "openAlexId": "https://openalex.org/W2588012190",
       "openAlexUrl": "https://openalex.org/W2588012190",
-      "abstract": "The immune system plays a crucial role in many diseases. Activation or suppression of immunity is often related to clinical outcome. Methods to explore the dynamics of immune responses are important to elucidate their role in conditions characterized by inflammation, such as infectious disease, cancer, or autoimmunity. Immuno-PET is a noninvasive method by which disease and immune cell infiltration can be explored simultaneously. Using radiolabeled antibodies or fragments derived from them, it is possible to image disease-specific antigens and immune cell subsets. Methods: We developed a method to noninvasively image human immune responses in a relevant humanized mouse model. We generated a camelid-derived single-domain antibody specific for human class II major histocompatibility complex products and used it to noninvasively image human immune cell reconstitution in nonobese diabetic severe combined immune deficiency γ-/- mice reconstituted with human fetal thymus, liver, and liver-derived hematopoietic stem cells (BLT mice). Results: We showed imaging of infiltrating immunocytes in BLT mice that spontaneously developed a graft-versus-host-like condition, characterized by alopecia and blepharitis. In diseased animals, we showed an increased PET signal in the liver, attributable to infiltration of activated class II major histocompatibility complex + T cells. Conclusion: Noninvasive imaging of immune infiltration and activation could thus be of importance for diagnosis and evaluation of treatment of graft-versus-host disease and holds promise for other diseases characterized by inflammation.",
+      "abstract": "The immune system plays a crucial role in many diseases. Activation or suppression of immunity is often related to clinical outcome. Methods to explore the dynamics of immune responses are important to elucidate their role in conditions characterized by inflammation, such as infectious disease, cancer, or autoimmunity. Immuno-PET is a noninvasive method by which disease and immune cell infiltration can be explored simultaneously. Using radiolabeled antibodies or fragments derived from them, it is possible to image disease-specific antigens and immune cell subsets. Methods: We developed a method to noninvasively image human immune responses in a relevant humanized mouse model. We generated a camelid-derived single-domain antibody specific for human class II major histocompatibility complex products and used it to noninvasively image human immune cell reconstitution in nonobese diabetic severe combined immune deficiency γ−/− mice reconstituted with human fetal thymus, liver, and liver-derived hematopoietic stem cells (BLT mice). Results: We showed imaging of infiltrating immunocytes in BLT mice that spontaneously developed a graft-versus-host–like condition, characterized by alopecia and blepharitis. In diseased animals, we showed an increased PET signal in the liver, attributable to infiltration of activated class II major histocompatibility complex+ T cells. Conclusion: Noninvasive imaging of immune infiltration and activation could thus be of importance for diagnosis and evaluation of treatment of graft-versus-host disease and holds promise for other diseases characterized by inflammation.",
       "authors": [
         {
           "name": "Catharina Van Elssen",
@@ -18718,19 +18700,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "T-Lymphocytes",
-        "Animals",
-        "Mice, Knockout",
-        "Humans",
-        "Mice",
-        "Graft vs Host Disease",
-        "Histocompatibility Antigens Class II",
-        "Radiopharmaceuticals",
-        "Positron-Emission Tomography",
-        "Immunity, Innate",
-        "Single-Domain Antibodies"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Immune system",
         "Immunology",
@@ -25495,11 +25465,11 @@
           "score": 0.9998000264167786
         }
       ],
-      "citedByCount": 91,
+      "citedByCount": 92,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -31857,8 +31827,12 @@
           "score": 0.9991000294685364
         }
       ],
-      "citedByCount": 106,
+      "citedByCount": 107,
       "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2023,
           "cited_by_count": 6
