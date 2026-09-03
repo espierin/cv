@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-09-02T08:50:03.511Z",
+  "generatedAt": "2026-09-03T08:58:53.435Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -6016,6 +6016,7 @@
             "Inserm",
             "Hôpital Saint-Louis",
             "HIPI - Immunologie humaine, physiopathologie et immunithérapie",
+            "Institut de recherche Saint-Louis",
             "Université de Strasbourg"
           ]
         },
@@ -6028,6 +6029,7 @@
             "Inserm",
             "Hôpital Saint-Louis",
             "HIPI - Immunologie humaine, physiopathologie et immunithérapie",
+            "Institut de recherche Saint-Louis",
             "Université de Strasbourg"
           ]
         },
@@ -6101,6 +6103,7 @@
             "Inserm",
             "Hôpital Saint-Louis",
             "HIPI - Immunologie humaine, physiopathologie et immunithérapie",
+            "Institut de recherche Saint-Louis",
             "Université de Strasbourg"
           ]
         },
@@ -9140,6 +9143,7 @@
             "Inserm",
             "Hôpital Edouard Herriot",
             "Hôpital Saint-Louis",
+            "Ecotaxie, Microenvironnement et développement lymphocytaire",
             "Université de Strasbourg"
           ]
         },
@@ -9151,6 +9155,7 @@
           "institutions": [
             "Inserm",
             "Hôpital Saint-Louis",
+            "Ecotaxie, Microenvironnement et développement lymphocytaire",
             "Université de Strasbourg"
           ]
         },
@@ -9163,6 +9168,7 @@
             "Inserm",
             "Hôpital Edouard Herriot",
             "Hôpital Saint-Louis",
+            "Ecotaxie, Microenvironnement et développement lymphocytaire",
             "Université de Strasbourg"
           ]
         },
@@ -9328,6 +9334,7 @@
             "Inserm",
             "Fédération Hospitalo-Universitaire, Paris Center for Microbiome Medicine",
             "Hôpital Saint-Louis",
+            "Ecotaxie, Microenvironnement et développement lymphocytaire",
             "Université de Strasbourg"
           ]
         },
@@ -11013,11 +11020,11 @@
           "score": 0.004999999888241291
         }
       ],
-      "citedByCount": 95,
+      "citedByCount": 96,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2025,
@@ -17971,7 +17978,11 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "HLA Antigens",
+        "Epitopes",
+        "Histocompatibility Testing"
+      ],
       "keywords": [
         "Human leukocyte antigen",
         "Epitope",
@@ -18278,7 +18289,7 @@
       "bestOpenAccessUrl": "https://pure.amsterdamumc.nl/en/publications/d029d1c4-280a-4332-9170-20780c19a7c1",
       "openAlexId": "https://openalex.org/W2624350031",
       "openAlexUrl": "https://openalex.org/W2624350031",
-      "abstract": null,
+      "abstract": "Allogeneic stem cell transplantation (allo-SCT) with or without donor lymphocyte infusions (DLI) is the only curative option for several hematological malignancies. Unfortunately, allo-SCT is often associated with GvHD, and patients often relapse. We therefore aim to improve the graft-versus-tumor effect, without increasing the risk of GvHD, by targeting hematopoietic lineage-restricted and tumor-associated minor histocompatibility antigens using peptide-loaded dendritic cell (DC) vaccinations. In the present multicenter study, we report the feasibility, safety and efficacy of this concept. We treated nine multiple myeloma patients with persistent or relapsed disease after allo-SCT and a previous DLI, with donor monocyte-derived mHag-peptide-loaded DC vaccinations combined with a second DLI. Vaccinations were well tolerated and no occurrence of GvHD was observed. In five out of nine patients, we were able to show the induction of mHag-specific CD8 + T cells in peripheral blood. Five out of nine patients, of which four developed mHag-specific T cells, showed stable disease (SD) for 3.5-10 months. This study shows that mHag-based donor monocyte-derived DC vaccination combined with DLI is safe, feasible and capable of inducing objective mHag-specific T-cell responses. Future research should focus on further improvement of the vaccination strategy, toward translating the observed T-cell responses into robust clinical responses.",
       "authors": [
         {
           "name": "Laurens E. Franssen",
@@ -18452,7 +18463,25 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Dendritic Cells",
+        "Humans",
+        "Multiple Myeloma",
+        "Peptides",
+        "Antigens, Neoplasm",
+        "HLA Antigens",
+        "Lymphocyte Transfusion",
+        "Vaccination",
+        "Stem Cell Transplantation",
+        "Immunity, Cellular",
+        "Adult",
+        "Aged",
+        "Middle Aged",
+        "Blood Donors",
+        "Female",
+        "Male",
+        "Allografts"
+      ],
       "keywords": [
         "Medicine",
         "Minor histocompatibility antigen",
@@ -18542,13 +18571,13 @@
       "typeLabel": "Journal-Article",
       "doi": "10.2967/jnumed.116.186007",
       "pmid": "28209904",
-      "pmcid": null,
+      "pmcid": "PMC5450362",
       "url": "http://europepmc.org/abstract/med/28209904",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC5450362",
       "bestOpenAccessUrl": "https://doi.org/10.2967/jnumed.116.186007",
       "openAlexId": "https://openalex.org/W2588012190",
       "openAlexUrl": "https://openalex.org/W2588012190",
-      "abstract": "The immune system plays a crucial role in many diseases. Activation or suppression of immunity is often related to clinical outcome. Methods to explore the dynamics of immune responses are important to elucidate their role in conditions characterized by inflammation, such as infectious disease, cancer, or autoimmunity. Immuno-PET is a noninvasive method by which disease and immune cell infiltration can be explored simultaneously. Using radiolabeled antibodies or fragments derived from them, it is possible to image disease-specific antigens and immune cell subsets. Methods: We developed a method to noninvasively image human immune responses in a relevant humanized mouse model. We generated a camelid-derived single-domain antibody specific for human class II major histocompatibility complex products and used it to noninvasively image human immune cell reconstitution in nonobese diabetic severe combined immune deficiency γ−/− mice reconstituted with human fetal thymus, liver, and liver-derived hematopoietic stem cells (BLT mice). Results: We showed imaging of infiltrating immunocytes in BLT mice that spontaneously developed a graft-versus-host–like condition, characterized by alopecia and blepharitis. In diseased animals, we showed an increased PET signal in the liver, attributable to infiltration of activated class II major histocompatibility complex+ T cells. Conclusion: Noninvasive imaging of immune infiltration and activation could thus be of importance for diagnosis and evaluation of treatment of graft-versus-host disease and holds promise for other diseases characterized by inflammation.",
+      "abstract": "The immune system plays a crucial role in many diseases. Activation or suppression of immunity is often related to clinical outcome. Methods to explore the dynamics of immune responses are important to elucidate their role in conditions characterized by inflammation, such as infectious disease, cancer, or autoimmunity. Immuno-PET is a noninvasive method by which disease and immune cell infiltration can be explored simultaneously. Using radiolabeled antibodies or fragments derived from them, it is possible to image disease-specific antigens and immune cell subsets. Methods: We developed a method to noninvasively image human immune responses in a relevant humanized mouse model. We generated a camelid-derived single-domain antibody specific for human class II major histocompatibility complex products and used it to noninvasively image human immune cell reconstitution in nonobese diabetic severe combined immune deficiency γ-/- mice reconstituted with human fetal thymus, liver, and liver-derived hematopoietic stem cells (BLT mice). Results: We showed imaging of infiltrating immunocytes in BLT mice that spontaneously developed a graft-versus-host-like condition, characterized by alopecia and blepharitis. In diseased animals, we showed an increased PET signal in the liver, attributable to infiltration of activated class II major histocompatibility complex + T cells. Conclusion: Noninvasive imaging of immune infiltration and activation could thus be of importance for diagnosis and evaluation of treatment of graft-versus-host disease and holds promise for other diseases characterized by inflammation.",
       "authors": [
         {
           "name": "Catharina Van Elssen",
@@ -18700,7 +18729,19 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes",
+        "Animals",
+        "Mice, Knockout",
+        "Humans",
+        "Mice",
+        "Graft vs Host Disease",
+        "Histocompatibility Antigens Class II",
+        "Radiopharmaceuticals",
+        "Positron-Emission Tomography",
+        "Immunity, Innate",
+        "Single-Domain Antibodies"
+      ],
       "keywords": [
         "Immune system",
         "Immunology",
@@ -20306,6 +20347,7 @@
             "Inserm",
             "Hôpital Edouard Herriot",
             "Hôpital Saint-Louis",
+            "Ecotaxie, Microenvironnement et développement lymphocytaire",
             "Université de Strasbourg"
           ]
         },
@@ -20317,6 +20359,7 @@
           "institutions": [
             "Inserm",
             "Hôpital Saint-Louis",
+            "Ecotaxie, Microenvironnement et développement lymphocytaire",
             "Université de Strasbourg"
           ]
         },
@@ -20329,6 +20372,7 @@
             "Inserm",
             "Hôpital Edouard Herriot",
             "Hôpital Saint-Louis",
+            "Ecotaxie, Microenvironnement et développement lymphocytaire",
             "Université de Strasbourg"
           ]
         },
@@ -20605,6 +20649,7 @@
           "institutions": [
             "Inserm",
             "Hôpital Saint-Louis",
+            "Ecotaxie, Microenvironnement et développement lymphocytaire",
             "Université de Strasbourg"
           ]
         },
@@ -23742,11 +23787,11 @@
           "score": 0.9995999932289124
         }
       ],
-      "citedByCount": 97,
+      "citedByCount": 98,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
