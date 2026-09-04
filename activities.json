@@ -1,7 +1,7 @@
 {
   "person": "Eric Spierings",
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-09-03T08:58:53.435Z",
+  "generatedAt": "2026-09-04T08:53:06.254Z",
   "source": "Curated activities merged with ORCID conference presentations, conference papers and lectures",
   "count": 75,
   "activities": [
@@ -1252,25 +1252,6 @@
       "origin": "manual"
     },
     {
-      "id": "orcid-222686782",
-      "title": "Immunogenetic factors in the selection of cord blood units for transplantation: current search strategies and future perspectives",
-      "startDate": "2017-00-00",
-      "endDate": null,
-      "year": 2017,
-      "activityType": "Conference presentation",
-      "role": "Speaker",
-      "event": "19th Conference of the Sociedade Brasileira de Transplante de Medula Ossea. Sao Paulo, Brazil",
-      "location": null,
-      "recognition": null,
-      "academic": "Academic",
-      "description": null,
-      "url": null,
-      "source": "ORCID Public API v3.0",
-      "origin": "orcid",
-      "orcidPutCode": 222686782,
-      "orcidWorkType": "conference-presentation"
-    },
-    {
       "id": "cf8a1a4349080e70",
       "title": "T-cell epitopes in transplantation",
       "startDate": null,
@@ -1341,6 +1322,25 @@
       "origin": "orcid",
       "orcidPutCode": 222686779,
       "orcidWorkType": "lecture-speech"
+    },
+    {
+      "id": "orcid-222686782",
+      "title": "Immunogenetic factors in the selection of cord blood units for transplantation: current search strategies and future perspectives",
+      "startDate": "2015-06-00",
+      "endDate": null,
+      "year": 2015,
+      "activityType": "Conference presentation",
+      "role": "Speaker",
+      "event": "Cytotherapy",
+      "location": null,
+      "recognition": null,
+      "academic": "Academic",
+      "description": "Hematopoietic stem cell transplantation is currently used as a curative treatment for patients with malignant and non-malignant hematologic diseases. Human leukocyte antigen (HLA) matching is a major determinant for hematopoietic stem cell transplantation outcome. For patients lacking a fully HLA-matched donor, umbilical cord blood (UCB) units are alternative sources of hematopoietic stem cells because UCB transplantation allows a less stringent HLA matching. However, selection of the optimal UCB units remains challenging. The current UCB donor selection strategies are based on both cell dose and HLA matching. This Review focuses on the immunogenetic factors that influence UCB donor selection and highlights the future perspectives in UCB donor search.",
+      "url": "https://doi.org/10.1016/j.jcyt.2015.03.002",
+      "source": "ORCID Public API v3.0",
+      "origin": "orcid",
+      "orcidPutCode": 222686782,
+      "orcidWorkType": "conference-presentation"
     },
     {
       "id": "0d6536a3b52ddc5c",
