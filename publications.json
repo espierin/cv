@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-09-04T08:53:06.254Z",
+  "generatedAt": "2026-09-05T08:23:52.662Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -6836,11 +6836,11 @@
           "score": 0.9821000099182129
         }
       ],
-      "citedByCount": 16,
+      "citedByCount": 17,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -9018,11 +9018,11 @@
           "score": 0.9980999827384949
         }
       ],
-      "citedByCount": 12,
+      "citedByCount": 13,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -21740,11 +21740,11 @@
           "score": 0.9853000044822693
         }
       ],
-      "citedByCount": 168,
+      "citedByCount": 169,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2025,
@@ -21923,11 +21923,11 @@
           "score": 0.0024999999441206455
         }
       ],
-      "citedByCount": 27,
+      "citedByCount": 28,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -24643,11 +24643,11 @@
           "score": 0.9934999942779541
         }
       ],
-      "citedByCount": 8,
+      "citedByCount": 9,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2024,
@@ -26563,8 +26563,12 @@
           "score": 0.9945999979972839
         }
       ],
-      "citedByCount": 107,
+      "citedByCount": 108,
       "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2025,
           "cited_by_count": 7
@@ -27500,11 +27504,11 @@
           "score": 0.9868000149726868
         }
       ],
-      "citedByCount": 52,
+      "citedByCount": 53,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -40353,8 +40357,12 @@
           "score": 0.9948999881744385
         }
       ],
-      "citedByCount": 65,
+      "citedByCount": 66,
       "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2025,
           "cited_by_count": 3
