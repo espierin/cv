@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-09-08T08:54:32.773Z",
+  "generatedAt": "2026-09-09T08:59:57.882Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -14732,7 +14732,7 @@
         }
       ],
       "isOpenAccess": true,
-      "openAccessStatus": "bronze",
+      "openAccessStatus": "hybrid",
       "relatedOpenAlexWorks": [
         "https://openalex.org/W2126153365",
         "https://openalex.org/W2411685245",
@@ -19165,11 +19165,11 @@
           "score": 0.9990000128746033
         }
       ],
-      "citedByCount": 124,
+      "citedByCount": 125,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
