@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-09-13T09:36:13.755Z",
+  "generatedAt": "2026-09-14T09:56:47.243Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -1470,11 +1470,11 @@
           "score": 0.9948999881744385
         }
       ],
-      "citedByCount": 1,
+      "citedByCount": 2,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         }
       ],
       "isOpenAccess": true,
@@ -15250,7 +15250,7 @@
           "score": 0.001500000013038516
         }
       ],
-      "citedByCount": 10,
+      "citedByCount": 11,
       "countsByYear": [
         {
           "year": 2025,
@@ -15262,7 +15262,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2019,
@@ -26644,7 +26644,7 @@
       "pmcid": null,
       "url": "http://europepmc.org/abstract/med/26731751",
       "fullTextUrl": null,
-      "bestOpenAccessUrl": "https://pure.amsterdamumc.nl/en/publications/4407a8a7-b58a-430b-be9e-889587a8cb01",
+      "bestOpenAccessUrl": "https://dspace.library.uu.nl/handle/1874/337738",
       "openAlexId": "https://openalex.org/W2463190799",
       "openAlexUrl": "https://openalex.org/W2463190799",
       "abstract": "Objectives and design CD8+ cytotoxic T lymphocytes (CTL) are important in the control of HIV infection. Although CTL are thought to reduce the lifespan of productively infected cells, CD8+ T-cell depletion in simian immunodeficiency virus-infected rhesus-macaques showed no effect on the lifespan of productively infected cells. As CD8+ T-cell responses that successfully delay HIV disease progression occur only in a minority of HIV-infected individuals, we studied the hypothesis that the ability of CTL to reduce the lifespan of productively infected cells is limited to protective CTL responses only. Methods We correlated features of CD8+ T cells that are associated with control of HIV infection, namely restriction by protective human leukocyte antigen (HLA) alleles, and/or a broad, high or poly-functional Gag-specific CD8+ T-cell response, to the lifespan of productively infected cells in 36 HIV-infected individuals, by measuring their plasma viral load declines immediately after start of combined antiretroviral therapy. Results The average lifespan of productively HIV-infected cells varied greatly between individuals, from 1.01 to 3.68 days (median 1.82 days) but was not different between individuals with or without the protective HLA molecules B27 or B57 (P=0.76, median 1.94 and 1.79 days, respectively). Although the CD8+ T-cell response against HIV Gag was the dominant HIV-specific T-cell response, its magnitude (r=0.02, P = 0.5), breadth (r = 0.03, P = 0.4), and poly-functionality (r = 0.01, P = 0.8), did not correlate with the lifespan of productively HIV-infected cells. Conclusion The features of CD8+ T-cell responses that have clearly been associated with control of HIV infection do not correlate with a reduced lifespan of productively infected cells in vivo. This suggests that protective CD8+ T cells exert their effect on target-cells before onset of productive infection, or via noncytolytic mechanisms.",
@@ -35439,8 +35439,12 @@
           "score": 0.07989999651908875
         }
       ],
-      "citedByCount": 39,
+      "citedByCount": 40,
       "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2025,
           "cited_by_count": 1
@@ -35857,11 +35861,11 @@
           "score": 0.9986000061035156
         }
       ],
-      "citedByCount": 73,
+      "citedByCount": 74,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
