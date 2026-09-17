@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-09-16T09:20:58.133Z",
+  "generatedAt": "2026-09-17T09:31:37.701Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -15751,11 +15751,11 @@
           "score": 0.9976000189781189
         }
       ],
-      "citedByCount": 20,
+      "citedByCount": 21,
       "countsByYear": [
         {
           "year": 2025,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2024,
@@ -17332,7 +17332,7 @@
       "pmcid": "PMC6446570",
       "url": "https://europepmc.org/articles/PMC6446570",
       "fullTextUrl": "https://europepmc.org/articles/PMC6446570",
-      "bestOpenAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/6446570",
+      "bestOpenAccessUrl": "https://doi.org/10.1016/j.humimm.2019.01.009",
       "openAlexId": "https://openalex.org/W2914445827",
       "openAlexUrl": "https://openalex.org/W2914445827",
       "abstract": "The 17th International HLA and Immunogenetics Workshop (IHIW) organizers conducted a Pilot Study (PS) in which 13 laboratories (15 groups) participated to assess the performance of the various sequencing library preparation protocols, NGS platforms and software in use prior to the workshop. The organizers sent 50 cell lines to each of the 15 groups, scored the 15 independently generated sets of NGS HLA genotyping data, and generated \"consensus\" HLA genotypes for each of the 50 cell lines. Proficiency Testing (PT) was subsequently organized using four sets of 24 cell lines, selected from 48 of 50 PS cell lines, to validate the quality of NGS HLA typing data from the 34 participating IHIW laboratories. Completion of the PT program with a minimum score of 95% concordance at the HLA-A, HLA-B, HLA-C, HLA-DRB1 and HLA-DQB1 loci satisfied the requirements to submit NGS HLA typing data for the 17th IHIW projects. Together, these PS and PT efforts constituted the 17th IHIW Quality Control project. Overall PT concordance rates for HLA-A, HLA-B, HLA-C, HLA-DPA1, HLA-DPB1, HLA-DQA1, HLA-DQB1, HLA-DRB1, HLA-DRB3, HLA-DRB4 and HLA-DRB5 were 98.1%, 97.0% and 98.1%, 99.0%, 98.6%, 98.8%, 97.6%, 96.0%, 99.1%, 90.0% and 91.7%, respectively. Across all loci, the majority of the discordance was due to allele dropout. The high cost of NGS HLA genotyping per experiment likely prevented the retyping of initially failed HLA loci. Despite the high HLA genotype concordance rates of the software, there remains room for improvement in the assembly of more accurate consensus DNA sequences by NGS HLA genotyping software.",
@@ -18148,7 +18148,7 @@
         }
       ],
       "isOpenAccess": true,
-      "openAccessStatus": "green",
+      "openAccessStatus": "bronze",
       "relatedOpenAlexWorks": [
         "https://openalex.org/W2071708517",
         "https://openalex.org/W2612227349",
