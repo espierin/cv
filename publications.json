@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-09-18T09:03:17.124Z",
+  "generatedAt": "2026-09-19T08:50:32.489Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -25027,7 +25027,7 @@
           "score": 0.9952999949455261
         }
       ],
-      "citedByCount": 44,
+      "citedByCount": 45,
       "countsByYear": [
         {
           "year": 2026,
@@ -25067,7 +25067,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2016,
@@ -27855,7 +27855,7 @@
           "score": 0.9972000122070312
         }
       ],
-      "citedByCount": 76,
+      "citedByCount": 77,
       "countsByYear": [
         {
           "year": 2026,
@@ -27891,7 +27891,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 10
+          "cited_by_count": 11
         },
         {
           "year": 2017,
@@ -29141,7 +29141,7 @@
           "score": 0.9995999932289124
         }
       ],
-      "citedByCount": 98,
+      "citedByCount": 99,
       "countsByYear": [
         {
           "year": 2026,
@@ -29177,7 +29177,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2017,
@@ -30650,7 +30650,7 @@
           "score": 0.9994999766349792
         }
       ],
-      "citedByCount": 82,
+      "citedByCount": 83,
       "countsByYear": [
         {
           "year": 2026,
@@ -30686,7 +30686,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2017,
@@ -38234,7 +38234,7 @@
           "score": 0.9998000264167786
         }
       ],
-      "citedByCount": 44,
+      "citedByCount": 45,
       "countsByYear": [
         {
           "year": 2025,
@@ -38250,6 +38250,10 @@
         },
         {
           "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
           "cited_by_count": 1
         },
         {
