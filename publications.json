@@ -1,14 +1,113 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-09-21T09:59:58.325Z",
+  "generatedAt": "2026-09-22T09:20:37.929Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
     "conference-paper",
     "lecture-speech"
   ],
-  "count": 246,
+  "count": 247,
   "publications": [
+    {
+      "putCode": 227329515,
+      "title": "Comprehensive In Vitro Profiling Demonstrates Successful Immune Evasion of Bioengineered Immune‐Shielded Heart Valves",
+      "year": 2026,
+      "sortDate": "2026-09-21",
+      "journal": "Advanced Healthcare Materials",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.1002/adhm.71737",
+      "pmid": "42765550",
+      "pmcid": null,
+      "url": "https://doi.org/10.1002/adhm.71737",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": null,
+      "openAlexUrl": null,
+      "abstract": "Living donor valves for valve replacement in pediatric patients, come with the risk of immune rejection of the implanted tissue. To address this, and increase the options for living implants in pediatric patients, we previously developed a lentiviral immune-shielding strategy that leverages viral immune evasion mechanisms to downregulate surface HLA expression (via US2) and suppress natural killer (NK) cell activation (via Serpin b9). In this study, we comprehensively evaluated the impact of delivery of immune-shielding genes in donor valve cells and whole donor valves on immune responses in vitro using host peripheral blood mononuclear cells (PBMCs). Our results demonstrate that this approach prevents immune cell-mediated death of donor heart valve cells and reduces PBMC clustering around the allogeneic valve cells. Transcriptomic analysis of immune-shielded donor valves via bulk RNA sequencing revealed upregulation of genes associated with immune tolerance pathways commonly observed in viral infections, cancer, and placental development. These findings support the impact of immune-shielding technology as a strategy to protect allograft heart valves from immune-mediated degeneration, advancing the path toward durable, immunologically compatible implants for pediatric patients.",
+      "authors": [
+        {
+          "name": "Abraham van Wijk",
+          "orcid": "",
+          "corresponding": false
+        },
+        {
+          "name": "Leanne Van den Berg",
+          "orcid": "https://orcid.org/0009-0001-9893-8122",
+          "corresponding": false
+        },
+        {
+          "name": "Isa B. M. Velraeds",
+          "orcid": "",
+          "corresponding": false
+        },
+        {
+          "name": "Valentina Osorio Zuluaga",
+          "orcid": "",
+          "corresponding": false
+        },
+        {
+          "name": "Emma T. M. Peereboom",
+          "orcid": "https://orcid.org/0000-0002-9656-8076",
+          "corresponding": false
+        },
+        {
+          "name": "Martijn J. W. E. Rabelink",
+          "orcid": "https://orcid.org/0000-0002-3274-7825",
+          "corresponding": false
+        },
+        {
+          "name": "Arnaud Zaldumbide",
+          "orcid": "https://orcid.org/0000-0001-6680-4456",
+          "corresponding": false
+        },
+        {
+          "name": "Rob C. Hoeben",
+          "orcid": "https://orcid.org/0000-0001-9443-8377",
+          "corresponding": false
+        },
+        {
+          "name": "Marie‐Jose T. H. Goumans",
+          "orcid": "https://orcid.org/0000-0001-9344-6746",
+          "corresponding": false
+        },
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "corresponding": false
+        },
+        {
+          "name": "Carlijn V. C. Bouten",
+          "orcid": "https://orcid.org/0000-0003-1035-5094",
+          "corresponding": false
+        },
+        {
+          "name": "Marijn C. Peters",
+          "orcid": "https://orcid.org/0000-0001-5112-0190",
+          "corresponding": false
+        }
+      ],
+      "selfAuthorPositions": [
+        "middle"
+      ],
+      "volumeIssuePages": "pp. e71737",
+      "categories": [
+        "other"
+      ],
+      "primaryCategoryLabel": "Other",
+      "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [],
+      "openAlexTopics": [],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": false,
+      "openAccessStatus": null,
+      "relatedOpenAlexWorks": []
+    },
     {
       "putCode": 225654284,
       "title": "Recommendations for HLA Genotyping Data Standards and Clinical Laboratory Staffing Considerations",
@@ -19,9 +118,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.70725",
       "pmid": "42007733",
-      "pmcid": "PMC13094400",
+      "pmcid": null,
       "url": "https://doi.org/10.1111/tan.70725",
-      "fullTextUrl": "https://europepmc.org/articles/PMC13094400",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1111/tan.70725",
       "openAlexId": "https://openalex.org/W7154974896",
       "openAlexUrl": "https://openalex.org/W7154974896",
@@ -40,7 +139,7 @@
         },
         {
           "name": "N M Brown",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-0046-2315",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -96,7 +195,7 @@
         },
         {
           "name": "Eric Weimer",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-3677-5724",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -128,23 +227,14 @@
       ],
       "volumeIssuePages": "vol. 107, no. 4, pp. e70725",
       "categories": [
-        "matching",
         "diagnostics",
         "standards"
       ],
-      "primaryCategoryLabel": "Epitope matching",
+      "primaryCategoryLabel": "Diagnostics",
       "key": true,
       "impactFactor": 5,
       "impactFactorSource": "Configured manually",
-      "meshTerms": [
-        "Humans",
-        "HLA Antigens",
-        "Histocompatibility Testing",
-        "Genotype",
-        "Quality Control",
-        "Genotyping Techniques",
-        "Laboratories, Clinical"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Staffing",
         "Accreditation",
@@ -348,10 +438,10 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.3389/ti.2026.15423",
-      "pmid": "41858495",
-      "pmcid": "PMC12995821",
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.3389/ti.2026.15423",
-      "fullTextUrl": "https://europepmc.org/articles/PMC12995821",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.3389/ti.2026.15423",
       "openAlexId": "https://openalex.org/W7133521944",
       "openAlexUrl": "https://openalex.org/W7133521944",
@@ -359,7 +449,7 @@
       "authors": [
         {
           "name": "Mattheüs F. Klaassen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0008-9481-4537",
           "position": "first",
           "corresponding": false,
           "institutions": [
@@ -379,7 +469,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -446,7 +536,7 @@
         },
         {
           "name": "Aline C. Hemke",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-6475-216X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -455,7 +545,7 @@
         },
         {
           "name": "Margriet F.C. de Jong",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-7347-4344",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -586,28 +676,13 @@
       ],
       "volumeIssuePages": "vol. 39, pp. 15423",
       "categories": [
-        "matching",
         "outcome"
       ],
-      "primaryCategoryLabel": "Epitope matching",
+      "primaryCategoryLabel": "Outcome",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Blood Group Incompatibility",
-        "ABO Blood-Group System",
-        "HLA Antigens",
-        "Histocompatibility Testing",
-        "Kidney Transplantation",
-        "Monte Carlo Method",
-        "Retrospective Studies",
-        "Algorithms",
-        "Living Donors",
-        "Tissue and Organ Procurement",
-        "Netherlands",
-        "Female"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Prioritization",
         "Matching (statistics)",
@@ -1073,7 +1148,7 @@
         },
         {
           "name": "Kamal Alzahrani",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-7856-2690",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -1163,7 +1238,7 @@
         },
         {
           "name": "Richard Champlin",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-4314-5037",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -1318,7 +1393,7 @@
         },
         {
           "name": "Geert W. Haasnoot",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0007-3395-7211",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -1955,7 +2030,7 @@
         },
         {
           "name": "Ryosuke Ogawa",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-7568-2833",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -2109,7 +2184,7 @@
         },
         {
           "name": "Valerie S. Greco-Stewart",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0005-6764-1659",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -2210,7 +2285,7 @@
         },
         {
           "name": "Christina Leonhard‐Melief",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0001-7078-5283",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -2388,7 +2463,7 @@
         },
         {
           "name": "Fabian Halleck",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-9449-2058",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -2580,7 +2655,7 @@
         },
         {
           "name": "Eileen Lashley",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-3410-2294",
           "position": "last",
           "corresponding": false,
           "institutions": [
@@ -2930,7 +3005,7 @@
         },
         {
           "name": "Yuko Miwa",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0007-8910-0022",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -3480,13 +3555,13 @@
       "typeLabel": "Journal-Article",
       "doi": "10.3389/fgene.2024.1444554",
       "pmid": "39385936",
-      "pmcid": "PMC11461215",
+      "pmcid": null,
       "url": "https://europepmc.org/articles/PMC11461215",
-      "fullTextUrl": "https://europepmc.org/articles/PMC11461215",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.3389/fgene.2024.1444554",
       "openAlexId": "https://openalex.org/W4402815937",
       "openAlexUrl": "https://openalex.org/W4402815937",
-      "abstract": "Introduction Modern histocompatibility algorithms depend on the comparison and analysis of high-resolution HLA protein sequences and structures, especially when considering epitope-based algorithms, which aim to model the interactions involved in antibody or T cell binding. HLA genotype imputation can be performed in the cases where only low/intermediate-resolution HLA genotype is available or if specific loci are missing, and by providing an individuals' race/ethnicity/ancestry information, imputation results can be more accurate. This study assesses the effect of imputing high-resolution genotypes on molecular mismatch scores under a variety of ancestry assumptions. Methods We compared molecular matching scores from \"ground-truth\" high-resolution genotypes against scores from genotypes which are imputed from low-resolution genotypes. Analysis was focused on a simulated patient-donor dataset and confirmed using two real-world datasets, and deviations were aggregated based on various ancestry assumptions. Results We observed that using multiple imputation generally results in lower error in molecular matching scores compared to single imputation, and that using the correct ancestry assumptions can reduce error introduced during imputation. Discussion We conclude that for epitope analysis, imputation is a valuable and low-risk strategy, as long as care is taken regarding epitope analysis context, ancestry assumptions, and (multiple) imputation strategy.",
+      "abstract": "Introduction: Modern histocompatibility algorithms depend on the comparison and analysis of high-resolution HLA protein sequences and structures, especially when considering epitope-based algorithms, which aim to model the interactions involved in antibody or T cell binding. HLA genotype imputation can be performed in the cases where only low/intermediate-resolution HLA genotype is available or if specific loci are missing, and by providing an individuals' race/ethnicity/ancestry information, imputation results can be more accurate. This study assesses the effect of imputing high-resolution genotypes on molecular mismatch scores under a variety of ancestry assumptions. Methods: We compared molecular matching scores from \"ground-truth\" high-resolution genotypes against scores from genotypes which are imputed from low-resolution genotypes. Analysis was focused on a simulated patient-donor dataset and confirmed using two real-world datasets, and deviations were aggregated based on various ancestry assumptions. Results: We observed that using multiple imputation generally results in lower error in molecular matching scores compared to single imputation, and that using the correct ancestry assumptions can reduce error introduced during imputation. Discussion: We conclude that for epitope analysis, imputation is a valuable and low-risk strategy, as long as care is taken regarding epitope analysis context, ancestry assumptions, and (multiple) imputation strategy.",
       "authors": [
         {
           "name": "Benedict M. Matern",
@@ -3629,7 +3704,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.15297",
-      "pmid": "38226401",
+      "pmid": null,
       "pmcid": null,
       "url": "http://dx.doi.org/10.1111/tan.15297",
       "fullTextUrl": null,
@@ -3727,7 +3802,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -3766,7 +3841,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -4089,19 +4164,7 @@
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Kidney",
-        "Humans",
-        "Kidney Diseases",
-        "Antibodies",
-        "HLA Antigens",
-        "Epitopes",
-        "Kidney Transplantation",
-        "Graft Rejection",
-        "Graft Survival",
-        "Alleles",
-        "Tissue Donors"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Medicine",
         "Epitope",
@@ -4270,7 +4333,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -4309,7 +4372,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -4744,7 +4807,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.15260",
-      "pmid": "37853578",
+      "pmid": null,
       "pmcid": null,
       "url": "https://doi.org/10.1111/tan.15260",
       "fullTextUrl": null,
@@ -4790,22 +4853,13 @@
       ],
       "volumeIssuePages": "vol. 103, no. 1, pp. e15260",
       "categories": [
-        "matching",
         "diagnostics"
       ],
-      "primaryCategoryLabel": "Epitope matching",
+      "primaryCategoryLabel": "Diagnostics",
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "HLA Antigens",
-        "Histocompatibility Testing",
-        "Kidney Transplantation",
-        "Amino Acid Sequence",
-        "Alleles",
-        "Tissue Donors"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Ellipsoid",
         "Computational biology",
@@ -6553,7 +6607,7 @@
         },
         {
           "name": "Noriko Doki",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-8661-3179",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -6616,7 +6670,7 @@
         },
         {
           "name": "Satoko Morishima",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-7391-4271",
           "position": "last",
           "corresponding": false,
           "institutions": [
@@ -6728,7 +6782,7 @@
         },
         {
           "name": "Fabian Halleck",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-9449-2058",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -6746,7 +6800,7 @@
         },
         {
           "name": "Gideon Hönger",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-1661-2661",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -7466,7 +7520,7 @@
         },
         {
           "name": "Mary Horowitz",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-9502-785X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -7714,9 +7768,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1038/s41591-022-01725-2",
       "pmid": "35288692",
-      "pmcid": "PMC9117142",
+      "pmcid": null,
       "url": "https://europepmc.org/articles/PMC9117142",
-      "fullTextUrl": "https://europepmc.org/articles/PMC9117142",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1038/s41591-022-01725-2",
       "openAlexId": "https://openalex.org/W4220681808",
       "openAlexUrl": "https://openalex.org/W4220681808",
@@ -8210,13 +8264,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Histocompatibility Antigens Class I",
-        "Kidney Transplantation",
-        "Graft Rejection",
-        "Graft Survival"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Hazard ratio",
         "Human leukocyte antigen",
@@ -8408,7 +8456,7 @@
         },
         {
           "name": "Bert van der Zwaag",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-5545-4630",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -8417,7 +8465,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -8957,7 +9005,7 @@
         },
         {
           "name": "Gideon Hönger",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-1661-2661",
           "position": "last",
           "corresponding": false,
           "institutions": [
@@ -9157,7 +9205,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -9448,7 +9496,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -10154,13 +10202,13 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1167/iovs.62.9.19",
       "pmid": "34254975",
-      "pmcid": "PMC8287043",
+      "pmcid": null,
       "url": "https://europepmc.org/articles/PMC8287043",
-      "fullTextUrl": "https://europepmc.org/articles/PMC8287043",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1167/iovs.62.9.19",
       "openAlexId": "https://openalex.org/W3180857080",
       "openAlexUrl": "https://openalex.org/W3180857080",
-      "abstract": "Purpose Classical alleles of the human leukocyte antigen (HLA) complex have been linked to specific entities of pediatric noninfectious uveitis, yet genetic predisposition encoded by the HLA super-locus across the patient population remains understudied. Methods We performed next-generation full-length sequencing of HLA-A, HLA-B, HLA-C, HLA-DPB1, HLA-DQB1, and HLA-DRB1 in 280 cases. Dense genotype data from 499 Dutch controls from Genome of the Netherlands were imputed using an HLA-specific reference panel (n = 5225 samples from European ancestry). Cases and controls were compared using logistic regression models adjusting for sex. Results In total, 179 common and rare alleles were detected. Considering all cases and controls, HLA-DQB1*04:02 and HLA-DRB1*08:01 were identified as the principal HLA association, which was mainly driven by 92 cases with juvenile idiopathic arthritis-associated uveitis (JIA-U). The HLA-DQB1*04:02-HLA-DRB1*08:01 haplotype was also the primary association for the phenotypically similar idiopathic chronic anterior uveitis without arthritis (CAU). Also, HLA-DQB1*05:03 was an independent risk allele for CAU, but not in JIA-U. Analysis of 185 cases with other forms of uveitis revealed HLA-wide associations (P Conclusions These results uncovered novel shared HLA associations among clinically distinct phenotypes of pediatric uveitis and highlight genetic predisposition affecting the antigen presentation pathway.",
+      "abstract": "Purpose: Classical alleles of the human leukocyte antigen (HLA) complex have been linked to specific entities of pediatric noninfectious uveitis, yet genetic predisposition encoded by the HLA super-locus across the patient population remains understudied. Methods: We performed next-generation full-length sequencing of HLA-A, HLA-B, HLA-C, HLA-DPB1, HLA-DQB1, and HLA-DRB1 in 280 cases. Dense genotype data from 499 Dutch controls from Genome of the Netherlands were imputed using an HLA-specific reference panel (n = 5225 samples from European ancestry). Cases and controls were compared using logistic regression models adjusting for sex. Results: In total, 179 common and rare alleles were detected. Considering all cases and controls, HLA-DQB1*04:02 and HLA-DRB1*08:01 were identified as the principal HLA association, which was mainly driven by 92 cases with juvenile idiopathic arthritis-associated uveitis (JIA-U). The HLA-DQB1*04:02-HLA-DRB1*08:01 haplotype was also the primary association for the phenotypically similar idiopathic chronic anterior uveitis without arthritis (CAU). Also, HLA-DQB1*05:03 was an independent risk allele for CAU, but not in JIA-U. Analysis of 185 cases with other forms of uveitis revealed HLA-wide associations (P < 2.79 × 10-4) for HLA-DRB1*01:02, HLA-DRB1*04:03, and HLA-DQB1*05:03, which could be primarily attributed to cases with panuveitis. Finally, amino acid substitution modeling revealed that aspartic acid at position 57 that distinguishes the risk allele HLA-DQB1*05:03 (for CAU and panuveitis) from nonrisk alleles, significantly increased the binding capacity of naturally presented ligands to HLA-DQ. Conclusions: These results uncovered novel shared HLA associations among clinically distinct phenotypes of pediatric uveitis and highlight genetic predisposition affecting the antigen presentation pathway.",
       "authors": [
         {
           "name": "Roos A.W. Wennink",
@@ -10174,7 +10222,7 @@
         },
         {
           "name": "Joke H. de Boer",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-1712-3050",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -10264,22 +10312,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Uveitis",
-        "Genetic Predisposition to Disease",
-        "HLA Antigens",
-        "Sequence Analysis",
-        "Gene Frequency",
-        "Genotype",
-        "Haplotypes",
-        "Phenotype",
-        "Alleles",
-        "Adolescent",
-        "Child",
-        "Female",
-        "Male"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Human leukocyte antigen",
         "Allele",
@@ -11052,7 +11085,7 @@
         },
         {
           "name": "Yuko Miwa",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0007-8910-0022",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -11236,7 +11269,7 @@
       "bestOpenAccessUrl": "https://doi.org/10.1038/s41409-020-0886-5",
       "openAlexId": "https://openalex.org/W3015723639",
       "openAlexUrl": "https://openalex.org/W3015723639",
-      "abstract": "Graft-versus-host disease (GVHD) and cytomegalovirus (CMV)-related complications are leading causes of mortality after unrelated-donor hematopoietic cell transplantation (UD-HCT). The non-conventional MHC class I gene MICB, alike MICA, encodes a stress-induced polymorphic NKG2D ligand. However, unlike MICA, MICB interacts with the CMV-encoded UL16, which sequestrates MICB intracellularly, leading to immune evasion. Here, we retrospectively analyzed the impact of mismatches in MICB amino acid position 98 (MICB98), a key polymorphic residue involved in UL16 binding, in 943 UD-HCT pairs who were allele-matched at HLA-A, -B, -C, -DRB1, -DQB1 and MICA loci. HLA-DP typing was further available. MICB98 mismatches were significantly associated with an increased incidence of acute (grade II-IV: HR, 1.20; 95% CI, 1.15 to 1.24; P < 0.001; grade III-IV: HR, 2.28; 95% CI, 1.56 to 3.34; P < 0.001) and chronic GVHD (HR, 1.21; 95% CI, 1.10 to 1.33; P < 0.001). MICB98 matching significantly reduced the effect of CMV status on overall mortality from a hazard ratio of 1.77 to 1.16. MICB98 mismatches showed a GVHD-independent association with a higher incidence of CMV infection/reactivation (HR, 1.84; 95% CI, 1.34 to 2.51; P < 0.001). Hence selecting a MICB98-matched donor significantly reduces the GVHD incidence and lowers the impact of CMV status on overall survival.",
+      "abstract": null,
       "authors": [
         {
           "name": "Raphaël Carapito",
@@ -11275,7 +11308,7 @@
         },
         {
           "name": "Perrine Spinnhirny",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0002-7538-1939",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -11662,15 +11695,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Cytomegalovirus Infections",
-        "Graft vs Host Disease",
-        "Amino Acids",
-        "Hematopoietic Stem Cell Transplantation",
-        "Incidence",
-        "Retrospective Studies"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Hazard ratio",
         "Graft-versus-host disease",
@@ -11917,7 +11942,7 @@
         },
         {
           "name": "Sofya A. Kasatskaya",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-5522-7443",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -12316,7 +12341,7 @@
         },
         {
           "name": "Dianne De Santis",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-9676-2549",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -12483,7 +12508,7 @@
         },
         {
           "name": "Dianne De Santis",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-9676-2549",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -12884,7 +12909,7 @@
         },
         {
           "name": "Yoshihisa Kodera",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-6173-7474",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -13016,7 +13041,7 @@
         },
         {
           "name": "Amit K. Patel",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-2518-8970",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -13030,7 +13055,7 @@
         },
         {
           "name": "Béatrice Pédron",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0007-5493-7420",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -13058,7 +13083,7 @@
         },
         {
           "name": "Victoria Potter",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-7108-5297",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -13107,7 +13132,7 @@
         },
         {
           "name": "Urs Schanz",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-1942-8392",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -13149,7 +13174,7 @@
         },
         {
           "name": "Eleni Tholouli",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-4940-639X",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -13226,7 +13251,7 @@
         },
         {
           "name": "József Zsíros",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-6716-4347",
           "position": "last",
           "corresponding": false,
           "institutions": []
@@ -13701,7 +13726,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -13741,7 +13766,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -14200,7 +14225,7 @@
         },
         {
           "name": "Geert W. Haasnoot",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0007-3395-7211",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -14293,7 +14318,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -14333,7 +14358,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -14774,7 +14799,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -14844,7 +14869,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -15294,13 +15319,13 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1016/j.humimm.2019.03.001",
       "pmid": "30844424",
-      "pmcid": "PMC6599558",
+      "pmcid": null,
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6599558",
-      "fullTextUrl": "https://europepmc.org/articles/PMC6599558",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/6599558",
       "openAlexId": "https://openalex.org/W2918529223",
       "openAlexUrl": "https://openalex.org/W2918529223",
-      "abstract": "Extended molecular characterization of HLA genes in the IHWG reference B-lymphoblastoid cell lines (B-LCLs) was one of the major goals for the 17th International HLA and Immunogenetics Workshop (IHIW). Although reference B-LCLs have been examined extensively in previous workshops complete high-resolution typing was not completed for all the classical class I and class II HLA genes. To address this, we conducted a single-blind study where select panels of B-LCL genomic DNA samples were distributed to multiple laboratories for HLA genotyping by next-generation sequencing methods. Identical cell panels comprised of 24 and 346 samples were distributed and typed by at least four laboratories in order to derive accurate consensus HLA genotypes. Overall concordance rates calculated at both 2- and 4-field allele-level resolutions ranged from 90.4% to 100%. Concordance for the class I genes ranged from 91.7 to 100%, whereas concordance for class II genes was variable; the lowest observed at HLA-DRB3 (84.2%). At the maximum allele-resolution 78 B-LCLs were defined as homozygous for all 11 loci. We identified 11 novel exon polymorphisms in the entire cell panel. A comparison of the B-LCLs NGS HLA genotypes with the HLA genotypes catalogued in the IPD-IMGT/HLA Database Cell Repository, revealed an overall allele match at 68.4%. Typing discrepancies between the two datasets were mostly due to the lower-resolution historical typing methods resulting in incomplete HLA genotypes for some samples listed in the IPD-IMGT/HLA Database Cell Repository. Our approach of multiple-laboratory NGS HLA typing of the B-LCLs has provided accurate genotyping data. The data generated by the tremendous collaborative efforts of the 17th IHIW participants is useful for updating the current cell and sequence databases and will be a valuable resource for future studies.",
+      "abstract": null,
       "authors": [
         {
           "name": "Lisa E. Creary",
@@ -15441,7 +15466,7 @@
         },
         {
           "name": "Dimitrios Monos",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-4065-0908",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -15697,29 +15722,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "B-Lymphocytes",
-        "Cell Line, Transformed",
-        "Humans",
-        "Herpesvirus 4, Human",
-        "Cell Transformation, Viral",
-        "Histocompatibility Antigens Class I",
-        "Histocompatibility Antigens Class II",
-        "HLA Antigens",
-        "Histocompatibility Testing",
-        "Single-Blind Method",
-        "Sequence Analysis, DNA",
-        "Histocompatibility",
-        "Genotype",
-        "Haplotypes",
-        "Homozygote",
-        "Alleles",
-        "Exons",
-        "Genetic Variation",
-        "Genetic Loci",
-        "High-Throughput Nucleotide Sequencing",
-        "Data Accuracy"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Human leukocyte antigen",
         "Concordance",
@@ -15806,14 +15809,14 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1093/ndt/gfy316",
-      "pmid": "30365008",
+      "pmid": null,
       "pmcid": null,
       "url": "https://doi.org/10.1093/ndt/gfy316",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1093/ndt/gfy316",
       "openAlexId": "https://openalex.org/W2898483118",
       "openAlexUrl": "https://openalex.org/W2898483118",
-      "abstract": "Background Pre-transplant donor-specific anti-human leucocyte antigen (HLA) antibodies (DSAs) are associated with impaired kidney graft survival while the clinical relevance of non-donor-specific anti-HLA antibodies (nDSAs) is more controversial. The aim of the present paired kidney graft study was to compare the clinical relevance of DSAs and nDSAs. Methods To eliminate donor and era-dependent factors, a post hoc paired kidney graft analysis was performed as part of a Dutch multicentre study evaluating all transplantations between 1995 and 2005 with available pre-transplant serum samples. Anti-HLA antibodies were detected with a Luminex single-antigen bead assay. Results Among 3237 deceased donor transplantations, we identified 115 recipient pairs receiving a kidney from the same donor with one recipient being DSA positive and the other without anti-HLA antibodies. Patients with pre-transplant DSAs had a significantly lower 10-year death-censored graft survival (55% versus 82%, P=0.0001). We identified 192 pairs with one recipient as nDSA positive (against Class I and/or II) and the other without anti-HLA antibodies. For the patients with nDSAs against either Class I or II, graft survival did not significantly differ compared with patients without anti-HLA antibodies (74% versus 77%, P = 0.79). Only in patients with both nDSAs Class I and II was there a trend towards a lower graft survival (58%, P = 0.06). Lastly, in a small group of 42 recipient pairs, 10-year graft survival in recipients with DSAs was 49% compared with 68% in recipients with nDSAs (P=0.11). Conclusion This paired kidney analysis confirms that the presence of pre-transplant DSAs in deceased donor transplantations is a risk marker for graft loss, whereas nDSAs in general are not associated with a lower graft survival. Subgroup analysis indicated that only in broadly sensitized patients with nDSAs against Class I and II, nDSAs may be a risk marker for graft loss in the long term.",
+      "abstract": "BACKGROUND: Pre-transplant donor-specific anti-human leucocyte antigen (HLA) antibodies (DSAs) are associated with impaired kidney graft survival while the clinical relevance of non-donor-specific anti-HLA antibodies (nDSAs) is more controversial. The aim of the present paired kidney graft study was to compare the clinical relevance of DSAs and nDSAs. METHODS: To eliminate donor and era-dependent factors, a post hoc paired kidney graft analysis was performed as part of a Dutch multicentre study evaluating all transplantations between 1995 and 2005 with available pre-transplant serum samples. Anti-HLA antibodies were detected with a Luminex single-antigen bead assay. RESULTS: Among 3237 deceased donor transplantations, we identified 115 recipient pairs receiving a kidney from the same donor with one recipient being DSA positive and the other without anti-HLA antibodies. Patients with pre-transplant DSAs had a significantly lower 10-year death-censored graft survival (55% versus 82%, P=0.0001). We identified 192 pairs with one recipient as nDSA positive (against Class I and/or II) and the other without anti-HLA antibodies. For the patients with nDSAs against either Class I or II, graft survival did not significantly differ compared with patients without anti-HLA antibodies (74% versus 77%, P = 0.79). Only in patients with both nDSAs Class I and II was there a trend towards a lower graft survival (58%, P = 0.06). Lastly, in a small group of 42 recipient pairs, 10-year graft survival in recipients with DSAs was 49% compared with 68% in recipients with nDSAs (P=0.11). CONCLUSION: This paired kidney analysis confirms that the presence of pre-transplant DSAs in deceased donor transplantations is a risk marker for graft loss, whereas nDSAs in general are not associated with a lower graft survival. Subgroup analysis indicated that only in broadly sensitized patients with nDSAs against Class I and II, nDSAs may be a risk marker for graft loss in the long term.",
       "authors": [
         {
           "name": "Laura Michielsen",
@@ -15897,7 +15900,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -16230,7 +16233,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "last",
           "corresponding": false,
           "institutions": [
@@ -16244,31 +16247,14 @@
       ],
       "volumeIssuePages": "vol. 34, no. 6, pp. 1056-1063",
       "categories": [
-        "matching",
         "outcome",
         "diagnostics"
       ],
-      "primaryCategoryLabel": "Epitope matching",
+      "primaryCategoryLabel": "Outcome",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Isoantibodies",
-        "Histocompatibility Antigens Class I",
-        "HLA Antigens",
-        "Kidney Transplantation",
-        "Risk",
-        "Graft Rejection",
-        "Graft Survival",
-        "Adult",
-        "Middle Aged",
-        "Tissue Donors",
-        "Netherlands",
-        "Female",
-        "Male",
-        "Young Adult"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Medicine",
         "Human leukocyte antigen",
@@ -16368,7 +16354,7 @@
       "authors": [
         {
           "name": "Maxine D. Rouvroye",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-4196-1399",
           "position": "first",
           "corresponding": false,
           "institutions": [
@@ -16424,29 +16410,13 @@
       ],
       "volumeIssuePages": "vol. 23, no. 6, pp. 418-422",
       "categories": [
-        "matching",
         "diagnostics"
       ],
-      "primaryCategoryLabel": "Epitope matching",
+      "primaryCategoryLabel": "Diagnostics",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Celiac Disease",
-        "Genetic Predisposition to Disease",
-        "Genetic Markers",
-        "HLA-DQ Antigens",
-        "Reagent Kits, Diagnostic",
-        "Histocompatibility Testing",
-        "Risk Factors",
-        "Gene Frequency",
-        "Genotype",
-        "Alleles",
-        "Female",
-        "Male",
-        "Genetic Testing"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Human leukocyte antigen",
         "Typing",
@@ -16514,9 +16484,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.3389/fimmu.2019.00880",
       "pmid": "31068946",
-      "pmcid": "PMC6491737",
+      "pmcid": null,
       "url": "https://europepmc.org/articles/PMC6491737",
-      "fullTextUrl": "https://europepmc.org/articles/PMC6491737",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.3389/fimmu.2019.00880",
       "openAlexId": "https://openalex.org/W2942046843",
       "openAlexUrl": "https://openalex.org/W2942046843",
@@ -16616,7 +16586,7 @@
         },
         {
           "name": "Marco R. de Groot",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-6933-607X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -16684,25 +16654,7 @@
       "key": false,
       "impactFactor": 7,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "HLA Antigens",
-        "Epitopes",
-        "Hematopoietic Stem Cell Transplantation",
-        "Proportional Hazards Models",
-        "Transplantation Immunology",
-        "Adolescent",
-        "Adult",
-        "Aged",
-        "Middle Aged",
-        "Child",
-        "Child, Preschool",
-        "Infant",
-        "Female",
-        "Male",
-        "Young Adult",
-        "Unrelated Donors"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Human leukocyte antigen",
         "Epitope",
@@ -16865,7 +16817,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -16902,7 +16854,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -17329,13 +17281,13 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1016/j.humimm.2019.01.009",
       "pmid": "30738112",
-      "pmcid": "PMC6446570",
+      "pmcid": null,
       "url": "https://europepmc.org/articles/PMC6446570",
-      "fullTextUrl": "https://europepmc.org/articles/PMC6446570",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1016/j.humimm.2019.01.009",
       "openAlexId": "https://openalex.org/W2914445827",
       "openAlexUrl": "https://openalex.org/W2914445827",
-      "abstract": "The 17th International HLA and Immunogenetics Workshop (IHIW) organizers conducted a Pilot Study (PS) in which 13 laboratories (15 groups) participated to assess the performance of the various sequencing library preparation protocols, NGS platforms and software in use prior to the workshop. The organizers sent 50 cell lines to each of the 15 groups, scored the 15 independently generated sets of NGS HLA genotyping data, and generated \"consensus\" HLA genotypes for each of the 50 cell lines. Proficiency Testing (PT) was subsequently organized using four sets of 24 cell lines, selected from 48 of 50 PS cell lines, to validate the quality of NGS HLA typing data from the 34 participating IHIW laboratories. Completion of the PT program with a minimum score of 95% concordance at the HLA-A, HLA-B, HLA-C, HLA-DRB1 and HLA-DQB1 loci satisfied the requirements to submit NGS HLA typing data for the 17th IHIW projects. Together, these PS and PT efforts constituted the 17th IHIW Quality Control project. Overall PT concordance rates for HLA-A, HLA-B, HLA-C, HLA-DPA1, HLA-DPB1, HLA-DQA1, HLA-DQB1, HLA-DRB1, HLA-DRB3, HLA-DRB4 and HLA-DRB5 were 98.1%, 97.0% and 98.1%, 99.0%, 98.6%, 98.8%, 97.6%, 96.0%, 99.1%, 90.0% and 91.7%, respectively. Across all loci, the majority of the discordance was due to allele dropout. The high cost of NGS HLA genotyping per experiment likely prevented the retyping of initially failed HLA loci. Despite the high HLA genotype concordance rates of the software, there remains room for improvement in the assembly of more accurate consensus DNA sequences by NGS HLA genotyping software.",
+      "abstract": null,
       "authors": [
         {
           "name": "Kazutoyo Osoegawa",
@@ -17366,7 +17318,7 @@
         },
         {
           "name": "Dianne De Santis",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-9676-2549",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -18063,27 +18015,13 @@
       ],
       "volumeIssuePages": "vol. 80, no. 4, pp. 228-236",
       "categories": [
-        "matching",
         "diagnostics"
       ],
-      "primaryCategoryLabel": "Epitope matching",
+      "primaryCategoryLabel": "Diagnostics",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "HLA Antigens",
-        "Histocompatibility Testing",
-        "Pilot Projects",
-        "Immunogenetics",
-        "Genotype",
-        "Alleles",
-        "International Cooperation",
-        "Quality Control",
-        "Software",
-        "High-Throughput Nucleotide Sequencing",
-        "Consensus Statements as Topic"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Human leukocyte antigen",
         "Concordance",
@@ -18398,10 +18336,10 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.3389/fimmu.2018.03002",
-      "pmid": "30631326",
-      "pmcid": "PMC6315148",
+      "pmid": null,
+      "pmcid": null,
       "url": "http://dx.doi.org/10.3389/fimmu.2018.03002",
-      "fullTextUrl": "https://europepmc.org/articles/PMC6315148",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.3389/fimmu.2018.03002",
       "openAlexId": "https://openalex.org/W2905286764",
       "openAlexUrl": "https://openalex.org/W2905286764",
@@ -18479,7 +18417,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -18516,7 +18454,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -18840,20 +18778,7 @@
       "key": false,
       "impactFactor": 7,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Kidney",
-        "Humans",
-        "Kidney Failure, Chronic",
-        "Isoantibodies",
-        "Isoantigens",
-        "Histocompatibility Testing",
-        "Kidney Transplantation",
-        "Graft Rejection",
-        "Graft Survival",
-        "High-Throughput Screening Assays",
-        "Allografts",
-        "Transplant Recipients"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Human leukocyte antigen",
         "Multiplex",
@@ -19295,7 +19220,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -19332,7 +19257,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -19826,7 +19751,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -19859,7 +19784,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -20297,7 +20222,7 @@
         },
         {
           "name": "Birgit Grotejohann",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-7517-1184",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -20654,7 +20579,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -20704,7 +20629,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -21224,7 +21149,7 @@
         },
         {
           "name": "Fabian Halleck",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-9449-2058",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -21572,7 +21497,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/ajt.14393",
-      "pmid": "28613392",
+      "pmid": null,
       "pmcid": null,
       "url": "https://doi.org/10.1111/ajt.14393",
       "fullTextUrl": null,
@@ -21683,30 +21608,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Kidney Failure, Chronic",
-        "Isoantibodies",
-        "Antigens",
-        "HLA Antigens",
-        "Epitopes",
-        "Kidney Function Tests",
-        "Glomerular Filtration Rate",
-        "Histocompatibility Testing",
-        "Prognosis",
-        "Kidney Transplantation",
-        "Transplantation, Homologous",
-        "Incidence",
-        "Risk Factors",
-        "Follow-Up Studies",
-        "Graft Rejection",
-        "Graft Survival",
-        "Middle Aged",
-        "Tissue Donors",
-        "Germany",
-        "Female",
-        "Male"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Epitope",
         "Human leukocyte antigen",
@@ -21991,7 +21893,7 @@
       "bestOpenAccessUrl": "https://pure.amsterdamumc.nl/en/publications/d029d1c4-280a-4332-9170-20780c19a7c1",
       "openAlexId": "https://openalex.org/W2624350031",
       "openAlexUrl": "https://openalex.org/W2624350031",
-      "abstract": "Allogeneic stem cell transplantation (allo-SCT) with or without donor lymphocyte infusions (DLI) is the only curative option for several hematological malignancies. Unfortunately, allo-SCT is often associated with GvHD, and patients often relapse. We therefore aim to improve the graft-versus-tumor effect, without increasing the risk of GvHD, by targeting hematopoietic lineage-restricted and tumor-associated minor histocompatibility antigens using peptide-loaded dendritic cell (DC) vaccinations. In the present multicenter study, we report the feasibility, safety and efficacy of this concept. We treated nine multiple myeloma patients with persistent or relapsed disease after allo-SCT and a previous DLI, with donor monocyte-derived mHag-peptide-loaded DC vaccinations combined with a second DLI. Vaccinations were well tolerated and no occurrence of GvHD was observed. In five out of nine patients, we were able to show the induction of mHag-specific CD8 + T cells in peripheral blood. Five out of nine patients, of which four developed mHag-specific T cells, showed stable disease (SD) for 3.5-10 months. This study shows that mHag-based donor monocyte-derived DC vaccination combined with DLI is safe, feasible and capable of inducing objective mHag-specific T-cell responses. Future research should focus on further improvement of the vaccination strategy, toward translating the observed T-cell responses into robust clinical responses.",
+      "abstract": null,
       "authors": [
         {
           "name": "Laurens E. Franssen",
@@ -22165,25 +22067,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Dendritic Cells",
-        "Humans",
-        "Multiple Myeloma",
-        "Peptides",
-        "Antigens, Neoplasm",
-        "HLA Antigens",
-        "Lymphocyte Transfusion",
-        "Vaccination",
-        "Stem Cell Transplantation",
-        "Immunity, Cellular",
-        "Adult",
-        "Aged",
-        "Middle Aged",
-        "Blood Donors",
-        "Female",
-        "Male",
-        "Allografts"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Medicine",
         "Minor histocompatibility antigen",
@@ -22462,7 +22346,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -22859,7 +22743,7 @@
         },
         {
           "name": "Mohammad Rashidian",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-3708-0038",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -23170,7 +23054,7 @@
         },
         {
           "name": "Fabian Halleck",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-9449-2058",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -23401,7 +23285,7 @@
         },
         {
           "name": "Marco R. de Groot",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-6933-607X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -23525,14 +23409,14 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1038/bmt.2016.250",
-      "pmid": "27841858",
+      "pmid": null,
       "pmcid": null,
       "url": "https://doi.org/10.1038/bmt.2016.250",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://pure.amsterdamumc.nl/en/publications/fb31c212-380e-4bea-84d7-ff718ad6f94d",
       "openAlexId": "https://openalex.org/W2555998070",
       "openAlexUrl": "https://openalex.org/W2555998070",
-      "abstract": "Donor lymphocyte infusions (DLI) can induce durable remissions in multiple myeloma (MM) patients, but this occurs rather infrequently. As the graft-versus-tumor (GvT) effect of DLI depends on the presence of host-dendritic cells (DCs), we tested in a phase I/II trial whether the efficacy of DLI could be improved by simultaneous vaccination with host-DCs. We also analyzed the possibility of further improving the GvT effect by loading the DCs with peptides of mismatched hematopoietic cell-specific minor histocompatibility antigens (mHags). Fifteen MM patients not responding to a first DLI were included. Eleven patients could be treated with a second equivalent dose DLI combined with DC vaccinations, generated from host monocytes (moDC). For four patients, the DC products did not meet the quality criteria. In four of the treated patients the DCs were loaded with host mHag peptides. Toxicity was limited and no acute GvHD occurred. Most patients developed objective anti-host T-cell responses and in one patient a distinct mHag-specific T-cell response accompanied a temporary clinical response. These findings confirm that DLI combined with host-DC vaccination, either unloaded or loaded with mHag peptides, is feasible, safe and capable of inducing host-specific T-cell responses. The limited clinical effects may be improved by developing more immunogenic DC products or by combining this therapy with immune potentiating modalities like checkpoint inhibitors.",
+      "abstract": null,
       "authors": [
         {
           "name": "Rimke Oostvogels",
@@ -23670,17 +23554,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Dendritic Cells",
-        "Humans",
-        "Multiple Myeloma",
-        "Antigens, Neoplasm",
-        "Minor Histocompatibility Antigens",
-        "Lymphocyte Transfusion",
-        "Vaccination",
-        "Female",
-        "Male"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Minor histocompatibility antigen",
         "Medicine",
@@ -24553,7 +24427,7 @@
         },
         {
           "name": "Gideon Hönger",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-1661-2661",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -24902,7 +24776,7 @@
         },
         {
           "name": "Gideon Hönger",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-1661-2661",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -25440,7 +25314,7 @@
         },
         {
           "name": "Sergi Querol",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-1105-8633",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -25894,7 +25768,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -26165,7 +26039,7 @@
         },
         {
           "name": "F. J. Bemelman",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-4454-6270",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -27238,7 +27112,7 @@
       "authors": [
         {
           "name": "Moniek de Witte",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-7470-2994",
           "position": "first",
           "corresponding": false,
           "institutions": [
@@ -27389,7 +27263,7 @@
         },
         {
           "name": "Gideon Hönger",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-1661-2661",
           "position": "middle",
           "corresponding": true,
           "institutions": [
@@ -28005,7 +27879,7 @@
         },
         {
           "name": "Marijke R. van Dijk",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0003-6344-5736",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -28538,7 +28412,7 @@
         },
         {
           "name": "Birgit Grotejohann",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-7517-1184",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -29068,7 +28942,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.12445",
-      "pmid": "25262921",
+      "pmid": null,
       "pmcid": null,
       "url": "https://doi.org/10.1111/tan.12445",
       "fullTextUrl": null,
@@ -29101,16 +28975,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Graft vs Host Disease",
-        "Minor Histocompatibility Antigens",
-        "Histocompatibility Testing",
-        "Hematopoietic Stem Cell Transplantation",
-        "Organ Transplantation",
-        "Graft vs Leukemia Effect",
-        "Allografts"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Minor histocompatibility antigen",
         "Immunology",
@@ -29141,7 +29006,7 @@
           "score": 0.9995999932289124
         }
       ],
-      "citedByCount": 99,
+      "citedByCount": 100,
       "countsByYear": [
         {
           "year": 2026,
@@ -29173,7 +29038,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2018,
@@ -29281,7 +29146,7 @@
         },
         {
           "name": "Marije C. Baas",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -29321,7 +29186,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -29519,7 +29384,7 @@
         },
         {
           "name": "F. J. Bemelman",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-4454-6270",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -29697,10 +29562,10 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.3389/fimmu.2014.00210",
-      "pmid": "24860572",
-      "pmcid": "PMC4026718",
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.3389/fimmu.2014.00210",
-      "fullTextUrl": "https://europepmc.org/articles/PMC4026718",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.3389/fimmu.2014.00210",
       "openAlexId": "https://openalex.org/W2026218142",
       "openAlexUrl": "https://openalex.org/W2026218142",
@@ -29747,7 +29612,7 @@
         "last",
         "corresponding"
       ],
-      "volumeIssuePages": "vol. 5, pp. 210",
+      "volumeIssuePages": "vol. 5, pp. 210-210",
       "categories": [
         "matching",
         "outcome",
@@ -30812,7 +30677,7 @@
       "authors": [
         {
           "name": "Miranda P. Dierselhuis",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0001-6185-5569",
           "position": "first",
           "corresponding": true,
           "institutions": [
@@ -30830,7 +30695,7 @@
           ]
         },
         {
-          "name": "J.J.M. Drabbels",
+          "name": "Jos J. M. Drabbels",
           "orcid": "https://orcid.org/0000-0002-0118-5145",
           "position": "middle",
           "corresponding": false,
@@ -30848,7 +30713,7 @@
           ]
         },
         {
-          "name": "C. Aláez",
+          "name": "Carmen Alaez",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -30892,7 +30757,7 @@
           ]
         },
         {
-          "name": "M. Christiaans",
+          "name": "Maarten Christiaans",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -30910,7 +30775,7 @@
           ]
         },
         {
-          "name": "M. Fasano",
+          "name": "Massimo Fasano",
           "orcid": "https://orcid.org/0000-0002-8750-9058",
           "position": "middle",
           "corresponding": false,
@@ -30974,7 +30839,7 @@
           ]
         },
         {
-          "name": "Luis E. Morales‐Buenrostro",
+          "name": "Luis Eduardo Morales-Buenrostro",
           "orcid": "https://orcid.org/0000-0002-7227-484X",
           "position": "middle",
           "corresponding": false,
@@ -31055,7 +30920,7 @@
           ]
         },
         {
-          "name": "Anthony Ν. Warrens",
+          "name": "Anthony N. Warrens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -31064,7 +30929,7 @@
           ]
         },
         {
-          "name": "Willem Weimar",
+          "name": "Willem W. Weimar",
           "orcid": "https://orcid.org/0000-0003-0352-4259",
           "position": "middle",
           "corresponding": false,
@@ -31288,7 +31153,7 @@
           ]
         },
         {
-          "name": "Mary S. Leffell",
+          "name": "Mary Sue Leffell",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -31298,7 +31163,7 @@
           ]
         },
         {
-          "name": "Noemi F. Pereira",
+          "name": "Noemi Farah Pereira",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -31344,7 +31209,7 @@
           ]
         },
         {
-          "name": "David Laurin",
+          "name": "David E. Laurin",
           "orcid": "https://orcid.org/0000-0001-9339-8369",
           "position": "middle",
           "corresponding": false,
@@ -31753,7 +31618,7 @@
       "authors": [
         {
           "name": "Miranda P. Dierselhuis",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0001-6185-5569",
           "position": "first",
           "corresponding": false,
           "institutions": [
@@ -32187,7 +32052,7 @@
       "authors": [
         {
           "name": "Marnix van Soest",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0005-2131-9883",
           "position": "first",
           "corresponding": false,
           "institutions": [
@@ -32242,25 +32107,13 @@
       ],
       "volumeIssuePages": "vol. 81, no. 4, pp. 230-231",
       "categories": [
-        "matching",
         "diagnostics"
       ],
-      "primaryCategoryLabel": "Epitope matching",
+      "primaryCategoryLabel": "Diagnostics",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "HLA-B Antigens",
-        "Histocompatibility Testing",
-        "Stem Cell Transplantation",
-        "Base Sequence",
-        "Point Mutation",
-        "Alleles",
-        "Exons",
-        "Molecular Sequence Data",
-        "Tissue Donors"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Allele",
         "Typing",
@@ -32316,14 +32169,14 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1016/j.humimm.2012.12.004",
-      "pmid": "23232063",
+      "pmid": null,
       "pmcid": null,
       "url": "https://doi.org/10.1016/j.humimm.2012.12.004",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2018766522",
       "openAlexUrl": "https://openalex.org/W2018766522",
-      "abstract": "Background HLA class-I mismatches selectively induce antibody formation after kidney transplantation. The de novo development of donor-specific IgG HLA class-I antibodies may be dependent on the HLA class-II background of the patient by presenting T-helper epitopes within the recognized HLA class-I antigens. Methods The correlation between antibody production against mismatched donor human leukocyte antigens (HLA) class I and the number of HLA class II-restricted predicted indirectly recognizable HLA epitopes (PIRCHE-II) in the respective HLA class-I mismatches was investigated. To this end, we analyzed sera taken after nephrectomy from a cohort of 21 non-immunized individuals that received a renal transplant. Results Fourty-nine HLA class-I mismatches were found which all contained immunogenic eplets according to HLAMatchmaker. Donor specific HLA antibody responses were detected against 38 HLA class-I mismatches after nephrectomy. These mismatches were found to contain a larger number of PIRCHE-II when compared to mismatches which did not induce donor specific HLA antibodies. Most PIRCHE-II (68%) were not part of an eplet as defined by HLAMatchmaker. Conclusions Our data suggest that presentation of donor-derived HLA class-I peptides by recipient HLA class-II molecules plays a significant role in de novo development of donor-specific IgG HLA antibodies.",
+      "abstract": null,
       "authors": [
         {
           "name": "Henny G. Otten",
@@ -32388,20 +32241,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Immunoglobulin G",
-        "Antibodies",
-        "HLA-DR Antigens",
-        "HLA Antigens",
-        "Epitopes",
-        "Histocompatibility Testing",
-        "Kidney Transplantation",
-        "Protein Structure, Tertiary",
-        "Models, Molecular",
-        "Computer Simulation",
-        "Tissue Donors"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Human leukocyte antigen",
         "Epitope",
@@ -32980,7 +32820,7 @@
       "abstract": "The International Histocompatibility Working Group is a collaborative international effort to understand the HLA and non-HLA genetics of the transplantation barrier. The Working Group is comprised of experts in the fields of histocompatibility and immunogenetics, hematopoietic cell transplantation and outcomes research. Data for 25 855 unrelated donor transplants were submitted in support of research studies for the 16th International Histocompatibility Workshop. Active investigation is in progress in seven key areas: the impact of HLA matching, role of race and ethnicity, identification of permissible HLA mismatches, haplotype-associated determinants, minor histocompatibility antigens, immune response genes and KIR genetics. New hypotheses for the 16th workshop were developed for immunogenetic studies in cord blood and haploidentical-related donor transplantation.",
       "authors": [
         {
-          "name": "Effie W. Petersdorf",
+          "name": "Effie Wang Petersdorf",
           "orcid": "https://orcid.org/0000-0002-6454-3683",
           "position": "first",
           "corresponding": true,
@@ -33024,7 +32864,7 @@
           "institutions": []
         },
         {
-          "name": "Anne M. Dickinson",
+          "name": "Anne Mary Dickinson",
           "orcid": "https://orcid.org/0000-0002-7356-7636",
           "position": "middle",
           "corresponding": false,
@@ -33042,7 +32882,7 @@
           ]
         },
         {
-          "name": "Katharina Fleischhauer",
+          "name": "Katharina L. Fleischhauer",
           "orcid": "https://orcid.org/0000-0002-5827-8000",
           "position": "middle",
           "corresponding": false,
@@ -33052,7 +32892,7 @@
         },
         {
           "name": "Takakazu Kawase",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0003-7735-4210",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -33069,7 +32909,7 @@
           ]
         },
         {
-          "name": "Y Morishima",
+          "name": "Yoshiyuki MORISHIMA",
           "orcid": "https://orcid.org/0000-0002-5062-1134",
           "position": "middle",
           "corresponding": false,
@@ -33106,7 +32946,7 @@
           ]
         },
         {
-          "name": "M. Stern",
+          "name": "Marc Stern",
           "orcid": "https://orcid.org/0000-0001-5275-6959",
           "position": "middle",
           "corresponding": false,
@@ -33133,7 +32973,7 @@
           ]
         },
         {
-          "name": "Ted Gooley",
+          "name": "Ted Alan Gooley",
           "orcid": "https://orcid.org/0000-0002-8182-3652",
           "position": "middle",
           "corresponding": false,
@@ -33268,13 +33108,13 @@
       "typeLabel": "Journal-Article",
       "doi": "10.3748/wjg.v19.i41.7114",
       "pmid": "24222955",
-      "pmcid": "PMC3819547",
+      "pmcid": null,
       "url": "https://europepmc.org/articles/PMC3819547",
-      "fullTextUrl": "https://europepmc.org/articles/PMC3819547",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.3748/wjg.v19.i41.7114",
       "openAlexId": "https://openalex.org/W2122782236",
       "openAlexUrl": "https://openalex.org/W2122782236",
-      "abstract": "Aim To investigate whether celiac disease (CD) patients with tissue-transglutaminase antibody (tTGA) ≥ 100 U/mL are different from patients with lower tTGA levels. Methods Biopsy-proven (Marsh III) pediatric CD patients (n = 116) were prospectively included between March 2009 and October 2012. The biopsies were evaluated by a single pathologist who was blinded to all of the patients' clinical data. The patients were distributed into 2 groups according to their tTGA level, which was measured using enzyme-linked immunoassay: tTGA ≥ 100 U/mL and tTGA Results A total of 34 (29.3%) children had tTGA values Conclusion Patients with tTGA ≥ 100 U/mL show several signs of more advanced disease. They also carry a larger number of CD associated HLA-DQ heterodimers.",
+      "abstract": "AIM: To investigate whether celiac disease (CD) patients with tissue-transglutaminase antibody (tTGA) ≥ 100 U/mL are different from patients with lower tTGA levels. METHODS: Biopsy-proven (Marsh III) pediatric CD patients (n = 116) were prospectively included between March 2009 and October 2012. The biopsies were evaluated by a single pathologist who was blinded to all of the patients' clinical data. The patients were distributed into 2 groups according to their tTGA level, which was measured using enzyme-linked immunoassay: tTGA ≥ 100 U/mL and tTGA < 100 U/mL. The patients'characteristics, symptoms, human leukocyte antigen (HLA) genotype and degree of histological involvement were compared between the 2 groups. RESULTS: A total of 34 (29.3%) children had tTGA values < 100 U/mL and 82 (70.7%) tTGA levels of ≥ 100 U/mL. Patients with high tTGA levels had lower average body weight-for-height standard deviation scores (SDS) than did patients with tTGA < 100 U/mL (-0.20 ± 1.19 SDS vs 0.23 ± 1.03 SDS, P = 0.025). In the low tTGA group, gastrointestinal symptoms were more common (97.1% vs 75.6%, P = 0.006). More specifically, abdominal pain (76.5% vs 51.2%; P = 0.012) and nausea (17.6% vs 3.7%, P = 0.018) were more frequent among patients with low tTGA. In contrast, patients with solely extraintestinal manifestations were only present in the high tTGA group (18.3%, P = 0.005). These patients more commonly presented with aphthous stomatitis (15.9% vs 0.0%, P = 0.010) and anemia (32.9% vs 11.8%, P = 0.019). In addition, when evaluating the number of CD-associated HLA-DQ heterodimers (HLA-DQ2.5, HLA-DQ2.2 and HLA-DQ8), patients with low tTGA levels more commonly had only 1 disease-associated heterodimer (61.8% vs 31.7%, P = 0.005), while patients with high tTGA more commonly had multiple heterodimers. Finally, patients with tTGA ≥ 100 U/mL more often had a Marsh IIIc lesion (73.2% vs 20.6%, P < 0.001) while in patients with low tTGA patchy lesions were more common (42.4% vs 6.8%, P < 0.001). CONCLUSION: Patients with tTGA ≥ 100 U/mL show several signs of more advanced disease. They also carry a larger number of CD associated HLA-DQ heterodimers.",
       "authors": [
         {
           "name": "Amani Mubarak",
@@ -33295,34 +33135,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Duodenum",
-        "Humans",
-        "Celiac Disease",
-        "Genetic Predisposition to Disease",
-        "GTP-Binding Proteins",
-        "Transglutaminases",
-        "Immunoglobulin A",
-        "Autoantibodies",
-        "HLA-DQ Antigens",
-        "HLA Antigens",
-        "Biopsy",
-        "Enzyme-Linked Immunosorbent Assay",
-        "Severity of Illness Index",
-        "Chi-Square Distribution",
-        "Prospective Studies",
-        "Age Factors",
-        "Phenotype",
-        "Adolescent",
-        "Child",
-        "Child, Preschool",
-        "Infant",
-        "Infant, Newborn",
-        "Female",
-        "Male",
-        "Asymptomatic Diseases",
-        "Protein Glutamine gamma Glutamyltransferase 2"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Medicine",
         "Gastroenterology",
@@ -35109,7 +34922,7 @@
       "authors": [
         {
           "name": "Miranda P. Dierselhuis",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0001-6185-5569",
           "position": "first",
           "corresponding": false,
           "institutions": [
@@ -35286,14 +35099,14 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1093/humrep/deq242",
-      "pmid": "20823116",
-      "pmcid": "PMC2955557",
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1093/humrep/deq242",
-      "fullTextUrl": "https://europepmc.org/articles/PMC2955557",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1093/humrep/deq242",
       "openAlexId": "https://openalex.org/W2148563151",
       "openAlexUrl": "https://openalex.org/W2148563151",
-      "abstract": "Background The birth of a boy is significantly more common than a girl prior to secondary recurrent miscarriage (SRM) and is associated with a poorer chance of a subsequent live birth. Children born after SRM are more likely to be girls. High-titer antisera specific for male antigens (H-Y) have been shown to arrest development of male bovine embryos efficiently. We consequently questioned the role of H-Y antibodies in women with SRM. Methods Serum samples from patients with unexplained SRM (n = 84), unexplained primary recurrent miscarriage (PRM) (n = 12) and healthy women (n = 37) were obtained. The samples were taken during pregnancy (gestational weeks 4-5) for 77 (80%) of the patients. Enzyme-linked immunosorbent assay was used to detect immunoglobulin G antibodies that specifically recognized any of the five recombinant H-Y proteins (EIF1AY, RPS4Y1, ZFY, DDX3Y and UTY) and their H-X homologs. Results H-Y-specific antibodies were more frequent in SRM patients (46%) compared with female controls (19%, P = 0.004) and PRM patients (8%, P = 0.01). The presence of H-Y antibodies in early pregnancy was associated with a low male: female birth ratio among the subsequent live births, as only 12% of children born to H-Y antibody-positive patients were boys compared with 44% boys born to H-Y antibody negative patients (P = 0.03). Conclusions The high frequency of H-Y antibody-positive SRM patients and the association between the presence of these antibodies in early pregnancy and the low number of male offspring, suggest that maternal immune responses against H-Y antigens can cause pregnancy losses. Further exploring these mechanisms may increase our understanding of unexplained SRM.",
+      "abstract": "BACKGROUND: The birth of a boy is significantly more common than a girl prior to secondary recurrent miscarriage (SRM) and is associated with a poorer chance of a subsequent live birth. Children born after SRM are more likely to be girls. High-titer antisera specific for male antigens (H-Y) have been shown to arrest development of male bovine embryos efficiently. We consequently questioned the role of H-Y antibodies in women with SRM. METHODS: Serum samples from patients with unexplained SRM (n = 84), unexplained primary recurrent miscarriage (PRM) (n = 12) and healthy women (n = 37) were obtained. The samples were taken during pregnancy (gestational weeks 4-5) for 77 (80%) of the patients. Enzyme-linked immunosorbent assay was used to detect immunoglobulin G antibodies that specifically recognized any of the five recombinant H-Y proteins (EIF1AY, RPS4Y1, ZFY, DDX3Y and UTY) and their H-X homologs. RESULTS: H-Y-specific antibodies were more frequent in SRM patients (46%) compared with female controls (19%, P = 0.004) and PRM patients (8%, P = 0.01). The presence of H-Y antibodies in early pregnancy was associated with a low male: female birth ratio among the subsequent live births, as only 12% of children born to H-Y antibody-positive patients were boys compared with 44% boys born to H-Y antibody negative patients (P = 0.03). CONCLUSIONS: The high frequency of H-Y antibody-positive SRM patients and the association between the presence of these antibodies in early pregnancy and the low number of male offspring, suggest that maternal immune responses against H-Y antigens can cause pregnancy losses. Further exploring these mechanisms may increase our understanding of unexplained SRM.",
       "authors": [
         {
           "name": "Henriette Svarre Nielsen",
@@ -35388,29 +35201,13 @@
       ],
       "volumeIssuePages": "vol. 25, no. 11, pp. 2745-2752",
       "categories": [
-        "outcome",
         "diagnostics"
       ],
-      "primaryCategoryLabel": "Outcome",
+      "primaryCategoryLabel": "Diagnostics",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Abortion, Habitual",
-        "Immunoglobulins, Intravenous",
-        "Isoantibodies",
-        "H-Y Antigen",
-        "Enzyme-Linked Immunosorbent Assay",
-        "Pregnancy Outcome",
-        "Sex Ratio",
-        "Pregnancy",
-        "Pregnancy Trimester, First",
-        "Adolescent",
-        "Adult",
-        "Female",
-        "Male"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Miscarriage",
         "Live birth",
@@ -36052,7 +35849,7 @@
           ]
         },
         {
-          "name": "Jan W. Drijfhout",
+          "name": "Jan Wouter Drijfhout",
           "orcid": "https://orcid.org/0000-0003-4808-5296",
           "position": "middle",
           "corresponding": false,
@@ -36062,7 +35859,7 @@
           ]
         },
         {
-          "name": "Ferry Ossendorp",
+          "name": "FERRY A. OSSENDORP",
           "orcid": "https://orcid.org/0000-0001-9730-7954",
           "position": "middle",
           "corresponding": false,
@@ -36109,21 +35906,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Hela Cells",
-        "Humans",
-        "Proteasome Endopeptidase Complex",
-        "Histocompatibility Antigens Class I",
-        "Crystallography, X-Ray",
-        "Amino Acid Sequence",
-        "Protein Structure, Tertiary",
-        "Protein Binding",
-        "Protein Transport",
-        "Alleles",
-        "Models, Molecular",
-        "Time Factors",
-        "Molecular Sequence Data"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Steric effects",
         "Immunogenicity",
@@ -36949,7 +36732,7 @@
         },
         {
           "name": "Renata Žunec",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-2607-3059",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -37629,7 +37412,7 @@
       "abstract": "In vitro stimulation of human female T cells with male HLA-identical dendritic cells resulted in the generation of HLA-DQB1*0501/0502-restricted minor histocompatibility H-Y antigen-specific CD4(+) T cell clones. Two clones generated from different HLA-identical pairs were analyzed. Use of HLA-DQ5-expressing female Epstein-Barr virus transformed B lymphoblastoid cell lines transfected with various H-Y genes and loaded with overlapping peptides demonstrated that both T cell clones are specific for a peptide encoded by DDX3Y. Previously, an HLA-DQ5-restricted T cell clone specific for the same peptide was isolated from a patient with graft-versus-host disease. Thus, we compared the T cell receptor (TCR) rearrangements of the 2 in vitro generated T cell clones and the ex vivo isolated T cell clone. All 3 clones shared the same TCRBV5-4* gene segment and 2 of 3 clones also used similar TCR-Valpha segments. Our results suggest that T cells recognizing the HLA-DQ5/DDX3Y T cell epitope might be characterized by a relatively limited TCR-beta repertoire. The differences in the junctional TCR-beta region had no effect on the antigen specificity, but altered the capacity of the TCR to distinguish the HLA-DQ5/DDX3Y complex from its allelic counterpart. The results also demonstrate that in vitro stimulation of T cells with allogeneic HLA-identical dendritic cells may facilitate the characterization of in vivo, potentially relevant HLA class II-restricted minor H epitopes.",
       "authors": [
         {
-          "name": "David Laurin",
+          "name": "David E. Laurin",
           "orcid": "https://orcid.org/0000-0001-9339-8369",
           "position": "first",
           "corresponding": false,
@@ -38313,14 +38096,14 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1016/j.jim.2005.12.011",
-      "pmid": "16487538",
+      "pmid": null,
       "pmcid": null,
       "url": "https://doi.org/10.1016/j.jim.2005.12.011",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2077337570",
       "openAlexUrl": "https://openalex.org/W2077337570",
-      "abstract": "Tetrameric MHC/peptide complexes are important tools for analyzing antigen-specific T cells. The in situ use of tetrameric MHC/peptide complexes in viable tissue sections has several shortcomings: it does not allow the execution of multiple analyses on one single biopsy, the storage of the biopsies, and the co-staining of the tetramer-positive cells for various intracellular molecules. We have developed a novel approach using overnight pre-labeling of viable human tissues with MHC/peptide tetramers, followed by cryopreservation and labeling of the cryosections. The visualization of antigen-specific T cells, combined with detection of other membrane, cytoplasmic, or nuclear markers is now feasible.",
+      "abstract": null,
       "authors": [
         {
           "name": "Florry A. Vyth‐Dreese",
@@ -38402,20 +38185,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "T-Lymphocytes",
-        "Skin",
-        "Humans",
-        "HLA-A2 Antigen",
-        "H-Y Antigen",
-        "Fluorescent Dyes",
-        "Biopsy",
-        "Cryopreservation",
-        "Immunohistochemistry",
-        "Female",
-        "Male",
-        "In Vitro Techniques"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Antigen",
         "In situ",
@@ -38683,14 +38453,14 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1016/j.it.2003.12.002",
-      "pmid": "15102363",
+      "pmid": null,
       "pmcid": null,
       "url": "https://doi.org/10.1016/j.it.2003.12.002",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2056891047",
       "openAlexUrl": "https://openalex.org/W2056891047",
-      "abstract": "Technical advances combined with the deciphering of the human genome have facilitated the identification of the molecular nature of human minor histocompatibility (H) antigens. To date, it is believed that minor H antigens result from just any polymorphic protein, regardless of their functional properties. A closer look at the first series of autosomally encoded human minor H proteins reveals a striking functional relationship. Here, we propose that T cells generated after HLA-identical stem cell transplantation (SCT) for malignancies are likely to be directed towards peptides derived from minor H proteins involved in tumourigenesis. This novel insight has important consequences in the search for, and the use of, minor H antigens as immunotherapeutics in stem-cell-based immunotherapy of haematological malignancies and solid tumours.",
+      "abstract": null,
       "authors": [
         {
           "name": "Eric Spierings",
@@ -38733,25 +38503,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "T-Lymphocytes",
-        "Humans",
-        "Neoplasms",
-        "rho GTP-Binding Proteins",
-        "Adaptor Proteins, Signal Transducing",
-        "GTPase-Activating Proteins",
-        "Guanine Nucleotide Exchange Factors",
-        "Oligopeptides",
-        "Neoplasm Proteins",
-        "Proto-Oncogene Proteins",
-        "Proto-Oncogene Proteins c-bcl-2",
-        "HLA-B Antigens",
-        "Minor Histocompatibility Antigens",
-        "Stem Cell Transplantation",
-        "Transplantation Immunology",
-        "Models, Biological",
-        "A Kinase Anchor Proteins"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Minor histocompatibility antigen",
         "Biology",
@@ -38885,14 +38637,14 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1016/s0140-6736(03)14191-8",
-      "pmid": "12944060",
+      "pmid": null,
       "pmcid": null,
       "url": "https://doi.org/10.1016/s0140-6736(03)14191-8",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2136948594",
       "openAlexUrl": "https://openalex.org/W2136948594",
-      "abstract": "Background Stem-cell grafts between HLA-identical siblings are less likely to succeed when there is a sex mismatch. This lack of success can be interpreted as enhanced activity directed against minor histocompatibility antigens encoded by the Y chromosome (H-Y). So far, in man, only cytotoxic T lymphocytes (CTLs) specific for several minor histocompatibility antigens have been reported. We aimed to identify and clarify the role of MHC class II-restricted H-Y-specific T-helper cells in these transplant settings. Methods H-Y-specific MHC class II-restricted CD4+ T cells were isolated from blood of a female patient who rejected an HLA-identical male stem-cell transplant. By molecular cloning of H-Y genes and functional T-helper experiments, we elucidated antigen specificity and the functional properties of these H-Y-specific T-helper cells. Findings CD4+ T-helper cells recognise the Y gene-encoded peptide VIKVNDTVQI presented by HLA-DRbeta3*0301. These T-helper cells mature dendritic cells and enhance expansion of minor histocompatibility antigen-specific MHC class I-restricted CD8+ CTLs. Interpretation Characterisation of an MHC class II-restricted H-Y epitope that evoked CD4+ T-helper responses adds a novel cellular component to the alloimmune response against Y chromosome-encoded minor histocompatibility antigens. This component completes the H-Y-directed alloimmune response and aids understanding of the poorer outcome of sex-mismatched transplants.",
+      "abstract": null,
       "authors": [
         {
           "name": "Eric Spierings",
@@ -38966,7 +38718,6 @@
       "volumeIssuePages": "vol. 362, no. 9384, pp. 610-615",
       "categories": [
         "matching",
-        "outcome",
         "diagnostics",
         "cellular"
       ],
@@ -38974,27 +38725,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "T-Lymphocytes, Helper-Inducer",
-        "Chromosomes, Human, Y",
-        "Humans",
-        "Anemia, Aplastic",
-        "Histocompatibility Antigens Class II",
-        "H-Y Antigen",
-        "Epitopes, T-Lymphocyte",
-        "Stem Cell Transplantation",
-        "Epitope Mapping",
-        "Sex Factors",
-        "Transplantation Immunology",
-        "Graft Rejection",
-        "Minor Histocompatibility Loci",
-        "Genes, sry",
-        "Adult",
-        "Female",
-        "Male",
-        "Sex Determination Processes",
-        "CD4 Antigens"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Minor histocompatibility antigen",
         "Major histocompatibility complex",
@@ -39113,7 +38844,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1182/blood-2003-01-0260",
-      "pmid": "12663445",
+      "pmid": null,
       "pmcid": null,
       "url": "https://doi.org/10.1182/blood-2003-01-0260",
       "fullTextUrl": null,
@@ -39212,7 +38943,7 @@
         },
         {
           "name": "Sahana Mollah",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0000-6229-4671",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -39305,46 +39036,13 @@
       "volumeIssuePages": "vol. 102, no. 2, pp. 621-629",
       "categories": [
         "matching",
-        "diagnostics",
         "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "CD8-Positive T-Lymphocytes",
-        "Clone Cells",
-        "Humans",
-        "Leukemia, Myeloid",
-        "Acute Disease",
-        "Multienzyme Complexes",
-        "Proteasome Endopeptidase Complex",
-        "Cysteine Endopeptidases",
-        "Adaptor Proteins, Signal Transducing",
-        "ATP-Binding Cassette Transporters",
-        "Proto-Oncogene Proteins",
-        "Protein Isoforms",
-        "HLA-A1 Antigen",
-        "Minor Histocompatibility Antigens",
-        "Epitopes, T-Lymphocyte",
-        "Peripheral Blood Stem Cell Transplantation",
-        "Amino Acid Substitution",
-        "Pedigree",
-        "Sequence Alignment",
-        "Antigen Presentation",
-        "Protein Processing, Post-Translational",
-        "Amino Acid Sequence",
-        "Sequence Homology, Amino Acid",
-        "Genotype",
-        "Polymorphism, Genetic",
-        "Alleles",
-        "Molecular Sequence Data",
-        "Female",
-        "Male",
-        "A Kinase Anchor Proteins",
-        "ATP Binding Cassette Transporter, Subfamily B, Member 2"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Minor histocompatibility antigen",
         "Biology",
@@ -40465,7 +40163,7 @@
           ]
         },
         {
-          "name": "Carmen Vleggeert‐Lankamp",
+          "name": "Carmen L. A. Vleggeert-Lankamp",
           "orcid": "https://orcid.org/0000-0001-9597-7225",
           "position": "middle",
           "corresponding": false,
@@ -40585,7 +40283,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.4269/ajtmh.1999.61.495",
-      "pmid": "10497997",
+      "pmid": null,
       "pmcid": null,
       "url": "http://dx.doi.org/10.4269/ajtmh.1999.61.495",
       "fullTextUrl": null,
@@ -40604,14 +40302,14 @@
           ]
         },
         {
-          "name": "M. de Vlieger",
+          "name": "Marinus de Vlieger",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "A Brand",
+          "name": "Alison Brand",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -40643,18 +40341,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Leprosy",
-        "Leprosy, Borderline",
-        "Leprosy, Lepromatous",
-        "Leprosy, Tuberculoid",
-        "Sulfoglycosphingolipids",
-        "Immunoglobulin G",
-        "Immunoglobulin M",
-        "Antibodies",
-        "Enzyme-Linked Immunosorbent Assay"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Leprosy",
         "Titer",
@@ -41046,9 +40733,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1128/iai.63.12.4682-4685.1995",
       "pmid": "7591123",
-      "pmcid": "PMC173672",
+      "pmcid": null,
       "url": "https://europepmc.org/articles/PMC173672",
-      "fullTextUrl": "https://europepmc.org/articles/PMC173672",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/173672",
       "openAlexId": "https://openalex.org/W1930612456",
       "openAlexUrl": "https://openalex.org/W1930612456",
@@ -41120,19 +40807,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "T-Lymphocytes",
-        "Humans",
-        "Mycobacterium leprae",
-        "Recombinant Proteins",
-        "DNA, Bacterial",
-        "Antigens, Bacterial",
-        "Lymphocyte Activation",
-        "Amino Acid Sequence",
-        "Base Sequence",
-        "Open Reading Frames",
-        "Molecular Sequence Data"
-      ],
+      "meshTerms": [],
       "keywords": [
         "Mycobacterium leprae",
         "Biology",
