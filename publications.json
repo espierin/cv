@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-09-23T09:22:09.106Z",
+  "generatedAt": "2026-09-24T09:21:22.904Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -204,8 +204,7 @@
           "corresponding": true,
           "institutions": [
             "University Medical Center Utrecht",
-            "Center for Translational Molecular Medicine",
-            "Hersenstichting"
+            "Center for Translational Molecular Medicine"
           ]
         },
         {
@@ -242,9 +241,7 @@
           "orcid": "https://orcid.org/0009-0001-2454-1165",
           "position": "middle",
           "corresponding": false,
-          "institutions": [
-            "National Marrow Donor Program"
-          ]
+          "institutions": []
         },
         {
           "name": "Medhat Z. Askar",
@@ -287,9 +284,7 @@
           "orcid": "https://orcid.org/0000-0003-4199-3435",
           "position": "last",
           "corresponding": false,
-          "institutions": [
-            "Midwest Orthopaedic Research Foundation"
-          ]
+          "institutions": []
         }
       ],
       "selfAuthorPositions": [
@@ -406,6 +401,7 @@
           "corresponding": false,
           "institutions": [
             "Centre Hospitalier Universitaire Sainte-Justine",
+            "CHU Sainte-Justine Research Center",
             "Université de Montréal"
           ]
         },
@@ -453,8 +449,7 @@
           "corresponding": false,
           "institutions": [
             "University Medical Center Utrecht",
-            "Center for Translational Molecular Medicine",
-            "Hersenstichting"
+            "Center for Translational Molecular Medicine"
           ]
         }
       ],
@@ -1538,18 +1533,14 @@
           "orcid": "",
           "position": "middle",
           "corresponding": false,
-          "institutions": [
-            "Waterlandziekenhuis"
-          ]
+          "institutions": []
         },
         {
           "name": "Winnie Ottenhof",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
-          "institutions": [
-            "Waterlandziekenhuis"
-          ]
+          "institutions": []
         },
         {
           "name": "Dave L. Roelen",
@@ -1808,10 +1799,10 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.70291",
-      "pmid": null,
-      "pmcid": null,
+      "pmid": "40543909",
+      "pmcid": "PMC12182435",
       "url": "https://doi.org/10.1111/tan.70291",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC12182435",
       "bestOpenAccessUrl": "https://doi.org/10.1111/tan.70291",
       "openAlexId": "https://openalex.org/W4411511663",
       "openAlexUrl": "https://openalex.org/W4411511663",
@@ -1901,7 +1892,20 @@
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "CD4-Positive T-Lymphocytes",
+        "Animals",
+        "Swine",
+        "Humans",
+        "Histocompatibility Antigens Class I",
+        "HLA Antigens",
+        "Epitopes, T-Lymphocyte",
+        "Kidney Transplantation",
+        "Transplantation, Heterologous",
+        "Immunologic Memory",
+        "Heterografts",
+        "Memory T Cells"
+      ],
       "keywords": [
         "Epitope",
         "Xenotransplantation",
@@ -2121,7 +2125,7 @@
         },
         {
           "name": "Toshihiro Miyamoto",
-          "orcid": "https://orcid.org/0000-0001-5941-4679",
+          "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -2383,7 +2387,7 @@
         },
         {
           "name": "Martine Schuit",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0006-8029-9226",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -3056,9 +3060,7 @@
           "orcid": "https://orcid.org/0000-0001-9441-1019",
           "position": "middle",
           "corresponding": false,
-          "institutions": [
-            "Center for Translational Molecular Medicine"
-          ]
+          "institutions": []
         },
         {
           "name": "Matthias Niemann",
@@ -4773,7 +4775,6 @@
           "corresponding": false,
           "institutions": [
             "VIB-KU Leuven Center for Microbiology",
-            "Fujirebio (Belgium)",
             "KU Leuven"
           ]
         },
@@ -4915,9 +4916,7 @@
           "orcid": "https://orcid.org/0000-0002-3514-9812",
           "position": "first",
           "corresponding": true,
-          "institutions": [
-            "Roche (Switzerland)"
-          ]
+          "institutions": []
         },
         {
           "name": "Benedict M. Matern",
@@ -4925,7 +4924,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Roche (Switzerland)",
             "University Medical Center Utrecht",
             "Center for Translational Molecular Medicine"
           ]
@@ -5042,9 +5040,7 @@
           "orcid": "https://orcid.org/0000-0002-3514-9812",
           "position": "first",
           "corresponding": true,
-          "institutions": [
-            "Roche (Switzerland)"
-          ]
+          "institutions": []
         },
         {
           "name": "Benedict M. Matern",
@@ -6524,15 +6520,22 @@
       ],
       "volumeIssuePages": "vol. 106, no. 12, pp. 2325-2337",
       "categories": [
+        "matching",
         "outcome",
         "diagnostics",
         "cellular"
       ],
-      "primaryCategoryLabel": "Outcome",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Organ Transplantation",
+        "Transplantation, Homologous",
+        "Immune Tolerance",
+        "Histocompatibility",
+        "Graft Rejection"
+      ],
       "keywords": [
         "Transplantation",
         "Context (archaeology)",
@@ -7867,9 +7870,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1038/s41591-022-01725-2",
       "pmid": "35288692",
-      "pmcid": null,
+      "pmcid": "PMC9117142",
       "url": "https://europepmc.org/articles/PMC9117142",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC9117142",
       "bestOpenAccessUrl": "https://doi.org/10.1038/s41591-022-01725-2",
       "openAlexId": "https://openalex.org/W4220681808",
       "openAlexUrl": "https://openalex.org/W4220681808",
@@ -8363,7 +8366,13 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Histocompatibility Antigens Class I",
+        "Kidney Transplantation",
+        "Graft Rejection",
+        "Graft Survival"
+      ],
       "keywords": [
         "Hazard ratio",
         "Human leukocyte antigen",
@@ -9059,9 +9068,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.3389/fimmu.2021.797360",
       "pmid": "34992608",
-      "pmcid": null,
+      "pmcid": "PMC8725048",
       "url": "https://europepmc.org/articles/PMC8725048",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC8725048",
       "bestOpenAccessUrl": "https://doi.org/10.3389/fimmu.2021.797360",
       "openAlexId": "https://openalex.org/W4200488594",
       "openAlexUrl": "https://openalex.org/W4200488594",
@@ -9118,13 +9127,30 @@
       ],
       "volumeIssuePages": "vol. 12, pp. 797360",
       "categories": [
+        "matching",
         "diagnostics"
       ],
-      "primaryCategoryLabel": "Diagnostics",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": 7,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Peptides",
+        "Isoantibodies",
+        "HLA-DP Antigens",
+        "HLA-DQ Antigens",
+        "Epitopes",
+        "Isoantigens",
+        "Histocompatibility Testing",
+        "Antigen Presentation",
+        "Pregnancy",
+        "Adult",
+        "Female",
+        "Male",
+        "HLA-DRB1 Chains",
+        "HLA-DRB4 Chains"
+      ],
       "keywords": [
         "Human leukocyte antigen",
         "Immunology",
@@ -9190,13 +9216,13 @@
       "typeLabel": "Journal-Article",
       "doi": "10.3389/fimmu.2021.784040",
       "pmid": "34868064",
-      "pmcid": null,
+      "pmcid": "PMC8637278",
       "url": "https://europepmc.org/articles/PMC8637278",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC8637278",
       "bestOpenAccessUrl": "https://doi.org/10.3389/fimmu.2021.784040",
       "openAlexId": "https://openalex.org/W3216188118",
       "openAlexUrl": "https://openalex.org/W3216188118",
-      "abstract": "CD4+T-helper cells play an important role in alloimmune reactions following transplantation by stimulating humoral as well as cellular responses, which might lead to failure of the allograft. CD4+memory T-helper cells from a previous immunizing event can potentially be reactivated by exposure to HLA mismatches that share T-cell epitopes with the initial immunizing HLA. Consequently, reactivity of CD4+memory T-helper cells toward T-cell epitopes that are shared between immunizing HLA and donor HLA could increase the risk of alloimmunity following transplantation, thus affecting transplant outcome. In this study, the amount of T-cell epitopes shared between immunizing and donor HLA was used as a surrogate marker to evaluate the effect of donor-reactive CD4+memory T-helper cells on the 10-year risk of death-censored kidney graft failure in 190 donor/recipient combinations using the PIRCHE-II algorithm. The T-cell epitopes of the initial theoretical immunizing HLA and the donor HLA were estimated and the number of shared PIRCHE-II epitopes was calculated. We show that the natural logarithm-transformed PIRCHE-II overlap score, or Shared T-cell EPitopes (STEP) score, significantly associates with the 10-year risk of death-censored kidney graft failure, suggesting that the presence of pre-transplant donor-reactive CD4+memory T-helper cells might be a strong indicator for the risk of graft failure following kidney transplantation.",
+      "abstract": "CD4 + T-helper cells play an important role in alloimmune reactions following transplantation by stimulating humoral as well as cellular responses, which might lead to failure of the allograft. CD4 + memory T-helper cells from a previous immunizing event can potentially be reactivated by exposure to HLA mismatches that share T-cell epitopes with the initial immunizing HLA. Consequently, reactivity of CD4 + memory T-helper cells toward T-cell epitopes that are shared between immunizing HLA and donor HLA could increase the risk of alloimmunity following transplantation, thus affecting transplant outcome. In this study, the amount of T-cell epitopes shared between immunizing and donor HLA was used as a surrogate marker to evaluate the effect of donor-reactive CD4 + memory T-helper cells on the 10-year risk of death-censored kidney graft failure in 190 donor/recipient combinations using the PIRCHE-II algorithm. The T-cell epitopes of the initial theoretical immunizing HLA and the donor HLA were estimated and the number of shared PIRCHE-II epitopes was calculated. We show that the natural logarithm-transformed PIRCHE-II overlap score, or Shared T-cell EPitopes (STEP) score, significantly associates with the 10-year risk of death-censored kidney graft failure, suggesting that the presence of pre-transplant donor-reactive CD4 + memory T-helper cells might be a strong indicator for the risk of graft failure following kidney transplantation.",
       "authors": [
         {
           "name": "Emma T. M. Peereboom",
@@ -9630,7 +9656,27 @@
       "key": true,
       "impactFactor": 7,
       "impactFactorSource": "Configured manually",
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes",
+        "Humans",
+        "Graft vs Host Disease",
+        "HLA Antigens",
+        "Epitopes, T-Lymphocyte",
+        "Treatment Failure",
+        "Kidney Transplantation",
+        "Transplantation, Homologous",
+        "Retrospective Studies",
+        "Graft Rejection",
+        "Graft Survival",
+        "Adult",
+        "Aged",
+        "Middle Aged",
+        "Tissue Donors",
+        "Female",
+        "Male",
+        "Young Adult",
+        "Transplant Recipients"
+      ],
       "keywords": [
         "Epitope",
         "Immunology",
@@ -10510,8 +10556,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "National Marrow Donor Program",
-            "Institute of Bioinformatics"
+            "National Marrow Donor Program"
           ]
         },
         {
@@ -10519,9 +10564,7 @@
           "orcid": "https://orcid.org/0000-0002-3514-9812",
           "position": "middle",
           "corresponding": false,
-          "institutions": [
-            "Roche (Switzerland)"
-          ]
+          "institutions": []
         },
         {
           "name": "James Theodore Robinson",
@@ -11356,7 +11399,6 @@
           "institutions": [
             "Inserm",
             "Fédération Hospitalo-Universitaire, Paris Center for Microbiome Medicine",
-            "Japanese Society of Medical Oncology",
             "Hôpital Civil, Strasbourg",
             "Université de Strasbourg"
           ]
@@ -12041,9 +12083,7 @@
           "orcid": "https://orcid.org/0000-0002-8958-7447",
           "position": "middle",
           "corresponding": false,
-          "institutions": [
-            "University of Nebraska System"
-          ]
+          "institutions": []
         },
         {
           "name": "Sarina Ravens",
@@ -12379,13 +12419,13 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1016/s2352-3026(19)30208-x",
       "pmid": "31669248",
-      "pmcid": null,
+      "pmcid": "PMC6948919",
       "url": "https://europepmc.org/articles/PMC6948919",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC6948919",
       "bestOpenAccessUrl": "https://doi.org/10.1016/s2352-3026(19)30208-x",
       "openAlexId": "https://openalex.org/W2981360631",
       "openAlexUrl": "https://openalex.org/W2981360631",
-      "abstract": null,
+      "abstract": "Background The success of unrelated haemopoietic cell transplantation (HCT) is limited by graft-versus-host disease (GVHD), which is the main post-transplantation challenge when HLA-matched donors are unavailable. A sequence dimorphism in exon 1 of HLA-B gives rise to leader peptides containing methionine (Met; M) or threonine (Thr; T), which differentially influence natural killer and T-cell alloresponses. The main aim of the study was to evaluate the role of the leader dimorphism in GVHD after HLA-B-mismatched unrelated HCT. Methods We did a retrospective cohort study of 33 982 patients who received an unrelated HCT done in Australia, Europe, Japan, North America, and the UK between Jan 1, 1988, and Dec 31, 2016. Data were contributed by participants of the International Histocompatibility Working Group in Hematopoietic Cell Transplantation. All cases were included and there were no exclusion criteria. Multivariate regression models were used to assess risks associated with HLA-A, HLA-B, HLA-C, HLA-DRB1, and HLA-DQB1 mismatching. Among the 33 982 transplantations, the risks of GVHD associated with HLA-B M and T leaders were established in 17 100 (50·3%) HLA-matched and 1457 (4·3%) single HLA-B-mismatched transplantations using multivariate regression models. Leader frequencies were defined in 2 004 742 BeTheMatch US registry donors. Findings Between Jan 20, 2017, and March 11, 2019, we assessed 33 982 HCTs using multivariate regression models for the role of HLA mismatching on outcome. Median follow-up was 1841 days (IQR 909-2963). Mortality and GVHD increased with increasing numbers of HLA mismatches. A single HLA-B mismatch increased grade 3-4 acute GVHD (odds ratio [OR] 1·89, 95% CI 1·53-2·33; p Interpretation The HLA-B leader informs GVHD risk after HLA-B-mismatched unrelated HCT and differentiates high-risk HLA-B mismatches from those with lower risk. The leader of the matched allotype could be considered to be as important as the leader of the mismatched allotype for GVHD. Prospective identification of leader-matched donors is feasible for most patients in need of a HCT, and could lower GVHD and increase availability of HCT therapy. These findings are being independently validated and warrant further research in prospective trials. Funding The National Institutes of Health, USA.",
       "authors": [
         {
           "name": "Effie Wang Petersdorf",
@@ -13348,13 +13388,29 @@
       ],
       "volumeIssuePages": "vol. 7, no. 1, pp. e50-e60",
       "categories": [
+        "matching",
         "outcome"
       ],
-      "primaryCategoryLabel": "Outcome",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Graft vs Host Disease",
+        "HLA-B Antigens",
+        "Histocompatibility Testing",
+        "Hematopoietic Stem Cell Transplantation",
+        "Multivariate Analysis",
+        "Retrospective Studies",
+        "Histocompatibility",
+        "Exons",
+        "Adolescent",
+        "Adult",
+        "Middle Aged",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "Medicine",
         "Retrospective cohort study",
@@ -15695,9 +15751,7 @@
           "orcid": "https://orcid.org/0000-0002-4683-1323",
           "position": "middle",
           "corresponding": false,
-          "institutions": [
-            "Oregon Medical Research Center"
-          ]
+          "institutions": []
         },
         {
           "name": "Susan H. Hsu",
@@ -16609,9 +16663,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.3389/fimmu.2019.00880",
       "pmid": "31068946",
-      "pmcid": null,
+      "pmcid": "PMC6491737",
       "url": "https://europepmc.org/articles/PMC6491737",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC6491737",
       "bestOpenAccessUrl": "https://doi.org/10.3389/fimmu.2019.00880",
       "openAlexId": "https://openalex.org/W2942046843",
       "openAlexUrl": "https://openalex.org/W2942046843",
@@ -16744,7 +16798,8 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Erasmus MC Cancer Institute"
+            "Erasmus MC Cancer Institute",
+            "Daniel den Hoed Kliniek"
           ]
         },
         {
@@ -16779,7 +16834,25 @@
       "key": false,
       "impactFactor": 7,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "HLA Antigens",
+        "Epitopes",
+        "Hematopoietic Stem Cell Transplantation",
+        "Proportional Hazards Models",
+        "Transplantation Immunology",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Middle Aged",
+        "Child",
+        "Child, Preschool",
+        "Infant",
+        "Female",
+        "Male",
+        "Young Adult",
+        "Unrelated Donors"
+      ],
       "keywords": [
         "Human leukocyte antigen",
         "Epitope",
@@ -17598,18 +17671,14 @@
           "orcid": "",
           "position": "middle",
           "corresponding": false,
-          "institutions": [
-            "National Bank of Greece (Greece)"
-          ]
+          "institutions": []
         },
         {
           "name": "Amalia Dinou",
           "orcid": "https://orcid.org/0000-0003-4831-6939",
           "position": "middle",
           "corresponding": false,
-          "institutions": [
-            "National Bank of Greece (Greece)"
-          ]
+          "institutions": []
         },
         {
           "name": "Margareth Afonso Torres",
@@ -17681,18 +17750,14 @@
           "orcid": "https://orcid.org/0000-0002-4683-1323",
           "position": "middle",
           "corresponding": false,
-          "institutions": [
-            "University of Portland"
-          ]
+          "institutions": []
         },
         {
           "name": "Russell K. Martin",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
-          "institutions": [
-            "University of Portland"
-          ]
+          "institutions": []
         },
         {
           "name": "Chee Loong Saw",
@@ -17773,7 +17838,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Argentine Water and Sanitation (Argentina)"
+            "Favaloro Foundation"
           ]
         },
         {
@@ -17783,7 +17848,7 @@
           "corresponding": false,
           "institutions": [
             "Kuwait University",
-            "Argentine Water and Sanitation (Argentina)"
+            "Favaloro Foundation"
           ]
         },
         {
@@ -18004,18 +18069,14 @@
           "orcid": "https://orcid.org/0000-0002-0119-2134",
           "position": "middle",
           "corresponding": false,
-          "institutions": [
-            "BOE Technology Group (China)"
-          ]
+          "institutions": []
         },
         {
           "name": "Da-jiang Cao",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
-          "institutions": [
-            "BOE Technology Group (China)"
-          ]
+          "institutions": []
         },
         {
           "name": "Maarten T. Penning",
@@ -18042,8 +18103,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Fiona Stanley Hospital",
-            "Immungenetics (Germany)"
+            "Fiona Stanley Hospital"
           ]
         },
         {
@@ -19020,10 +19080,10 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1172/jci96107",
-      "pmid": null,
-      "pmcid": null,
+      "pmid": "30198907",
+      "pmcid": "PMC6159979",
       "url": "http://dx.doi.org/10.1172/jci96107",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC6159979",
       "bestOpenAccessUrl": "https://pure.eur.nl/en/publications/0ab43f94-a767-43e9-bfda-eb8acd44a6e4",
       "openAlexId": "https://openalex.org/W2892128713",
       "openAlexUrl": "https://openalex.org/W2892128713",
@@ -19198,7 +19258,21 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "CD8-Positive T-Lymphocytes",
+        "Humans",
+        "Chronic Disease",
+        "Inflammation",
+        "Immunologic Memory",
+        "Adolescent",
+        "Adult",
+        "Child",
+        "Child, Preschool",
+        "Infant",
+        "Female",
+        "Male",
+        "Programmed Cell Death 1 Receptor"
+      ],
       "keywords": [
         "Inflammation",
         "CD8",
@@ -19225,7 +19299,7 @@
           "score": 0.9990000128746033
         }
       ],
-      "citedByCount": 126,
+      "citedByCount": 127,
       "countsByYear": [
         {
           "year": 2026,
@@ -19253,7 +19327,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 18
+          "cited_by_count": 19
         },
         {
           "year": 2019,
@@ -19288,10 +19362,10 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/ajt.14709",
-      "pmid": null,
-      "pmcid": null,
+      "pmid": "29464832",
+      "pmcid": "PMC6175247",
       "url": "http://dx.doi.org/10.1111/ajt.14709",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC6175247",
       "bestOpenAccessUrl": "https://doi.org/10.1111/ajt.14709",
       "openAlexId": "https://openalex.org/W2789037519",
       "openAlexUrl": "https://openalex.org/W2789037519",
@@ -19709,7 +19783,28 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Kidney Failure, Chronic",
+        "Cadaver",
+        "Postoperative Complications",
+        "Isoantibodies",
+        "HLA Antigens",
+        "Prognosis",
+        "Kidney Transplantation",
+        "Donor Selection",
+        "Survival Rate",
+        "Risk Factors",
+        "Retrospective Studies",
+        "Follow-Up Studies",
+        "Graft Rejection",
+        "Graft Survival",
+        "Adult",
+        "Middle Aged",
+        "Living Donors",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "Medicine",
         "Donor specific antibodies",
@@ -20653,14 +20748,14 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.3389/fimmu.2018.00321",
-      "pmid": null,
-      "pmcid": null,
+      "pmid": "29556227",
+      "pmcid": "PMC5844930",
       "url": "http://dx.doi.org/10.3389/fimmu.2018.00321",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC5844930",
       "bestOpenAccessUrl": "https://doi.org/10.3389/fimmu.2018.00321",
       "openAlexId": "https://openalex.org/W2792653202",
       "openAlexUrl": "https://openalex.org/W2792653202",
-      "abstract": "Individual HLA mismatches may differentially impact graft survival after kidney transplantation. Therefore, there is a need for a reliable tool to define permissible HLA mismatches in kidney transplantation. We previously demonstrated that donor-derived Predicted Indirectly ReCognizable HLA Epitopes presented by recipient HLA class II (PIRCHE-II) play a role in de novo DSA formation after kidney transplantation. In the present Dutch multi-center study we evaluated the possible association between PIRCHE-II and kidney graft failure in 2,918 donor-recipient couples that were transplanted between 1995 and 2005. For these donors-recipients couples, PIRCHE-II numbers were related to graft survival in univariate and multivariable analyses. Adjusted for confounders, the natural logarithm of PIRCHE-II was associated with a higher risk for graft failure (HR:1.13, 95% CI:1.04-1.23, p=0.003). When analyzing a subgroup of patients who had their first transplantation, the hazard ratio of graft failure for ln(PIRCHE-II) was higher compared to the overall cohort (HR:1.22, 95% CI:1.10-1.34, p<0.001). PIRCHE-II demonstrated both early and late effects on graft failure in this subgroup. These data suggest that the PIRCHE-II may impact graft survival after kidney transplantation. Inclusion of PIRCHE-II in donor-selection criteria may eventually lead to an improved kidney graft survival.",
+      "abstract": "Individual HLA mismatches may differentially impact graft survival after kidney transplantation. Therefore, there is a need for a reliable tool to define permissible HLA mismatches in kidney transplantation. We previously demonstrated that donor-derived Predicted Indirectly ReCognizable HLA Epitopes presented by recipient HLA class II (PIRCHE-II) play a role in de novo donor-specific HLA antibodies formation after kidney transplantation. In the present Dutch multi-center study, we evaluated the possible association between PIRCHE-II and kidney graft failure in 2,918 donor-recipient couples that were transplanted between 1995 and 2005. For these donors-recipients couples, PIRCHE-II numbers were related to graft survival in univariate and multivariable analyses. Adjusted for confounders, the natural logarithm of PIRCHE-II was associated with a higher risk for graft failure [hazard ratio (HR): 1.13, 95% CI: 1.04-1.23, p = 0.003]. When analyzing a subgroup of patients who had their first transplantation, the HR of graft failure for ln(PIRCHE-II) was higher compared with the overall cohort (HR: 1.22, 95% CI: 1.10-1.34, p < 0.001). PIRCHE-II demonstrated both early and late effects on graft failure in this subgroup. These data suggest that the PIRCHE-II may impact graft survival after kidney transplantation. Inclusion of PIRCHE-II in donor-selection criteria may eventually lead to an improved kidney graft survival.",
       "authors": [
         {
           "name": "Kirsten Geneugelijk",
@@ -21092,7 +21187,28 @@
       "key": true,
       "impactFactor": 7,
       "impactFactorSource": "Configured manually",
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "HLA Antigens",
+        "Histocompatibility Testing",
+        "Kidney Transplantation",
+        "Donor Selection",
+        "Risk Factors",
+        "Retrospective Studies",
+        "Graft Rejection",
+        "Graft Survival",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Middle Aged",
+        "Child",
+        "Child, Preschool",
+        "Tissue Donors",
+        "Netherlands",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "Medicine",
         "Hazard ratio",
@@ -21588,7 +21704,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/ajt.14393",
-      "pmid": null,
+      "pmid": "28613392",
       "pmcid": null,
       "url": "https://doi.org/10.1111/ajt.14393",
       "fullTextUrl": null,
@@ -21699,7 +21815,30 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Kidney Failure, Chronic",
+        "Isoantibodies",
+        "Antigens",
+        "HLA Antigens",
+        "Epitopes",
+        "Kidney Function Tests",
+        "Glomerular Filtration Rate",
+        "Histocompatibility Testing",
+        "Prognosis",
+        "Kidney Transplantation",
+        "Transplantation, Homologous",
+        "Incidence",
+        "Risk Factors",
+        "Follow-Up Studies",
+        "Graft Rejection",
+        "Graft Survival",
+        "Middle Aged",
+        "Tissue Donors",
+        "Germany",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "Epitope",
         "Human leukocyte antigen",
@@ -24527,13 +24666,13 @@
       "typeLabel": "Journal-Article",
       "doi": "10.3389/fimmu.2016.00571",
       "pmid": "27999574",
-      "pmcid": null,
+      "pmcid": "PMC5138233",
       "url": "http://europepmc.org/abstract/med/27999574",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC5138233",
       "bestOpenAccessUrl": "https://doi.org/10.3389/fimmu.2016.00571",
       "openAlexId": "https://openalex.org/W2560630506",
       "openAlexUrl": "https://openalex.org/W2560630506",
-      "abstract": "Inherited paternal HLA antigens from the semi-allogeneic fetus may trigger maternal immune responses during pregnancy, leading to the production of child-specific HLA antibodies. The prevalence of these HLA antibodies increases with the number of successful pregnancies. In the present study we investigated the effect of a single prior miscarriage on HLA antibody formation during a subsequent successful pregnancy. Women with a successful pregnancy with one or more prior miscarriages (n=229) and women with a successful pregnancy without a prior miscarriage (n=58) and their children were HLA typed. HLA-antibody analyses were performed in these women to identify whether HLA antibodies were formed against mismatched HLA class-I antigens of the last child. The percentage of immunogenic antigens was significantly lower after a single successful pregnancy that was preceded by a single miscarriage (n=18 women) compared to a successful pregnancy that was preceded by a first successful pregnancy (n=62 women). Thus, our data suggest that a previous miscarriage has a different impact on child-specific HLA antibody formation during a subsequent successful pregnancy than a previous successful pregnancy. The lower immunogenicity in these women cannot be explained by reduced numbers of immunogenic B-cell and T-cell epitopes. In conclusion, our observations indicate that increasing gravidity is not related to an increased prevalence of HLA antibodies in a single successful pregnancy that was preceded by a single prior miscarriage.",
+      "abstract": "Inherited paternal HLA antigens from the semi-allogeneic fetus may trigger maternal immune responses during pregnancy, leading to the production of child-specific HLA antibodies. The prevalence of these HLA antibodies increases with the number of successful pregnancies. In the present study, we investigated the effect of a single prior miscarriage on HLA antibody formation during a subsequent successful pregnancy. Women with a successful pregnancy with one or more prior miscarriages ( n = 229) and women with a successful pregnancy without a prior miscarriage ( n = 58), and their children were HLA typed. HLA antibody analyses were performed in these women to identify whether HLA antibodies were formed against mismatched HLA class-I antigens of the last child. The percentage of immunogenic antigens was significantly lower after a single successful pregnancy that was preceded by a single miscarriage ( n = 18 women) compared to a successful pregnancy that was preceded by a first successful pregnancy ( n = 62 women). Thus, our data suggest that a previous miscarriage has a different impact on child-specific HLA antibody formation during a subsequent successful pregnancy than a previous successful pregnancy. The lower immunogenicity in these women cannot be explained by reduced numbers of immunogenic B-cell and T-cell epitopes. In conclusion, our observations indicate that increasing gravidity is not related to an increased prevalence of HLA antibodies in a single successful pregnancy that was preceded by a single prior miscarriage.",
       "authors": [
         {
           "name": "Kirsten Geneugelijk",
@@ -24595,7 +24734,7 @@
         "last",
         "corresponding"
       ],
-      "volumeIssuePages": "vol. 7, pp. 571-571",
+      "volumeIssuePages": "vol. 7, pp. 571",
       "categories": [
         "diagnostics"
       ],
@@ -24696,7 +24835,7 @@
       "bestOpenAccessUrl": "https://dspace.library.uu.nl/handle/1874/346561",
       "openAlexId": "https://openalex.org/W2324497054",
       "openAlexUrl": "https://openalex.org/W2324497054",
-      "abstract": null,
+      "abstract": "The IMGT/HLA database contains every publicly available HLA sequence. However, most of these HLA protein sequences are restricted to the alpha-1/alpha-2 domain for HLA class-I and alpha-1/beta-1 domain for HLA class-II. Nevertheless, also polymorphism outside these domains may play a role in alloreactivity after transplantation. Several computational algorithms that aim for predicting alloreactivity after transplantation, HLAMatchmaker and the PIRCHE algorithm, require a major or the whole part of the HLA protein sequence as input for their prediction. In this study we describe an automated homology-based nearest-neighbor method to extrapolate incomplete HLA protein sequences. To get insight in the reliability of our extrapolation method, we performed a 10-fold cross-validation. The majority of the amino acid positions of the individual HLA class-I and -II proteins were correctly predicted. Eplets as defined by HLAMatchmaker were located both at correctly predicted as well as at lower reliably predicted amino acid positions. Moreover, six out of seven completely sequenced HLA alleles with previously unknown exons sequences were in agreement with the extrapolated amino acid sequences. In conclusion, incomplete HLA sequences can be completed by a homology-based nearest-neighbor principle. Since this method is automated, future submitted incomplete HLA sequences can easily be extrapolated.",
       "authors": [
         {
           "name": "Kirsten Geneugelijk",
@@ -24740,14 +24879,26 @@
       ],
       "volumeIssuePages": "vol. 77, no. 11, pp. 1030-1036",
       "categories": [
+        "matching",
         "outcome",
         "diagnostics"
       ],
-      "primaryCategoryLabel": "Outcome",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "HLA Antigens",
+        "Histocompatibility Testing",
+        "Organ Transplantation",
+        "Cluster Analysis",
+        "Reproducibility of Results",
+        "Sequence Homology, Nucleic Acid",
+        "Databases, Genetic",
+        "Automation, Laboratory",
+        "High-Throughput Nucleotide Sequencing"
+      ],
       "keywords": [
         "Human leukocyte antigen",
         "Genetics",
@@ -25803,7 +25954,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.12860",
-      "pmid": null,
+      "pmid": "27534609",
       "pmcid": null,
       "url": "https://doi.org/10.1111/tan.12860",
       "fullTextUrl": null,
@@ -26229,14 +26380,29 @@
       ],
       "volumeIssuePages": "vol. 88, no. 3, pp. 110-119",
       "categories": [
+        "matching",
         "outcome",
         "diagnostics"
       ],
-      "primaryCategoryLabel": "Outcome",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Immune Sera",
+        "Isoantibodies",
+        "HLA Antigens",
+        "Reagent Kits, Diagnostic",
+        "Observer Variation",
+        "Histocompatibility Testing",
+        "Immunoassay",
+        "Kidney Transplantation",
+        "Sensitivity and Specificity",
+        "Reproducibility of Results",
+        "Alleles",
+        "Automation, Laboratory"
+      ],
       "keywords": [
         "Multiplex",
         "Bead",
@@ -26610,7 +26776,7 @@
       "bestOpenAccessUrl": "https://dspace.library.uu.nl/handle/1874/337738",
       "openAlexId": "https://openalex.org/W2463190799",
       "openAlexUrl": "https://openalex.org/W2463190799",
-      "abstract": "OBJECTIVES AND DESIGN: CD8+ cytotoxic T lymphocytes (CTL) are important in the control of HIV infection. Although CTL are thought to reduce the lifespan of productively infected cells, CD8+ T-cell depletion in simian immunodeficiency virus-infected rhesus-macaques showed no effect on the lifespan of productively infected cells. As CD8+ T-cell responses that successfully delay HIV disease progression occur only in a minority of HIV-infected individuals, we studied the hypothesis that the ability of CTL to reduce the lifespan of productively infected cells is limited to protective CTL responses only. METHODS: We correlated features of CD8+ T cells that are associated with control of HIV infection, namely restriction by protective human leukocyte antigen (HLA) alleles, and/or a broad, high or poly-functional Gag-specific CD8+ T-cell response, to the lifespan of productively infected cells in 36 HIV-infected individuals, by measuring their plasma viral load declines immediately after start of combined antiretroviral therapy. RESULTS: The average lifespan of productively HIV-infected cells varied greatly between individuals, from 1.01 to 3.68 days (median 1.82 days) but was not different between individuals with or without the protective HLA molecules B27 or B57 (P=0.76, median 1.94 and 1.79 days, respectively). Although the CD8+ T-cell response against HIV Gag was the dominant HIV-specific T-cell response, its magnitude (r=0.02, P = 0.5), breadth (r = 0.03, P = 0.4), and poly-functionality (r = 0.01, P = 0.8), did not correlate with the lifespan of productively HIV-infected cells. CONCLUSION: The features of CD8+ T-cell responses that have clearly been associated with control of HIV infection do not correlate with a reduced lifespan of productively infected cells in vivo. This suggests that protective CD8+ T cells exert their effect on target-cells before onset of productive infection, or via noncytolytic mechanisms.",
+      "abstract": "Objectives and design CD8+ cytotoxic T lymphocytes (CTL) are important in the control of HIV infection. Although CTL are thought to reduce the lifespan of productively infected cells, CD8+ T-cell depletion in simian immunodeficiency virus-infected rhesus-macaques showed no effect on the lifespan of productively infected cells. As CD8+ T-cell responses that successfully delay HIV disease progression occur only in a minority of HIV-infected individuals, we studied the hypothesis that the ability of CTL to reduce the lifespan of productively infected cells is limited to protective CTL responses only. Methods We correlated features of CD8+ T cells that are associated with control of HIV infection, namely restriction by protective human leukocyte antigen (HLA) alleles, and/or a broad, high or poly-functional Gag-specific CD8+ T-cell response, to the lifespan of productively infected cells in 36 HIV-infected individuals, by measuring their plasma viral load declines immediately after start of combined antiretroviral therapy. Results The average lifespan of productively HIV-infected cells varied greatly between individuals, from 1.01 to 3.68 days (median 1.82 days) but was not different between individuals with or without the protective HLA molecules B27 or B57 (P=0.76, median 1.94 and 1.79 days, respectively). Although the CD8+ T-cell response against HIV Gag was the dominant HIV-specific T-cell response, its magnitude (r=0.02, P = 0.5), breadth (r = 0.03, P = 0.4), and poly-functionality (r = 0.01, P = 0.8), did not correlate with the lifespan of productively HIV-infected cells. Conclusion The features of CD8+ T-cell responses that have clearly been associated with control of HIV infection do not correlate with a reduced lifespan of productively infected cells in vivo. This suggests that protective CD8+ T cells exert their effect on target-cells before onset of productive infection, or via noncytolytic mechanisms.",
       "authors": [
         {
           "name": "Hilde B. Spits",
@@ -26711,7 +26877,19 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes, Cytotoxic",
+        "Animals",
+        "Humans",
+        "HIV-1",
+        "HIV Infections",
+        "Anti-Retroviral Agents",
+        "Viral Load",
+        "Adult",
+        "Middle Aged",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "CTL*",
         "Cytotoxic T cell",
@@ -28230,10 +28408,10 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.3324/haematol.2014.109801",
-      "pmid": null,
-      "pmcid": null,
+      "pmid": "25150256",
+      "pmcid": "PMC4258743",
       "url": "https://doi.org/10.3324/haematol.2014.109801",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC4258743",
       "bestOpenAccessUrl": "https://doi.org/10.3324/haematol.2014.109801",
       "openAlexId": "https://openalex.org/W1974164935",
       "openAlexUrl": "https://openalex.org/W1974164935",
@@ -28338,7 +28516,20 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Hematologic Neoplasms",
+        "Minor Histocompatibility Antigens",
+        "Hematopoietic Stem Cell Transplantation",
+        "Transplantation, Homologous",
+        "Microarray Analysis",
+        "Gene Frequency",
+        "Haplotypes",
+        "Polymorphism, Single Nucleotide",
+        "Genome, Human",
+        "Genetic Variation",
+        "Genome-Wide Association Study"
+      ],
       "keywords": [
         "Minor histocompatibility antigen",
         "Histocompatibility",
@@ -28821,9 +29012,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1080/19381956.2015.1097025",
       "pmid": "26669207",
-      "pmcid": null,
+      "pmcid": "PMC5063064",
       "url": "http://europepmc.org/abstract/med/26669207",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC5063064",
       "bestOpenAccessUrl": "https://doi.org/10.1080/19381956.2015.1097025",
       "openAlexId": "https://openalex.org/W2268537810",
       "openAlexUrl": "https://openalex.org/W2268537810",
@@ -28898,7 +29089,21 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes",
+        "Humans",
+        "Graft vs Host Disease",
+        "Acute Disease",
+        "HLA Antigens",
+        "Epitopes",
+        "Hematopoietic Stem Cell Transplantation",
+        "Chimerism",
+        "Adult",
+        "Aged",
+        "Middle Aged",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "Immunology",
         "Epitope",
@@ -30354,7 +30559,7 @@
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W3025667196",
       "openAlexUrl": "https://openalex.org/W3025667196",
-      "abstract": null,
+      "abstract": "Minor histocompatibility (H) antigens crucially affect the outcome of human leukocyte antigen-matched allogeneic stem cell transplantation. The number of molecularly identified minor H antigens is rapidly increasing. In parallel, clinical implementation of minor H antigens for immunotherapy has gained significant interest. It is therefore timely to type stem cell transplant recipients and their donors for minor H antigens. Here, we summarize all the currently known methodologies for minor H antigen typing on the genomic and on the RNA level.",
       "authors": [
         {
           "name": "Eric Spierings",
@@ -30380,7 +30585,18 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Chromosomes, Human",
+        "Humans",
+        "DNA",
+        "Minor Histocompatibility Antigens",
+        "Blood Grouping and Crossmatching",
+        "Nucleic Acid Amplification Techniques",
+        "Polymerase Chain Reaction",
+        "Polymorphism, Restriction Fragment Length",
+        "Polymorphism, Single-Stranded Conformational",
+        "Transition Temperature"
+      ],
       "keywords": [
         "Minor histocompatibility antigen",
         "Typing",
@@ -31639,7 +31855,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1182/blood-2013-02-485722",
-      "pmid": null,
+      "pmid": "23744495",
       "pmcid": null,
       "url": "https://doi.org/10.1182/blood-2013-02-485722",
       "fullTextUrl": null,
@@ -31784,13 +32000,29 @@
       "volumeIssuePages": "vol. 121, no. 23, pp. 4809-4811",
       "categories": [
         "matching",
+        "outcome",
         "diagnostics"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Hematologic Diseases",
+        "Graft vs Host Disease",
+        "HLA Antigens",
+        "Prognosis",
+        "Stem Cell Transplantation",
+        "Incidence",
+        "Survival Rate",
+        "Follow-Up Studies",
+        "Birth Order",
+        "Sex Factors",
+        "Histocompatibility",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "Transplantation",
         "Stem cell",
@@ -31853,7 +32085,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1097/mpg.0b013e31827913f9",
-      "pmid": null,
+      "pmid": "23085892",
       "pmcid": null,
       "url": "https://doi.org/10.1097/mpg.0b013e31827913f9",
       "fullTextUrl": null,
@@ -31928,7 +32160,27 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Leukocytes",
+        "Humans",
+        "Celiac Disease",
+        "Genetic Predisposition to Disease",
+        "Protein Isoforms",
+        "HLA-DQ Antigens",
+        "Retrospective Studies",
+        "Cohort Studies",
+        "Prospective Studies",
+        "Alleles",
+        "Exons",
+        "Child",
+        "Netherlands",
+        "Female",
+        "Male",
+        "Genetic Association Studies",
+        "HLA-DQ beta-Chains",
+        "HLA-DQ alpha-Chains",
+        "Biomarkers"
+      ],
       "keywords": [
         "Human leukocyte antigen",
         "Medicine",
@@ -32831,10 +33083,10 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/iji.12022",
-      "pmid": null,
-      "pmcid": null,
+      "pmid": "23279968",
+      "pmcid": "PMC3887040",
       "url": "https://doi.org/10.1111/iji.12022",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC3887040",
       "bestOpenAccessUrl": "https://doi.org/10.1111/iji.12022",
       "openAlexId": "https://openalex.org/W1966911627",
       "openAlexUrl": "https://openalex.org/W1966911627",
@@ -33023,7 +33275,14 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Graft vs Host Disease",
+        "HLA Antigens",
+        "Hematopoietic Stem Cell Transplantation",
+        "Immunogenetics",
+        "Histocompatibility"
+      ],
       "keywords": [
         "Histocompatibility",
         "Human leukocyte antigen",
@@ -33701,7 +33960,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1016/j.bbmt.2011.10.038",
-      "pmid": null,
+      "pmid": "22062805",
       "pmcid": null,
       "url": "https://doi.org/10.1016/j.bbmt.2011.10.038",
       "fullTextUrl": null,
@@ -33826,13 +34085,27 @@
       "volumeIssuePages": "vol. 18, no. 3, pp. 381-387",
       "categories": [
         "outcome",
+        "diagnostics",
         "cellular"
       ],
       "primaryCategoryLabel": "Outcome",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes",
+        "Skin",
+        "Humans",
+        "Graft vs Host Disease",
+        "Microscopy, Confocal",
+        "Fluorescent Antibody Technique",
+        "Cryopreservation",
+        "Hematopoietic Stem Cell Transplantation",
+        "Adolescent",
+        "Child",
+        "Child, Preschool",
+        "Male"
+      ],
       "keywords": [
         "Medicine",
         "Biopsy",
@@ -34764,7 +35037,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1016/j.bbmt.2010.08.006",
-      "pmid": null,
+      "pmid": "20708701",
       "pmcid": null,
       "url": "https://doi.org/10.1016/j.bbmt.2010.08.006",
       "fullTextUrl": null,
@@ -34853,7 +35126,21 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Dendritic Cells",
+        "T-Lymphocytes, Cytotoxic",
+        "Skin",
+        "Humans",
+        "Skin Diseases",
+        "Graft vs Host Disease",
+        "Oligopeptides",
+        "Minor Histocompatibility Antigens",
+        "Immunotherapy",
+        "Lymphocyte Activation",
+        "Cell Movement",
+        "Models, Biological",
+        "In Vitro Techniques"
+      ],
       "keywords": [
         "Cytotoxic T cell",
         "Minor histocompatibility antigen",
@@ -34924,14 +35211,14 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1089/hum.2010.070",
-      "pmid": null,
+      "pmid": "20649484",
       "pmcid": null,
       "url": "https://doi.org/10.1089/hum.2010.070",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2025574606",
       "openAlexUrl": "https://openalex.org/W2025574606",
-      "abstract": "Graft-versus-host disease is still a major complication in stem-cell transplantation. In HLA-identical stem-cell transplantation, mismatches in minor histocompatibility antigens contribute to the development of graft-versus-host disease. As treatment of graft-versus-host disease with immunosuppressive drugs potentially also reduces the graft-versus-leukemia responses, antigen-specific tolerance induction may be used to reduce graft-versus-host disease while leaving the graft-versus-leukemia responses intact. In mouse models, induction of antigen-specific tolerance using IgG-antigen-transduced B cells can prevent and ameliorate autoimmunity. In this study, the principle of the in vivo animal model has been applied to a human in vitro model wherein induction of tolerance against the HLA class II-restricted male-specific minor histocompatibility antigen RPS4Y1 has been analyzed. T cells precultured in the presence of B cells expressing the IgG-coupled HY antigen showed reduced responsiveness selectively against the minor HY antigen RPS4Y1 in different in vitro protocols. These first observations serve as a basis for further studying and understanding the tolerizing potential of IgG constructs with human T cells. In this study, Dierselhuis et al. investigate the potential of using gene therapy to induce antigen-specific tolerance in humans. They use an in vitro culture system and demonstrate that transduction of female lymphocytes with a retroviral vector encoding an IgG-coupled HY antigen leads to tolerance against the minor HY antigen in different in vitro protocols.",
+      "abstract": "Graft-versus-host disease is still a major complication in stem-cell transplantation. In HLA-identical stem-cell transplantation, mismatches in minor histocompatibility antigens contribute to the development of graft-versus-host disease. As treatment of graft-versus-host disease with immunosuppressive drugs potentially also reduces the graft-versus-leukemia responses, antigen-specific tolerance induction may be used to reduce graft-versus-host disease while leaving the graft-versus-leukemia responses intact. In mouse models, induction of antigen-specific tolerance using IgG-antigen-transduced B cells can prevent and ameliorate autoimmunity. In this study, the principle of the in vivo animal model has been applied to a human in vitro model wherein induction of tolerance against the HLA class II-restricted male-specific minor histocompatibility antigen RPS4Y1 has been analyzed. T cells precultured in the presence of B cells expressing the IgG-coupled HY antigen showed reduced responsiveness selectively against the minor HY antigen RPS4Y1 in different in vitro protocols. These first observations serve as a basis for further studying and understanding the tolerizing potential of IgG constructs with human T cells.",
       "authors": [
         {
           "name": "Miranda P. Dierselhuis",
@@ -34987,7 +35274,25 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "B-Lymphocytes",
+        "T-Lymphocytes",
+        "Cell Line",
+        "Animals",
+        "Humans",
+        "Mice",
+        "Graft vs Host Disease",
+        "Immunoglobulin G",
+        "Recombinant Fusion Proteins",
+        "Histocompatibility Antigens Class II",
+        "Minor Histocompatibility Antigens",
+        "H-Y Antigen",
+        "Stem Cell Transplantation",
+        "Immune Tolerance",
+        "Female",
+        "Male",
+        "Genetic Therapy"
+      ],
       "keywords": [
         "Minor histocompatibility antigen",
         "Antigen",
@@ -35450,13 +35755,27 @@
       ],
       "volumeIssuePages": "vol. 113, no. 4, pp. 400-408",
       "categories": [
-        "other"
+        "cellular"
       ],
-      "primaryCategoryLabel": "Other",
+      "primaryCategoryLabel": "Cellular immunology",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Th1 Cells",
+        "CD8-Positive T-Lymphocytes",
+        "Animals",
+        "Humans",
+        "Mice",
+        "Mycobacterium Infections",
+        "Leprosy",
+        "Tuberculosis",
+        "Vaccines",
+        "Cytokines",
+        "Immunity, Active",
+        "Immunity, Cellular",
+        "CD4 Antigens"
+      ],
       "keywords": [
         "Immunology",
         "Pathological",
@@ -35903,7 +36222,21 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Hela Cells",
+        "Humans",
+        "Proteasome Endopeptidase Complex",
+        "Histocompatibility Antigens Class I",
+        "Crystallography, X-Ray",
+        "Amino Acid Sequence",
+        "Protein Structure, Tertiary",
+        "Protein Binding",
+        "Protein Transport",
+        "Alleles",
+        "Models, Molecular",
+        "Time Factors",
+        "Molecular Sequence Data"
+      ],
       "keywords": [
         "Steric effects",
         "Immunogenicity",
@@ -37043,7 +37376,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1007/s00347-006-1474-9",
-      "pmid": null,
+      "pmid": "17294157",
       "pmcid": null,
       "url": "https://doi.org/10.1007/s00347-006-1474-9",
       "fullTextUrl": null,
@@ -37094,13 +37427,25 @@
       ],
       "volumeIssuePages": "vol. 104, no. 3, pp. 210-212",
       "categories": [
-        "other"
+        "matching",
+        "outcome"
       ],
-      "primaryCategoryLabel": "Other",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Corneal Diseases",
+        "ABO Blood-Group System",
+        "HLA Antigens",
+        "Autoantigens",
+        "Histocompatibility Testing",
+        "Corneal Transplantation",
+        "Keratoplasty, Penetrating",
+        "Graft Rejection",
+        "Graft Survival"
+      ],
       "keywords": [
         "Medicine"
       ],
@@ -38653,14 +38998,14 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1016/s0140-6736(03)14191-8",
-      "pmid": null,
+      "pmid": "12944060",
       "pmcid": null,
       "url": "https://doi.org/10.1016/s0140-6736(03)14191-8",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2136948594",
       "openAlexUrl": "https://openalex.org/W2136948594",
-      "abstract": null,
+      "abstract": "Background Stem-cell grafts between HLA-identical siblings are less likely to succeed when there is a sex mismatch. This lack of success can be interpreted as enhanced activity directed against minor histocompatibility antigens encoded by the Y chromosome (H-Y). So far, in man, only cytotoxic T lymphocytes (CTLs) specific for several minor histocompatibility antigens have been reported. We aimed to identify and clarify the role of MHC class II-restricted H-Y-specific T-helper cells in these transplant settings. Methods H-Y-specific MHC class II-restricted CD4+ T cells were isolated from blood of a female patient who rejected an HLA-identical male stem-cell transplant. By molecular cloning of H-Y genes and functional T-helper experiments, we elucidated antigen specificity and the functional properties of these H-Y-specific T-helper cells. Findings CD4+ T-helper cells recognise the Y gene-encoded peptide VIKVNDTVQI presented by HLA-DRbeta3*0301. These T-helper cells mature dendritic cells and enhance expansion of minor histocompatibility antigen-specific MHC class I-restricted CD8+ CTLs. Interpretation Characterisation of an MHC class II-restricted H-Y epitope that evoked CD4+ T-helper responses adds a novel cellular component to the alloimmune response against Y chromosome-encoded minor histocompatibility antigens. This component completes the H-Y-directed alloimmune response and aids understanding of the poorer outcome of sex-mismatched transplants.",
       "authors": [
         {
           "name": "Eric Spierings",
@@ -38734,6 +39079,7 @@
       "volumeIssuePages": "vol. 362, no. 9384, pp. 610-615",
       "categories": [
         "matching",
+        "outcome",
         "diagnostics",
         "cellular"
       ],
@@ -38741,7 +39087,27 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes, Helper-Inducer",
+        "Chromosomes, Human, Y",
+        "Humans",
+        "Anemia, Aplastic",
+        "Histocompatibility Antigens Class II",
+        "H-Y Antigen",
+        "Epitopes, T-Lymphocyte",
+        "Stem Cell Transplantation",
+        "Epitope Mapping",
+        "Sex Factors",
+        "Transplantation Immunology",
+        "Graft Rejection",
+        "Minor Histocompatibility Loci",
+        "Genes, sry",
+        "Adult",
+        "Female",
+        "Male",
+        "Sex Determination Processes",
+        "CD4 Antigens"
+      ],
       "keywords": [
         "Minor histocompatibility antigen",
         "Major histocompatibility complex",
@@ -39231,7 +39597,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1182/blood.v99.8.3027",
-      "pmid": null,
+      "pmid": "11929796",
       "pmcid": null,
       "url": "https://doi.org/10.1182/blood.v99.8.3027",
       "fullTextUrl": null,
@@ -39338,13 +39704,33 @@
       "categories": [
         "matching",
         "outcome",
+        "diagnostics",
         "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "CD4-Positive T-Lymphocytes",
+        "T-Lymphocytes, Cytotoxic",
+        "Y Chromosome",
+        "Humans",
+        "Graft vs Host Disease",
+        "Oligopeptides",
+        "Proteins",
+        "Histocompatibility Antigens Class II",
+        "HLA-DQ Antigens",
+        "Minor Histocompatibility Antigens",
+        "Epitopes",
+        "Hematopoietic Stem Cell Transplantation",
+        "Epitope Mapping",
+        "Amino Acid Sequence",
+        "Female",
+        "Male",
+        "DEAD-box RNA Helicases",
+        "Genetic Linkage"
+      ],
       "keywords": [
         "Minor histocompatibility antigen",
         "Human leukocyte antigen",
@@ -39681,7 +40067,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.4049/jimmunol.166.10.5883",
-      "pmid": null,
+      "pmid": "11342602",
       "pmcid": null,
       "url": "https://doi.org/10.4049/jimmunol.166.10.5883",
       "fullTextUrl": null,
@@ -39752,14 +40138,33 @@
       ],
       "volumeIssuePages": "vol. 166, no. 10, pp. 5883-5888",
       "categories": [
+        "matching",
         "diagnostics",
         "cellular"
       ],
-      "primaryCategoryLabel": "Diagnostics",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Schwann Cells",
+        "Th1 Cells",
+        "Cells, Cultured",
+        "Clone Cells",
+        "Animals",
+        "Humans",
+        "Mice",
+        "Mice, Nude",
+        "Mycobacterium leprae",
+        "Leprosy",
+        "Antigens, Bacterial",
+        "HLA-D Antigens",
+        "Epitopes, T-Lymphocyte",
+        "Epitope Mapping",
+        "Immunophenotyping",
+        "Cytotoxicity, Immunologic",
+        "Antigen Presentation"
+      ],
       "keywords": [
         "Mycobacterium leprae",
         "Schwann cell",
