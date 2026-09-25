@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-09-24T09:21:22.904Z",
+  "generatedAt": "2026-09-25T09:40:40.555Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -639,7 +639,7 @@
         },
         {
           "name": "Marcia M. L. Kho",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-6313-5963",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -659,7 +659,7 @@
           ]
         },
         {
-          "name": "Karlijn A. M. I. van der Pant",
+          "name": "Karlijn A.M.I. van der Pant",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -718,7 +718,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -826,7 +826,7 @@
       "authors": [
         {
           "name": "Emma T. M. Peereboom",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-9656-8076",
           "position": "first",
           "corresponding": false,
           "institutions": [
@@ -846,7 +846,7 @@
         },
         {
           "name": "Kirsten Geneugelijk",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-1689-8383",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -856,7 +856,7 @@
         },
         {
           "name": "Arjan D. van Zuilen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -883,8 +883,8 @@
           ]
         },
         {
-          "name": "Jan Stephan F. Sanders",
-          "orcid": "",
+          "name": "Jan‐Stephan Sanders",
+          "orcid": "https://orcid.org/0000-0002-0904-3969",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -2125,7 +2125,7 @@
         },
         {
           "name": "Toshihiro Miyamoto",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-5941-4679",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -2467,11 +2467,11 @@
           "score": 0.9952999949455261
         }
       ],
-      "citedByCount": 6,
+      "citedByCount": 7,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -19299,7 +19299,7 @@
           "score": 0.9990000128746033
         }
       ],
-      "citedByCount": 127,
+      "citedByCount": 128,
       "countsByYear": [
         {
           "year": 2026,
@@ -19327,7 +19327,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 19
+          "cited_by_count": 20
         },
         {
           "year": 2019,
@@ -25788,7 +25788,7 @@
           ]
         },
         {
-          "name": "Gérard Socié",
+          "name": "Gerard P Socie",
           "orcid": "https://orcid.org/0000-0003-3819-8641",
           "position": "middle",
           "corresponding": false,
