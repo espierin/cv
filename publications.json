@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-09-26T09:24:15.908Z",
+  "generatedAt": "2026-09-27T10:03:23.428Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -624,7 +624,7 @@
           ]
         },
         {
-          "name": "Margriet F.C. de Jong",
+          "name": "Margriet F. C. de Jong",
           "orcid": "https://orcid.org/0000-0001-7347-4344",
           "position": "middle",
           "corresponding": false,
@@ -899,7 +899,7 @@
         },
         {
           "name": "Stephan J. L. Bakker",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-3356-6791",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -1419,11 +1419,11 @@
           "score": 0.09939999878406525
         }
       ],
-      "citedByCount": 1,
+      "citedByCount": 2,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         }
       ],
       "isOpenAccess": true,
@@ -2040,7 +2040,7 @@
         },
         {
           "name": "Tetsuya Eto",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2630-493X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -2139,7 +2139,7 @@
         },
         {
           "name": "Shuichi Taniguchi",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-7271-8674",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -3289,7 +3289,7 @@
         },
         {
           "name": "Kirsten Geneugelijk",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-1689-8383",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -3812,7 +3812,7 @@
           ]
         },
         {
-          "name": "Danial Mohammadi Senejohnny",
+          "name": "Danial Senejohnny",
           "orcid": "https://orcid.org/0000-0001-9063-8603",
           "position": "middle",
           "corresponding": false,
@@ -4346,7 +4346,7 @@
           ]
         },
         {
-          "name": "Danial Mohammadi Senejohnny",
+          "name": "Danial Senejohnny",
           "orcid": "https://orcid.org/0000-0001-9063-8603",
           "position": "middle",
           "corresponding": false,
@@ -5264,7 +5264,7 @@
         },
         {
           "name": "Kirsten Geneugelijk",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-1689-8383",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -6722,7 +6722,7 @@
         },
         {
           "name": "Tetsuya Eto",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-2630-493X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -6731,7 +6731,7 @@
         },
         {
           "name": "Hikaru Kobayashi",
-          "orcid": "https://orcid.org/0000-0001-6437-9337",
+          "orcid": "https://orcid.org/0009-0009-9143-2194",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -8639,7 +8639,7 @@
           "score": 0.11869999766349792
         }
       ],
-      "citedByCount": 54,
+      "citedByCount": 56,
       "countsByYear": [
         {
           "year": 2026,
@@ -8655,7 +8655,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 9
+          "cited_by_count": 11
         },
         {
           "year": 2022,
@@ -12989,7 +12989,7 @@
           "institutions": []
         },
         {
-          "name": "Brenda Gibson",
+          "name": "Brenda E. S. Gibson",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -22635,7 +22635,7 @@
           ]
         },
         {
-          "name": "Franka van Reekum",
+          "name": "Franka E. van Reekum",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -22680,8 +22680,8 @@
           ]
         },
         {
-          "name": "Jan-Stefan Sanders",
-          "orcid": "",
+          "name": "Jan‐Stephan Sanders",
+          "orcid": "https://orcid.org/0000-0002-0904-3969",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -25700,7 +25700,7 @@
         },
         {
           "name": "Bruno Lioure",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-0897-3416",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -29875,8 +29875,8 @@
           ]
         },
         {
-          "name": "JÃ ⁄ rgen Kuball",
-          "orcid": "",
+          "name": "Jurgen H. E. Kuball",
+          "orcid": "https://orcid.org/0000-0002-3914-7806",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -31205,7 +31205,7 @@
           ]
         },
         {
-          "name": "Anthony N. Warrens",
+          "name": "Anthony Ν. Warrens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -31285,7 +31285,7 @@
           "score": 0.9984999895095825
         }
       ],
-      "citedByCount": 10,
+      "citedByCount": 11,
       "countsByYear": [
         {
           "year": 2021,
@@ -31301,6 +31301,10 @@
         },
         {
           "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
           "cited_by_count": 1
         },
         {
@@ -34708,7 +34712,7 @@
         },
         {
           "name": "Debbie van Baarle",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-5463-818X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
