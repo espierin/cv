@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-09-30T10:33:46.733Z",
+  "generatedAt": "2026-10-01T11:00:24.785Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -152,20 +152,21 @@
       ],
       "volumeIssuePages": "pp. e71737",
       "categories": [
-        "other"
+        "outcome"
       ],
-      "primaryCategoryLabel": "Other",
+      "primaryCategoryLabel": "Outcome",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Immune system",
-        "Peripheral blood mononuclear cell",
-        "Downregulation and upregulation",
-        "Transcriptome",
-        "In vitro",
-        "Mechanical heart"
+        "immune evasion",
+        "lentiviral gene delivery",
+        "HLA downregulation",
+        "US2",
+        "allograft rejection",
+        "peripheral blood mononuclear cells",
+        "immune tolerance"
       ],
       "openAlexTopics": [
         {
@@ -318,14 +319,16 @@
         "Laboratories, Clinical"
       ],
       "keywords": [
-        "Staffing",
-        "Accreditation",
-        "Genotyping",
-        "Audit",
-        "Data collection",
-        "Data quality",
-        "Quality (philosophy)",
-        "Quality assurance"
+        "HLA typing",
+        "laboratory data management",
+        "data standards",
+        "data documentation",
+        "data validation",
+        "quality control",
+        "metadata",
+        "laboratory accreditation",
+        "histocompatibility",
+        "immunogenetics"
       ],
       "openAlexTopics": [
         {
@@ -480,13 +483,12 @@
         "Phenotype"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Transplantation",
-        "String (physics)",
-        "Context (archaeology)",
-        "Histocompatibility",
-        "Genotyping",
-        "Major histocompatibility complex"
+        "HLA phenotyping",
+        "HLA antibodies",
+        "histocompatibility testing",
+        "interoperability",
+        "clinical decision support",
+        "transplantation"
       ],
       "openAlexTopics": [
         {
@@ -770,12 +772,11 @@
         "Female"
       ],
       "keywords": [
-        "Prioritization",
-        "Matching (statistics)",
-        "Propensity score matching",
-        "Monte Carlo method",
-        "Kidney transplant",
-        "Kidney transplantation"
+        "organ allocation algorithms",
+        "highly sensitized patients",
+        "living donor kidney transplantation",
+        "transplant rates",
+        "Monte Carlo simulation"
       ],
       "openAlexTopics": [
         {
@@ -936,14 +937,11 @@
         "Male"
       ],
       "keywords": [
-        "Odds ratio",
-        "Serostatus",
-        "Kidney transplantation",
-        "Human leukocyte antigen",
-        "Cohort",
-        "Cytomegalovirus",
-        "Transplantation",
-        "Peptide"
+        "CMV serostatus",
+        "T cell-mediated rejection",
+        "kidney transplantation",
+        "HLA class I mismatch",
+        "alloreactivity"
       ],
       "openAlexTopics": [
         {
@@ -1144,7 +1142,9 @@
       "volumeIssuePages": "pp. 39-67",
       "categories": [
         "matching",
-        "diagnostics"
+        "outcome",
+        "diagnostics",
+        "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -1152,12 +1152,20 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Immune system",
-        "Acquired immune system",
-        "Immunity",
-        "Antigen",
-        "Transplantation",
-        "Major histocompatibility complex"
+        "adaptive immunity",
+        "T cells",
+        "B cells",
+        "antigen recognition",
+        "immune activation",
+        "immunological memory",
+        "antigen presentation",
+        "receptor diversity",
+        "class switch recombination",
+        "graft rejection",
+        "alloimmunization",
+        "transplantation",
+        "transfusion medicine",
+        "histocompatibility"
       ],
       "openAlexTopics": [
         {
@@ -1380,21 +1388,15 @@
         "Young Adult"
       ],
       "keywords": [
-        "Alloimmunity",
-        "Minor histocompatibility antigen",
-        "Immunology",
-        "Antigen",
-        "Human leukocyte antigen",
-        "Graft-versus-host disease",
-        "Histocompatibility",
-        "Hematopoietic stem cell transplantation",
-        "CD8",
-        "Transplantation",
-        "Cytotoxic T cell",
-        "Immune system",
-        "Biology",
-        "Major histocompatibility complex",
-        "Medicine"
+        "H-Y antigen",
+        "minor histocompatibility antigens",
+        "chronic graft-versus-host disease",
+        "acute graft-versus-host disease",
+        "relapse",
+        "HLA polymorphism",
+        "alloimmunity",
+        "progression-free survival",
+        "donor selection"
       ],
       "openAlexTopics": [
         {
@@ -1579,7 +1581,8 @@
       "volumeIssuePages": "vol. 106, no. 2, pp. e70374",
       "categories": [
         "matching",
-        "diagnostics"
+        "diagnostics",
+        "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -1601,15 +1604,16 @@
         "HLA-DQ beta-Chains"
       ],
       "keywords": [
-        "Pregnancy",
-        "Population",
-        "Human leukocyte antigen",
-        "Immunology",
-        "Medicine",
-        "Biology",
-        "Genetics",
-        "Antigen",
-        "Environmental health"
+        "HLA-DQB1",
+        "gestational hypertension",
+        "preeclampsia",
+        "hypertensive disorders of pregnancy",
+        "HLA-C",
+        "killer cell immunoglobulin-like receptors",
+        "HLA homozygosity",
+        "CD4+ T cell epitopes",
+        "HLA class II",
+        "placentation"
       ],
       "openAlexTopics": [
         {
@@ -1741,17 +1745,11 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Medicine",
-        "Panel reactive antibody",
-        "Human leukocyte antigen",
-        "Epitope",
-        "Kidney transplantation",
-        "Immunology",
-        "Transplantation",
-        "Antibody",
-        "Histocompatibility Testing",
-        "Antigen",
-        "Internal medicine"
+        "HLA sensitization",
+        "kidney transplantation",
+        "retransplantation",
+        "donor pool",
+        "immunosuppression"
       ],
       "openAlexTopics": [
         {
@@ -1903,20 +1901,10 @@
         "Memory T Cells"
       ],
       "keywords": [
-        "Epitope",
-        "Xenotransplantation",
-        "Human leukocyte antigen",
-        "Transplantation",
-        "Immunology",
-        "Biology",
-        "Antigen",
-        "Immune system",
-        "Major histocompatibility complex",
-        "T cell",
-        "Context (archaeology)",
-        "Virology",
-        "Medicine",
-        "Internal medicine"
+        "SLA",
+        "memory T cells",
+        "retransplantation",
+        "kidney transplantation"
       ],
       "openAlexTopics": [
         {
@@ -2188,18 +2176,16 @@
         "Young Adult"
       ],
       "keywords": [
-        "Immunogenicity",
-        "Epitope",
-        "Human leukocyte antigen",
-        "Immunology",
-        "Transplantation",
-        "Cord blood",
-        "Antigen",
-        "Medicine",
-        "Major histocompatibility complex",
-        "HLA-A",
-        "Biology",
-        "Internal medicine"
+        "cord blood transplantation",
+        "HLA mismatch",
+        "HLA-B",
+        "HLA class I epitopes",
+        "epitope binding affinity",
+        "immunogenicity",
+        "transplantation-related mortality",
+        "neutrophil engraftment",
+        "donor selection",
+        "prognostic factors"
       ],
       "openAlexTopics": [
         {
@@ -2416,8 +2402,7 @@
       "volumeIssuePages": "vol. 105, no. 5, pp. e70255",
       "categories": [
         "matching",
-        "outcome",
-        "diagnostics"
+        "outcome"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -2437,21 +2422,12 @@
         "Unrelated Donors"
       ],
       "keywords": [
-        "Medicine",
-        "Human leukocyte antigen",
-        "Population",
-        "Haplotype",
-        "Imputation (statistics)",
-        "Cord blood",
-        "Internal medicine",
-        "Genotype",
-        "Demography",
-        "Immunology",
-        "Environmental health",
-        "Missing data",
-        "Biology",
-        "Antigen",
-        "Genetics"
+        "unrelated donor search",
+        "HLA-matched unrelated donor",
+        "haplotype imputation",
+        "underserved populations",
+        "haematopoietic cell transplantation",
+        "rare alleles"
       ],
       "openAlexTopics": [
         {
@@ -2581,7 +2557,9 @@
       "volumeIssuePages": "vol. 16, pp. 1548934",
       "categories": [
         "matching",
-        "outcome"
+        "outcome",
+        "diagnostics",
+        "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": true,
@@ -2604,21 +2582,17 @@
         "Male"
       ],
       "keywords": [
-        "Epitope",
-        "Human leukocyte antigen",
-        "Transplantation",
-        "Kidney transplantation",
-        "Immunogenicity",
-        "Computational biology",
-        "Proportional hazards model",
-        "HLA-B",
-        "Histocompatibility",
-        "Immunology",
-        "Medicine",
-        "Computer science",
-        "Immune system",
-        "Antigen",
-        "Biology"
+        "kidney transplantation",
+        "HLA matching",
+        "molecular compatibility",
+        "T cell epitopes",
+        "B-cell epitopes",
+        "eplets",
+        "antibody-mediated rejection",
+        "graft survival",
+        "risk stratification",
+        "XGBoost",
+        "Cox proportional hazards model"
       ],
       "openAlexTopics": [
         {
@@ -2755,6 +2729,7 @@
       "volumeIssuePages": "vol. 167, pp. 104347",
       "categories": [
         "matching",
+        "outcome",
         "diagnostics"
       ],
       "primaryCategoryLabel": "Epitope matching",
@@ -2763,21 +2738,11 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Medicine",
-        "Obstetrics",
-        "Cohort",
-        "Pregnancy",
-        "Oocyte donation",
-        "Fetus",
-        "Cohort study",
-        "Human leukocyte antigen",
-        "Donation",
-        "Gynecology",
-        "Oocyte",
-        "Internal medicine",
-        "Immunology",
-        "Embryo",
-        "Biology"
+        "oocyte donation",
+        "hypertension complications",
+        "preeclampsia",
+        "HLA mismatch",
+        "pregnancy outcomes"
       ],
       "openAlexTopics": [
         {
@@ -2984,15 +2949,17 @@
       "selfAuthorPositions": [],
       "volumeIssuePages": "vol. 7, no. 5, pp. 12-13",
       "categories": [
-        "other"
+        "outcome"
       ],
-      "primaryCategoryLabel": "Other",
+      "primaryCategoryLabel": "Outcome",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Computer science"
+        "organ transplantation",
+        "prediction model",
+        "transplant outcomes"
       ],
       "openAlexTopics": [
         {
@@ -3169,7 +3136,8 @@
       "categories": [
         "matching",
         "outcome",
-        "diagnostics"
+        "diagnostics",
+        "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -3193,17 +3161,14 @@
         "Transplant Recipients"
       ],
       "keywords": [
-        "Epitope",
-        "Epitope mapping",
-        "Kidney transplant",
-        "Computational biology",
-        "Medicine",
-        "Immunology",
-        "Kidney",
-        "Biology",
-        "Antibody",
-        "Kidney transplantation",
-        "Internal medicine"
+        "de novo donor-specific antibodies",
+        "HLA class II epitopes",
+        "eplet mismatch",
+        "donor sensitization",
+        "kidney transplantation",
+        "acute cellular rejection",
+        "HLA matching",
+        "allograft rejection"
       ],
       "openAlexTopics": [
         {
@@ -3361,7 +3326,8 @@
       "volumeIssuePages": "vol. 104, no. 4, pp. e15723",
       "categories": [
         "matching",
-        "diagnostics"
+        "diagnostics",
+        "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -3383,15 +3349,12 @@
         "Live Birth"
       ],
       "keywords": [
-        "Epitope",
-        "Pregnancy",
-        "Human leukocyte antigen",
-        "Medicine",
-        "Obstetrics",
-        "Immunology",
-        "Biology",
-        "Genetics",
-        "Antigen"
+        "HLA class II",
+        "HLA antibodies",
+        "immunoglobulin therapy",
+        "T cell memory",
+        "live birth",
+        "maternal-fetal immune interaction"
       ],
       "openAlexTopics": [
         {
@@ -3550,7 +3513,8 @@
       "volumeIssuePages": "vol. 104, no. 4, pp. e15719",
       "categories": [
         "matching",
-        "outcome"
+        "outcome",
+        "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -3574,21 +3538,12 @@
         "Male"
       ],
       "keywords": [
-        "Peptide",
-        "Transplantation",
-        "Immunosuppression",
-        "Human leukocyte antigen",
-        "Kidney transplantation",
-        "Immunology",
-        "Medicine",
-        "Cytomegalovirus",
-        "Cohort",
-        "Hazard ratio",
-        "Internal medicine",
-        "Biology",
-        "Antigen",
-        "Herpesviridae",
-        "Biochemistry"
+        "cytomegalovirus",
+        "kidney transplantation",
+        "T cell-mediated rejection",
+        "CMV seropositivity",
+        "acute rejection",
+        "immunosuppression"
       ],
       "openAlexTopics": [
         {
@@ -3640,13 +3595,13 @@
       "typeLabel": "Journal-Article",
       "doi": "10.3389/fgene.2024.1444554",
       "pmid": "39385936",
-      "pmcid": null,
+      "pmcid": "PMC11461215",
       "url": "https://europepmc.org/articles/PMC11461215",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC11461215",
       "bestOpenAccessUrl": "https://doi.org/10.3389/fgene.2024.1444554",
       "openAlexId": "https://openalex.org/W4402815937",
       "openAlexUrl": "https://openalex.org/W4402815937",
-      "abstract": "Introduction: Modern histocompatibility algorithms depend on the comparison and analysis of high-resolution HLA protein sequences and structures, especially when considering epitope-based algorithms, which aim to model the interactions involved in antibody or T cell binding. HLA genotype imputation can be performed in the cases where only low/intermediate-resolution HLA genotype is available or if specific loci are missing, and by providing an individuals' race/ethnicity/ancestry information, imputation results can be more accurate. This study assesses the effect of imputing high-resolution genotypes on molecular mismatch scores under a variety of ancestry assumptions. Methods: We compared molecular matching scores from \"ground-truth\" high-resolution genotypes against scores from genotypes which are imputed from low-resolution genotypes. Analysis was focused on a simulated patient-donor dataset and confirmed using two real-world datasets, and deviations were aggregated based on various ancestry assumptions. Results: We observed that using multiple imputation generally results in lower error in molecular matching scores compared to single imputation, and that using the correct ancestry assumptions can reduce error introduced during imputation. Discussion: We conclude that for epitope analysis, imputation is a valuable and low-risk strategy, as long as care is taken regarding epitope analysis context, ancestry assumptions, and (multiple) imputation strategy.",
+      "abstract": "Introduction Modern histocompatibility algorithms depend on the comparison and analysis of high-resolution HLA protein sequences and structures, especially when considering epitope-based algorithms, which aim to model the interactions involved in antibody or T cell binding. HLA genotype imputation can be performed in the cases where only low/intermediate-resolution HLA genotype is available or if specific loci are missing, and by providing an individuals' race/ethnicity/ancestry information, imputation results can be more accurate. This study assesses the effect of imputing high-resolution genotypes on molecular mismatch scores under a variety of ancestry assumptions. Methods We compared molecular matching scores from \"ground-truth\" high-resolution genotypes against scores from genotypes which are imputed from low-resolution genotypes. Analysis was focused on a simulated patient-donor dataset and confirmed using two real-world datasets, and deviations were aggregated based on various ancestry assumptions. Results We observed that using multiple imputation generally results in lower error in molecular matching scores compared to single imputation, and that using the correct ancestry assumptions can reduce error introduced during imputation. Discussion We conclude that for epitope analysis, imputation is a valuable and low-risk strategy, as long as care is taken regarding epitope analysis context, ancestry assumptions, and (multiple) imputation strategy.",
       "authors": [
         {
           "name": "Benedict M. Matern",
@@ -3713,7 +3668,8 @@
       "volumeIssuePages": "vol. 15, pp. 1444554",
       "categories": [
         "matching",
-        "diagnostics"
+        "diagnostics",
+        "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -3721,18 +3677,10 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Haplotype",
-        "Imputation (statistics)",
-        "Genotype",
-        "Human leukocyte antigen",
-        "Genetics",
-        "Biology",
-        "Computational biology",
-        "Evolutionary biology",
-        "Statistics",
-        "Mathematics",
-        "Gene",
-        "Missing data"
+        "multiple imputation",
+        "epitope characterization",
+        "T cell epitopes",
+        "antibody epitopes"
       ],
       "openAlexTopics": [
         {
@@ -3787,7 +3735,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.15297",
-      "pmid": null,
+      "pmid": "38226401",
       "pmcid": null,
       "url": "http://dx.doi.org/10.1111/tan.15297",
       "fullTextUrl": null,
@@ -4235,22 +4183,27 @@
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
-      "keywords": [
-        "Medicine",
-        "Epitope",
-        "Antibody",
-        "Human leukocyte antigen",
-        "Kidney transplantation",
-        "Cohort",
-        "Donor specific antibodies",
+      "meshTerms": [
         "Kidney",
-        "Immunology",
-        "Internal medicine",
-        "Histocompatibility Testing",
-        "Transplantation",
-        "Kidney transplant",
-        "Antigen"
+        "Humans",
+        "Kidney Diseases",
+        "Antibodies",
+        "HLA Antigens",
+        "Epitopes",
+        "Kidney Transplantation",
+        "Graft Rejection",
+        "Graft Survival",
+        "Alleles",
+        "Tissue Donors"
+      ],
+      "keywords": [
+        "HLA antibodies",
+        "kidney transplantation",
+        "graft survival",
+        "deceased donor transplantation",
+        "early graft failure",
+        "antibody accessibility",
+        "pretransplant antibody screening"
       ],
       "openAlexTopics": [
         {
@@ -4785,23 +4738,30 @@
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Isoantibodies",
+        "HLA Antigens",
+        "Epitopes",
+        "Kidney Transplantation",
+        "Graft Rejection",
+        "Alleles",
+        "Tissue Donors",
+        "Clinical Relevance"
+      ],
       "keywords": [
-        "Epitope",
-        "Hazard ratio",
-        "Medicine",
-        "Human leukocyte antigen",
-        "Antibody",
-        "Donor specific antibodies",
-        "Kidney transplantation",
-        "Transplantation",
-        "Cohort",
-        "Clinical significance",
-        "Proportional hazards model",
-        "Antigen",
-        "Internal medicine",
-        "Immunology",
-        "Gastroenterology"
+        "donor-specific HLA antibodies",
+        "kidney transplantation",
+        "eplets",
+        "epitope-specific antibodies",
+        "graft survival",
+        "graft loss",
+        "HLA-B",
+        "HLA-DR",
+        "HLA-DQ",
+        "deceased donor transplantation",
+        "living donor transplantation",
+        "risk prediction model"
       ],
       "openAlexTopics": [
         {
@@ -4856,7 +4816,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.15260",
-      "pmid": null,
+      "pmid": "37853578",
       "pmcid": null,
       "url": "https://doi.org/10.1111/tan.15260",
       "fullTextUrl": null,
@@ -4896,24 +4856,25 @@
       ],
       "volumeIssuePages": "vol. 103, no. 1, pp. e15260",
       "categories": [
-        "diagnostics"
+        "matching"
       ],
-      "primaryCategoryLabel": "Diagnostics",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "HLA Antigens",
+        "Histocompatibility Testing",
+        "Kidney Transplantation",
+        "Amino Acid Sequence",
+        "Alleles",
+        "Tissue Donors"
+      ],
       "keywords": [
-        "Ellipsoid",
-        "Computational biology",
-        "Human leukocyte antigen",
-        "Computer science",
-        "Biology",
-        "Artificial intelligence",
-        "Mathematics",
-        "Genetics",
-        "Geology",
-        "Geodesy"
+        "kidney transplantation",
+        "deep neural network inference",
+        "web services"
       ],
       "openAlexTopics": [
         {
@@ -4975,7 +4936,7 @@
       "bestOpenAccessUrl": "https://dspace.library.uu.nl/handle/1874/453453",
       "openAlexId": "https://openalex.org/W4399917258",
       "openAlexUrl": "https://openalex.org/W4399917258",
-      "abstract": null,
+      "abstract": "To optimize outcomes in solid organ transplantation, the HLA genes are regularly compared and matched between the donor and recipient. However, in many cases a transplant cannot be fully matched, due to widespread variation across populations and the hyperpolymorphism of HLA alleles. Mismatches of the HLA molecules in transplanted tissue can be recognized by immune cells of the recipient, leading to immune response and possibly organ rejection. These adverse outcomes are reduced by analysis using epitope-focused models that consider the immune relevance of the mismatched HLA.PIRCHE, an acronym for Predicted Indirectly ReCognizable HLA Epitopes, aims to categorize and quantify HLA mismatches in a patient-donor pair by predicting HLA-derived T cell epitopes. Specifically, the algorithm predicts and counts the HLA-derived peptides that can be presented by the host HLA, known as indirectly-presented T cell epitopes. Looking at the immune-relevant epitopes within HLA allows a more biologically relevant understanding of immune response, and provides an expanded donor pool for a more refined matching strategy compared with allele-level matching. This PIRCHE algorithm is available for analysis of single transplantations, as well as bulk analysis for population studies and statistical analysis for comparison of probability of organ availability and risk profiles.",
       "authors": [
         {
           "name": "Matthias Niemann",
@@ -5008,20 +4969,29 @@
       ],
       "volumeIssuePages": "vol. 2809, pp. 171-192",
       "categories": [
-        "matching"
+        "matching",
+        "outcome"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "HLA Antigens",
+        "Epitopes, T-Lymphocyte",
+        "Histocompatibility Testing",
+        "Organ Transplantation",
+        "Graft Rejection",
+        "Alleles",
+        "Algorithms",
+        "Tissue Donors"
+      ],
       "keywords": [
-        "Solid organ",
-        "Organ transplantation",
-        "Transplantation",
-        "Medicine",
-        "Intensive care medicine",
-        "Internal medicine"
+        "solid organ transplantation",
+        "HLA mismatch",
+        "donor-recipient matching",
+        "organ availability"
       ],
       "openAlexTopics": [
         {
@@ -5150,13 +5120,13 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1159/000537789",
       "pmid": "38867810",
-      "pmcid": null,
+      "pmcid": "PMC11166409",
       "url": "https://doi.org/10.1159/000537789",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC11166409",
       "bestOpenAccessUrl": "https://doi.org/10.1159/000537789",
       "openAlexId": "https://openalex.org/W4393403761",
       "openAlexUrl": "https://openalex.org/W4393403761",
-      "abstract": "Introduction: Human leukocyte antigen (HLA)-DPB1 mismatches during hematopoietic stem cell transplantation (HSCT) with an unrelated donor result in an increased risk for the development of graft-versus-host disease (GvHD). The number of CD8+ T-cell epitopes available for indirect allorecognition as predicted by the PIRCHE algorithm has been shown to be associated with GvHD development. As a proof of principle, PIRCHE-I predictions for HLA-DPB1 mismatches were validated in vitro and in vivo. Methods: PIRCHE-I analysis was performed to identify HLA-DPB1-derived peptides that could theoretically bind to HLA-A*02:01. PIRCHE-I predictions for HLA-DPB1 mismatches were validated in vitro by investigating binding affinities of HLA-DPB1-derived peptides to the HLA-A*02:01 in a competition-based binding assay. To investigate the capacity of HLA-DPB1-derived peptides to elicit a T-cell response in vivo, mice were immunized with these peptides. T-cell alloreactivity was subsequently evaluated using an interferon-gamma ELISpot assay. Results: The PIRCHE-I algorithm identified five HLA-DPB1-derived peptides (RMCRHNYEL, YIYNREEFV, YIYNREELV, YIYNREEYA, and YIYNRQEYA) to be presented by HLA-A*02:01. Binding of these peptides to HLA-A*02:01 was confirmed in a competition-based peptide binding assay, all showing an IC50 value of 21 μm or lower. The peptides elicited an interferon-gamma response in vivo. Conclusion: Our results indicate that the PIRCHE-I algorithm can identify potential immunogenic HLA-DPB1-derived peptides present in recipients of an HLA-DPB1-mismatched donor. These combined in vitro and in vivo observations strengthen the validity of the PIRCHE-I algorithm to identify HLA-DPB1 mismatch-related GvHD development upon HSCT.",
+      "abstract": "Introduction Human leukocyte antigen (HLA)-DPB1 mismatches during hematopoietic stem cell transplantation (HSCT) with an unrelated donor result in an increased risk for the development of graft-versus-host disease (GvHD). The number of CD8 + T-cell epitopes available for indirect allorecognition as predicted by the PIRCHE algorithm has been shown to be associated with GvHD development. As a proof of principle, PIRCHE-I predictions for HLA-DPB1 mismatches were validated in vitro and in vivo. Methods PIRCHE-I analysis was performed to identify HLA-DPB1-derived peptides that could theoretically bind to HLA-A*02:01. PIRCHE-I predictions for HLA-DPB1 mismatches were validated in vitro by investigating binding affinities of HLA-DPB1-derived peptides to the HLA-A*02:01 in a competition-based binding assay. To investigate the capacity of HLA-DPB1-derived peptides to elicit a T-cell response in vivo, mice were immunized with these peptides. T-cell alloreactivity was subsequently evaluated using an interferon-gamma ELISpot assay. Results The PIRCHE-I algorithm identified five HLA-DPB1-derived peptides (RMCRHNYEL, YIYNREEFV, YIYNREELV, YIYNREEYA, and YIYNRQEYA) to be presented by HLA-A*02:01. Binding of these peptides to HLA-A*02:01 was confirmed in a competition-based peptide binding assay, all showing an IC 50 value of 21 μm or lower. The peptides elicited an interferon-gamma response in vivo. Conclusion Our results indicate that the PIRCHE-I algorithm can identify potential immunogenic HLA-DPB1-derived peptides present in recipients of an HLA-DPB1-mismatched donor. These combined in vitro and in vivo observations strengthen the validity of the PIRCHE-I algorithm to identify HLA-DPB1 mismatch-related GvHD development upon HSCT.",
       "authors": [
         {
           "name": "Emma T. M. Peereboom",
@@ -5215,7 +5185,7 @@
       "volumeIssuePages": "vol. 51, no. 3, pp. 131-139",
       "categories": [
         "matching",
-        "cellular"
+        "outcome"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -5223,21 +5193,15 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "ELISPOT",
-        "Allorecognition",
-        "T cell",
-        "Human leukocyte antigen",
-        "In vivo",
-        "CD8",
-        "Immunology",
-        "Epitope",
-        "Biology",
-        "Molecular biology",
-        "Transplantation",
-        "In vitro",
-        "Antigen",
-        "Immune system",
-        "Medicine"
+        "HLA-DPB1 mismatch",
+        "HLA-A*0201",
+        "peptide binding prediction",
+        "CTL epitopes",
+        "alloreactivity",
+        "graft-versus-host disease",
+        "unrelated donor hematopoietic stem cell transplantation",
+        "interferon-gamma response",
+        "indirect allorecognition"
       ],
       "openAlexTopics": [
         {
@@ -5409,16 +5373,20 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Medicine",
-        "Liver transplantation",
-        "Human leukocyte antigen",
-        "Transplantation",
-        "Meta-analysis",
-        "Internal medicine",
-        "Relative risk",
-        "Confidence interval",
-        "Immunology",
-        "Antigen"
+        "HLA matching",
+        "liver transplantation",
+        "HLA-C mismatch",
+        "acute rejection",
+        "chronic rejection",
+        "graft failure",
+        "graft survival",
+        "patient survival",
+        "HLA-DR",
+        "HLA-DQ",
+        "HLA-A",
+        "HLA-B",
+        "stem cell transplantation",
+        "immunosuppression"
       ],
       "openAlexTopics": [
         {
@@ -5519,7 +5487,6 @@
       "categories": [
         "matching",
         "outcome",
-        "diagnostics",
         "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
@@ -5528,21 +5495,12 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Epitope",
-        "Human leukocyte antigen",
-        "Allele",
-        "Matching (statistics)",
-        "Solvent",
-        "Kidney",
-        "Amino acid",
-        "Chemistry",
-        "Biology",
-        "Immunology",
-        "Genetics",
-        "Biochemistry",
-        "Antigen",
-        "Mathematics",
-        "Gene"
+        "kidney transplantation",
+        "graft survival prediction",
+        "HLA matching",
+        "solvent accessible surface",
+        "HLA class I",
+        "HLA class II"
       ],
       "openAlexTopics": [
         {
@@ -5651,14 +5609,10 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Ellipsoid",
-        "Characterization (materials science)",
-        "Immunology",
-        "Medicine",
-        "Geology",
-        "Materials science",
-        "Nanotechnology",
-        "Geodesy"
+        "human leukocyte antigen",
+        "HLA class I",
+        "HLA class II",
+        "antigen presentation"
       ],
       "openAlexTopics": [
         {
@@ -5864,15 +5818,12 @@
         "High-Throughput Nucleotide Sequencing"
       ],
       "keywords": [
-        "Allele",
-        "Human leukocyte antigen",
-        "Association (psychology)",
-        "Genetics",
-        "Biology",
-        "Computational biology",
-        "Gene",
-        "Antigen",
-        "Psychology"
+        "HLA nomenclature",
+        "novel HLA allele",
+        "next-generation sequencing",
+        "hematopoietic stem cell transplantation",
+        "donor matching",
+        "allele designations"
       ],
       "openAlexTopics": [
         {
@@ -6009,7 +5960,8 @@
       "volumeIssuePages": "vol. 101, no. 5, pp. 484-495",
       "categories": [
         "outcome",
-        "diagnostics"
+        "diagnostics",
+        "standards"
       ],
       "primaryCategoryLabel": "Outcome",
       "key": false,
@@ -6024,15 +5976,13 @@
         "Databases, Factual"
       ],
       "keywords": [
-        "Cloud computing",
-        "Data sharing",
-        "Computer science",
-        "World Wide Web",
-        "Software",
-        "Web application",
-        "Open data",
-        "Data science",
-        "Medicine"
+        "immunogenetics",
+        "data curation",
+        "data standards",
+        "antigenic determinants",
+        "open source software",
+        "web application",
+        "data quality"
       ],
       "openAlexTopics": [
         {
@@ -6224,10 +6174,9 @@
       ],
       "volumeIssuePages": "vol. 12, pp. e79016",
       "categories": [
-        "diagnostics",
         "cellular"
       ],
-      "primaryCategoryLabel": "Diagnostics",
+      "primaryCategoryLabel": "Cellular immunology",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
@@ -6240,21 +6189,14 @@
         "Arthritis, Juvenile"
       ],
       "keywords": [
-        "T-cell receptor",
-        "Immunology",
-        "Biology",
-        "Antigen",
-        "Immune system",
-        "Inflammation",
-        "Arthritis",
-        "T cell",
-        "Autoimmune disease",
-        "Autoimmunity",
-        "CD8",
-        "Disease",
-        "Antibody",
-        "Medicine",
-        "Pathology"
+        "juvenile idiopathic arthritis",
+        "regulatory T cells",
+        "T cell clones",
+        "T cell receptor repertoire",
+        "relapsing-remitting disease",
+        "T cell persistence",
+        "therapeutic target",
+        "autoimmune inflammation"
       ],
       "openAlexTopics": [
         {
@@ -6460,21 +6402,20 @@
         "Graft Rejection"
       ],
       "keywords": [
-        "Transplantation",
-        "Context (archaeology)",
-        "Cell",
-        "Identification (biology)",
-        "Single cell sequencing",
-        "Immune system",
-        "Computational biology",
-        "Biology",
-        "Flow cytometry",
-        "Organ transplantation",
-        "Immunology",
-        "Phenotype",
-        "Medicine",
-        "Genetics",
-        "Gene"
+        "solid organ transplantation",
+        "single-cell technologies",
+        "single-cell RNA sequencing",
+        "alloimmunity",
+        "allograft rejection",
+        "transplantation tolerance",
+        "immune cell subsets",
+        "alloreactive T cell clones",
+        "B cell clones",
+        "T cell receptor",
+        "B cell receptor",
+        "donor-derived immune cells",
+        "biomarker discovery",
+        "risk stratification"
       ],
       "openAlexTopics": [
         {
@@ -6709,8 +6650,7 @@
       "volumeIssuePages": "vol. 140, no. Supplement 1, pp. 893-894",
       "categories": [
         "matching",
-        "outcome",
-        "diagnostics"
+        "outcome"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -6718,18 +6658,19 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Transplantation",
-        "Human leukocyte antigen",
-        "Medicine",
-        "Immunology",
-        "Histocompatibility Testing",
-        "Cord blood",
-        "HLA-B Antigens",
-        "Epitope",
-        "Isoantibodies",
-        "Adverse effect",
-        "Internal medicine",
-        "Antigen"
+        "HLA mismatch",
+        "cord blood transplantation",
+        "HLA-B",
+        "epitope prediction",
+        "MHC class I binding affinity",
+        "alloimmunity",
+        "graft rejection",
+        "engraftment failure",
+        "donor selection",
+        "poor prognosis",
+        "graft-versus-host disease",
+        "graft-versus-leukemia effect",
+        "HLA-mismatched donors"
       ],
       "openAlexTopics": [
         {
@@ -6886,20 +6827,16 @@
         "Female"
       ],
       "keywords": [
-        "Epitope",
-        "Human leukocyte antigen",
-        "Transplantation",
-        "Antibody",
-        "Kidney transplantation",
-        "Immunology",
-        "Histocompatibility Testing",
-        "Pregnancy",
-        "Cohort",
-        "Antigen",
-        "Medicine",
-        "Biology",
-        "Internal medicine",
-        "Genetics"
+        "HLA antibodies",
+        "donor-specific antibodies",
+        "solvent accessibility",
+        "B-cell epitopes",
+        "kidney transplantation",
+        "pregnancy",
+        "alloimmunization",
+        "HLA class I",
+        "eplets",
+        "HLA mismatch"
       ],
       "openAlexTopics": [
         {
@@ -7025,17 +6962,13 @@
         "Antigen Presentation"
       ],
       "keywords": [
-        "Allorecognition",
-        "Medicine",
-        "Epitope",
-        "Human leukocyte antigen",
-        "Transplantation",
-        "Immunology",
-        "Kidney transplantation",
-        "T cell",
-        "Internal medicine",
-        "Antigen",
-        "Immune system"
+        "kidney transplantation",
+        "acute cellular rejection",
+        "vascular rejection",
+        "indirect antigen presentation",
+        "allorecognition",
+        "living donor kidney",
+        "recipient age"
       ],
       "openAlexTopics": [
         {
@@ -7127,17 +7060,9 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Epitope",
-        "Human leukocyte antigen",
-        "Transplantation",
-        "Antibody",
-        "Immunology",
-        "Cell",
-        "Biology",
-        "Medicine",
-        "Antigen",
-        "Genetics",
-        "Internal medicine"
+        "kidney transplantation",
+        "HLAMatchmaker",
+        "eplets"
       ],
       "openAlexTopics": [
         {
@@ -7312,21 +7237,15 @@
         "Algorithms"
       ],
       "keywords": [
-        "Medicine",
-        "Liver transplantation",
-        "Transplantation",
-        "Human leukocyte antigen",
-        "Proportional hazards model",
-        "Immunology",
-        "Internal medicine",
-        "Retrospective cohort study",
-        "Cohort",
-        "Propensity score matching",
-        "Disease",
-        "Liver disease",
-        "Logistic regression",
-        "Gastroenterology",
-        "Antigen"
+        "HLA matching",
+        "HLA mismatch",
+        "acute rejection",
+        "graft loss",
+        "recurrence",
+        "autoimmune liver disease",
+        "HLAMatchmaker",
+        "ischemic cholangiopathy",
+        "donor age"
       ],
       "openAlexTopics": [
         {
@@ -7430,7 +7349,7 @@
       "volumeIssuePages": "vol. 13, pp. 937587",
       "categories": [
         "matching",
-        "diagnostics"
+        "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -7447,19 +7366,17 @@
         "Deep Learning"
       ],
       "keywords": [
-        "Epitope",
-        "Human leukocyte antigen",
-        "Major histocompatibility complex",
-        "Allele",
-        "Computational biology",
-        "Biology",
-        "Allorecognition",
-        "Histocompatibility",
-        "Histocompatibility Testing",
-        "Epitope mapping",
-        "Genetics",
-        "Antigen",
-        "Gene"
+        "HLA matching",
+        "solvent accessibility",
+        "HLA class I",
+        "B-cell epitopes",
+        "T cell epitopes",
+        "allorecognition",
+        "solid organ transplantation",
+        "AlphaFold structure prediction",
+        "peptide binding prediction",
+        "antigenic determinants",
+        "snowflakes"
       ],
       "openAlexTopics": [
         {
@@ -7617,9 +7534,9 @@
       ],
       "volumeIssuePages": "vol. 139, no. 20, pp. 3009-3017",
       "categories": [
-        "diagnostics"
+        "outcome"
       ],
-      "primaryCategoryLabel": "Diagnostics",
+      "primaryCategoryLabel": "Outcome",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
@@ -7633,21 +7550,15 @@
         "HLA-DQ beta-Chains"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Transplantation",
-        "Hematopoietic stem cell transplantation",
-        "Immunology",
-        "HLA-DQ",
-        "Hematopoietic cell",
-        "Disease",
-        "Haematopoiesis",
-        "Biology",
-        "Medicine",
-        "Internal medicine",
-        "Stem cell",
-        "Antigen",
-        "Genetics",
-        "Allele"
+        "HLA-DQA1",
+        "HLA-DQB1",
+        "hematopoietic stem cell transplantation",
+        "HLA mismatch",
+        "relapse risk",
+        "disease-free survival",
+        "HLA-matched transplantation",
+        "autoimmune disease susceptibility",
+        "cancer"
       ],
       "openAlexTopics": [
         {
@@ -7744,20 +7655,19 @@
       "selfAuthorPositions": [],
       "volumeIssuePages": "vol. 99, no. 5, pp. 415-415",
       "categories": [
-        "other"
+        "matching",
+        "diagnostics"
       ],
-      "primaryCategoryLabel": "Other",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Citation",
-        "Library science",
-        "Computer science",
-        "Political science",
-        "Operations research",
-        "Engineering"
+        "immunogenetics",
+        "histocompatibility",
+        "hybrid conference",
+        "COVID-19 restrictions"
       ],
       "openAlexTopics": [
         {
@@ -8287,7 +8197,8 @@
       "volumeIssuePages": "vol. 28, no. 5, pp. 989-998",
       "categories": [
         "matching",
-        "outcome"
+        "outcome",
+        "diagnostics"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -8301,20 +8212,14 @@
         "Graft Survival"
       ],
       "keywords": [
-        "Hazard ratio",
-        "Human leukocyte antigen",
-        "Medicine",
-        "Transplantation",
-        "Major histocompatibility complex",
-        "Histocompatibility",
-        "Kidney transplantation",
-        "Internal medicine",
-        "Immunology",
-        "Cohort",
-        "Confidence interval",
-        "Histocompatibility Testing",
-        "Gastroenterology",
-        "Antigen"
+        "mica",
+        "histocompatibility antigens",
+        "kidney transplantation",
+        "donor-specific antibodies",
+        "antibody-mediated rejection",
+        "graft survival",
+        "HLA antibodies",
+        "MHC class I"
       ],
       "openAlexTopics": [
         {
@@ -8538,10 +8443,16 @@
         "Genetic Testing"
       ],
       "keywords": [
-        "Medicine",
-        "Genetics",
-        "Intensive care medicine",
-        "Internal medicine"
+        "end-stage renal disease",
+        "genetic testing",
+        "monogenic kidney disease",
+        "kidney transplant recipients",
+        "early diagnosis",
+        "renal biopsy",
+        "diagnostic yield",
+        "exome sequencing",
+        "gene panel",
+        "chronic kidney disease"
       ],
       "openAlexTopics": [
         {
@@ -8700,21 +8611,18 @@
         "Enzyme-Linked Immunospot Assay"
       ],
       "keywords": [
-        "T-cell receptor",
-        "Biology",
-        "Human leukocyte antigen",
-        "Immunology",
-        "Allele",
-        "Epitope",
-        "CD8",
-        "T cell",
-        "Antigen",
-        "HLA-B Antigens",
-        "Cytotoxic T cell",
-        "Genetics",
-        "Virology",
-        "Immune system",
-        "Gene"
+        "HIV infection",
+        "HLA-B27",
+        "HLA-B*57",
+        "protective HLA alleles",
+        "CD8+ T cells",
+        "T cell receptor repertoire",
+        "TCR diversity",
+        "CDR3 sequences",
+        "cross-reactivity",
+        "HIV disease progression",
+        "slow progressors",
+        "epitope-specific T cells"
       ],
       "openAlexTopics": [
         {
@@ -9079,11 +8987,13 @@
         "HLA-DRB4 Chains"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Immunology",
-        "Antibody",
-        "Antigen",
-        "Medicine"
+        "HLA epitopes",
+        "HLA-DRB1",
+        "HLA-DQ",
+        "HLA-DP",
+        "pregnancy",
+        "HLA antibodies",
+        "immunogenicity"
       ],
       "openAlexTopics": [
         {
@@ -9578,9 +9488,7 @@
       "volumeIssuePages": "vol. 12, pp. 784040",
       "categories": [
         "matching",
-        "outcome",
-        "diagnostics",
-        "cellular"
+        "outcome"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": true,
@@ -9608,21 +9516,11 @@
         "Transplant Recipients"
       ],
       "keywords": [
-        "Epitope",
-        "Immunology",
-        "Human leukocyte antigen",
-        "Transplantation",
-        "Alloimmunity",
-        "T cell",
-        "Antigen",
-        "Kidney transplantation",
-        "Cytotoxic T cell",
-        "Medicine",
-        "Immune system",
-        "Biology",
-        "Internal medicine",
-        "In vitro",
-        "Genetics"
+        "kidney transplantation",
+        "graft failure",
+        "HLA mismatch",
+        "alloimmunity",
+        "risk prediction"
       ],
       "openAlexTopics": [
         {
@@ -9980,13 +9878,12 @@
         "A549 Cells"
       ],
       "keywords": [
-        "Immunology",
-        "Biology",
-        "Immune system",
-        "Viremia",
-        "Transplantation",
-        "Medicine",
-        "Virus"
+        "KIR3DS1",
+        "HLA-F",
+        "natural killer cells",
+        "human adenovirus",
+        "immunotherapy",
+        "antiviral immunity"
       ],
       "openAlexTopics": [
         {
@@ -10161,15 +10058,13 @@
         "Cloud Computing"
       ],
       "keywords": [
-        "Epitope",
-        "Human leukocyte antigen",
-        "Population",
-        "Matching (statistics)",
-        "Computer science",
-        "Medicine",
-        "Immunology",
-        "Antigen",
-        "Pathology"
+        "kidney transplantation",
+        "organ allocation",
+        "HLA matching",
+        "deceased donor allocation",
+        "waiting lists",
+        "graft survival",
+        "kidney exchange"
       ],
       "openAlexTopics": [
         {
@@ -10360,20 +10255,13 @@
         "Male"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Allele",
-        "Uveitis",
-        "Haplotype",
-        "Genetics",
-        "Genotype",
-        "Locus (genetics)",
-        "HLA-B27",
-        "Medicine",
-        "Immunology",
-        "Population",
-        "Biology",
-        "Antigen",
-        "Gene"
+        "pediatric uveitis",
+        "HLA",
+        "juvenile idiopathic arthritis-associated uveitis",
+        "panuveitis",
+        "genetic susceptibility",
+        "amino acid substitutions",
+        "antigen presentation"
       ],
       "openAlexTopics": [
         {
@@ -10541,21 +10429,14 @@
         "Alleles"
       ],
       "keywords": [
-        "Genotyping",
-        "Human leukocyte antigen",
-        "Context (archaeology)",
-        "Immunogenetics",
-        "Computational biology",
-        "Metadata",
-        "Biology",
-        "Data sharing",
-        "Genetics",
-        "Computer science",
-        "Genotype",
-        "World Wide Web",
-        "Medicine",
-        "Gene",
-        "Antigen"
+        "HLA typing",
+        "reference sequences",
+        "HML",
+        "mica",
+        "MICB",
+        "data standards",
+        "consensus sequence",
+        "data interoperability"
       ],
       "openAlexTopics": [
         {
@@ -10781,18 +10662,12 @@
         "Male"
       ],
       "keywords": [
-        "Epitope",
-        "Allorecognition",
-        "Transplantation",
-        "Human leukocyte antigen",
-        "Antibody",
-        "Immunology",
-        "Antigen",
-        "Immune system",
-        "T cell",
-        "Biology",
-        "Medicine",
-        "Internal medicine"
+        "kidney transplantation",
+        "living donor kidney transplantation",
+        "memory CD4+ T cells",
+        "indirect allorecognition",
+        "HLA class II",
+        "risk prediction"
       ],
       "openAlexTopics": [
         {
@@ -11020,15 +10895,13 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Epitope",
-        "Human leukocyte antigen",
-        "Population",
-        "Matching (statistics)",
-        "Computer science",
-        "Medicine",
-        "Antigen",
-        "Immunology",
-        "Pathology"
+        "kidney transplantation",
+        "organ allocation",
+        "HLA matching",
+        "deceased donor kidney allocation",
+        "waiting lists",
+        "graft survival",
+        "kidney exchange"
       ],
       "openAlexTopics": [
         {
@@ -11194,7 +11067,8 @@
       "categories": [
         "matching",
         "outcome",
-        "diagnostics"
+        "diagnostics",
+        "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -11223,19 +11097,15 @@
         "Immunity, Humoral"
       ],
       "keywords": [
-        "Medicine",
-        "Transplantation",
-        "Histocompatibility Testing",
-        "Kidney transplantation",
-        "Human leukocyte antigen",
-        "Epitope",
-        "Donor specific antibodies",
-        "Cohort",
-        "Internal medicine",
-        "Oncology",
-        "Immunology",
-        "Antibody",
-        "Antigen"
+        "de novo donor-specific antibodies",
+        "kidney transplantation",
+        "living donor",
+        "HLA class II mismatch",
+        "HLA class I mismatch",
+        "T cell epitopes",
+        "B-cell epitopes",
+        "risk prediction",
+        "personalized immunosuppression"
       ],
       "openAlexTopics": [
         {
@@ -11736,21 +11606,18 @@
         "Retrospective Studies"
       ],
       "keywords": [
-        "Hazard ratio",
-        "Graft-versus-host disease",
-        "NKG2D",
-        "Medicine",
-        "Human leukocyte antigen",
-        "Immunology",
-        "Gastroenterology",
-        "Haplotype",
-        "Internal medicine",
-        "Incidence (geometry)",
-        "Transplantation",
-        "Allele",
-        "Biology",
-        "Gene",
-        "Confidence interval"
+        "MICB",
+        "graft-versus-host disease",
+        "cytomegalovirus infection",
+        "cytomegalovirus reactivation",
+        "unrelated donor hematopoietic stem cell transplantation",
+        "MHC class I",
+        "NKG2D ligands",
+        "immune evasion",
+        "donor selection",
+        "acute graft-versus-host disease",
+        "chronic graft-versus-host disease",
+        "overall survival"
       ],
       "openAlexTopics": [
         {
@@ -12075,7 +11942,8 @@
       ],
       "volumeIssuePages": "vol. 8, no. 4, pp. 530-543",
       "categories": [
-        "diagnostics"
+        "diagnostics",
+        "cellular"
       ],
       "primaryCategoryLabel": "Diagnostics",
       "key": false,
@@ -12101,17 +11969,15 @@
         "Triple Negative Breast Neoplasms"
       ],
       "keywords": [
-        "Receptor",
-        "Breast cancer",
-        "Medicine",
-        "Immunology",
-        "Cancer",
-        "Cancer research",
-        "Immunotherapy",
-        "Tumor-infiltrating lymphocytes",
-        "Biology",
-        "Immune system",
-        "Internal medicine"
+        "γδ T cells",
+        "tumor-infiltrating lymphocytes",
+        "breast cancer",
+        "T cell receptor",
+        "Vδ2 T cells",
+        "IL-17",
+        "pro-inflammatory phenotype",
+        "adoptive immunotherapy",
+        "engineered T cells"
       ],
       "openAlexTopics": [
         {
@@ -12239,21 +12105,12 @@
         "Tissue and Organ Procurement"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Epitope",
-        "Transplantation",
-        "Organ transplantation",
-        "Biology",
-        "Solid organ",
-        "Immunology",
-        "Allele",
-        "Histocompatibility Testing",
-        "Computational biology",
-        "Algorithm",
-        "Antigen",
-        "Genetics",
-        "Gene",
-        "Computer science"
+        "HLA epitopes",
+        "HLA mismatch",
+        "alloreactivity",
+        "solid organ transplantation",
+        "graft survival",
+        "HLA alleles"
       ],
       "openAlexTopics": [
         {
@@ -13312,17 +13169,12 @@
         "Male"
       ],
       "keywords": [
-        "Medicine",
-        "Retrospective cohort study",
-        "Graft-versus-host disease",
-        "Transplantation",
-        "Human leukocyte antigen",
-        "Immunology",
-        "Disease",
-        "Cohort",
-        "Oncology",
-        "Internal medicine",
-        "Antigen"
+        "graft-versus-host disease",
+        "HLA mismatch",
+        "acute graft-versus-host disease",
+        "HLA-A mismatch",
+        "HLA-C mismatch",
+        "mortality"
       ],
       "openAlexTopics": [
         {
@@ -14156,20 +14008,13 @@
         "rho Guanine Nucleotide Dissociation Inhibitor beta"
       ],
       "keywords": [
-        "Medicine",
-        "Hazard ratio",
-        "Antibody",
-        "Kidney transplantation",
-        "Transplantation",
-        "Autoantibody",
-        "Kidney",
-        "Internal medicine",
-        "Gastroenterology",
-        "Population",
-        "Confidence interval",
-        "Human leukocyte antigen",
-        "Immunology",
-        "Antigen"
+        "non-HLA antibodies",
+        "renal allograft survival",
+        "graft loss",
+        "deceased donor kidney transplantation",
+        "living donor kidney transplantation",
+        "autoantibodies",
+        "donor-specific antibodies"
       ],
       "openAlexTopics": [
         {
@@ -14742,16 +14587,12 @@
         "Male"
       ],
       "keywords": [
-        "Medicine",
-        "Human leukocyte antigen",
-        "Incidence (geometry)",
-        "Antigen",
-        "Cohort",
-        "Histocompatibility Testing",
-        "Cumulative incidence",
-        "Immunology",
-        "Internal medicine",
-        "Surgery"
+        "kidney transplantation",
+        "organ allocation",
+        "HLA sensitization",
+        "HLA mismatch",
+        "graft rejection",
+        "deceased donor transplantation"
       ],
       "openAlexTopics": [
         {
@@ -15301,21 +15142,15 @@
         "Immunosuppression Therapy"
       ],
       "keywords": [
-        "Medicine",
-        "Immunosuppression",
-        "Tacrolimus",
-        "Prednisolone",
-        "Internal medicine",
-        "Kidney transplantation",
-        "Gastroenterology",
-        "Mycophenolic acid",
-        "Transplantation",
-        "Cohort",
-        "Survival analysis",
-        "Panel reactive antibody",
-        "Urology",
-        "Kidney",
-        "Immunology"
+        "kidney transplantation",
+        "tacrolimus",
+        "cyclosporine",
+        "mycophenolate mofetil",
+        "prednisolone",
+        "graft survival",
+        "rejection-free survival",
+        "donor-specific antibodies",
+        "induction therapy"
       ],
       "openAlexTopics": [
         {
@@ -15814,21 +15649,13 @@
         "Data Accuracy"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Concordance",
-        "Genotyping",
-        "Typing",
-        "Biology",
-        "Immunogenetics",
-        "Genetics",
-        "Genotype",
-        "Allele",
-        "Allotype",
-        "HLA-B",
-        "HLA-B Antigens",
-        "Histocompatibility",
-        "Gene",
-        "Computational biology"
+        "HLA typing",
+        "next-generation sequencing",
+        "HLA class I",
+        "HLA class II",
+        "HLA-DRB3",
+        "concordance",
+        "exon polymorphism"
       ],
       "openAlexTopics": [
         {
@@ -16369,19 +16196,11 @@
         "Young Adult"
       ],
       "keywords": [
-        "Medicine",
-        "Human leukocyte antigen",
-        "Antibody",
-        "Kidney",
-        "Donor specific antibodies",
-        "Kidney transplantation",
-        "Antigen",
-        "Clinical significance",
-        "Panel reactive antibody",
-        "Kidney transplant",
-        "Immunology",
-        "Internal medicine",
-        "Gastroenterology"
+        "donor-specific HLA antibodies",
+        "renal allograft survival",
+        "deceased donor transplantation",
+        "pretransplant sensitization",
+        "HLA class I and II antibodies"
       ],
       "openAlexTopics": [
         {
@@ -16544,17 +16363,15 @@
         "Genetic Testing"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Typing",
-        "Multiplex",
-        "Medicine",
-        "Disease",
-        "Immunology",
-        "Bioinformatics",
-        "Internal medicine",
-        "Antigen",
-        "Biology",
-        "Genetics"
+        "celiac disease",
+        "HLA-DQ2.5",
+        "HLA-DQ2.2",
+        "HLA-DQ8",
+        "HLA-DQ7",
+        "multiplex ligation-dependent probe amplification",
+        "diagnostic screening",
+        "cost comparison",
+        "genetic risk markers"
       ],
       "openAlexTopics": [
         {
@@ -16775,7 +16592,7 @@
       "volumeIssuePages": "vol. 10, pp. 880",
       "categories": [
         "matching",
-        "diagnostics"
+        "outcome"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -16801,17 +16618,13 @@
         "Unrelated Donors"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Epitope",
-        "Hematopoietic cell",
-        "Immunology",
-        "Haematopoiesis",
-        "Biology",
-        "Computational biology",
-        "Genetics",
-        "Antibody",
-        "Antigen",
-        "Stem cell"
+        "HLA mismatch",
+        "hematopoietic stem cell transplantation",
+        "unrelated donor transplantation",
+        "HLA class I epitopes",
+        "HLA class II epitopes",
+        "overall survival",
+        "graft-versus-host disease"
       ],
       "openAlexTopics": [
         {
@@ -17340,19 +17153,13 @@
         "Tissue Donors"
       ],
       "keywords": [
-        "Cutoff",
-        "Human leukocyte antigen",
-        "Antigen",
-        "Medicine",
-        "Kidney",
-        "Receiver operating characteristic",
-        "Internal medicine",
-        "Proportional hazards model",
-        "Surgery",
-        "Gastroenterology",
-        "Urology",
-        "Immunology",
-        "Physics"
+        "single antigen bead assay",
+        "donor-specific HLA antibodies",
+        "signal-to-background ratio",
+        "renal allograft survival",
+        "deceased donor kidney transplantation",
+        "inter-assay variability",
+        "HLA antibodies"
       ],
       "openAlexTopics": [
         {
@@ -18178,18 +17985,15 @@
         "Consensus Statements as Topic"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Concordance",
-        "Genotyping",
-        "Typing",
-        "Genotype",
-        "Immunogenetics",
-        "Allele",
-        "HLA-C",
-        "Genetics",
-        "Biology",
-        "Gene",
-        "Antigen"
+        "proficiency testing",
+        "allele dropout",
+        "concordance",
+        "library preparation",
+        "HLA-DRB1",
+        "HLA-DQB1",
+        "HLA-DPA1",
+        "HLA-DPB1",
+        "HLA-DQA1"
       ],
       "openAlexTopics": [
         {
@@ -18298,7 +18102,6 @@
       "volumeIssuePages": "pp. 61-68",
       "categories": [
         "matching",
-        "diagnostics",
         "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
@@ -18307,16 +18110,15 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Major histocompatibility complex",
-        "Human leukocyte antigen",
-        "Histocompatibility",
-        "Minor histocompatibility antigen",
-        "Biology",
-        "Locus (genetics)",
-        "Genetics",
-        "Allele",
-        "Gene",
-        "Antigen"
+        "histocompatibility",
+        "major histocompatibility complex",
+        "human leukocyte antigen",
+        "HLA polymorphism",
+        "HLA alleles",
+        "tissue allografts",
+        "minor histocompatibility antigens",
+        "killer cell immunoglobulin-like receptors",
+        "HLA mismatch"
       ],
       "openAlexTopics": [
         {
@@ -18963,21 +18765,14 @@
         "Transplant Recipients"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Multiplex",
-        "Antigen",
-        "Transplantation",
-        "Antibody",
-        "Immunology",
-        "Medicine",
-        "Kidney transplantation",
-        "Panel reactive antibody",
-        "Histocompatibility Testing",
-        "Lung transplantation",
-        "Alloimmunity",
-        "Biology",
-        "Internal medicine",
-        "Bioinformatics"
+        "non-HLA antibodies",
+        "kidney transplantation",
+        "donor-specific antibodies",
+        "antibody screening",
+        "HaloTag",
+        "endothelial antigens",
+        "end-stage renal disease",
+        "solid organ transplantation"
       ],
       "openAlexTopics": [
         {
@@ -19210,10 +19005,9 @@
       ],
       "volumeIssuePages": "vol. 128, no. 10, pp. 4669-4681",
       "categories": [
-        "diagnostics",
         "cellular"
       ],
-      "primaryCategoryLabel": "Diagnostics",
+      "primaryCategoryLabel": "Cellular immunology",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
@@ -19233,16 +19027,16 @@
         "Programmed Cell Death 1 Receptor"
       ],
       "keywords": [
-        "Inflammation",
-        "CD8",
-        "Cytotoxic T cell",
-        "Immunology",
-        "Biology",
-        "T cell",
-        "Effector",
-        "Antigen",
-        "Immune system",
-        "Genetics"
+        "PD-1+CD8+ T cells",
+        "chronic inflammation",
+        "juvenile idiopathic arthritis",
+        "synovial fluid",
+        "clonal expansion",
+        "tissue-resident memory T cells",
+        "T cell exhaustion",
+        "T cell metabolism",
+        "autoreactive T cells",
+        "chronic inflammatory diseases"
       ],
       "openAlexTopics": [
         {
@@ -19767,16 +19561,15 @@
         "Male"
       ],
       "keywords": [
-        "Medicine",
-        "Donor specific antibodies",
-        "Human leukocyte antigen",
-        "Kidney transplant",
-        "Antibody",
-        "Kidney transplantation",
-        "Transplantation",
-        "Antigen",
-        "Surgery",
-        "Immunology"
+        "donor-specific HLA antibodies",
+        "kidney transplantation",
+        "living donor transplantation",
+        "deceased donor transplantation",
+        "graft survival",
+        "graft failure",
+        "HLA class I",
+        "HLA class II",
+        "pretransplant antibody screening"
       ],
       "openAlexTopics": [
         {
@@ -20278,20 +20071,14 @@
         "Transplant Recipients"
       ],
       "keywords": [
-        "Medicine",
-        "Contraindication",
-        "Hazard ratio",
-        "Antibody",
-        "Human leukocyte antigen",
-        "Kidney transplantation",
-        "Internal medicine",
-        "Confidence interval",
-        "Kidney",
-        "Gastroenterology",
-        "Immunology",
-        "Antigen",
-        "Urology",
-        "Pathology"
+        "donor-specific HLA antibodies",
+        "kidney transplantation",
+        "graft failure",
+        "graft survival",
+        "single antigen bead assay",
+        "complement-mediated rejection",
+        "complement-dependent cytotoxicity crossmatch",
+        "HLA antibodies"
       ],
       "openAlexTopics": [
         {
@@ -20443,9 +20230,10 @@
       ],
       "volumeIssuePages": "vol. 115, no. 15, pp. 259-265",
       "categories": [
+        "matching",
         "outcome"
       ],
-      "primaryCategoryLabel": "Outcome",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
@@ -20466,19 +20254,10 @@
         "Young Adult"
       ],
       "keywords": [
-        "Medicine",
-        "Cumulative incidence",
-        "Randomized controlled trial",
-        "Transplantation",
-        "Human leukocyte antigen",
-        "Surgery",
-        "Incidence (geometry)",
-        "Clinical endpoint",
-        "Clinical trial",
-        "Corneal transplantation",
-        "Internal medicine",
-        "Antigen",
-        "Immunology"
+        "corneal transplantation",
+        "graft rejection",
+        "rejection prophylaxis",
+        "HLA matching"
       ],
       "openAlexTopics": [
         {
@@ -20603,19 +20382,12 @@
         "Tissue Donors"
       ],
       "keywords": [
-        "Epitope",
-        "In silico",
-        "Human leukocyte antigen",
-        "Transplantation",
-        "Antigen",
-        "Immunology",
-        "Computational biology",
-        "Biology",
-        "Hematopoietic stem cell transplantation",
-        "Medicine",
-        "Genetics",
-        "Gene",
-        "Internal medicine"
+        "HLA epitopes",
+        "donor-recipient compatibility",
+        "indirect allorecognition",
+        "HLA mismatch",
+        "hematopoietic stem cell transplantation",
+        "solid organ transplantation"
       ],
       "openAlexTopics": [
         {
@@ -21162,20 +20934,14 @@
         "Male"
       ],
       "keywords": [
-        "Medicine",
-        "Hazard ratio",
-        "Kidney transplantation",
-        "Transplantation",
-        "Kidney",
-        "Internal medicine",
-        "Human leukocyte antigen",
-        "Proportional hazards model",
-        "Cohort",
-        "Urology",
-        "Gastroenterology",
-        "Immunology",
-        "Confidence interval",
-        "Antigen"
+        "kidney transplantation",
+        "graft failure",
+        "HLA mismatch",
+        "HLA class II epitopes",
+        "graft survival",
+        "donor selection",
+        "de novo DSA",
+        "HLA matching"
       ],
       "openAlexTopics": [
         {
@@ -21360,7 +21126,8 @@
       "categories": [
         "matching",
         "outcome",
-        "diagnostics"
+        "diagnostics",
+        "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -21372,21 +21139,15 @@
         "Histocompatibility Testing"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Epitope",
-        "Medicine",
-        "Transplantation",
-        "Typing",
-        "Matching (statistics)",
-        "Imputation (statistics)",
-        "Computational biology",
-        "Set (abstract data type)",
-        "Immunology",
-        "Computer science",
-        "Antigen",
-        "Genealogy",
-        "Genetics",
-        "Biology"
+        "HLA epitopes",
+        "kidney transplantation",
+        "donor-recipient matching",
+        "minor histocompatibility antigens",
+        "HLA-DQA1",
+        "HLA-DPA1",
+        "HLA-DPB1",
+        "stem cell transplantation",
+        "HLA typing"
       ],
       "openAlexTopics": [
         {
@@ -21794,21 +21555,12 @@
         "Male"
       ],
       "keywords": [
-        "Epitope",
-        "Human leukocyte antigen",
-        "Medicine",
-        "Kidney transplantation",
-        "Transplantation",
-        "Immunology",
-        "Histocompatibility Testing",
-        "Antigen",
-        "Antibody",
-        "Proportional hazards model",
-        "Incidence (geometry)",
-        "Histocompatibility",
-        "Isoantibodies",
-        "Internal medicine",
-        "Oncology"
+        "kidney transplantation",
+        "donor-recipient matching",
+        "indirect allorecognition",
+        "allograft survival",
+        "risk prediction",
+        "HLAMatchmaker"
       ],
       "openAlexTopics": [
         {
@@ -21982,17 +21734,15 @@
         "Intra-Articular Fractures"
       ],
       "keywords": [
-        "Medicine",
-        "Cochrane Library",
-        "Incidence (geometry)",
-        "Complication",
-        "Prospective cohort study",
-        "Surgery",
-        "Systematic review",
-        "Calcaneal fracture",
-        "MEDLINE",
-        "Calcaneus",
-        "Biology"
+        "calcaneal fractures",
+        "extended lateral approach",
+        "postoperative wound complications",
+        "surgical site infection",
+        "deep wound infection",
+        "superficial wound infection",
+        "regional variation",
+        "study quality",
+        "follow-up duration"
       ],
       "openAlexTopics": [
         {
@@ -22247,6 +21997,7 @@
       "volumeIssuePages": "vol. 52, no. 10, pp. 1378-1383",
       "categories": [
         "matching",
+        "outcome",
         "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
@@ -22273,19 +22024,16 @@
         "Allografts"
       ],
       "keywords": [
-        "Medicine",
-        "Minor histocompatibility antigen",
-        "Donor lymphocyte infusion",
-        "Immunology",
-        "Vaccination",
-        "Dendritic cell",
-        "Antigen",
-        "Multiple myeloma",
-        "CD8",
-        "Transplantation",
-        "Hematopoietic stem cell transplantation",
-        "Internal medicine",
-        "Major histocompatibility complex"
+        "minor histocompatibility antigens",
+        "dendritic cell vaccination",
+        "donor lymphocyte infusion",
+        "multiple myeloma",
+        "allogeneic stem cell transplantation",
+        "graft-versus-tumor effect",
+        "graft-versus-host disease",
+        "monocyte-derived dendritic cells",
+        "relapsed multiple myeloma",
+        "peptide-loaded dendritic cells"
       ],
       "openAlexTopics": [
         {
@@ -22409,8 +22157,7 @@
       ],
       "volumeIssuePages": "vol. 78, pp. 104",
       "categories": [
-        "outcome",
-        "diagnostics"
+        "outcome"
       ],
       "primaryCategoryLabel": "Outcome",
       "key": false,
@@ -22418,16 +22165,12 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Human leukocyte antigen",
-        "Genetics",
-        "Allele",
-        "Sequence database",
-        "Computational biology",
-        "Biology",
-        "Computer science",
-        "Mathematics",
-        "Gene",
-        "Antigen"
+        "HLA sequences",
+        "HLA class I",
+        "HLA class II",
+        "HLA mismatch",
+        "eplets",
+        "HLAMatchmaker"
       ],
       "openAlexTopics": [
         {
@@ -22831,7 +22574,8 @@
       "volumeIssuePages": "vol. 78, pp. 39",
       "categories": [
         "matching",
-        "outcome"
+        "outcome",
+        "diagnostics"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -22839,17 +22583,13 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Human leukocyte antigen",
-        "Kidney transplantation",
-        "Transplantation",
-        "Kidney",
-        "Medicine",
-        "Histocompatibility Testing",
-        "Survival analysis",
-        "Confounding",
-        "Internal medicine",
-        "Immunology",
-        "Antigen"
+        "HLA mismatch",
+        "kidney transplantation",
+        "renal allograft survival",
+        "graft failure",
+        "donor-specific HLA antibodies",
+        "HLA class II epitopes",
+        "donor selection"
       ],
       "openAlexTopics": [
         {
@@ -23111,19 +22851,17 @@
         "Single-Domain Antibodies"
       ],
       "keywords": [
-        "Immune system",
-        "Immunology",
-        "Inflammation",
-        "Humanized mouse",
-        "Autoimmunity",
-        "Major histocompatibility complex",
-        "Antibody",
-        "T cell",
-        "Medicine",
-        "Infiltration (HVAC)",
-        "Antigen",
-        "Biology",
-        "Pathology"
+        "graft-versus-host disease",
+        "immuno-PET",
+        "humanized mice",
+        "nanobodies",
+        "camelid antibodies",
+        "MHC class II",
+        "T cell activation",
+        "immune cell infiltration",
+        "hematopoietic stem cells",
+        "hair loss",
+        "blepharitis"
       ],
       "openAlexTopics": [
         {
@@ -23347,18 +23085,10 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Medicine",
-        "Human leukocyte antigen",
-        "Epitope",
-        "Matching (statistics)",
-        "Kidney transplant",
-        "Outcome (game theory)",
-        "Kidney transplantation",
-        "Immunology",
-        "Kidney",
-        "Internal medicine",
-        "Antigen",
-        "Pathology"
+        "kidney transplantation",
+        "HLA mismatch",
+        "allograft survival",
+        "donor sensitization"
       ],
       "openAlexTopics": [
         {
@@ -23558,8 +23288,7 @@
       "volumeIssuePages": "vol. 23, no. 3, pp. S107-S108",
       "categories": [
         "matching",
-        "outcome",
-        "diagnostics"
+        "outcome"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -23567,21 +23296,15 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Human leukocyte antigen",
-        "Medicine",
-        "Hematopoietic stem cell transplantation",
-        "Transplantation",
-        "Epitope",
-        "Immunology",
-        "Stem cell",
-        "Cohort",
-        "Histocompatibility",
-        "Internal medicine",
-        "Graft-versus-host disease",
-        "Oncology",
-        "Antigen",
-        "Biology",
-        "Genetics"
+        "HLA mismatch",
+        "unrelated donor hematopoietic stem cell transplantation",
+        "HLA class I",
+        "HLA class II",
+        "non-relapse mortality",
+        "overall survival",
+        "acute graft-versus-host disease",
+        "progression-free survival",
+        "donor selection"
       ],
       "openAlexTopics": [
         {
@@ -23782,20 +23505,15 @@
         "Male"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Medicine",
-        "Dendritic cell",
-        "Immunology",
-        "Antigen",
-        "Vaccination",
-        "Donor lymphocyte infusion",
-        "Immune system",
-        "Graft-versus-host disease",
-        "Multiple myeloma",
-        "Lymphocyte",
-        "Transplantation",
-        "Major histocompatibility complex",
-        "Internal medicine"
+        "multiple myeloma",
+        "donor lymphocyte infusion",
+        "dendritic cell vaccination",
+        "minor histocompatibility antigens",
+        "graft-versus-tumor effect",
+        "monocyte-derived dendritic cells",
+        "peptide loading",
+        "graft-versus-host disease",
+        "immunotherapy"
       ],
       "openAlexTopics": [
         {
@@ -24072,11 +23790,12 @@
         "Young Adult"
       ],
       "keywords": [
-        "Medicine",
-        "Transplantation",
-        "Cord blood",
-        "Demography",
-        "Internal medicine"
+        "cord blood transplantation",
+        "unrelated donor search",
+        "HLA matching",
+        "donor recruitment",
+        "haematopoietic cell transplantation",
+        "donor availability"
       ],
       "openAlexTopics": [
         {
@@ -24236,20 +23955,12 @@
         "White People"
       ],
       "keywords": [
-        "Epitope",
-        "Human leukocyte antigen",
-        "Transplantation",
-        "Matching (statistics)",
-        "Computational biology",
-        "Organ transplantation",
-        "Solid organ",
-        "Computer science",
-        "Immunology",
-        "Biology",
-        "Medicine",
-        "Antigen",
-        "Pathology",
-        "Internal medicine"
+        "solid organ transplantation",
+        "HLA haplotype frequencies",
+        "HLA-C",
+        "HLA-DQ",
+        "donor-recipient matching",
+        "HLAMatchmaker"
       ],
       "openAlexTopics": [
         {
@@ -24700,28 +24411,25 @@
       ],
       "volumeIssuePages": "vol. 7, pp. 571",
       "categories": [
+        "matching",
+        "outcome",
         "diagnostics"
       ],
-      "primaryCategoryLabel": "Diagnostics",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": 7,
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Pregnancy",
-        "Miscarriage",
-        "Human leukocyte antigen",
-        "Medicine",
-        "Antibody",
-        "Immunogenicity",
-        "Obstetrics",
-        "Antigen",
-        "Fetus",
-        "Immunology",
-        "Recurrent miscarriage",
-        "Immune system",
-        "Biology",
-        "Genetics"
+        "HLA antibodies",
+        "miscarriage",
+        "pregnancy",
+        "maternal immune response",
+        "HLA class I mismatch",
+        "immunogenicity",
+        "gravidity",
+        "HLA epitopes",
+        "pregnancy outcomes"
       ],
       "openAlexTopics": [
         {
@@ -24862,20 +24570,12 @@
         "High-Throughput Nucleotide Sequencing"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Genetics",
-        "Computational biology",
-        "Homology (biology)",
-        "Amino acid",
-        "Sequence database",
-        "Allele",
-        "Biology",
-        "Protein sequencing",
-        "Protein methods",
-        "Peptide sequence",
-        "Computer science",
-        "Gene",
-        "Antigen"
+        "nearest neighbor algorithm",
+        "HLA class I",
+        "HLA class II",
+        "eplets",
+        "exon sequences",
+        "IMGT/HLA Database"
       ],
       "openAlexTopics": [
         {
@@ -25090,20 +24790,16 @@
         "Glycated Hemoglobin"
       ],
       "keywords": [
-        "Medicine",
-        "Immunogenicity",
-        "Transplantation",
-        "Islet",
-        "Human leukocyte antigen",
-        "Antibody",
-        "Pancreas transplantation",
-        "Pancreas",
-        "Immunology",
-        "Internal medicine",
-        "Gastroenterology",
-        "Antigen",
-        "Insulin",
-        "Kidney transplantation"
+        "HLA antibodies",
+        "donor-specific antibodies",
+        "islet transplantation",
+        "pancreas transplantation",
+        "HLA mismatch",
+        "HLA class II",
+        "graft survival",
+        "insulin independence",
+        "graft rejection",
+        "eplet mismatch"
       ],
       "openAlexTopics": [
         {
@@ -25766,6 +25462,7 @@
       "volumeIssuePages": "vol. 128, no. 15, pp. 1979-1986",
       "categories": [
         "matching",
+        "outcome",
         "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
@@ -25798,19 +25495,16 @@
         "Allografts"
       ],
       "keywords": [
-        "Major histocompatibility complex",
-        "Human leukocyte antigen",
-        "Immunology",
-        "Incidence (geometry)",
-        "Transplantation",
-        "Histocompatibility",
-        "Histocompatibility Testing",
-        "Medicine",
-        "Mica",
-        "Biology",
-        "Antigen",
-        "Internal medicine",
-        "Mathematics"
+        "mica",
+        "graft-versus-host disease",
+        "unrelated donor hematopoietic stem cell transplantation",
+        "HLA mismatch",
+        "NKG2D",
+        "acute graft-versus-host disease",
+        "chronic graft-versus-host disease",
+        "relapse",
+        "graft-versus-leukemia effect",
+        "donor selection"
       ],
       "openAlexTopics": [
         {
@@ -26346,21 +26040,12 @@
         "Automation, Laboratory"
       ],
       "keywords": [
-        "Multiplex",
-        "Bead",
-        "Human leukocyte antigen",
-        "Antibody",
-        "Context (archaeology)",
-        "Reagent",
-        "Antigen",
-        "Molecular biology",
-        "Detection limit",
-        "Chromatography",
-        "Chemistry",
-        "Immunology",
-        "Medicine",
-        "Biology",
-        "Materials science"
+        "HLA antibodies",
+        "HLA antibody screening",
+        "reagent cost reduction",
+        "inter-assay variability",
+        "single antigen bead assay",
+        "mean absolute relative difference"
       ],
       "openAlexTopics": [
         {
@@ -26580,10 +26265,9 @@
       ],
       "volumeIssuePages": "vol. 127, no. 1, pp. 91-101",
       "categories": [
-        "diagnostics",
         "cellular"
       ],
-      "primaryCategoryLabel": "Diagnostics",
+      "primaryCategoryLabel": "Cellular immunology",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
@@ -26610,17 +26294,16 @@
         "Real-Time Polymerase Chain Reaction"
       ],
       "keywords": [
-        "Transplantation",
-        "Stem cell",
-        "Immunology",
-        "T-cell receptor",
-        "Biology",
-        "Autoimmunity",
-        "Medicine",
-        "T cell",
-        "Immune system",
-        "Genetics",
-        "Internal medicine"
+        "autologous stem cell transplantation",
+        "regulatory T cells",
+        "autoimmune disease",
+        "proteoglycan-induced arthritis",
+        "juvenile idiopathic arthritis",
+        "juvenile dermatomyositis",
+        "immune reconstitution",
+        "immune tolerance",
+        "Foxp3",
+        "Treg therapy"
       ],
       "openAlexTopics": [
         {
@@ -26835,21 +26518,14 @@
         "Male"
       ],
       "keywords": [
-        "CTL*",
-        "Cytotoxic T cell",
-        "CD8",
-        "Immunology",
-        "Biology",
-        "Human leukocyte antigen",
-        "Simian immunodeficiency virus",
-        "Virology",
-        "T cell",
-        "Viral load",
-        "Lentivirus",
-        "Virus",
-        "Immune system",
-        "Antigen",
-        "Viral disease"
+        "HIV-1 infection",
+        "CD8+ cytotoxic T lymphocytes",
+        "HLA restriction",
+        "HLA-B27",
+        "HLA-B*57",
+        "T cell polyfunctionality",
+        "antiretroviral therapy",
+        "viral load decline"
       ],
       "openAlexTopics": [
         {
@@ -26865,8 +26541,12 @@
           "score": 0.00930000003427267
         }
       ],
-      "citedByCount": 8,
+      "citedByCount": 9,
       "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2024,
           "cited_by_count": 1
@@ -27011,19 +26691,17 @@
         "Male"
       ],
       "keywords": [
-        "Medicine",
-        "Human leukocyte antigen",
-        "Oncology",
-        "Transplantation",
-        "Hazard ratio",
-        "Internal medicine",
-        "Graft-versus-host disease",
-        "Cord blood",
-        "Immunology",
-        "Malignancy",
-        "Disease",
-        "Antigen",
-        "Confidence interval"
+        "unrelated cord blood transplantation",
+        "HLA mismatch",
+        "HLA class I epitopes",
+        "HLA class II epitopes",
+        "graft-versus-tumor effect",
+        "graft-versus-host disease",
+        "leukemia relapse",
+        "non-relapse mortality",
+        "donor selection",
+        "pediatric hematologic malignancies",
+        "disease-free survival"
       ],
       "openAlexTopics": [
         {
@@ -27358,7 +27036,9 @@
       ],
       "volumeIssuePages": "vol. 126, no. 23, pp. 4313-4313",
       "categories": [
-        "outcome"
+        "outcome",
+        "diagnostics",
+        "cellular"
       ],
       "primaryCategoryLabel": "Outcome",
       "key": false,
@@ -27366,20 +27046,21 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Fludarabine",
-        "Medicine",
-        "Transplantation",
-        "Immunology",
-        "Graft-versus-host disease",
-        "Stem cell",
-        "Immune system",
-        "Alemtuzumab",
-        "Hematopoietic stem cell transplantation",
-        "Internal medicine",
-        "Gastroenterology",
-        "Cyclophosphamide",
-        "Chemotherapy",
-        "Biology"
+        "allogeneic stem cell transplantation",
+        "purifying selection",
+        "anti-TCR antibodies",
+        "matched related donor",
+        "unrelated donor",
+        "graft-versus-host disease",
+        "immune reconstitution",
+        "natural killer cells",
+        "γδ T cells",
+        "mycophenolic acid",
+        "conditioning regimen",
+        "hematologic malignancies",
+        "relapse",
+        "infection",
+        "chimerism"
       ],
       "openAlexTopics": [
         {
@@ -27543,17 +27224,12 @@
         "HLA-DRB1 Chains"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Medicine",
-        "Epitope",
-        "Immunology",
-        "Antibody",
-        "HLA-A",
-        "Pregnancy",
-        "Histocompatibility",
-        "Antigen",
-        "Genetics",
-        "Biology"
+        "HLA antibodies",
+        "pregnancy",
+        "HLA-DRB1",
+        "HLA class II epitopes",
+        "HLA class I",
+        "alloantibody formation"
       ],
       "openAlexTopics": [
         {
@@ -27849,7 +27525,8 @@
       "volumeIssuePages": "vol. 29, no. 9, pp. 1839-1846",
       "categories": [
         "outcome",
-        "diagnostics"
+        "diagnostics",
+        "cellular"
       ],
       "primaryCategoryLabel": "Outcome",
       "key": false,
@@ -27885,19 +27562,15 @@
         "Biomarkers"
       ],
       "keywords": [
-        "Medicine",
-        "Biomarker",
-        "Internal medicine",
-        "Myeloid leukemia",
-        "Mesenchymal stem cell",
-        "Clinical trial",
-        "Gastroenterology",
-        "Prospective cohort study",
-        "Hematology",
-        "Immunology",
-        "Oncology",
-        "Pathology",
-        "Biology"
+        "acute graft-versus-host disease",
+        "steroid-refractory GVHD",
+        "mesenchymal stem cells",
+        "biomarkers",
+        "ST2",
+        "mortality prediction",
+        "T cell response",
+        "overall survival",
+        "stem cell transplantation"
       ],
       "openAlexTopics": [
         {
@@ -28140,21 +27813,15 @@
         "Male"
       ],
       "keywords": [
-        "Epitope",
-        "CD8",
-        "Biology",
-        "Immunology",
-        "Human leukocyte antigen",
-        "Cytotoxic T cell",
-        "T cell",
-        "Hematopoietic stem cell transplantation",
-        "Graft-versus-host disease",
-        "Transplantation",
-        "Stem cell",
-        "Haematopoiesis",
-        "Immune system",
-        "Antigen",
-        "Medicine"
+        "cutaneous graft-versus-host disease",
+        "pediatric allogeneic hematopoietic stem cell transplantation",
+        "HLA mismatch",
+        "sex mismatch",
+        "unrelated donor",
+        "CD4+ T cells",
+        "CD8+ T cells",
+        "T cell epitopes",
+        "risk factors"
       ],
       "openAlexTopics": [
         {
@@ -28291,8 +27958,7 @@
       "volumeIssuePages": "vol. 21, no. 2, pp. S350-S351",
       "categories": [
         "matching",
-        "outcome",
-        "diagnostics"
+        "outcome"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -28300,17 +27966,13 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Medicine",
-        "Human leukocyte antigen",
-        "Leukemia",
-        "Graft-versus-host disease",
-        "Disease",
-        "Immunology",
-        "Selection (genetic algorithm)",
-        "Transplantation",
-        "Oncology",
-        "Antigen",
-        "Internal medicine"
+        "unrelated cord blood transplantation",
+        "HLA mismatch",
+        "donor selection",
+        "graft-versus-leukemia effect",
+        "graft-versus-host disease",
+        "hematologic malignancies",
+        "HLA epitopes"
       ],
       "openAlexTopics": [
         {
@@ -28466,21 +28128,11 @@
         "Genome-Wide Association Study"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Histocompatibility",
-        "Human leukocyte antigen",
-        "Biology",
-        "Major histocompatibility complex",
-        "Genome",
-        "Identification (biology)",
-        "Antigen",
-        "Transplantation",
+        "minor histocompatibility antigens",
         "1000 Genomes Project",
-        "Computational biology",
-        "Minor allele frequency",
-        "Histocompatibility Testing",
-        "Genetics",
-        "Immunology"
+        "HLA-DP4",
+        "hematologic malignancies",
+        "cancer immunotherapy targets"
       ],
       "openAlexTopics": [
         {
@@ -28659,21 +28311,16 @@
         "HLA-DRB1 Chains"
       ],
       "keywords": [
-        "Medicine",
-        "Human leukocyte antigen",
-        "Corneal transplantation",
-        "Transplantation",
-        "Clinical endpoint",
-        "Clinical trial",
-        "Adverse effect",
-        "Histocompatibility",
-        "Surgery",
-        "Randomized controlled trial",
-        "Corneal Transplant",
-        "Ophthalmology",
-        "Antigen",
-        "Internal medicine",
-        "Immunology"
+        "corneal transplantation",
+        "penetrating keratoplasty",
+        "HLA matching",
+        "histocompatibility matching",
+        "graft rejection",
+        "endothelial graft rejection",
+        "donor selection",
+        "immunosuppression",
+        "Descemet membrane endothelial keratoplasty",
+        "graft failure"
       ],
       "openAlexTopics": [
         {
@@ -28829,7 +28476,9 @@
       ],
       "volumeIssuePages": "vol. 20, no. 11, pp. 1705-1710",
       "categories": [
-        "matching"
+        "matching",
+        "outcome",
+        "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -28849,13 +28498,13 @@
         "Unrelated Donors"
       ],
       "keywords": [
-        "Medicine",
-        "Epitope",
-        "Human leukocyte antigen",
-        "Computational biology",
-        "Immunology",
-        "Antigen",
-        "Biology"
+        "HLA-DPB1 mismatch",
+        "acute graft-versus-host disease",
+        "hematopoietic stem cell transplantation",
+        "unrelated donor",
+        "HLA class I epitopes",
+        "HLA class II epitopes",
+        "T cell epitopes"
       ],
       "openAlexTopics": [
         {
@@ -29017,8 +28666,7 @@
       "volumeIssuePages": "vol. 5, no. 3-4, pp. 94-98",
       "categories": [
         "matching",
-        "outcome",
-        "diagnostics"
+        "outcome"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -29040,20 +28688,12 @@
         "Male"
       ],
       "keywords": [
-        "Immunology",
-        "Epitope",
-        "Human leukocyte antigen",
-        "Graft-versus-host disease",
-        "Haematopoiesis",
-        "Hematopoietic stem cell transplantation",
-        "Transplantation",
-        "Disease",
-        "Stem cell",
-        "Biology",
-        "Medicine",
-        "Antigen",
-        "Genetics",
-        "Internal medicine"
+        "acute graft-versus-host disease",
+        "donor T-cell chimerism",
+        "mixed chimerism",
+        "complete chimerism",
+        "HLA-DPB1",
+        "allo-HSCT"
       ],
       "openAlexTopics": [
         {
@@ -29146,6 +28786,7 @@
       "volumeIssuePages": "vol. 84, no. 4, pp. 374-360",
       "categories": [
         "matching",
+        "outcome",
         "diagnostics",
         "cellular"
       ],
@@ -29164,20 +28805,17 @@
         "Allografts"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Immunology",
-        "Antigen",
-        "Histocompatibility",
-        "Immune system",
-        "Transplantation",
-        "Hematopoietic stem cell transplantation",
-        "Human leukocyte antigen",
-        "Biology",
-        "Stem cell",
-        "Major histocompatibility complex",
-        "Medicine",
-        "Genetics",
-        "Internal medicine"
+        "minor histocompatibility antigens",
+        "alloimmunity",
+        "graft-versus-host disease",
+        "graft-versus-leukemia effect",
+        "hematopoietic stem cell transplantation",
+        "HLA matching",
+        "immunogenetics",
+        "solid organ transplantation",
+        "allogeneic transplantation",
+        "hematologic malignancies",
+        "immunotherapy"
       ],
       "openAlexTopics": [
         {
@@ -29624,7 +29262,9 @@
       "volumeIssuePages": "vol. 31, no. 4, pp. 184-190",
       "categories": [
         "matching",
-        "outcome"
+        "outcome",
+        "diagnostics",
+        "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -29647,16 +29287,19 @@
         "Waiting Lists"
       ],
       "keywords": [
-        "Medicine",
-        "Dialysis",
-        "Kidney transplantation",
-        "Transplantation",
-        "Kidney",
-        "Human leukocyte antigen",
-        "Antigen",
-        "Intensive care medicine",
-        "Internal medicine",
-        "Immunology"
+        "kidney transplantation",
+        "organ allocation",
+        "HLA matching",
+        "HLA antibodies",
+        "non-HLA antibodies",
+        "T cell epitopes",
+        "B-cell epitopes",
+        "Fc receptors",
+        "graft survival",
+        "waiting lists",
+        "deceased donor",
+        "end-stage renal disease",
+        "computer simulation"
       ],
       "openAlexTopics": [
         {
@@ -29796,31 +29439,21 @@
       ],
       "volumeIssuePages": "vol. 5, pp. 210",
       "categories": [
-        "matching",
-        "outcome",
-        "diagnostics"
+        "outcome"
       ],
-      "primaryCategoryLabel": "Epitope matching",
+      "primaryCategoryLabel": "Outcome",
       "key": false,
       "impactFactor": 7,
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Human leukocyte antigen",
-        "Immunology",
-        "Allele",
-        "Epitope",
-        "Biology",
-        "HLA-A",
-        "Transplantation",
-        "Hematopoietic stem cell transplantation",
-        "Immune system",
-        "Antigen",
-        "HLA-C",
-        "HLA-B Antigens",
-        "Genetics",
-        "Stem cell",
-        "Medicine"
+        "HLA-C mismatch",
+        "alloreactivity",
+        "acute graft-versus-host disease",
+        "hematopoietic stem cell transplantation",
+        "HLA class I",
+        "HLA class II",
+        "donor selection"
       ],
       "openAlexTopics": [
         {
@@ -30039,7 +29672,8 @@
       ],
       "volumeIssuePages": "vol. 16, no. 4, pp. S13",
       "categories": [
-        "outcome"
+        "outcome",
+        "cellular"
       ],
       "primaryCategoryLabel": "Outcome",
       "key": false,
@@ -30047,20 +29681,16 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Medicine",
-        "Gastroenterology",
-        "Internal medicine",
-        "Adverse effect",
-        "Bone marrow",
-        "Immune system",
-        "Graft-versus-host disease",
-        "Refractory (planetary science)",
-        "Platelet",
-        "Mesenchymal stem cell",
-        "Immunology",
-        "Disease",
-        "Pathology",
-        "Biology"
+        "acute graft-versus-host disease",
+        "steroid-refractory GVHD",
+        "mesenchymal stem cells",
+        "hematopoietic stem cell transplantation",
+        "T cell response",
+        "overall survival",
+        "gastrointestinal GVHD",
+        "skin GVHD",
+        "liver GVHD",
+        "cytokines"
       ],
       "openAlexTopics": [
         {
@@ -30204,8 +29834,7 @@
       "volumeIssuePages": "vol. 20, no. 2, pp. S141-S142",
       "categories": [
         "matching",
-        "outcome",
-        "diagnostics"
+        "outcome"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -30213,18 +29842,12 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Human leukocyte antigen",
-        "Medicine",
-        "Epitope",
-        "Hematopoietic stem cell transplantation",
-        "Immunology",
-        "Transplantation",
-        "In silico",
-        "Internal medicine",
-        "Antigen",
-        "Genetics",
-        "Biology",
-        "Gene"
+        "HLA mismatch",
+        "hematopoietic stem cell transplantation",
+        "HLA epitopes",
+        "alloreactivity",
+        "donor selection",
+        "graft-versus-host disease"
       ],
       "openAlexTopics": [
         {
@@ -30510,6 +30133,7 @@
       "volumeIssuePages": "vol. 1109, pp. 115-138",
       "categories": [
         "matching",
+        "outcome",
         "diagnostics",
         "cellular"
       ],
@@ -30530,17 +30154,14 @@
         "Transition Temperature"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Typing",
-        "Antigen",
-        "Histocompatibility",
-        "Immunology",
-        "Tissue typing",
-        "Biology",
-        "Immune system",
-        "Major histocompatibility complex",
-        "Human leukocyte antigen",
-        "Genetics"
+        "minor histocompatibility antigens",
+        "molecular typing",
+        "HLA mismatch",
+        "graft-versus-host disease",
+        "graft-versus-tumor effect",
+        "graft-versus-leukemia effect",
+        "donor-recipient matching",
+        "transplantation immunology"
       ],
       "openAlexTopics": [
         {
@@ -30669,17 +30290,14 @@
         "Graft Rejection"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Immunogenicity",
-        "Transplantation",
-        "Immunology",
-        "Hematopoietic stem cell transplantation",
-        "Histocompatibility Testing",
-        "Biology",
-        "Immune system",
-        "Medicine",
-        "Antigen",
-        "Internal medicine"
+        "HLA mismatch",
+        "solid organ transplantation",
+        "hematopoietic stem cell transplantation",
+        "direct allorecognition",
+        "indirect allorecognition",
+        "graft-versus-host disease",
+        "host-versus-graft response",
+        "in silico prediction tools"
       ],
       "openAlexTopics": [
         {
@@ -31148,20 +30766,12 @@
         "Graft Rejection"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Human leukocyte antigen",
-        "Antigen",
-        "Transplantation",
-        "Immunology",
-        "Histocompatibility",
-        "Histocompatibility Testing",
-        "H antigen",
-        "Sibling",
-        "Medicine",
-        "Biology",
-        "Major histocompatibility complex",
-        "Internal medicine",
-        "Psychology"
+        "HLA-identical sibling transplantation",
+        "kidney transplantation",
+        "graft rejection",
+        "graft loss",
+        "H-Y antigen",
+        "histocompatibility"
       ],
       "openAlexTopics": [
         {
@@ -31526,18 +31136,16 @@
         "Unrelated Donors"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Human leukocyte antigen",
-        "Medicine",
-        "Immunology",
-        "Histocompatibility",
-        "Hematopoietic stem cell transplantation",
-        "Antigen",
-        "Transplantation",
-        "Graft-versus-host disease",
-        "Incidence (geometry)",
-        "Major histocompatibility complex",
-        "Internal medicine"
+        "minor histocompatibility antigens",
+        "graft-versus-host disease",
+        "graft-versus-leukemia effect",
+        "hematopoietic stem cell transplantation",
+        "HLA-matched unrelated donor",
+        "HLA-matched related donor",
+        "H-Y antigen",
+        "HLA-DQ5",
+        "relapse",
+        "sex mismatch"
       ],
       "openAlexTopics": [
         {
@@ -31724,19 +31332,13 @@
         "Tissue Donors"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Allele",
-        "Typing",
-        "Histocompatibility Testing",
-        "Stem cell",
-        "Genetics",
-        "Biology",
-        "Sibling",
-        "Immunology",
-        "Antigen",
-        "Computational biology",
-        "Gene",
-        "Psychology"
+        "novel HLA allele",
+        "HLA-A",
+        "HLA class I",
+        "sequence-based typing",
+        "stem cell transplantation",
+        "sibling donor",
+        "HLA typing"
       ],
       "openAlexTopics": [
         {
@@ -31954,21 +31556,11 @@
         "Male"
       ],
       "keywords": [
-        "Transplantation",
-        "Stem cell",
-        "Human leukocyte antigen",
-        "Cord blood",
-        "Sibling",
-        "Immunology",
-        "Medicine",
-        "Histocompatibility",
-        "Pregnancy",
-        "Antigen",
-        "Biology",
-        "Internal medicine",
-        "Genetics",
-        "Psychology",
-        "Developmental psychology"
+        "gender differences",
+        "birth order",
+        "HLA-identical transplantation",
+        "allogeneic stem cell transplantation",
+        "graft-versus-host disease"
       ],
       "openAlexTopics": [
         {
@@ -32112,19 +31704,12 @@
         "Biomarkers"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Medicine",
-        "HLA-DQ",
-        "Disease",
-        "Immunology",
-        "Antigen",
-        "Genotype",
-        "Coeliac disease",
-        "Internal medicine",
-        "Genetics",
-        "Gene",
-        "Haplotype",
-        "Biology"
+        "celiac disease",
+        "HLA-DQ2.2",
+        "HLA-DQ2.5",
+        "HLA-DQ8",
+        "HLA typing",
+        "pediatric celiac disease"
       ],
       "openAlexTopics": [
         {
@@ -32300,14 +31885,10 @@
         "Tissue Donors"
       ],
       "keywords": [
-        "Allele",
-        "Typing",
-        "Genetics",
-        "Human leukocyte antigen",
-        "Biology",
-        "Computational biology",
-        "Gene",
-        "Antigen"
+        "novel HLA allele",
+        "HLA haplotypes",
+        "stem cell donors",
+        "sequence-based typing"
       ],
       "openAlexTopics": [
         {
@@ -32438,17 +32019,14 @@
         "Tissue Donors"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Epitope",
-        "Immunology",
-        "Antibody",
-        "Donor specific antibodies",
-        "Antigen",
-        "Transplantation",
-        "Kidney transplantation",
-        "Biology",
-        "Medicine",
-        "Internal medicine"
+        "HLA class I mismatch",
+        "donor-specific HLA antibodies",
+        "kidney transplantation",
+        "HLA-DR",
+        "HLA class II restriction",
+        "T-helper epitopes",
+        "antibody development",
+        "HLA class I presentation"
       ],
       "openAlexTopics": [
         {
@@ -32676,6 +32254,7 @@
       "volumeIssuePages": "vol. 27, no. 3, pp. 642-649",
       "categories": [
         "matching",
+        "outcome",
         "diagnostics",
         "cellular"
       ],
@@ -32710,21 +32289,16 @@
         "Biomarkers, Tumor"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Human leukocyte antigen",
-        "Immunology",
-        "Hematopoietic stem cell transplantation",
-        "Transplantation",
-        "CTL*",
-        "Immunotherapy",
-        "Cytotoxic T cell",
-        "Biology",
-        "Antigen",
-        "Stem cell",
-        "CD8",
-        "Medicine",
-        "Major histocompatibility complex",
-        "Immune system"
+        "minor histocompatibility antigens",
+        "allogeneic stem cell transplantation",
+        "donor lymphocyte infusion",
+        "graft-versus-tumor effect",
+        "graft-versus-host disease",
+        "CD8+ cytotoxic T lymphocytes",
+        "multiple myeloma",
+        "hematopoietic cells",
+        "antigenic polymorphism",
+        "tetramer analysis"
       ],
       "openAlexTopics": [
         {
@@ -32947,24 +32521,20 @@
       ],
       "volumeIssuePages": "vol. 19, no. 2, pp. S144",
       "categories": [
-        "other"
+        "outcome"
       ],
-      "primaryCategoryLabel": "Other",
+      "primaryCategoryLabel": "Outcome",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Medicine",
-        "Mesenchymal stem cell",
-        "Stroma",
-        "Complication",
-        "Platelet lysate",
-        "Disease",
-        "Platelet",
-        "Internal medicine",
-        "Immunology",
-        "Pathology"
+        "acute graft-versus-host disease",
+        "steroid resistance",
+        "mesenchymal stem cells",
+        "platelet lysate",
+        "cell expansion",
+        "hematopoietic stem cell transplantation"
       ],
       "openAlexTopics": [
         {
@@ -33198,20 +32768,16 @@
         "Histocompatibility"
       ],
       "keywords": [
-        "Histocompatibility",
-        "Human leukocyte antigen",
-        "Transplantation",
-        "Histocompatibility Testing",
-        "Minor histocompatibility antigen",
-        "Immunogenetics",
-        "Immunology",
-        "Major histocompatibility complex",
-        "Biology",
-        "Genetics",
-        "Immune system",
-        "Antigen",
-        "Medicine",
-        "Internal medicine"
+        "histocompatibility",
+        "HLA matching",
+        "unrelated donor transplantation",
+        "HLA mismatch",
+        "minor histocompatibility antigens",
+        "immune response genes",
+        "race and ethnicity",
+        "cord blood transplantation",
+        "haploidentical transplantation",
+        "immunogenetics"
       ],
       "openAlexTopics": [
         {
@@ -33353,12 +32919,16 @@
         "Protein Glutamine gamma Glutamyltransferase 2"
       ],
       "keywords": [
-        "Medicine",
-        "Gastroenterology",
-        "Internal medicine",
-        "Nausea",
-        "Biopsy",
-        "Tissue transglutaminase"
+        "celiac disease",
+        "pediatric celiac disease",
+        "anti-tissue transglutaminase antibodies",
+        "HLA-DQ2.5",
+        "HLA-DQ2.2",
+        "HLA-DQ8",
+        "extraintestinal manifestations",
+        "gastrointestinal symptoms",
+        "anemia",
+        "aphthous stomatitis"
       ],
       "openAlexTopics": [
         {
@@ -33821,19 +33391,18 @@
       ],
       "volumeIssuePages": "vol. 142, no. 5, pp. S-273",
       "categories": [
-        "other"
+        "diagnostics"
       ],
-      "primaryCategoryLabel": "Other",
+      "primaryCategoryLabel": "Diagnostics",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Antigen",
-        "Immunology",
-        "Disease",
-        "Medicine",
-        "Pathology"
+        "HLA-DQ2.2",
+        "celiac disease",
+        "human leukocyte antigen",
+        "genetic susceptibility"
       ],
       "openAlexTopics": [
         {
@@ -34021,21 +33590,11 @@
         "Male"
       ],
       "keywords": [
-        "Medicine",
-        "Biopsy",
-        "Transplantation",
-        "Skin biopsy",
-        "Stem cell",
-        "CD8",
-        "Pathology",
-        "Cryopreservation",
-        "Human leukocyte antigen",
-        "Graft-versus-host disease",
-        "Immunology",
-        "Immune system",
-        "Antigen",
-        "Internal medicine",
-        "Biology"
+        "acute graft-versus-host disease",
+        "skin biopsy",
+        "CD8+ T cells",
+        "skin infiltration",
+        "pediatric patients"
       ],
       "openAlexTopics": [
         {
@@ -34168,21 +33727,13 @@
         "Sequence Analysis, DNA"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Antigen",
-        "Human leukocyte antigen",
-        "Immunology",
-        "Immune system",
-        "Hematopoietic stem cell transplantation",
-        "Stem cell",
-        "Transplantation",
-        "Biology",
-        "Minor allele frequency",
-        "Graft-versus-host disease",
-        "Medicine",
-        "Major histocompatibility complex",
-        "Genetics",
-        "Allele"
+        "minor histocompatibility antigens",
+        "hematopoietic stem cell transplantation",
+        "HLA-matched transplantation",
+        "graft-versus-host disease",
+        "graft-versus-leukemia effect",
+        "alloimmunity",
+        "hematologic malignancies"
       ],
       "openAlexTopics": [
         {
@@ -34491,20 +34042,18 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Medicine",
-        "Mesenchymal stem cell",
-        "Gastroenterology",
-        "Adverse effect",
-        "Hematopoietic stem cell transplantation",
-        "Internal medicine",
-        "Transplantation",
-        "Bone marrow",
-        "Graft-versus-host disease",
-        "Refractory (planetary science)",
-        "Platelet",
-        "Surgery",
-        "Pathology",
-        "Biology"
+        "acute graft-versus-host disease",
+        "mesenchymal stem cells",
+        "cell expansion",
+        "allogeneic hematopoietic stem cell transplantation",
+        "cell therapy",
+        "transplantation-related mortality",
+        "overall survival",
+        "relapse",
+        "feasibility and safety",
+        "pediatric patients",
+        "bone marrow-derived cells",
+        "cytokine release syndrome"
       ],
       "openAlexTopics": [
         {
@@ -34648,21 +34197,13 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "CTL*",
-        "Human leukocyte antigen",
-        "Transplantation",
-        "Immunology",
-        "Immunotherapy",
-        "Population",
-        "Cytotoxic T cell",
-        "Hematopoietic stem cell transplantation",
-        "Histocompatibility",
-        "Medicine",
-        "Antigen",
-        "Biology",
-        "CD8",
-        "Major histocompatibility complex"
+        "minor histocompatibility antigens",
+        "multiple myeloma",
+        "donor lymphocyte infusion",
+        "allogeneic stem cell transplantation",
+        "graft-versus-tumor effect",
+        "CD8+ cytotoxic T lymphocytes",
+        "epitope mapping"
       ],
       "openAlexTopics": [
         {
@@ -34860,7 +34401,8 @@
       "volumeIssuePages": "vol. 25, no. 10, pp. 1548-1554",
       "categories": [
         "matching",
-        "outcome"
+        "outcome",
+        "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -34882,13 +34424,15 @@
         "Male"
       ],
       "keywords": [
-        "Internal medicine",
-        "Transplantation",
-        "Medicine",
-        "Hematopoietic stem cell transplantation",
-        "Framingham Risk Score",
-        "Oncology",
-        "Disease"
+        "unrelated donor transplantation",
+        "allogeneic hematopoietic stem cell transplantation",
+        "EBMT risk score",
+        "T cell depletion",
+        "acute leukemia",
+        "myelodysplastic syndrome",
+        "overall survival",
+        "non-relapse mortality",
+        "prognostic factors"
       ],
       "openAlexTopics": [
         {
@@ -35067,21 +34611,16 @@
         "In Vitro Techniques"
       ],
       "keywords": [
-        "Cytotoxic T cell",
-        "Minor histocompatibility antigen",
-        "Haematopoiesis",
-        "Immunology",
-        "Ex vivo",
-        "Antigen-presenting cell",
-        "Antigen",
-        "Medicine",
-        "Immune system",
-        "Graft-versus-host disease",
-        "Infiltration (HVAC)",
-        "Dendritic cell",
-        "Stem cell",
-        "Transplantation",
-        "Cancer research"
+        "minor histocompatibility antigens",
+        "graft-versus-host disease",
+        "hematopoietic stem cell transplantation",
+        "cytotoxic T lymphocytes",
+        "dendritic cells",
+        "antigen-presenting cells",
+        "HLA-A2",
+        "skin explant model",
+        "T cell activation",
+        "hematologic malignancies"
       ],
       "openAlexTopics": [
         {
@@ -35221,21 +34760,12 @@
         "Genetic Therapy"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Antigen",
-        "Immunology",
-        "Biology",
-        "Major histocompatibility complex",
-        "Transplantation",
-        "Human leukocyte antigen",
-        "Histocompatibility",
-        "Genetic enhancement",
-        "In vitro",
-        "Graft-versus-host disease",
-        "Stem cell",
-        "Cell biology",
-        "Gene",
-        "Medicine"
+        "graft-versus-host disease",
+        "minor histocompatibility antigens",
+        "antigen-specific tolerance",
+        "retroviral vectors",
+        "gene therapy",
+        "stem cell transplantation"
       ],
       "openAlexTopics": [
         {
@@ -35455,18 +34985,11 @@
         "Male"
       ],
       "keywords": [
-        "Miscarriage",
-        "Live birth",
-        "Titer",
-        "Medicine",
-        "Recurrent miscarriage",
-        "Antibody titer",
-        "Obstetrics",
-        "Gynecology",
-        "Antibody",
-        "Pregnancy",
-        "Immunology",
-        "Biology"
+        "unexplained recurrent spontaneous abortion",
+        "maternal immune response",
+        "Y chromosome",
+        "miscarriage",
+        "early pregnancy"
       ],
       "openAlexTopics": [
         {
@@ -35705,13 +35228,17 @@
         "CD4 Antigens"
       ],
       "keywords": [
-        "Immunology",
-        "Pathological",
-        "Immunity",
-        "Medicine",
-        "Biology",
-        "Immune system",
-        "Pathology"
+        "mycobacterial infection",
+        "tuberculosis",
+        "leprosy",
+        "immunopathology",
+        "Th1 cells",
+        "Th1 cytokines",
+        "immunomodulation",
+        "cytokine therapy",
+        "protective immunity",
+        "nerve injury",
+        "vaccination strategies"
       ],
       "openAlexTopics": [
         {
@@ -35852,7 +35379,8 @@
       "categories": [
         "matching",
         "outcome",
-        "diagnostics"
+        "diagnostics",
+        "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -35872,21 +35400,15 @@
         "Histocompatibility, Maternal-Fetal"
       ],
       "keywords": [
-        "Firstborn",
-        "Live birth",
-        "Human leukocyte antigen",
-        "Pregnancy",
-        "Miscarriage",
-        "Allele",
-        "Histocompatibility",
-        "Biology",
-        "Odds ratio",
-        "Immunology",
-        "Medicine",
-        "Genetics",
-        "Antigen",
-        "Population",
-        "Internal medicine"
+        "H-Y antigen",
+        "minor histocompatibility antigens",
+        "HLA class II alleles",
+        "pregnancy outcomes",
+        "live birth",
+        "maternal immune response",
+        "HLA typing",
+        "HLA-DRB1",
+        "HLA-DQB1"
       ],
       "openAlexTopics": [
         {
@@ -36156,21 +35678,13 @@
         "Molecular Sequence Data"
       ],
       "keywords": [
-        "Steric effects",
-        "Immunogenicity",
-        "Null allele",
-        "Minor allele frequency",
-        "Allele",
-        "Dissociation (chemistry)",
-        "Genetics",
-        "Histocompatibility",
-        "Biology",
-        "Chemistry",
-        "Antigen",
-        "Stereochemistry",
-        "Human leukocyte antigen",
-        "Allele frequency",
-        "Gene"
+        "minor histocompatibility antigens",
+        "HLA-A2",
+        "peptide immunogenicity",
+        "steric hindrance",
+        "MHC class I peptide binding",
+        "peptide stability",
+        "stem cell transplantation"
       ],
       "openAlexTopics": [
         {
@@ -36431,7 +35945,7 @@
       "volumeIssuePages": "vol. 22, no. 10, pp. 1948-1951",
       "categories": [
         "matching",
-        "diagnostics",
+        "outcome",
         "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
@@ -36448,21 +35962,17 @@
         "Leukemia, Lymphocytic, Chronic, B-Cell"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Histocompatibility",
-        "Human leukocyte antigen",
-        "Hematopoietic cell",
-        "Transplantation",
-        "Immunology",
-        "Histocompatibility Testing",
-        "Haematopoiesis",
-        "Antigen",
-        "Hematopoietic stem cell transplantation",
-        "Biology",
-        "Medicine",
-        "Major histocompatibility complex",
-        "Stem cell",
-        "Genetics"
+        "minor histocompatibility antigens",
+        "H-Y antigen",
+        "T cell response",
+        "graft-versus-host disease",
+        "graft-versus-leukemia effect",
+        "HLA-A*0201",
+        "post-translational modification",
+        "cysteine",
+        "T cell epitopes",
+        "cancer immunotherapy",
+        "alloreactivity"
       ],
       "openAlexTopics": [
         {
@@ -36530,6 +36040,7 @@
       "volumeIssuePages": "vol. 35, no. 4-5, pp. 363-366",
       "categories": [
         "matching",
+        "outcome",
         "diagnostics",
         "cellular"
       ],
@@ -36551,21 +36062,14 @@
         "Male"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Immunology",
-        "Immune system",
-        "Antigen",
-        "Transplantation",
-        "Histocompatibility",
-        "Haematopoiesis",
-        "Stem cell",
-        "Biology",
-        "Immunotherapy",
-        "Major histocompatibility complex",
-        "Medicine",
-        "Human leukocyte antigen",
-        "Internal medicine",
-        "Genetics"
+        "minor histocompatibility antigens",
+        "graft-versus-host disease",
+        "graft-versus-leukemia effect",
+        "adoptive immunotherapy",
+        "allogeneic hematopoietic stem cell transplantation",
+        "solid organ transplantation",
+        "alloimmunity",
+        "transplantation tolerance"
       ],
       "openAlexTopics": [
         {
@@ -37020,6 +36524,7 @@
       "volumeIssuePages": "vol. 3, no. 6, pp. e103",
       "categories": [
         "matching",
+        "outcome",
         "diagnostics",
         "cellular"
       ],
@@ -37037,16 +36542,17 @@
         "Racial Groups"
       ],
       "keywords": [
-        "Biology",
-        "Minor histocompatibility antigen",
-        "Phenotype",
-        "Genetics",
-        "Histocompatibility",
-        "Major histocompatibility complex",
-        "Histocompatibility Testing",
-        "Antigen",
-        "Human leukocyte antigen",
-        "Gene"
+        "minor histocompatibility antigens",
+        "phenotype frequency",
+        "ethnic groups",
+        "population variation",
+        "alloimmunity",
+        "solid organ transplantation",
+        "stem cell transplantation",
+        "graft-versus-tumor effect",
+        "graft rejection",
+        "graft-versus-host disease",
+        "HLA-matched transplantation"
       ],
       "openAlexTopics": [
         {
@@ -37179,7 +36685,7 @@
       "volumeIssuePages": "vol. 20, no. 2, pp. 171-187",
       "categories": [
         "matching",
-        "diagnostics",
+        "outcome",
         "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
@@ -37201,18 +36707,13 @@
         "Male"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Immunology",
-        "Antigen",
-        "Transplantation",
-        "Histocompatibility",
-        "Stem cell",
-        "Biology",
-        "Medicine",
-        "Human leukocyte antigen",
-        "Major histocompatibility complex",
-        "Internal medicine",
-        "Genetics"
+        "minor histocompatibility antigens",
+        "allogeneic stem cell transplantation",
+        "graft-versus-host disease",
+        "graft-versus-tumor effect",
+        "cancer immunotherapy",
+        "immunodominance",
+        "risk assessment"
       ],
       "openAlexTopics": [
         {
@@ -37345,7 +36846,8 @@
       "volumeIssuePages": "vol. 104, no. 3, pp. 210-212",
       "categories": [
         "matching",
-        "outcome"
+        "outcome",
+        "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -37364,7 +36866,13 @@
         "Graft Survival"
       ],
       "keywords": [
-        "Medicine"
+        "minor histocompatibility antigens",
+        "penetrating keratoplasty",
+        "corneal transplantation",
+        "graft rejection",
+        "graft survival",
+        "HLA complex",
+        "antigen matching"
       ],
       "openAlexTopics": [
         {
@@ -37528,6 +37036,7 @@
       "volumeIssuePages": "vol. 1, no. 1, pp. e42",
       "categories": [
         "matching",
+        "outcome",
         "diagnostics",
         "cellular"
       ],
@@ -37550,21 +37059,11 @@
         "Databases, Genetic"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Typing",
-        "Human leukocyte antigen",
-        "Minor allele frequency",
-        "Antigen",
-        "Biology",
-        "Histocompatibility",
-        "Transplantation",
-        "Computational biology",
-        "Immunology",
-        "Genetics",
-        "Major histocompatibility complex",
-        "Genotype",
-        "Medicine",
-        "Gene"
+        "minor histocompatibility antigens",
+        "allogeneic stem cell transplantation",
+        "HLA-matched transplantation",
+        "H-Y antigen",
+        "graft-versus-host disease"
       ],
       "openAlexTopics": [
         {
@@ -37781,6 +37280,7 @@
       "volumeIssuePages": "vol. 12, no. 11, pp. 1114-1124",
       "categories": [
         "matching",
+        "outcome",
         "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
@@ -37805,21 +37305,15 @@
         "DEAD-box RNA Helicases"
       ],
       "keywords": [
-        "T-cell receptor",
-        "Human leukocyte antigen",
-        "Epitope",
-        "clone (Java method)",
-        "Major histocompatibility complex",
-        "T cell",
-        "Medicine",
-        "Antigen",
-        "Molecular biology",
-        "Immunology",
-        "Antigen-presenting cell",
-        "In vitro",
-        "Virology",
-        "Biology",
-        "Gene"
+        "minor histocompatibility antigens",
+        "DDX3Y",
+        "HLA-DQ5",
+        "H-Y antigen",
+        "CD4+ T cell clones",
+        "T cell receptor beta repertoire",
+        "TCR Vbeta usage",
+        "graft-versus-host disease",
+        "peptide-specific T cell responses"
       ],
       "openAlexTopics": [
         {
@@ -37985,20 +37479,14 @@
         "Male"
       ],
       "keywords": [
-        "Human leukocyte antigen",
-        "Minor histocompatibility antigen",
-        "Histocompatibility",
-        "Antigen",
-        "Immunogenicity",
-        "Immunology",
-        "Transplantation",
-        "Corneal transplantation",
-        "Major histocompatibility complex",
-        "Histocompatibility Testing",
-        "Corneal Transplant",
-        "Medicine",
-        "Biology",
-        "Internal medicine"
+        "minor histocompatibility antigens",
+        "HLA-A1",
+        "H-Y antigen",
+        "corneal transplantation",
+        "donor-recipient matching",
+        "graft survival",
+        "graft rejection",
+        "sex mismatch"
       ],
       "openAlexTopics": [
         {
@@ -38236,16 +37724,20 @@
         "Leukocyte Common Antigens"
       ],
       "keywords": [
+        "graft-versus-host disease",
+        "cutaneous graft-versus-host disease",
         "CCR10",
-        "Immunology",
-        "Graft-versus-host disease",
-        "Chemokine",
-        "Medicine",
-        "Biology",
-        "Chemokine receptor",
-        "Pathology",
-        "Immune system",
-        "Disease"
+        "CD4+ T cells",
+        "chemokine-receptor interaction",
+        "allogeneic stem cell transplantation",
+        "pediatric patients",
+        "skin-homing T cells",
+        "cutaneous lymphocyte antigen",
+        "CCR4",
+        "T cell infiltration",
+        "Th1 cytokines",
+        "TNF-α",
+        "interleukin-2"
       ],
       "openAlexTopics": [
         {
@@ -38418,11 +37910,9 @@
       ],
       "volumeIssuePages": "vol. 310, no. 1-2, pp. 78-85",
       "categories": [
-        "matching",
-        "diagnostics",
         "cellular"
       ],
-      "primaryCategoryLabel": "Epitope matching",
+      "primaryCategoryLabel": "Cellular immunology",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
@@ -38441,21 +37931,12 @@
         "In Vitro Techniques"
       ],
       "keywords": [
-        "Antigen",
-        "In situ",
-        "Major histocompatibility complex",
-        "Peptide",
-        "Cytoplasm",
-        "Cryopreservation",
-        "Biology",
-        "Staining",
-        "Molecular biology",
-        "Tetramer",
-        "Cell biology",
-        "Chemistry",
-        "Biochemistry",
-        "Immunology",
-        "Genetics"
+        "antigen-specific T cells",
+        "peptide-MHC tetramers",
+        "in situ visualization",
+        "cryopreservation",
+        "frozen section",
+        "tetramer staining"
       ],
       "openAlexTopics": [
         {
@@ -38563,21 +38044,12 @@
         "Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Immunotherapy",
-        "Immunology",
-        "Histocompatibility",
-        "Hematopoietic stem cell transplantation",
-        "Leukemia",
-        "Transplantation",
-        "Myeloid leukemia",
-        "Medicine",
-        "Haematopoiesis",
-        "Human leukocyte antigen",
-        "Antigen",
-        "Stem cell",
-        "Biology",
-        "Major histocompatibility complex"
+        "minor histocompatibility antigens",
+        "graft-versus-leukemia effect",
+        "allogeneic hematopoietic stem cell transplantation",
+        "chronic myeloid leukemia",
+        "HLA-B7",
+        "hematologic malignancies"
       ],
       "openAlexTopics": [
         {
@@ -38750,7 +38222,6 @@
       "volumeIssuePages": "vol. 25, no. 2, pp. 56-60",
       "categories": [
         "matching",
-        "diagnostics",
         "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
@@ -38777,19 +38248,16 @@
         "A Kinase Anchor Proteins"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Biology",
-        "Immunology",
-        "Histocompatibility",
-        "Transplantation",
-        "Antigen",
-        "Human leukocyte antigen",
-        "Immunotherapy",
-        "Stem cell",
-        "Major histocompatibility complex",
-        "Genetics",
-        "Immune system",
-        "Medicine"
+        "minor histocompatibility antigens",
+        "cancer immunotherapy",
+        "stem cell transplantation",
+        "HLA-identical transplantation",
+        "T cell response",
+        "tumor antigens",
+        "hematologic malignancies",
+        "solid tumors",
+        "immunotherapeutics",
+        "protein polymorphism"
       ],
       "openAlexTopics": [
         {
@@ -39026,21 +38494,15 @@
         "CD4 Antigens"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Major histocompatibility complex",
-        "Cytotoxic T cell",
-        "Immunology",
-        "Epitope",
-        "Biology",
-        "Antigen",
-        "Human leukocyte antigen",
-        "CD8",
-        "MHC class II",
-        "Transplantation",
-        "MHC class I",
-        "T cell",
-        "T helper cell",
-        "Histocompatibility"
+        "H-Y antigen",
+        "minor histocompatibility antigens",
+        "CD4+ T cells",
+        "sex-mismatched transplantation",
+        "stem cell transplantation",
+        "alloimmunity",
+        "dendritic cell maturation",
+        "CD8+ cytotoxic T lymphocytes",
+        "graft rejection"
       ],
       "openAlexTopics": [
         {
@@ -39376,17 +38838,9 @@
         "ATP Binding Cassette Transporter, Subfamily B, Member 2"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Biology",
-        "Antigen",
-        "Epitope",
-        "Antigenicity",
-        "Human leukocyte antigen",
-        "Transplantation",
-        "Immunology",
-        "Major histocompatibility complex",
-        "Molecular biology",
-        "Medicine"
+        "T cell epitopes",
+        "allelic variation",
+        "allogeneic stem cell transplantation"
       ],
       "openAlexTopics": [
         {
@@ -39649,19 +39103,16 @@
         "Genetic Linkage"
       ],
       "keywords": [
-        "Minor histocompatibility antigen",
-        "Human leukocyte antigen",
-        "CTL*",
-        "Immunology",
-        "Transplantation",
-        "Histocompatibility",
-        "Graft-versus-host disease",
-        "Biology",
-        "Major histocompatibility complex",
-        "Medicine",
-        "Antigen",
-        "CD8",
-        "Internal medicine"
+        "minor histocompatibility antigens",
+        "H-Y antigen",
+        "graft-versus-host disease",
+        "Y chromosome",
+        "sex-linked antigens",
+        "HLA class II restriction",
+        "cytotoxic T lymphocytes",
+        "epitope mapping",
+        "chronic myeloid leukemia",
+        "stem cell transplantation"
       ],
       "openAlexTopics": [
         {
@@ -39942,11 +39393,12 @@
       "impactFactorSource": null,
       "meshTerms": [],
       "keywords": [
-        "Immunopathology",
-        "Immunology",
-        "Medicine",
-        "Microbiology",
-        "Biology"
+        "mycobacterial infection",
+        "host immune response",
+        "immunopathology",
+        "tuberculosis",
+        "Mycobacterium tuberculosis",
+        "immune evasion"
       ],
       "openAlexTopics": [
         {
@@ -40087,19 +39539,15 @@
       ],
       "keywords": [
         "Mycobacterium leprae",
-        "Schwann cell",
-        "Immunology",
-        "Biology",
-        "Cell biology",
-        "Tropism",
-        "Immune system",
-        "CD80",
-        "Leprosy",
-        "Cytotoxic T cell",
-        "In vitro",
-        "CD40",
-        "Virus",
-        "Genetics"
+        "leprosy",
+        "Schwann cells",
+        "peripheral nerve injury",
+        "reversal reaction",
+        "type 1 T cells",
+        "CD4+ Th1 cells",
+        "antigen presentation",
+        "immunopathogenesis",
+        "nerve destruction"
       ],
       "openAlexTopics": [
         {
@@ -40372,15 +39820,19 @@
         "CD4 Antigens"
       ],
       "keywords": [
+        "leprosy",
+        "peripheral nerve injury",
+        "reversal reaction",
+        "type 1 T cells",
+        "Schwann cells",
         "Mycobacterium leprae",
-        "Schwann cell",
-        "Immunology",
-        "Tropism",
-        "Biology",
-        "Antigen",
-        "Immune system",
-        "Cell biology",
-        "Leprosy"
+        "CD4+ T cells",
+        "CD8+ T cells",
+        "antigen presentation",
+        "serine esterase",
+        "Th1 cells",
+        "immunopathogenesis",
+        "nerve destruction"
       ],
       "openAlexTopics": [
         {
@@ -40548,9 +40000,10 @@
       ],
       "volumeIssuePages": "vol. 69, no. 3, pp. 455",
       "categories": [
-        "other"
+        "outcome",
+        "cellular"
       ],
-      "primaryCategoryLabel": "Other",
+      "primaryCategoryLabel": "Outcome",
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
@@ -40566,21 +40019,21 @@
         "Artificial Organs"
       ],
       "keywords": [
-        "Endoneurium",
-        "Schwann cell",
-        "Nerve guidance conduit",
-        "Epineurial repair",
-        "Wallerian degeneration",
-        "Regeneration (biology)",
-        "Cell biology",
-        "Peripheral blood mononuclear cell",
-        "Axon",
-        "Pathology",
-        "Biology",
-        "In vitro",
-        "Anatomy",
-        "Medicine",
-        "Immunology"
+        "allorecognition",
+        "Schwann cells",
+        "peripheral nerve regeneration",
+        "HLA-DR",
+        "HLA mismatch",
+        "peripheral blood mononuclear cells",
+        "Schwann cell proliferation",
+        "allograft rejection",
+        "nerve autograft",
+        "immune recognition",
+        "peripheral nerve injury",
+        "immunosuppression",
+        "growth factors",
+        "extracellular matrix proteins",
+        "donor site morbidity"
       ],
       "openAlexTopics": [
         {
@@ -40693,14 +40146,16 @@
         "Enzyme-Linked Immunosorbent Assay"
       ],
       "keywords": [
-        "Leprosy",
-        "Titer",
-        "Antibody",
-        "Immunology",
-        "Medicine",
-        "Antibody titer",
-        "Immunoglobulin M",
-        "Immunoglobulin G"
+        "sulfatide",
+        "leprosy",
+        "leprosy reactions",
+        "IgG",
+        "IgM",
+        "multibacillary leprosy",
+        "paucibacillary leprosy",
+        "demyelinating neuropathy",
+        "antibody titers",
+        "endemic leprosy"
       ],
       "openAlexTopics": [
         {
@@ -40802,9 +40257,9 @@
       ],
       "volumeIssuePages": "vol. 27, no. 3, pp. 173-177",
       "categories": [
-        "diagnostics"
+        "cellular"
       ],
-      "primaryCategoryLabel": "Diagnostics",
+      "primaryCategoryLabel": "Cellular immunology",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
@@ -40819,21 +40274,14 @@
         "Molecular Sequence Data"
       ],
       "keywords": [
-        "Operon",
         "Mycobacterium leprae",
-        "Biology",
         "Mycobacterium tuberculosis",
-        "Gene",
-        "Microbiology",
-        "Mycobacterium",
-        "Genetics",
-        "L-arabinose operon",
-        "Whole genome sequencing",
-        "gal operon",
-        "Tuberculosis",
-        "Genome",
-        "Bacteria",
-        "Leprosy"
+        "host cell targeting",
+        "bacterial genome annotation",
+        "sequence errors",
+        "frameshift mutation",
+        "host-pathogen interaction",
+        "Mycobacterium tuberculosis H37Rv"
       ],
       "openAlexTopics": [
         {
@@ -40996,19 +40444,19 @@
         "Thioredoxin-Disulfide Reductase"
       ],
       "keywords": [
-        "Cloning (programming)",
-        "Identification (biology)",
-        "Biology",
-        "Tuberculosis",
-        "Expression (computer science)",
-        "Computational biology",
-        "Genetics",
         "Mycobacterium tuberculosis",
-        "Protein expression",
-        "Microbiology",
-        "Gene",
-        "Medicine",
-        "Computer science"
+        "secreted proteins",
+        "protein secretion",
+        "thioredoxin",
+        "CXXC motif",
+        "thioredoxin reductase",
+        "recombinant protein expression",
+        "Mycobacterium smegmatis",
+        "immunogenicity",
+        "cattle sera",
+        "Mycobacterium bovis",
+        "localization index",
+        "signal peptide"
       ],
       "openAlexTopics": [
         {
@@ -41150,9 +40598,11 @@
       ],
       "volumeIssuePages": "vol. 63, no. 12, pp. 4682-4685",
       "categories": [
-        "diagnostics"
+        "matching",
+        "diagnostics",
+        "cellular"
       ],
-      "primaryCategoryLabel": "Diagnostics",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
@@ -41171,20 +40621,13 @@
       ],
       "keywords": [
         "Mycobacterium leprae",
-        "Biology",
-        "ORFS",
-        "Open reading frame",
-        "clone (Java method)",
-        "Escherichia coli",
-        "Virology",
-        "Microbiology",
-        "Nucleic acid sequence",
-        "Antigen",
-        "Gene",
-        "Molecular biology",
-        "Peptide sequence",
-        "Genetics",
-        "Leprosy"
+        "tuberculoid leprosy",
+        "lepromatous leprosy",
+        "T cell stimulation",
+        "aspartyl-tRNA synthetase",
+        "antigenic determinants",
+        "T cell epitopes",
+        "recombinant antigen"
       ],
       "openAlexTopics": [
         {
