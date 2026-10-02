@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-01T11:00:24.785Z",
+  "generatedAt": "2026-10-02T10:33:00.337Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -4890,7 +4890,7 @@
           "score": 0.9955999851226807
         }
       ],
-      "citedByCount": 11,
+      "citedByCount": 12,
       "countsByYear": [
         {
           "year": 2026,
@@ -4902,7 +4902,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 3
+          "cited_by_count": 4
         }
       ],
       "isOpenAccess": true,
@@ -8081,6 +8081,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
+            "Centre National de la Recherche Scientifique",
             "Université Toulouse III - Paul Sabatier",
             "Inserm",
             "Institut Toulousain des Maladies Infectieuses et Inflammatoires",
@@ -8468,11 +8469,11 @@
           "score": 0.11869999766349792
         }
       ],
-      "citedByCount": 56,
+      "citedByCount": 57,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -11993,11 +11994,11 @@
           "score": 0.9991999864578247
         }
       ],
-      "citedByCount": 58,
+      "citedByCount": 59,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2025,
@@ -20403,7 +20404,7 @@
           "score": 0.9998000264167786
         }
       ],
-      "citedByCount": 45,
+      "citedByCount": 46,
       "countsByYear": [
         {
           "year": 2026,
@@ -20419,7 +20420,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2022,
@@ -27047,7 +27048,7 @@
       "meshTerms": [],
       "keywords": [
         "allogeneic stem cell transplantation",
-        "purifying selection",
+        "negative selection",
         "anti-TCR antibodies",
         "matched related donor",
         "unrelated donor",
