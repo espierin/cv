@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-02T10:33:00.337Z",
+  "generatedAt": "2026-10-03T09:54:58.830Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -12831,7 +12831,7 @@
           "institutions": []
         },
         {
-          "name": "Sarah E. Lawson",
+          "name": "Sarah Lawson",
           "orcid": "https://orcid.org/0000-0002-0514-8077",
           "position": "middle",
           "corresponding": false,
@@ -16509,7 +16509,7 @@
           ]
         },
         {
-          "name": "Ellen A. Meijer",
+          "name": "Ellen Meijer",
           "orcid": "https://orcid.org/0000-0002-4317-6554",
           "position": "middle",
           "corresponding": false,
@@ -21065,7 +21065,7 @@
           ]
         },
         {
-          "name": "Danilo Marcello Schmidt",
+          "name": "Danilo Schmidt",
           "orcid": "https://orcid.org/0000-0001-5236-2749",
           "position": "middle",
           "corresponding": false,
@@ -21463,7 +21463,7 @@
           ]
         },
         {
-          "name": "Danilo Marcello Schmidt",
+          "name": "Danilo Schmidt",
           "orcid": "https://orcid.org/0000-0001-5236-2749",
           "position": "middle",
           "corresponding": false,
@@ -23214,7 +23214,7 @@
           ]
         },
         {
-          "name": "Ellen A. Meijer",
+          "name": "Ellen Meijer",
           "orcid": "https://orcid.org/0000-0002-4317-6554",
           "position": "middle",
           "corresponding": false,
@@ -31005,7 +31005,7 @@
           ]
         },
         {
-          "name": "David E. Laurin",
+          "name": "David Laurin",
           "orcid": "https://orcid.org/0000-0001-9339-8369",
           "position": "middle",
           "corresponding": false,
@@ -31490,7 +31490,7 @@
           ]
         },
         {
-          "name": "David E. Laurin",
+          "name": "David Laurin",
           "orcid": "https://orcid.org/0000-0001-9339-8369",
           "position": "middle",
           "corresponding": false,
@@ -34378,7 +34378,7 @@
           ]
         },
         {
-          "name": "Ellen A. Meijer",
+          "name": "Ellen Meijer",
           "orcid": "https://orcid.org/0000-0002-4317-6554",
           "position": "middle",
           "corresponding": false,
@@ -36326,7 +36326,7 @@
           ]
         },
         {
-          "name": "David E. Laurin",
+          "name": "David Laurin",
           "orcid": "https://orcid.org/0000-0001-9339-8369",
           "position": "middle",
           "corresponding": false,
@@ -37161,7 +37161,7 @@
       "abstract": "In vitro stimulation of human female T cells with male HLA-identical dendritic cells resulted in the generation of HLA-DQB1*0501/0502-restricted minor histocompatibility H-Y antigen-specific CD4(+) T cell clones. Two clones generated from different HLA-identical pairs were analyzed. Use of HLA-DQ5-expressing female Epstein-Barr virus transformed B lymphoblastoid cell lines transfected with various H-Y genes and loaded with overlapping peptides demonstrated that both T cell clones are specific for a peptide encoded by DDX3Y. Previously, an HLA-DQ5-restricted T cell clone specific for the same peptide was isolated from a patient with graft-versus-host disease. Thus, we compared the T cell receptor (TCR) rearrangements of the 2 in vitro generated T cell clones and the ex vivo isolated T cell clone. All 3 clones shared the same TCRBV5-4* gene segment and 2 of 3 clones also used similar TCR-Valpha segments. Our results suggest that T cells recognizing the HLA-DQ5/DDX3Y T cell epitope might be characterized by a relatively limited TCR-beta repertoire. The differences in the junctional TCR-beta region had no effect on the antigen specificity, but altered the capacity of the TCR to distinguish the HLA-DQ5/DDX3Y complex from its allelic counterpart. The results also demonstrate that in vitro stimulation of T cells with allogeneic HLA-identical dendritic cells may facilitate the characterization of in vivo, potentially relevant HLA class II-restricted minor H epitopes.",
       "authors": [
         {
-          "name": "David E. Laurin",
+          "name": "David Laurin",
           "orcid": "https://orcid.org/0000-0001-9339-8369",
           "position": "first",
           "corresponding": false,
