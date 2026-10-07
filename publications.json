@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-06T11:19:37.453Z",
+  "generatedAt": "2026-10-07T11:07:57.548Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -8459,11 +8459,11 @@
           "score": 0.05460000038146973
         }
       ],
-      "citedByCount": 57,
+      "citedByCount": 58,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -11438,7 +11438,7 @@
         },
         {
           "name": "Mauricette Michallet",
-          "orcid": "https://orcid.org/0000-0002-3448-2832",
+          "orcid": "https://orcid.org/0000-0002-7338-1081",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -12186,80 +12186,103 @@
       "pmcid": "PMC6948919",
       "url": "https://europepmc.org/articles/PMC6948919",
       "fullTextUrl": "https://europepmc.org/articles/PMC6948919",
-      "bestOpenAccessUrl": "https://hdl.handle.net/20.500.11768/98374",
-      "openAlexId": "https://openalex.org/W7212085406",
-      "openAlexUrl": "https://openalex.org/W7212085406",
+      "bestOpenAccessUrl": "https://doi.org/10.1016/s2352-3026(19)30208-x",
+      "openAlexId": "https://openalex.org/W2981360631",
+      "openAlexUrl": "https://openalex.org/W2981360631",
       "abstract": "Background The success of unrelated haemopoietic cell transplantation (HCT) is limited by graft-versus-host disease (GVHD), which is the main post-transplantation challenge when HLA-matched donors are unavailable. A sequence dimorphism in exon 1 of HLA-B gives rise to leader peptides containing methionine (Met; M) or threonine (Thr; T), which differentially influence natural killer and T-cell alloresponses. The main aim of the study was to evaluate the role of the leader dimorphism in GVHD after HLA-B-mismatched unrelated HCT. Methods We did a retrospective cohort study of 33 982 patients who received an unrelated HCT done in Australia, Europe, Japan, North America, and the UK between Jan 1, 1988, and Dec 31, 2016. Data were contributed by participants of the International Histocompatibility Working Group in Hematopoietic Cell Transplantation. All cases were included and there were no exclusion criteria. Multivariate regression models were used to assess risks associated with HLA-A, HLA-B, HLA-C, HLA-DRB1, and HLA-DQB1 mismatching. Among the 33 982 transplantations, the risks of GVHD associated with HLA-B M and T leaders were established in 17 100 (50·3%) HLA-matched and 1457 (4·3%) single HLA-B-mismatched transplantations using multivariate regression models. Leader frequencies were defined in 2 004 742 BeTheMatch US registry donors. Findings Between Jan 20, 2017, and March 11, 2019, we assessed 33 982 HCTs using multivariate regression models for the role of HLA mismatching on outcome. Median follow-up was 1841 days (IQR 909-2963). Mortality and GVHD increased with increasing numbers of HLA mismatches. A single HLA-B mismatch increased grade 3-4 acute GVHD (odds ratio [OR] 1·89, 95% CI 1·53-2·33; p Interpretation The HLA-B leader informs GVHD risk after HLA-B-mismatched unrelated HCT and differentiates high-risk HLA-B mismatches from those with lower risk. The leader of the matched allotype could be considered to be as important as the leader of the mismatched allotype for GVHD. Prospective identification of leader-matched donors is feasible for most patients in need of a HCT, and could lower GVHD and increase availability of HCT therapy. These findings are being independently validated and warrant further research in prospective trials. Funding The National Institutes of Health, USA.",
       "authors": [
         {
           "name": "Effie Wang Petersdorf",
           "orcid": "https://orcid.org/0000-0002-6454-3683",
           "position": "first",
-          "corresponding": false,
-          "institutions": []
+          "corresponding": true,
+          "institutions": [
+            "University of Washington",
+            "Fred Hutch Cancer Center"
+          ]
         },
         {
-          "name": "Mary; https://orcid.org/0000-0002-2692-2180 Carrington",
-          "orcid": "",
+          "name": "Mary N Carrington",
+          "orcid": "https://orcid.org/0000-0002-2692-2180",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Ragon Institute of MGH, MIT and Harvard",
+            "Frederick National Laboratory for Cancer Research"
+          ]
         },
         {
           "name": "Colm Ó’hUigín",
           "orcid": "https://orcid.org/0000-0001-5404-5173",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Frederick National Laboratory for Cancer Research"
+          ]
         },
         {
           "name": "Mats Bengtsson",
           "orcid": "https://orcid.org/0000-0003-2612-0724",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Uppsala University"
+          ]
         },
         {
           "name": "Dianne De Santis",
           "orcid": "https://orcid.org/0000-0002-9676-2549",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Fiona Stanley Hospital"
+          ]
         },
         {
           "name": "Valérie Dubois",
           "orcid": "https://orcid.org/0000-0002-1169-7697",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Établissement Français du Sang"
+          ]
         },
         {
-          "name": "Ted Gooley",
-          "orcid": "",
+          "name": "Ted Alan Gooley",
+          "orcid": "https://orcid.org/0000-0002-8182-3652",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Fred Hutch Cancer Center"
+          ]
         },
         {
-          "name": "Mary Horowitz",
-          "orcid": "",
+          "name": "Mary M. Horowitz",
+          "orcid": "https://orcid.org/0000-0002-9502-785X",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Medical College of Wisconsin"
+          ]
         },
         {
-          "name": "Katharine Hsu",
-          "orcid": "",
+          "name": "Katharine C. Hsu",
+          "orcid": "https://orcid.org/0000-0003-2827-5324",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Memorial Sloan Kettering Cancer Center"
+          ]
         },
         {
-          "name": "J Alejandro Madrigal",
-          "orcid": "",
+          "name": "J. Alejandro Madrigal",
+          "orcid": "https://orcid.org/0000-0001-8359-9917",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Anthony Nolan",
+            "The Royal Free Hospital"
+          ]
         },
         {
           "name": "Martin J. Maiers",
@@ -12273,28 +12296,37 @@
           "orcid": "",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Fred Hutch Cancer Center"
+          ]
         },
         {
           "name": "Caroline McKallor",
           "orcid": "https://orcid.org/0000-0003-2161-8259",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Fred Hutch Cancer Center"
+          ]
         },
         {
           "name": "Yasuo Morishima",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Aichi Medical University"
+          ]
         },
         {
           "name": "Machteld Oudshoorn",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Leiden University",
+            "Leiden University Medical Center"
+          ]
         },
         {
           "name": "Stephen R. Spellman",
@@ -12308,627 +12340,794 @@
           "orcid": "https://orcid.org/0000-0003-2667-7506",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "University Hospital of Geneva"
+          ]
         },
         {
           "name": "Phil Stevenson",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Fred Hutch Cancer Center"
+          ]
         },
         {
-          "name": "Maiers M.",
-          "orcid": "",
+          "name": "Effie Wang Petersdorf",
+          "orcid": "https://orcid.org/0000-0002-6454-3683",
+          "position": "middle",
+          "corresponding": true,
+          "institutions": [
+            "University of Washington",
+            "Fred Hutch Cancer Center"
+          ]
+        },
+        {
+          "name": "Mary N Carrington",
+          "orcid": "https://orcid.org/0000-0002-2692-2180",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Ragon Institute of MGH, MIT and Harvard",
+            "Frederick National Laboratory for Cancer Research"
+          ]
+        },
+        {
+          "name": "Colm Ó’hUigín",
+          "orcid": "https://orcid.org/0000-0001-5404-5173",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Frederick National Laboratory for Cancer Research"
+          ]
+        },
+        {
+          "name": "Mats Bengtsson",
+          "orcid": "https://orcid.org/0000-0003-2612-0724",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Uppsala University"
+          ]
+        },
+        {
+          "name": "Dianne De Santis",
+          "orcid": "https://orcid.org/0000-0002-9676-2549",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Fiona Stanley Hospital"
+          ]
+        },
+        {
+          "name": "Valérie Dubois",
+          "orcid": "https://orcid.org/0000-0002-1169-7697",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Établissement Français du Sang"
+          ]
+        },
+        {
+          "name": "Ted Alan Gooley",
+          "orcid": "https://orcid.org/0000-0002-8182-3652",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Fred Hutch Cancer Center"
+          ]
+        },
+        {
+          "name": "Mary M. Horowitz",
+          "orcid": "https://orcid.org/0000-0002-9502-785X",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Medical College of Wisconsin"
+          ]
+        },
+        {
+          "name": "Katharine C. Hsu",
+          "orcid": "https://orcid.org/0000-0003-2827-5324",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Memorial Sloan Kettering Cancer Center"
+          ]
+        },
+        {
+          "name": "J. Alejandro Madrigal",
+          "orcid": "https://orcid.org/0000-0001-8359-9917",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Anthony Nolan",
+            "The Royal Free Hospital"
+          ]
+        },
+        {
+          "name": "Martin J. Maiers",
+          "orcid": "https://orcid.org/0000-0002-0198-2064",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Spellman S.",
+          "name": "Mari Malkki",
           "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Fred Hutch Cancer Center"
+          ]
+        },
+        {
+          "name": "Caroline McKallor",
+          "orcid": "https://orcid.org/0000-0003-2161-8259",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Fred Hutch Cancer Center"
+          ]
+        },
+        {
+          "name": "Yasuo Morishima",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Aichi Medical University"
+          ]
+        },
+        {
+          "name": "Machteld Oudshoorn",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University",
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Stephen R. Spellman",
+          "orcid": "https://orcid.org/0000-0002-7271-8252",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Apperley J.",
+          "name": "Jean Villard",
+          "orcid": "https://orcid.org/0000-0003-2667-7506",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Hospital of Geneva"
+          ]
+        },
+        {
+          "name": "Phil Stevenson",
           "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Fred Hutch Cancer Center"
+          ]
+        },
+        {
+          "name": "Jane F. Apperley",
+          "orcid": "https://orcid.org/0000-0002-1710-1794",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Bardy P.",
+          "name": "Peter Bardy",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "University of Washington",
+            "Fred Hutch Cancer Center"
+          ]
         },
         {
-          "name": "Bernard G.",
-          "orcid": "",
+          "name": "Ghislaine Bernard",
+          "orcid": "https://orcid.org/0000-0002-7026-7283",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
           "name": "Yves Bertrand",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-4693-1671",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Bloor A.",
-          "orcid": "",
+          "name": "Adrian John Clifton Bloor",
+          "orcid": "https://orcid.org/0000-0003-4550-220X",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Bonini C.",
-          "orcid": "",
+          "name": "Chiara Bonini",
+          "orcid": "https://orcid.org/0000-0002-0772-1674",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Buhler S.",
-          "orcid": "",
+          "name": "Stéphane Bühler",
+          "orcid": "https://orcid.org/0000-0001-6675-5287",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Bungener L.",
-          "orcid": "",
+          "name": "Laura B Bungener",
+          "orcid": "https://orcid.org/0000-0001-5016-5792",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Campbell H.",
+          "name": "Helen Campbell",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Carlson K.",
-          "orcid": "",
+          "name": "Kristina Elisabet Carlson",
+          "orcid": "https://orcid.org/0000-0002-0303-1350",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Carpenter B.",
-          "orcid": "",
+          "name": "Ben Carpenter",
+          "orcid": "https://orcid.org/0000-0002-7914-0799",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Uppsala University"
+          ]
         },
         {
-          "name": "Cesbron A.",
-          "orcid": "",
+          "name": "Anne Cesbron",
+          "orcid": "https://orcid.org/0000-0002-1201-3429",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Fiona Stanley Hospital"
+          ]
         },
         {
-          "name": "Chabannon C.",
-          "orcid": "",
+          "name": "Christian Chabannon",
+          "orcid": "https://orcid.org/0000-0002-3755-4889",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Chalandon Y.",
-          "orcid": "",
+          "name": "Yves Chalandon",
+          "orcid": "https://orcid.org/0000-0001-9341-8104",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Chapman J.",
-          "orcid": "",
+          "name": "Jeremy Robert Chapman",
+          "orcid": "https://orcid.org/0000-0002-8089-2250",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Chebel R.",
+          "name": "Réda Chebel",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Chevallier P.",
-          "orcid": "",
+          "name": "Patrice Chevallier",
+          "orcid": "https://orcid.org/0000-0003-3142-5581",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Choi G.",
+          "name": "Gerda Choi",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Collin M.",
+          "name": "Matt Collin",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Cornelissen J. J.",
-          "orcid": "",
+          "name": "Jan J. Cornelissen",
+          "orcid": "https://orcid.org/0000-0002-1864-4598",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Crawley C.",
+          "name": "Charles R. Crawley",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "D'Orsogna L.",
-          "orcid": "",
+          "name": "Lloyd J. A. D'Orsogna",
+          "orcid": "https://orcid.org/0000-0002-6824-4189",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Dalle J. -H.",
-          "orcid": "",
+          "name": "Jean‐Hugues Dalle",
+          "orcid": "https://orcid.org/0000-0002-8406-0793",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Deconinck E.",
-          "orcid": "",
+          "name": "Éric Deconinck",
+          "orcid": "https://orcid.org/0000-0002-6006-8088",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "DeMatteis M.",
+          "name": "Muriel DeMatteis",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Diviney M.",
-          "orcid": "",
+          "name": "Mary B. Diviney",
+          "orcid": "https://orcid.org/0000-0001-9079-5502",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Medical College of Wisconsin"
+          ]
         },
         {
-          "name": "Dormoy A.",
+          "name": "Anne Dormoy",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Fiona Stanley Hospital"
+          ]
         },
         {
-          "name": "Gagne K.",
-          "orcid": "",
+          "name": "Katia Gagne",
+          "orcid": "https://orcid.org/0000-0002-4467-5961",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Gibson B.",
+          "name": "Brenda E. S. Gibson",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Gilleece M.",
-          "orcid": "",
+          "name": "Maria Helena Gilleece",
+          "orcid": "https://orcid.org/0000-0003-0364-3573",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Gottlieb D.",
-          "orcid": "",
+          "name": "David J. Gottlieb",
+          "orcid": "https://orcid.org/0000-0001-5807-1766",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Gribben J.",
-          "orcid": "",
+          "name": "John G. Gribben",
+          "orcid": "https://orcid.org/0000-0002-8505-7430",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Gungor T.",
-          "orcid": "",
+          "name": "Tayfun Güngör",
+          "orcid": "https://orcid.org/0000-0002-3261-1186",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Haagenson M.",
+          "name": "Mike Haagenson",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Hart C.",
+          "name": "Cathie Hart",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Holdsworth R.",
+          "name": "Rhonda F. Holdsworth",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Humphreys I.",
+          "name": "Ian Humphreys",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Fiona Stanley Hospital"
+          ]
         },
         {
-          "name": "Kodera Y.",
-          "orcid": "",
+          "name": "Yoshihisa Kodera",
+          "orcid": "https://orcid.org/0000-0002-6173-7474",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Koh M.",
-          "orcid": "",
+          "name": "Mickey Koh",
+          "orcid": "https://orcid.org/0000-0002-4368-2502",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Labussiere-Wallet H.",
+          "name": "Hélène Labussière‐Wallet",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Lankester A. C.",
-          "orcid": "",
+          "name": "Arjan C. Lankester",
+          "orcid": "https://orcid.org/0000-0002-6703-2993",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Lardy N.",
+          "name": "Neubery Lardy",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Lawson S.",
-          "orcid": "",
+          "name": "Sarah Lawson",
+          "orcid": "https://orcid.org/0000-0002-0514-8077",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Leleu X.",
-          "orcid": "",
+          "name": "Xavier P Leleu",
+          "orcid": "https://orcid.org/0000-0002-9822-4170",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "MacKinnon S.",
-          "orcid": "",
+          "name": "Stephen Mackinnon",
+          "orcid": "https://orcid.org/0000-0002-6289-4295",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Malladi R.",
-          "orcid": "",
+          "name": "Ram K. Malladi",
+          "orcid": "https://orcid.org/0000-0002-0242-630X",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Marsh S. G.",
-          "orcid": "",
+          "name": "Steven G. E. Marsh",
+          "orcid": "https://orcid.org/0000-0003-2855-4120",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Martin M.",
+          "name": "Murray Martin",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Mayor N. P.",
-          "orcid": "",
+          "name": "Neema P. Mayor",
+          "orcid": "https://orcid.org/0000-0002-9226-143X",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "McQuaker I. G.",
+          "name": "I. Grant McQuaker",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Meijer E.",
-          "orcid": "",
+          "name": "Ellen Meijer",
+          "orcid": "https://orcid.org/0000-0002-6442-6575",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Morishima S.",
-          "orcid": "",
+          "name": "Satoko Morishima",
+          "orcid": "https://orcid.org/0000-0002-7391-4271",
           "position": "middle",
           "corresponding": false,
-          "institutions": []
+          "institutions": [
+            "Aichi Medical University"
+          ]
         },
         {
-          "name": "Nikolousis E.",
-          "orcid": "",
+          "name": "Emmanouil Nikolousis",
+          "orcid": "https://orcid.org/0000-0002-2658-0782",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Orchard K.",
-          "orcid": "",
+          "name": "Kim H. Orchard",
+          "orcid": "https://orcid.org/0000-0003-2276-3925",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Passweg J.",
+          "name": "Jacob Passweg",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Patel A.",
-          "orcid": "",
+          "name": "Amit K. Patel",
+          "orcid": "https://orcid.org/0000-0003-2518-8970",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Patrick K.",
+          "name": "Katherine Patrick",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Pedron B.",
-          "orcid": "",
+          "name": "Béatrice Pédron",
+          "orcid": "https://orcid.org/0009-0007-5493-7420",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Peniket A.",
-          "orcid": "",
+          "name": "Andy Peniket",
+          "orcid": "https://orcid.org/0000-0002-6833-9882",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Perry J.",
+          "name": "Julia Perry",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Petersen E.",
-          "orcid": "",
+          "name": "Eefke J. Petersen",
+          "orcid": "https://orcid.org/0000-0001-7885-9163",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Potter V.",
-          "orcid": "",
+          "name": "Victoria T. Potter",
+          "orcid": "https://orcid.org/0000-0002-7108-5297",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Potter M.",
-          "orcid": "",
+          "name": "Mike N. Potter",
+          "orcid": "https://orcid.org/0009-0003-1862-9210",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Protheroe R.",
+          "name": "Rachel Elizabeth Protheroe",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Raus N.",
+          "name": "Nicole Raus",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Ruiz de Elvira C.",
+          "name": "Carmen Ruiz de Elvira",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Russell N.",
-          "orcid": "",
+          "name": "Nigel H. Russell",
+          "orcid": "https://orcid.org/0000-0003-1893-8155",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Schaap N. P.",
+          "name": "Nicholaas PM Schaap",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Schanz U.",
-          "orcid": "",
+          "name": "Urs Schanz",
+          "orcid": "https://orcid.org/0000-0003-1942-8392",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Schouten H.",
+          "name": "Harry Schouten",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Skinner R.",
+          "name": "Rod Skinner",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Snowden J.",
-          "orcid": "",
+          "name": "John Andrew Snowden",
+          "orcid": "https://orcid.org/0000-0001-6819-3476",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Spierings E.",
-          "orcid": "",
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Steward C.",
-          "orcid": "",
+          "name": "Colin G. Steward",
+          "orcid": "https://orcid.org/0000-0001-6291-0710",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Tholouli E.",
-          "orcid": "",
+          "name": "Eleni Tholouli",
+          "orcid": "https://orcid.org/0000-0002-4940-639X",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Thornton A.",
+          "name": "Alycia Thornton",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Tilanus M.",
-          "orcid": "",
+          "name": "Marcel G.J. Tilanus",
+          "orcid": "https://orcid.org/0000-0001-9214-392X",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "van de Meer A.",
+          "name": "Arnold van der Meer",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Veelkens H.",
+          "name": "Hendrik Veelkens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Veys P.",
-          "orcid": "",
+          "name": "Paul A. Veys",
+          "orcid": "https://orcid.org/0000-0001-5022-692X",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Watson N.",
+          "name": "Narelle Watson",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Weston L.",
+          "name": "Lyanne Weston",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Wilson K.",
-          "orcid": "",
+          "name": "Keith M. O. Wilson",
+          "orcid": "https://orcid.org/0000-0002-1288-1293",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Wilson M.",
+          "name": "Marie C. Wilson",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Wynn R.",
-          "orcid": "",
+          "name": "Robert Wynn",
+          "orcid": "https://orcid.org/0000-0002-6046-8428",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Zsiros J.",
-          "orcid": "",
+          "name": "József Zsíros",
+          "orcid": "https://orcid.org/0000-0002-6716-4347",
           "position": "last",
           "corresponding": false,
           "institutions": []
@@ -12968,33 +13167,75 @@
         "acute graft-versus-host disease",
         "HLA-A mismatch",
         "HLA-C mismatch",
-        "donor selection",
-        "post-transplant mortality"
+        "mortality"
       ],
       "openAlexTopics": [
         {
           "name": "Hematopoietic Stem Cell Transplantation",
-          "score": 0.9990000128746033
+          "score": 0.9984999895095825
         },
         {
           "name": "Renal Transplantation Outcomes and Treatments",
-          "score": 0.0005000000237487257
+          "score": 0.0006000000284984708
         },
         {
           "name": "Transplantation: Methods and Outcomes",
           "score": 0.00019999999494757503
         }
       ],
-      "citedByCount": 1,
+      "citedByCount": 96,
       "countsByYear": [
         {
           "year": 2026,
+          "cited_by_count": 13
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 14
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 14
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 13
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 17
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2016,
           "cited_by_count": 1
         }
       ],
       "isOpenAccess": true,
-      "openAccessStatus": "green",
-      "relatedOpenAlexWorks": []
+      "openAccessStatus": "bronze",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W2062395814",
+        "https://openalex.org/W2008822276",
+        "https://openalex.org/W1818391973",
+        "https://openalex.org/W2055853182",
+        "https://openalex.org/W2945996793",
+        "https://openalex.org/W122233079",
+        "https://openalex.org/W2187942506",
+        "https://openalex.org/W634595394",
+        "https://openalex.org/W2010761595",
+        "https://openalex.org/W2021643051"
+      ]
     },
     {
       "putCode": 225651338,
@@ -24645,7 +24886,7 @@
       "pmcid": "PMC5147017",
       "url": "https://europepmc.org/articles/PMC5147017",
       "fullTextUrl": "https://europepmc.org/articles/PMC5147017",
-      "bestOpenAccessUrl": "https://doi.org/10.1182/blood-2016-05-719070",
+      "bestOpenAccessUrl": "http://www.bloodjournal.org/content/bloodjournal/128/15/1979.full.pdf",
       "openAlexId": "https://openalex.org/W2511359521",
       "openAlexUrl": "https://openalex.org/W2511359521",
       "abstract": "Graft-versus-host disease (GVHD) is among the most challenging complications in unrelated donor hematopoietic cell transplantation (HCT). The highly polymorphic MHC class I chain-related gene A, MICA, encodes a stress-induced glycoprotein expressed primarily on epithelia. MICA interacts with the invariant activating receptor NKG2D, expressed by cytotoxic lymphocytes, and is located in the MHC, next to HLA-B Hence, MICA has the requisite attributes of a bona fide transplantation antigen. Using high-resolution sequence-based genotyping of MICA, we retrospectively analyzed the clinical effect of MICA mismatches in a multicenter cohort of 922 unrelated donor HLA-A, HLA-B, HLA-C, HLA-DRB1, and HLA-DQB1 10/10 allele-matched HCT pairs. Among the 922 pairs, 113 (12.3%) were mismatched in MICA MICA mismatches were significantly associated with an increased incidence of grade III-IV acute GVHD (hazard ratio [HR], 1.83; 95% confidence interval [CI], 1.50-2.23; P < .001), chronic GVHD (HR, 1.50; 95% CI, 1.45-1.55; P < .001), and nonelapse mortality (HR, 1.35; 95% CI, 1.24-1.46; P < .001). The increased risk for GVHD was mirrored by a lower risk for relapse (HR, 0.50; 95% CI, 0.43-0.59; P < .001), indicating a possible graft-versus-leukemia effect. In conclusion, when possible, selecting a MICA-matched donor significantly influences key clinical outcomes of HCT in which a marked reduction of GVHD is paramount. The tight linkage disequilibrium between MICA and HLA-B renders identifying a MICA-matched donor readily feasible in clinical practice.",
@@ -25002,7 +25243,7 @@
         },
         {
           "name": "Myriam Labopin",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-4514-4748",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -25060,7 +25301,7 @@
         },
         {
           "name": "Mauricette Michallet",
-          "orcid": "https://orcid.org/0000-0002-3448-2832",
+          "orcid": "https://orcid.org/0000-0002-7338-1081",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -25188,8 +25429,8 @@
           ]
         },
         {
-          "name": "Gerard P Socie",
-          "orcid": "https://orcid.org/0000-0003-3819-8641",
+          "name": "Gèrard Socié",
+          "orcid": "https://orcid.org/0000-0002-2114-7533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -25327,7 +25568,7 @@
         }
       ],
       "isOpenAccess": true,
-      "openAccessStatus": "bronze",
+      "openAccessStatus": "green",
       "relatedOpenAlexWorks": [
         "https://openalex.org/W2381567441",
         "https://openalex.org/W3111171798",
@@ -37022,7 +37263,7 @@
         },
         {
           "name": "Yves Bertrand",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-4693-1671",
           "position": "middle",
           "corresponding": false,
           "institutions": [
