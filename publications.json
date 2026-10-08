@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-07T11:07:57.548Z",
+  "generatedAt": "2026-10-08T11:26:30.138Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -22485,8 +22485,8 @@
           "institutions": []
         },
         {
-          "name": "Ineke ten Berge",
-          "orcid": "",
+          "name": "Ineke J. M. ten Berge",
+          "orcid": "https://orcid.org/0000-0001-8535-2766",
           "position": "middle",
           "corresponding": false,
           "institutions": []
