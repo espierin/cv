@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-10T10:39:08.423Z",
+  "generatedAt": "2026-10-11T10:52:30.525Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -26617,7 +26617,7 @@
           ]
         },
         {
-          "name": "Roel A. de Weger",
+          "name": "Roel de Weger",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -28037,7 +28037,7 @@
           ]
         },
         {
-          "name": "H M Lokhorst",
+          "name": "Henk M. Lokhorst",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -30558,8 +30558,8 @@
           ]
         },
         {
-          "name": "Maarten Christiaans",
-          "orcid": "",
+          "name": "Maarten H. L. Christiaans",
+          "orcid": "https://orcid.org/0000-0003-3558-2277",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -31820,8 +31820,8 @@
       "abstract": "The HLA-B*44:02:27 allele strongly resembles the HLA-B*44:02:01:01 allele with respect to HLA-C association and haplotype constitution.",
       "authors": [
         {
-          "name": "Marnix van Soest",
-          "orcid": "https://orcid.org/0009-0005-2131-9883",
+          "name": "M. van Soest",
+          "orcid": "",
           "position": "first",
           "corresponding": false,
           "institutions": [
@@ -32201,8 +32201,8 @@
           ]
         },
         {
-          "name": "D. van Baarle",
-          "orcid": "",
+          "name": "Debbie van Baarle",
+          "orcid": "https://orcid.org/0000-0001-5463-818X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -32237,7 +32237,7 @@
           ]
         },
         {
-          "name": "H M Lokhorst",
+          "name": "Henk M. Lokhorst",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
