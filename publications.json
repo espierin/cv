@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-11T10:52:30.525Z",
+  "generatedAt": "2026-10-12T12:04:50.411Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -3853,7 +3853,7 @@
           ]
         },
         {
-          "name": "Cornelis E. Hack",
+          "name": "C. Erik Hack",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -4000,7 +4000,7 @@
           ]
         },
         {
-          "name": "Elly M. van Duijnhoven",
+          "name": "E.M. van Duijnhoven",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -4377,7 +4377,7 @@
           ]
         },
         {
-          "name": "Cornelis E. Hack",
+          "name": "C. Erik Hack",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -4534,7 +4534,7 @@
           ]
         },
         {
-          "name": "Elly M. van Duijnhoven",
+          "name": "E.M. van Duijnhoven",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -7634,8 +7634,8 @@
       "abstract": "It is our pleasure to welcome you to Amsterdam for the 35 th European Immunogenetics and Histocompatibility Conference. It has been three years since our last in-person EFI conference held in Lisbon, so we are looking forward to meeting you again. This EFI conference will be the first ever hybrid EFI conference, so we hope this will allow everybody to be able to join, regardless of local travel restrictions. In the challenging times we live in, our conference motto ‘acceptance, tolerance and permissiveness’ seems more relevant than ever. Together with the EFI Scientific Committee and Education Committee, we have put together a program that will encompass this motto. This year, 293 abstracts were submitted to the Scientific Committee for review with authors from 52 countries. We sincerely hope that everyone will enjoy the possibility for an in-person meeting, and will learn from the plenary, teaching, oral abstract and poster sessions that we have put together. We are very appreciative of all our great line-up of speakers, as well as the chairs of the different sessions for their time and contribution to this conference. We are especially grateful to our corporate sponsors, who have continued to support us in difficult times, and without whom this conference would not be possible. We would also like to thank the EFI Executive Committee for helping us to create the best possible meeting, regardless of possible Covid-19 related restrictions. We look forward to a fruitful conference that will update us on the most recent research in our field of Histocompatibility and Immunogenetics. We are confident that you will enjoy your visit to Amsterdam, the most tolerogenic city in the world, and that EFI2022 will bring you lots of new knowledge and friendship.",
       "authors": [
         {
-          "name": "Spierings, E.",
-          "orcid": "",
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
           "position": "first",
           "corresponding": false,
           "institutions": []
@@ -7655,7 +7655,9 @@
           "institutions": []
         }
       ],
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "first"
+      ],
       "volumeIssuePages": "vol. 99, no. 5, pp. 415-415",
       "categories": [
         "matching",
@@ -8377,8 +8379,8 @@
           ]
         },
         {
-          "name": "Nine Knoers",
-          "orcid": "",
+          "name": "Nine V.A.M. Knoers",
+          "orcid": "https://orcid.org/0000-0001-7454-7795",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -9269,7 +9271,7 @@
           ]
         },
         {
-          "name": "Elly M. van Duijnhoven",
+          "name": "E.M. van Duijnhoven",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -10120,9 +10122,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1167/iovs.62.9.19",
       "pmid": "34254975",
-      "pmcid": "PMC8287043",
+      "pmcid": null,
       "url": "https://europepmc.org/articles/PMC8287043",
-      "fullTextUrl": "https://europepmc.org/articles/PMC8287043",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1167/iovs.62.9.19",
       "openAlexId": "https://openalex.org/W3180857080",
       "openAlexUrl": "https://openalex.org/W3180857080",
@@ -13014,8 +13016,8 @@
           "institutions": []
         },
         {
-          "name": "Harry Schouten",
-          "orcid": "",
+          "name": "Harry C. Schouten",
+          "orcid": "https://orcid.org/0000-0002-2384-4797",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -13616,7 +13618,7 @@
           ]
         },
         {
-          "name": "Cornelis E. Hack",
+          "name": "C. Erik Hack",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -13786,7 +13788,7 @@
           ]
         },
         {
-          "name": "Elly M. van Duijnhoven",
+          "name": "E.M. van Duijnhoven",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -14217,7 +14219,7 @@
           ]
         },
         {
-          "name": "Cornelis E. Hack",
+          "name": "C. Erik Hack",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -14374,7 +14376,7 @@
           ]
         },
         {
-          "name": "Elly M. van Duijnhoven",
+          "name": "E.M. van Duijnhoven",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -14771,7 +14773,7 @@
           ]
         },
         {
-          "name": "Cornelis E. Hack",
+          "name": "C. Erik Hack",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -14911,7 +14913,7 @@
           ]
         },
         {
-          "name": "Elizabeth M van Duijnhoven",
+          "name": "E.M. van Duijnhoven",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -15832,7 +15834,7 @@
           ]
         },
         {
-          "name": "Cornelis E. Hack",
+          "name": "C. Erik Hack",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -15972,7 +15974,7 @@
           ]
         },
         {
-          "name": "Elizabeth M van Duijnhoven",
+          "name": "E.M. van Duijnhoven",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -16789,7 +16791,7 @@
           ]
         },
         {
-          "name": "Cornelis E. Hack",
+          "name": "C. Erik Hack",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -16943,7 +16945,7 @@
           ]
         },
         {
-          "name": "Elly M. van Duijnhoven",
+          "name": "E.M. van Duijnhoven",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -17861,7 +17863,7 @@
           ]
         },
         {
-          "name": "Claudia Mueller",
+          "name": "Claudia A. Müller",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -18393,7 +18395,7 @@
           ]
         },
         {
-          "name": "Cornelis E. Hack",
+          "name": "C. Erik Hack",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -18565,7 +18567,7 @@
           ]
         },
         {
-          "name": "Elly M. van Duijnhoven",
+          "name": "E.M. van Duijnhoven",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -19333,8 +19335,8 @@
           ]
         },
         {
-          "name": "Christien E.M. Voorter",
-          "orcid": "",
+          "name": "Christina E.M. Voorter",
+          "orcid": "https://orcid.org/0000-0001-5839-7889",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -19727,7 +19729,7 @@
           "institutions": []
         },
         {
-          "name": "Cornelis E. Hack",
+          "name": "C. Erik Hack",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -19854,7 +19856,7 @@
           "institutions": []
         },
         {
-          "name": "Elly M. van Duijnhoven",
+          "name": "E.M. van Duijnhoven",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -20714,7 +20716,7 @@
           ]
         },
         {
-          "name": "Elly M. van Duijnhoven",
+          "name": "E.M. van Duijnhoven",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -21980,7 +21982,7 @@
           ]
         },
         {
-          "name": "H M Lokhorst",
+          "name": "Henk M. Lokhorst",
           "orcid": "",
           "position": "last",
           "corresponding": false,
@@ -22247,8 +22249,8 @@
           ]
         },
         {
-          "name": "Arjan van Zuilen",
-          "orcid": "",
+          "name": "Arjan D. van Zuilen",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -23158,8 +23160,8 @@
           ]
         },
         {
-          "name": "Hanneke van Deutekom",
-          "orcid": "",
+          "name": "Hanneke W. M. van Deutekom",
+          "orcid": "https://orcid.org/0000-0002-2429-1098",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -23403,7 +23405,7 @@
           ]
         },
         {
-          "name": "Tineke Aarts",
+          "name": "Tineke Aarts‐Riemens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -23460,7 +23462,7 @@
           ]
         },
         {
-          "name": "H M Lokhorst",
+          "name": "Henk M. Lokhorst",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -25110,7 +25112,7 @@
         },
         {
           "name": "Ryad Tamouza",
-          "orcid": "https://orcid.org/0000-0001-6732-6062",
+          "orcid": "https://orcid.org/0000-0003-3992-9565",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -25766,8 +25768,8 @@
           ]
         },
         {
-          "name": "B. G. Hepkema",
-          "orcid": "",
+          "name": "Bouke G. Hepkema",
+          "orcid": "https://orcid.org/0000-0002-3906-9887",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -25824,8 +25826,8 @@
           ]
         },
         {
-          "name": "Christien E.M. Voorter",
-          "orcid": "",
+          "name": "Christina E.M. Voorter",
+          "orcid": "https://orcid.org/0000-0001-5839-7889",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -26211,8 +26213,8 @@
           ]
         },
         {
-          "name": "Annet van Royen",
-          "orcid": "",
+          "name": "Annet van Royen‐Kerkhof",
+          "orcid": "https://orcid.org/0009-0009-6874-4421",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -26608,7 +26610,7 @@
           ]
         },
         {
-          "name": "Talitha A. de Hoop",
+          "name": "Talitha de Hoop",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -27000,8 +27002,8 @@
           ]
         },
         {
-          "name": "Ineke Slaper",
-          "orcid": "",
+          "name": "Ineke Slaper‐Cortenbach",
+          "orcid": "https://orcid.org/0000-0002-0085-4490",
           "position": "middle",
           "corresponding": true,
           "institutions": [
@@ -27923,7 +27925,7 @@
           ]
         },
         {
-          "name": "Roel A. de Weger",
+          "name": "Roel de Weger",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -28421,7 +28423,7 @@
           ]
         },
         {
-          "name": "Talitha A. de Hoop",
+          "name": "Talitha de Hoop",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -28620,7 +28622,7 @@
           ]
         },
         {
-          "name": "Roel A. de Weger",
+          "name": "Roel de Weger",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -28922,8 +28924,8 @@
       "abstract": "Kidney transplantation is the best treatment option for patients with end-stage renal failure. At present, approximately 800 Dutch patients are registered on the active waiting list of Eurotransplant. The waiting time in the Netherlands for a kidney from a deceased donor is on average between 3 and 4 years. During this period, patients are fully dependent on dialysis, which replaces only partly the renal function, whereas the quality of life is limited. Mortality among patients on the waiting list is high. In order to increase the number of kidney donors, several initiatives have been undertaken by the Dutch Kidney Foundation including national calls for donor registration and providing information on organ donation and kidney transplantation. The aim of the national PROCARE consortium is to develop improved matching algorithms that will lead to a prolonged survival of transplanted donor kidneys and a reduced HLA immunization. The latter will positively affect the waiting time for a retransplantation. The present algorithm for allocation is among others based on matching for HLA antigens, which were originally defined by antibodies using serological typing techniques. However, several studies suggest that this algorithm needs adaptation and that other immune parameters which are currently not included may assist in improving graft survival rates. We will employ a multicenter-based evaluation on 5429 patients transplanted between 1995 and 2005 in the Netherlands. The association between key clinical endpoints and selected laboratory defined parameters will be examined, including Luminex-defined HLA antibody specificities, T and B cell epitopes recognized on the mismatched HLA antigens, non-HLA antibodies, and also polymorphisms in complement and Fc receptors functionally associated with effector functions of anti-graft antibodies. From these data, key parameters determining the success of kidney transplantation will be identified which will lead to the identification of additional parameters to be included in future matching algorithms aiming to extend survival of transplanted kidneys and to diminish HLA immunization. Computer simulation studies will reveal the number of patients having a direct benefit from improved matching, the effect on shortening of the waiting list, and the decrease in waiting time.",
       "authors": [
         {
-          "name": "Henderikus G. Otten",
-          "orcid": "",
+          "name": "Henny G. Otten",
+          "orcid": "https://orcid.org/0000-0002-6927-2683",
           "position": "first",
           "corresponding": true,
           "institutions": [
@@ -28994,7 +28996,7 @@
           ]
         },
         {
-          "name": "F. van Reekum",
+          "name": "Franka E. van Reekum",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -29048,8 +29050,8 @@
           ]
         },
         {
-          "name": "B.G. Hepkema",
-          "orcid": "",
+          "name": "Bouke G. Hepkema",
+          "orcid": "https://orcid.org/0000-0002-3906-9887",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -29102,8 +29104,8 @@
           ]
         },
         {
-          "name": "Christien E.M. Voorter",
-          "orcid": "",
+          "name": "Christina E.M. Voorter",
+          "orcid": "https://orcid.org/0000-0001-5839-7889",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -29664,8 +29666,8 @@
           ]
         },
         {
-          "name": "J.H.E. Kuball",
-          "orcid": "",
+          "name": "Jurgen H. E. Kuball",
+          "orcid": "https://orcid.org/0000-0002-3914-7806",
           "position": "last",
           "corresponding": false,
           "institutions": [
@@ -29771,8 +29773,8 @@
           ]
         },
         {
-          "name": "Hanneke van Deutekom",
-          "orcid": "",
+          "name": "Hanneke W. M. van Deutekom",
+          "orcid": "https://orcid.org/0000-0002-2429-1098",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -31668,8 +31670,8 @@
           ]
         },
         {
-          "name": "Roderick Houwen",
-          "orcid": "",
+          "name": "Roderick H.J. Houwen",
+          "orcid": "https://orcid.org/0000-0001-6124-7937",
           "position": "last",
           "corresponding": true,
           "institutions": [
@@ -31838,7 +31840,7 @@
           ]
         },
         {
-          "name": "Anko de Graaff",
+          "name": "Anko M. de Graaff",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -33391,8 +33393,8 @@
           "institutions": []
         },
         {
-          "name": "Roderick Houwen",
-          "orcid": "",
+          "name": "Roderick H.J. Houwen",
+          "orcid": "https://orcid.org/0000-0001-6124-7937",
           "position": "last",
           "corresponding": false,
           "institutions": []
@@ -33958,7 +33960,7 @@
       "abstract": "Abstract Abstract 3046 Introduction For numerous malignant and non-malignant hematological diseases allogeneic hematopoietic stem cell transplantation (HSCT) is the only curative therapy. However, a major complication is the acute graft versus host disease (aGVHD), which is life-threatening and substantially reduces efficacy of HSCT. In particular, the outcome for patients with severe steroid-resistant aGVHD is very poor. Therefore, it remains important to search for new therapeutic strategies for the treatment of aGVHD. Objective Feasibility of the generation mesenchymal stroma cells (MSCs) expanded with human plasma and platelet lysate (hPPL) was tested as well as the feasibility and safety of the application of MSCs in patients with steroid-refractory extensive aGVHD. Method In an open-label, non-randomized prospective phase I/II study MSCs were extracted from the bone marrow of healthy volunteers, expanded with human plasma and platelet lysate (hPPL), and stored. Patients with steroid-refractory extensive aGVHD were treated with ∼2×106/kg MSC. Response rate, transplantation-related deaths, and other adverse events were assessed for up to 12 months after the last infusion of the cells. Results Between January 2009 and December 2010, 18 patients were treated, 5 children and 13 adults, median age was 32.5 years (range 1.3–65.9). Organ involvement of the aGVHD was 67% skin, 83% gastro-intestinal and 28% liver. Overall grade was II for 4 (22%), III for 13 (72%), and IV for 1(6%) patients. 1 patient received one infusion, all other patients received two or more infusions. No patient had side-effects during or immediately after infusions of the MSC. Median follow-up was 5.5 months (range 0.33–12). Complete overall response was observed in 11 (61%) patients after a median of 65 days (range 10–184 days). The overall survival was significant better (p <0.001) compared to non-responders. Of the 11 patients who reached a CR, 8 relapsed median 59 days (1–244) after reaching CR. Three children with subsequently limited cGVHD, allo immune lung and auto-immune cytopenia and 5 adults with all relapse GVHD of the gut, median 98 days (35–302 days). However, GVHD of the gut was then sensitive for the treatment with steroids. Overall, 7 patients died, 4 due to progression of aGVHD, 1 patient due to abdominal bleeding and 2 due to sepsis. Conclusion Generation and infusion of MSCs in steroid-resistant aGVHD grade II- IV is a feasible, safe and very effective. In addition, also patients who initially responded to MSCs but develop later a relapse of aGVHD during tapering or cessation of immunosuppressive drugs become again sensitive to the treatment with steroids. Disclosures: No relevant conflicts of interest to declare.",
       "authors": [
         {
-          "name": "Liane CJ te Boome",
+          "name": "Liane C. J. te Boome",
           "orcid": "",
           "position": "first",
           "corresponding": false,
