@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-12T12:04:50.411Z",
+  "generatedAt": "2026-10-13T11:53:24.286Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -3213,7 +3213,7 @@
     },
     {
       "putCode": 169753118,
-      "title": "Paternal HLA ‐Derived Epitopes and Live Birth in Secondary Recurrent Pregnancy Loss: New Insights From a Clinical Trial",
+      "title": "Paternal HLA-Derived Epitopes and Live Birth in Secondary Recurrent Pregnancy Loss: New Insights From a Clinical Trial.",
       "year": 2024,
       "sortDate": "2024-10-00",
       "journal": "HLA",
@@ -3730,7 +3730,7 @@
     },
     {
       "putCode": 149814801,
-      "title": "Ellipro scores of donor epitope specific HLA antibodies are not associated with kidney graft survival",
+      "title": "Ellipro scores of donor epitope specific HLA antibodies are not associated with kidney graft survival.",
       "year": 2024,
       "sortDate": "2024-01-00",
       "journal": "HLA",
@@ -3854,7 +3854,7 @@
         },
         {
           "name": "C. Erik Hack",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0000-7281-8002",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -4378,7 +4378,7 @@
         },
         {
           "name": "C. Erik Hack",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0000-7281-8002",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -5649,231 +5649,6 @@
       ]
     },
     {
-      "putCode": 225651304,
-      "title": "World Marrow Donor Association guidelines for the reporting of novel HLA alleles",
-      "year": 2023,
-      "sortDate": "2023-07-00",
-      "journal": "HLA",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": "10.1111/tan.15048",
-      "pmid": "37038092",
-      "pmcid": null,
-      "url": "https://doi.org/10.1111/tan.15048",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": "https://doi.org/10.1111/tan.15048",
-      "openAlexId": "https://openalex.org/W4363679036",
-      "openAlexUrl": "https://openalex.org/W4363679036",
-      "abstract": "The guidelines for the implementation and reporting of HLA nomenclature for the World Marrow Donor Association have served as a reliable standard for communication of HLA data in the hematopoietic cell transplantation process. Wider use of next-generation sequencing made a special provision of the guidelines increasingly pertinent: how to communicate novel HLA alleles. Novel alleles need to be recognized by the WHO Nomenclature Committee for Factors of the HLA system to obtain official allele designations. Until then they have to be handled according to the specific rules. Leaving the actual rules basically unchanged we give some advice on how to communicate novel alleles to best facilitate the search process for cases where novel alleles are identified on donor or patient side.",
-      "authors": [
-        {
-          "name": "Jan A. Hofmann",
-          "orcid": "https://orcid.org/0000-0002-3397-2514",
-          "position": "first",
-          "corresponding": true,
-          "institutions": [
-            "Deutsche Knochenmarkspenderdatei"
-          ]
-        },
-        {
-          "name": "Werner Bochtler",
-          "orcid": "https://orcid.org/0009-0005-9696-5708",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "German National Bone Marrow Donor Registry"
-          ]
-        },
-        {
-          "name": "James Theodore Robinson",
-          "orcid": "https://orcid.org/0000-0002-2187-5944",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Anthony Nolan",
-            "The Royal Free Hospital",
-            "University College London"
-          ]
-        },
-        {
-          "name": "Jürgen Sauter",
-          "orcid": "https://orcid.org/0000-0001-8485-2945",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Deutsche Knochenmarkspenderdatei"
-          ]
-        },
-        {
-          "name": "Medhat Z. Askar",
-          "orcid": "https://orcid.org/0000-0003-2633-9363",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "National Marrow Donor Program",
-            "Qatar University"
-          ]
-        },
-        {
-          "name": "Lucie Houdová",
-          "orcid": "https://orcid.org/0000-0002-4249-9511",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University of West Bohemia in Pilsen"
-          ]
-        },
-        {
-          "name": "Mark Melchers",
-          "orcid": "https://orcid.org/0009-0001-2454-1165",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "World Marrow Donor Association"
-          ]
-        },
-        {
-          "name": "Alexander H. Schmidt",
-          "orcid": "https://orcid.org/0000-0003-0979-5914",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Deutsche Knochenmarkspenderdatei"
-          ]
-        },
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Christine Urban",
-          "orcid": "https://orcid.org/0009-0005-5485-1761",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Deutsche Knochenmarkspenderdatei"
-          ]
-        },
-        {
-          "name": "Alicia Venter",
-          "orcid": "https://orcid.org/0009-0007-1940-5277",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "World Marrow Donor Association"
-          ]
-        },
-        {
-          "name": "Martin J. Maiers",
-          "orcid": "https://orcid.org/0000-0002-0198-2064",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "National Marrow Donor Program"
-          ]
-        },
-        {
-          "name": "Steven G. E. Marsh",
-          "orcid": "https://orcid.org/0000-0003-2855-4120",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Anthony Nolan",
-            "The Royal Free Hospital",
-            "University College London"
-          ]
-        },
-        {
-          "name": "Hans‐Peter Eberhard",
-          "orcid": "https://orcid.org/0000-0002-2731-4486",
-          "position": "last",
-          "corresponding": false,
-          "institutions": [
-            "German National Bone Marrow Donor Registry"
-          ]
-        }
-      ],
-      "selfAuthorPositions": [
-        "middle"
-      ],
-      "volumeIssuePages": "vol. 102, no. 1, pp. 62-64",
-      "categories": [
-        "matching",
-        "outcome",
-        "diagnostics",
-        "standards"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": 5,
-      "impactFactorSource": null,
-      "meshTerms": [
-        "Bone Marrow",
-        "Humans",
-        "HLA Antigens",
-        "Histocompatibility Testing",
-        "Hematopoietic Stem Cell Transplantation",
-        "Alleles",
-        "High-Throughput Nucleotide Sequencing"
-      ],
-      "keywords": [
-        "HLA nomenclature",
-        "novel HLA allele",
-        "next-generation sequencing",
-        "hematopoietic stem cell transplantation",
-        "donor matching",
-        "allele designations"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "Hematopoietic Stem Cell Transplantation",
-          "score": 0.9810000061988831
-        },
-        {
-          "name": "Renal Transplantation Outcomes and Treatments",
-          "score": 0.010099999606609344
-        },
-        {
-          "name": "Genetic Associations and Epidemiology",
-          "score": 0.004000000189989805
-        }
-      ],
-      "citedByCount": 4,
-      "countsByYear": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        }
-      ],
-      "isOpenAccess": true,
-      "openAccessStatus": "hybrid",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W2057739827",
-        "https://openalex.org/W2091857464",
-        "https://openalex.org/W2021502563",
-        "https://openalex.org/W1990329984",
-        "https://openalex.org/W1989613103",
-        "https://openalex.org/W2067167938",
-        "https://openalex.org/W1991211153",
-        "https://openalex.org/W1997924220",
-        "https://openalex.org/W2797561483",
-        "https://openalex.org/W2006911013"
-      ]
-    },
-    {
       "putCode": 225651307,
       "title": "Using cloud infrastructure to facilitate data collection and conversion of HLA diagnostic data for the 18th International HLA and Immunogenetics Workshop",
       "year": 2023,
@@ -6322,6 +6097,231 @@
       "isOpenAccess": false,
       "openAccessStatus": null,
       "relatedOpenAlexWorks": []
+    },
+    {
+      "putCode": 225651304,
+      "title": "World Marrow Donor Association guidelines for the reporting of novel HLA alleles.",
+      "year": 2023,
+      "sortDate": "2023-00-00",
+      "journal": "HLA",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.1111/tan.15048",
+      "pmid": "37038092",
+      "pmcid": null,
+      "url": null,
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": "https://doi.org/10.1111/tan.15048",
+      "openAlexId": "https://openalex.org/W4363679036",
+      "openAlexUrl": "https://openalex.org/W4363679036",
+      "abstract": "The guidelines for the implementation and reporting of HLA nomenclature for the World Marrow Donor Association have served as a reliable standard for communication of HLA data in the hematopoietic cell transplantation process. Wider use of next-generation sequencing made a special provision of the guidelines increasingly pertinent: how to communicate novel HLA alleles. Novel alleles need to be recognized by the WHO Nomenclature Committee for Factors of the HLA system to obtain official allele designations. Until then they have to be handled according to the specific rules. Leaving the actual rules basically unchanged we give some advice on how to communicate novel alleles to best facilitate the search process for cases where novel alleles are identified on donor or patient side.",
+      "authors": [
+        {
+          "name": "Jan A. Hofmann",
+          "orcid": "https://orcid.org/0000-0002-3397-2514",
+          "position": "first",
+          "corresponding": true,
+          "institutions": [
+            "Deutsche Knochenmarkspenderdatei"
+          ]
+        },
+        {
+          "name": "Werner Bochtler",
+          "orcid": "https://orcid.org/0009-0005-9696-5708",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "German National Bone Marrow Donor Registry"
+          ]
+        },
+        {
+          "name": "James Theodore Robinson",
+          "orcid": "https://orcid.org/0000-0002-2187-5944",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Anthony Nolan",
+            "The Royal Free Hospital",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Jürgen Sauter",
+          "orcid": "https://orcid.org/0000-0001-8485-2945",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Deutsche Knochenmarkspenderdatei"
+          ]
+        },
+        {
+          "name": "Medhat Z. Askar",
+          "orcid": "https://orcid.org/0000-0003-2633-9363",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "National Marrow Donor Program",
+            "Qatar University"
+          ]
+        },
+        {
+          "name": "Lucie Houdová",
+          "orcid": "https://orcid.org/0000-0002-4249-9511",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University of West Bohemia in Pilsen"
+          ]
+        },
+        {
+          "name": "Mark Melchers",
+          "orcid": "https://orcid.org/0009-0001-2454-1165",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "World Marrow Donor Association"
+          ]
+        },
+        {
+          "name": "Alexander H. Schmidt",
+          "orcid": "https://orcid.org/0000-0003-0979-5914",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Deutsche Knochenmarkspenderdatei"
+          ]
+        },
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Christine Urban",
+          "orcid": "https://orcid.org/0009-0005-5485-1761",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Deutsche Knochenmarkspenderdatei"
+          ]
+        },
+        {
+          "name": "Alicia Venter",
+          "orcid": "https://orcid.org/0009-0007-1940-5277",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "World Marrow Donor Association"
+          ]
+        },
+        {
+          "name": "Martin J. Maiers",
+          "orcid": "https://orcid.org/0000-0002-0198-2064",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "National Marrow Donor Program"
+          ]
+        },
+        {
+          "name": "Steven G. E. Marsh",
+          "orcid": "https://orcid.org/0000-0003-2855-4120",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Anthony Nolan",
+            "The Royal Free Hospital",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Hans‐Peter Eberhard",
+          "orcid": "https://orcid.org/0000-0002-2731-4486",
+          "position": "last",
+          "corresponding": false,
+          "institutions": [
+            "German National Bone Marrow Donor Registry"
+          ]
+        }
+      ],
+      "selfAuthorPositions": [
+        "middle"
+      ],
+      "volumeIssuePages": "vol. 102, no. 1, pp. 62-64",
+      "categories": [
+        "matching",
+        "outcome",
+        "diagnostics",
+        "standards"
+      ],
+      "primaryCategoryLabel": "Epitope matching",
+      "key": false,
+      "impactFactor": 5,
+      "impactFactorSource": null,
+      "meshTerms": [
+        "Bone Marrow",
+        "Humans",
+        "HLA Antigens",
+        "Histocompatibility Testing",
+        "Hematopoietic Stem Cell Transplantation",
+        "Alleles",
+        "High-Throughput Nucleotide Sequencing"
+      ],
+      "keywords": [
+        "HLA nomenclature",
+        "novel HLA allele",
+        "next-generation sequencing",
+        "hematopoietic stem cell transplantation",
+        "donor matching",
+        "allele designations"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Hematopoietic Stem Cell Transplantation",
+          "score": 0.9810000061988831
+        },
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.010099999606609344
+        },
+        {
+          "name": "Genetic Associations and Epidemiology",
+          "score": 0.004000000189989805
+        }
+      ],
+      "citedByCount": 4,
+      "countsByYear": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        }
+      ],
+      "isOpenAccess": true,
+      "openAccessStatus": "hybrid",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W2057739827",
+        "https://openalex.org/W2091857464",
+        "https://openalex.org/W2021502563",
+        "https://openalex.org/W1990329984",
+        "https://openalex.org/W1989613103",
+        "https://openalex.org/W2067167938",
+        "https://openalex.org/W1991211153",
+        "https://openalex.org/W1997924220",
+        "https://openalex.org/W2797561483",
+        "https://openalex.org/W2006911013"
+      ]
     },
     {
       "putCode": 133580205,
@@ -6891,7 +6891,7 @@
     },
     {
       "putCode": 166263684,
-      "title": "The number of donor HLA-derived T cell epitopes available for indirect antigen presentation determines the risk for vascular rejection after kidney transplantation",
+      "title": "The number of donor HLA-derived T cell epitopes available for indirect antigen presentation determines the risk for vascular rejection after kidney transplantation.",
       "year": 2022,
       "sortDate": "2022-08-30",
       "journal": "Frontiers in Immunology",
@@ -8461,7 +8461,7 @@
           "score": 0.05460000038146973
         }
       ],
-      "citedByCount": 57,
+      "citedByCount": 56,
       "countsByYear": [
         {
           "year": 2026,
@@ -8481,7 +8481,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 14
+          "cited_by_count": 13
         },
         {
           "year": 2021,
@@ -10122,9 +10122,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1167/iovs.62.9.19",
       "pmid": "34254975",
-      "pmcid": null,
+      "pmcid": "PMC8287043",
       "url": "https://europepmc.org/articles/PMC8287043",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC8287043",
       "bestOpenAccessUrl": "https://doi.org/10.1167/iovs.62.9.19",
       "openAlexId": "https://openalex.org/W3180857080",
       "openAlexUrl": "https://openalex.org/W3180857080",
@@ -11988,7 +11988,7 @@
           "score": 0.11349999904632568
         }
       ],
-      "citedByCount": 59,
+      "citedByCount": 58,
       "countsByYear": [
         {
           "year": 2026,
@@ -12008,7 +12008,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 10
+          "cited_by_count": 9
         },
         {
           "year": 2021,
@@ -13619,7 +13619,7 @@
         },
         {
           "name": "C. Erik Hack",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0000-7281-8002",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -14220,7 +14220,7 @@
         },
         {
           "name": "C. Erik Hack",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0000-7281-8002",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -14774,7 +14774,7 @@
         },
         {
           "name": "C. Erik Hack",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0000-7281-8002",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -15835,7 +15835,7 @@
         },
         {
           "name": "C. Erik Hack",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0000-7281-8002",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -16692,9 +16692,9 @@
     },
     {
       "putCode": 60098777,
-      "title": "Toward a Sensible Single-antigen Bead Cutoff Based on Kidney Graft Survival",
+      "title": "Toward a Sensible Single-antigen Bead Cutoff Based on Kidney Graft Survival.",
       "year": 2019,
-      "sortDate": "2019-04-00",
+      "sortDate": "2019-04-01",
       "journal": "Transplantation",
       "type": "journal-article",
       "typeLabel": "Journal-Article",
@@ -16792,7 +16792,7 @@
         },
         {
           "name": "C. Erik Hack",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0000-7281-8002",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -17187,11 +17187,11 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2022,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2021,
@@ -17864,7 +17864,7 @@
         },
         {
           "name": "Claudia A. Müller",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-0689-3431",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -18396,7 +18396,7 @@
         },
         {
           "name": "C. Erik Hack",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0000-7281-8002",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -19202,7 +19202,7 @@
         },
         {
           "name": "C. Erik Hack",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0000-7281-8002",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -19730,7 +19730,7 @@
         },
         {
           "name": "C. Erik Hack",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0000-7281-8002",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -20567,7 +20567,7 @@
         },
         {
           "name": "C. Erik Hack",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0000-7281-8002",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -22484,7 +22484,7 @@
           "institutions": []
         },
         {
-          "name": "Neelke van der Weerd",
+          "name": "Neelke C. van der Weerd",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -23340,6 +23340,183 @@
       ]
     },
     {
+      "putCode": 60098990,
+      "title": "Computational Approaches to Facilitate Epitope-Based HLA Matching in Solid Organ Transplantation.",
+      "year": 2017,
+      "sortDate": "2017-02-12",
+      "journal": "Journal of Immunology Research",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.1155/2017/9130879",
+      "pmid": "28286782",
+      "pmcid": "PMC5329668",
+      "url": "http://europepmc.org/articles/PMC5329668",
+      "fullTextUrl": "https://europepmc.org/articles/PMC5329668",
+      "bestOpenAccessUrl": "https://doi.org/10.1155/2017/9130879",
+      "openAlexId": "https://openalex.org/W2586488339",
+      "openAlexUrl": "https://openalex.org/W2586488339",
+      "abstract": "Epitope-based HLA matching has been emerged over the last few years as an improved method for HLA matching in solid organ transplantation. The epitope-based matching concept has been incorporated in both the PIRCHE-II and the HLAMatchmaker algorithm to find the most suitable donor for a recipient. For these algorithms, high-resolution HLA genotype data of both donor and recipient is required. Since high-resolution HLA genotype data is often not available, we developed a computational method which allows epitope-based HLA matching from serological split level HLA typing relying on HLA haplotype frequencies. To validate this method, we simulated a donor-recipient population for which PIRCHE-II and eplet values were calculated when using both high-resolution HLA genotype data and serological split level HLA typing. The majority of the serological split level HLA-determined ln(PIRCHE-II) / ln(eplet) values did not or only slightly deviate from the reference group of high-resolution HLA-determined ln(PIRCHE-II) / ln(eplet) values. This deviation was slightly increased when HLA-C or HLA-DQ was omitted from the input and was substantially decreased when using two-field resolution HLA genotype data of the recipient and serological split level HLA typing of the donor. Thus, our data suggest that our computational approach is a powerful tool to estimate PIRCHE-II/eplet values when high-resolution HLA genotype data is not available.",
+      "authors": [
+        {
+          "name": "Kirsten Geneugelijk",
+          "orcid": "https://orcid.org/0000-0002-1689-8383",
+          "position": "first",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Jeroen Wissing",
+          "orcid": "https://orcid.org/0000-0002-0867-4654",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Dirk Koppenaal",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Matthias Niemann",
+          "orcid": "https://orcid.org/0000-0002-3514-9812",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": []
+        },
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "last",
+          "corresponding": true,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        }
+      ],
+      "selfAuthorPositions": [
+        "last",
+        "corresponding"
+      ],
+      "volumeIssuePages": "vol. 2017, pp. 9130879",
+      "categories": [
+        "matching",
+        "outcome",
+        "diagnostics"
+      ],
+      "primaryCategoryLabel": "Epitope matching",
+      "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [
+        "Humans",
+        "Isoantibodies",
+        "HLA Antigens",
+        "Epitopes, B-Lymphocyte",
+        "Histocompatibility Testing",
+        "Organ Transplantation",
+        "Reproducibility of Results",
+        "Computational Biology",
+        "Gene Frequency",
+        "Genotype",
+        "Algorithms",
+        "Software",
+        "Tissue Donors",
+        "Transplant Recipients",
+        "White People"
+      ],
+      "keywords": [
+        "solid organ transplantation",
+        "HLA haplotype frequencies",
+        "HLA-C",
+        "HLA-DQ",
+        "donor-recipient matching",
+        "HLAMatchmaker"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.7803000211715698
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.11159999668598175
+        },
+        {
+          "name": "vaccines and immunoinformatics approaches",
+          "score": 0.06960000097751617
+        }
+      ],
+      "citedByCount": 49,
+      "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "isOpenAccess": true,
+      "openAccessStatus": "gold",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W203802859",
+        "https://openalex.org/W288055997",
+        "https://openalex.org/W4248977302",
+        "https://openalex.org/W3081811132",
+        "https://openalex.org/W2901037595",
+        "https://openalex.org/W4229548616",
+        "https://openalex.org/W2077609473",
+        "https://openalex.org/W4281626805",
+        "https://openalex.org/W4200507361",
+        "https://openalex.org/W3040462537"
+      ]
+    },
+    {
       "putCode": 225651193,
       "title": "Efficacy of host-dendritic cell vaccinations with or without minor histocompatibility antigen loading, combined with donor lymphocyte infusion in multiple myeloma patients",
       "year": 2017,
@@ -23861,183 +24038,6 @@
         "https://openalex.org/W1506200166",
         "https://openalex.org/W2048182022",
         "https://openalex.org/W2604872355"
-      ]
-    },
-    {
-      "putCode": 60098990,
-      "title": "Computational Approaches to Facilitate Epitope-Based HLA Matching in Solid Organ Transplantation",
-      "year": 2017,
-      "sortDate": "2017-00-00",
-      "journal": "Journal of Immunology Research",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": "10.1155/2017/9130879",
-      "pmid": "28286782",
-      "pmcid": "PMC5329668",
-      "url": "http://europepmc.org/articles/PMC5329668",
-      "fullTextUrl": "https://europepmc.org/articles/PMC5329668",
-      "bestOpenAccessUrl": "https://doi.org/10.1155/2017/9130879",
-      "openAlexId": "https://openalex.org/W2586488339",
-      "openAlexUrl": "https://openalex.org/W2586488339",
-      "abstract": "Epitope-based HLA matching has been emerged over the last few years as an improved method for HLA matching in solid organ transplantation. The epitope-based matching concept has been incorporated in both the PIRCHE-II and the HLAMatchmaker algorithm to find the most suitable donor for a recipient. For these algorithms, high-resolution HLA genotype data of both donor and recipient is required. Since high-resolution HLA genotype data is often not available, we developed a computational method which allows epitope-based HLA matching from serological split level HLA typing relying on HLA haplotype frequencies. To validate this method, we simulated a donor-recipient population for which PIRCHE-II and eplet values were calculated when using both high-resolution HLA genotype data and serological split level HLA typing. The majority of the serological split level HLA-determined ln(PIRCHE-II) / ln(eplet) values did not or only slightly deviate from the reference group of high-resolution HLA-determined ln(PIRCHE-II) / ln(eplet) values. This deviation was slightly increased when HLA-C or HLA-DQ was omitted from the input and was substantially decreased when using two-field resolution HLA genotype data of the recipient and serological split level HLA typing of the donor. Thus, our data suggest that our computational approach is a powerful tool to estimate PIRCHE-II/eplet values when high-resolution HLA genotype data is not available.",
-      "authors": [
-        {
-          "name": "Kirsten Geneugelijk",
-          "orcid": "https://orcid.org/0000-0002-1689-8383",
-          "position": "first",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Jeroen Wissing",
-          "orcid": "https://orcid.org/0000-0002-0867-4654",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Dirk Koppenaal",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Matthias Niemann",
-          "orcid": "https://orcid.org/0000-0002-3514-9812",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": []
-        },
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "last",
-          "corresponding": true,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        }
-      ],
-      "selfAuthorPositions": [
-        "last",
-        "corresponding"
-      ],
-      "volumeIssuePages": "vol. 2017, pp. 1-9",
-      "categories": [
-        "matching",
-        "outcome",
-        "diagnostics"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Isoantibodies",
-        "HLA Antigens",
-        "Epitopes, B-Lymphocyte",
-        "Histocompatibility Testing",
-        "Organ Transplantation",
-        "Reproducibility of Results",
-        "Computational Biology",
-        "Gene Frequency",
-        "Genotype",
-        "Algorithms",
-        "Software",
-        "Tissue Donors",
-        "Transplant Recipients",
-        "White People"
-      ],
-      "keywords": [
-        "solid organ transplantation",
-        "HLA haplotype frequencies",
-        "HLA-C",
-        "HLA-DQ",
-        "donor-recipient matching",
-        "HLAMatchmaker"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "Renal Transplantation Outcomes and Treatments",
-          "score": 0.7803000211715698
-        },
-        {
-          "name": "Transplantation: Methods and Outcomes",
-          "score": 0.11159999668598175
-        },
-        {
-          "name": "vaccines and immunoinformatics approaches",
-          "score": 0.06960000097751617
-        }
-      ],
-      "citedByCount": 49,
-      "countsByYear": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 11
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
-        }
-      ],
-      "isOpenAccess": true,
-      "openAccessStatus": "gold",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W203802859",
-        "https://openalex.org/W288055997",
-        "https://openalex.org/W4248977302",
-        "https://openalex.org/W3081811132",
-        "https://openalex.org/W2901037595",
-        "https://openalex.org/W4229548616",
-        "https://openalex.org/W2077609473",
-        "https://openalex.org/W4281626805",
-        "https://openalex.org/W4200507361",
-        "https://openalex.org/W3040462537"
       ]
     },
     {
@@ -25088,7 +25088,7 @@
         },
         {
           "name": "Christophe Picard",
-          "orcid": "https://orcid.org/0000-0002-7024-9130",
+          "orcid": "https://orcid.org/0000-0001-9118-5239",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -25685,7 +25685,7 @@
         },
         {
           "name": "C. Erik Hack",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0000-7281-8002",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -25798,8 +25798,8 @@
           ]
         },
         {
-          "name": "C. Roozendaal",
-          "orcid": "",
+          "name": "Caroline Roozendaal",
+          "orcid": "https://orcid.org/0000-0001-7111-0379",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -26544,14 +26544,10 @@
           "score": 0
         }
       ],
-      "citedByCount": 8,
+      "citedByCount": 7,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
           "cited_by_count": 1
         },
         {
@@ -28631,7 +28627,7 @@
           ]
         },
         {
-          "name": "Talitha A. de Hoop",
+          "name": "Talitha de Hoop",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -28988,7 +28984,7 @@
         },
         {
           "name": "C. Erik Hack",
-          "orcid": "",
+          "orcid": "https://orcid.org/0009-0000-7281-8002",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -29068,8 +29064,8 @@
           ]
         },
         {
-          "name": "L.B. Bungener",
-          "orcid": "",
+          "name": "Laura B Bungener",
+          "orcid": "https://orcid.org/0000-0001-5016-5792",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -29077,8 +29073,8 @@
           ]
         },
         {
-          "name": "C. Roozendaal",
-          "orcid": "",
+          "name": "Caroline Roozendaal",
+          "orcid": "https://orcid.org/0000-0001-7111-0379",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -29323,7 +29319,7 @@
           "score": 0.0012000000569969416
         }
       ],
-      "citedByCount": 25,
+      "citedByCount": 24,
       "countsByYear": [
         {
           "year": 2025,
@@ -29339,7 +29335,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2021,
@@ -38007,17 +38003,55 @@
       ]
     },
     {
-      "putCode": 225651151,
-      "title": "Expanding the immunotherapeutic potential of minor histocompatibility antigens",
+      "putCode": 225651153,
+      "title": "A uniform methodology for minor histocompatibility antigen typing",
       "year": 2005,
-      "sortDate": "2005-12-01",
+      "sortDate": "2005-00-00",
+      "journal": "TISSUE ANTIGENS",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": null,
+      "pmid": null,
+      "pmcid": null,
+      "url": null,
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": null,
+      "openAlexUrl": null,
+      "abstract": null,
+      "authors": [],
+      "selfAuthorPositions": [],
+      "volumeIssuePages": "",
+      "categories": [
+        "matching",
+        "diagnostics",
+        "cellular"
+      ],
+      "primaryCategoryLabel": "Epitope matching",
+      "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [],
+      "openAlexTopics": [],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": false,
+      "openAccessStatus": null,
+      "relatedOpenAlexWorks": []
+    },
+    {
+      "putCode": 225651151,
+      "title": "Expanding the immunotherapeutic potential of minor histocompatibility antigens.",
+      "year": 2005,
+      "sortDate": "2005-00-00",
       "journal": "Journal of Clinical Investigation",
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1172/jci27094",
       "pmid": "16322786",
       "pmcid": "PMC1297265",
-      "url": "https://doi.org/10.1172/jci27094",
+      "url": null,
       "fullTextUrl": "https://europepmc.org/articles/PMC1297265",
       "bestOpenAccessUrl": "https://doi.org/10.1172/jci27094",
       "openAlexId": "https://openalex.org/W2070159616",
@@ -38114,44 +38148,6 @@
         "https://openalex.org/W2480523920",
         "https://openalex.org/W2324102045"
       ]
-    },
-    {
-      "putCode": 225651153,
-      "title": "A uniform methodology for minor histocompatibility antigen typing",
-      "year": 2005,
-      "sortDate": "2005-00-00",
-      "journal": "TISSUE ANTIGENS",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": null,
-      "pmid": null,
-      "pmcid": null,
-      "url": null,
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": null,
-      "openAlexId": null,
-      "openAlexUrl": null,
-      "abstract": null,
-      "authors": [],
-      "selfAuthorPositions": [],
-      "volumeIssuePages": "",
-      "categories": [
-        "matching",
-        "diagnostics",
-        "cellular"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [],
-      "keywords": [],
-      "openAlexTopics": [],
-      "citedByCount": 0,
-      "countsByYear": [],
-      "isOpenAccess": false,
-      "openAccessStatus": null,
-      "relatedOpenAlexWorks": []
     },
     {
       "putCode": 225651152,
@@ -39867,7 +39863,7 @@
           "score": 0
         }
       ],
-      "citedByCount": 64,
+      "citedByCount": 62,
       "countsByYear": [
         {
           "year": 2026,
