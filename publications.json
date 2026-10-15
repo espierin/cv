@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-14T09:33:28.194Z",
+  "generatedAt": "2026-10-15T09:12:15.784Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -244,7 +244,7 @@
         },
         {
           "name": "Mark Melchers",
-          "orcid": "https://orcid.org/0009-0001-2454-1165",
+          "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -1827,15 +1827,15 @@
           ]
         },
         {
-          "name": "Matt Tector",
-          "orcid": "https://orcid.org/0009-0004-0994-9180",
+          "name": "Alfred Joseph Tector",
+          "orcid": "https://orcid.org/0000-0002-9865-8382",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Joseph A. Tector",
-          "orcid": "",
+          "name": "Alfred Joseph Tector",
+          "orcid": "https://orcid.org/0000-0002-9865-8382",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -2127,7 +2127,7 @@
         },
         {
           "name": "Koichi Akashi",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0001-7763-5723",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -4039,8 +4039,8 @@
           ]
         },
         {
-          "name": "Shaikh A. Nurmohamed",
-          "orcid": "",
+          "name": "Azam S. Nurmohamed",
+          "orcid": "https://orcid.org/0000-0001-7666-643X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -4574,8 +4574,8 @@
           ]
         },
         {
-          "name": "Shaikh A. Nurmohamed",
-          "orcid": "",
+          "name": "Azam S. Nurmohamed",
+          "orcid": "https://orcid.org/0000-0001-7666-643X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -5685,7 +5685,7 @@
           ]
         },
         {
-          "name": "James Theodore Robinson",
+          "name": "James Robinson",
           "orcid": "https://orcid.org/0000-0002-2187-5944",
           "position": "middle",
           "corresponding": false,
@@ -8307,7 +8307,7 @@
           ]
         },
         {
-          "name": "Tri Quang Nguyen",
+          "name": "Tri Q. Nguyen",
           "orcid": "https://orcid.org/0000-0001-6475-0706",
           "position": "middle",
           "corresponding": false,
@@ -9841,8 +9841,8 @@
           ]
         },
         {
-          "name": "Madeleine J. Bunders",
-          "orcid": "https://orcid.org/0000-0002-9538-9500",
+          "name": "Madeleine Bunders",
+          "orcid": "",
           "position": "last",
           "corresponding": true,
           "institutions": [
@@ -10181,7 +10181,7 @@
           ]
         },
         {
-          "name": "Talitha de Hoop",
+          "name": "Talitha A. de Hoop",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -10371,7 +10371,7 @@
           "institutions": []
         },
         {
-          "name": "James Theodore Robinson",
+          "name": "James Robinson",
           "orcid": "https://orcid.org/0000-0002-2187-5944",
           "position": "middle",
           "corresponding": false,
@@ -13829,8 +13829,8 @@
           ]
         },
         {
-          "name": "Shaikh A. Nurmohamed",
-          "orcid": "",
+          "name": "Azam S. Nurmohamed",
+          "orcid": "https://orcid.org/0000-0001-7666-643X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -14414,8 +14414,8 @@
           ]
         },
         {
-          "name": "Shaikh A. Nurmohamed",
-          "orcid": "",
+          "name": "Azam S. Nurmohamed",
+          "orcid": "https://orcid.org/0000-0001-7666-643X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -14953,8 +14953,8 @@
           ]
         },
         {
-          "name": "Shaikh A. Nurmohamed",
-          "orcid": "",
+          "name": "Azam S. Nurmohamed",
+          "orcid": "https://orcid.org/0000-0001-7666-643X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -15579,8 +15579,8 @@
           ]
         },
         {
-          "name": "Chia‐Jung Chang",
-          "orcid": "https://orcid.org/0000-0003-1838-6901",
+          "name": "Chia-Jung Chang",
+          "orcid": "https://orcid.org/0000-0002-2276-3506",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -16014,8 +16014,8 @@
           ]
         },
         {
-          "name": "Shaikh A. Nurmohamed",
-          "orcid": "",
+          "name": "Azam S. Nurmohamed",
+          "orcid": "https://orcid.org/0000-0001-7666-643X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -16441,7 +16441,7 @@
           ]
         },
         {
-          "name": "Kirsten A. Thus",
+          "name": "Kirsten Anne Thus",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -16987,8 +16987,8 @@
           ]
         },
         {
-          "name": "Shaikh A. Nurmohamed",
-          "orcid": "",
+          "name": "Azam S. Nurmohamed",
+          "orcid": "https://orcid.org/0000-0001-7666-643X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -17917,7 +17917,7 @@
         },
         {
           "name": "Chia-Jung Chang",
-          "orcid": "https://orcid.org/0000-0002-4945-5802",
+          "orcid": "https://orcid.org/0000-0002-2276-3506",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -18083,7 +18083,7 @@
           ]
         },
         {
-          "name": "Katharina L. Fleischhauer",
+          "name": "Katharina Fleischhauer",
           "orcid": "https://orcid.org/0000-0002-5827-8000",
           "position": "last",
           "corresponding": true,
@@ -18607,8 +18607,8 @@
           ]
         },
         {
-          "name": "Shaikh A. Nurmohamed",
-          "orcid": "",
+          "name": "Azam S. Nurmohamed",
+          "orcid": "https://orcid.org/0000-0001-7666-643X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -18954,7 +18954,7 @@
           ]
         },
         {
-          "name": "Berent J. Prakken",
+          "name": "Berent Jan Prakken",
           "orcid": "https://orcid.org/0000-0001-8488-4816",
           "position": "middle",
           "corresponding": false,
@@ -19394,8 +19394,8 @@
           ]
         },
         {
-          "name": "Shaikh A. Nurmohamed",
-          "orcid": "",
+          "name": "Azam S. Nurmohamed",
+          "orcid": "https://orcid.org/0000-0001-7666-643X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -19448,8 +19448,8 @@
           ]
         },
         {
-          "name": "Fréderike J. Bemelman",
-          "orcid": "https://orcid.org/0000-0002-4454-6270",
+          "name": "Frederique J Bemelman",
+          "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -19898,8 +19898,8 @@
           ]
         },
         {
-          "name": "Shaikh A. Nurmohamed",
-          "orcid": "",
+          "name": "Azam S. Nurmohamed",
+          "orcid": "https://orcid.org/0000-0001-7666-643X",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -21681,8 +21681,8 @@
           ]
         },
         {
-          "name": "Johan Carel Goslings",
-          "orcid": "",
+          "name": "J. Carel Goslings",
+          "orcid": "https://orcid.org/0000-0003-3942-0304",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -22135,7 +22135,7 @@
           "institutions": []
         },
         {
-          "name": "Talitha de Hoop",
+          "name": "Talitha A. de Hoop",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -22449,8 +22449,8 @@
           "institutions": []
         },
         {
-          "name": "Frans van Ittersum",
-          "orcid": "",
+          "name": "Frans J. van Ittersum",
+          "orcid": "https://orcid.org/0000-0002-8079-0166",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -23142,7 +23142,7 @@
       "abstract": "Background: HLA-mismatches in hematopoietic stem-cell transplantation (HSCT) correlate with impaired overall survival (OS). We aimed at identifying permissible HLA-mismatches. To this end, we analyzed a novel computational method that identifies the number of Predicted Indirectly ReCognizable HLA-Epitopes (PIRCHE). PIRCHE are predicted peptides derived from the patient's mismatched-HLA molecules that can be presented by shared HLA. Methods: A Dutch multicenter cohort of 685 patients was retrospectively studied. PIRCHE numbers were determined either presented on HLA class-I (PIRCHE-I) or class-II (PIRCHE-II) for patients receiving a single HLA-mismatched (9/10) unrelated donor transplant (N = 249), using unambiguous high-resolution HLA-A, -B, -C, -DRB1 and -DQB1 typings. Patients were divided into three equal-sized groups according to their PIRCHE numbers (low, medium, and high). The clinical outcome of these groups was compared to a reference group of HLA-matched transplantations (N = 436). The primary endpoints were OS and non-relapse mortality (NRM). Findings: The group transplanted with low PIRCHE-I and -II had an OS (HR 1.33, P = .13) and an NRM (HR .90, P = .69) comparable with the 10/10 HLA-matched group. The medium with high PIRCHE-I or -II had significantly increased risks of mortality (HR 1.44, P = .009) and NRM (HR 1.47, P = .02). Moreover, PIRCHE numbers also dissected HLA mismatches into those with a significantly increased or comparable risk of progression-free survival and acute graft-versus-host disease as HLA-matched transplantations, whereas there were no differences in progression risk when comparing the PIRCHE groups with HLA-matched transplantations. Interpretation: This study suggests that the permissibility of HLA-mismatched transplantations may be predicted by PIRCHE numbers. In future, PIRCHE may provide a novel method for selection of HLA-mismatched donors.",
       "authors": [
         {
-          "name": "Kirsten A. Thus",
+          "name": "Kirsten Anne Thus",
           "orcid": "",
           "position": "first",
           "corresponding": false,
@@ -23679,8 +23679,8 @@
           ]
         },
         {
-          "name": "Arjan Lankester",
-          "orcid": "",
+          "name": "Arjan C. Lankester",
+          "orcid": "https://orcid.org/0000-0002-6703-2993",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -24528,7 +24528,7 @@
           "institutions": []
         },
         {
-          "name": "Talitha de Hoop",
+          "name": "Talitha A. de Hoop",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -25211,7 +25211,7 @@
           ]
         },
         {
-          "name": "Sergi Querol",
+          "name": "Sergio Querol",
           "orcid": "https://orcid.org/0000-0002-1105-8633",
           "position": "middle",
           "corresponding": false,
@@ -25229,7 +25229,7 @@
           ]
         },
         {
-          "name": "Katharina L. Fleischhauer",
+          "name": "Katharina Fleischhauer",
           "orcid": "https://orcid.org/0000-0002-5827-8000",
           "position": "middle",
           "corresponding": false,
@@ -26233,7 +26233,7 @@
           ]
         },
         {
-          "name": "Berent J. Prakken",
+          "name": "Berent Jan Prakken",
           "orcid": "https://orcid.org/0000-0001-8488-4816",
           "position": "middle",
           "corresponding": false,
@@ -26597,7 +26597,7 @@
       "abstract": "Unrelated cord blood transplantation (UCBT) provides a curative therapy for patients with hematological malignancies. The effect of HLA mismatches in UCBT is currently the subject of debate. HLA-mismatched UCBT may lead to improved leukemia control but also to graft-versus-host disease (GVHD), resulting in nonrelapse mortality (NRM). The aim of this study was to investigate whether indirect recognition of mismatched HLA provides an explanation for the graft-versus-tumor effect and risk of GVHD. The probability of indirect recognition was predicted by the Predicted Indirectly ReCognizable HLA Epitopes (PIRCHE) model. The effect of the numbers of PIRCHE presented on HLA class I and II (PIRCHE-I and -II) was studied in 134 pediatric patients. To study the effects of higher numbers of PIRCHE, patients were divided in 2 equally sized groups, using the median number of PIRCHE as cutoff values. Proportional hazard models and competing risk analyses were performed to study the effect of PIRCHE on the clinical outcomes relapse, acute and chronic GVHD, NRM, and disease-free and overall survival. Above median PIRCHE-I were associated with reduced relapse risk (HR, .26; 95% CI, .07 to .94; P = .04), evaluating the 50 patients transplanted for a malignancy. Both PIRCHE-I and -II were not associated with other clinical outcomes, including GVHD and NRM. These data suggest that high PIRCHE-I may lead to improved graft-versus-tumor effects after UCBT, without an accompanying GVHD risk. Inclusion of PIRCHE in UCB selection criteria may enhance UCBT outcome, which needs to be tested in prospective studies.",
       "authors": [
         {
-          "name": "Kirsten A. Thus",
+          "name": "Kirsten Anne Thus",
           "orcid": "",
           "position": "first",
           "corresponding": false,
@@ -26606,7 +26606,7 @@
           ]
         },
         {
-          "name": "Talitha de Hoop",
+          "name": "Talitha A. de Hoop",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -27143,7 +27143,7 @@
           ]
         },
         {
-          "name": "Kirsten A. Thus",
+          "name": "Kirsten Anne Thus",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -27376,7 +27376,7 @@
           ]
         },
         {
-          "name": "Kirsten A. Thus",
+          "name": "Kirsten Anne Thus",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -27450,8 +27450,8 @@
           ]
         },
         {
-          "name": "Claartje M. A. Huisman",
-          "orcid": "https://orcid.org/0000-0003-0616-2847",
+          "name": "Cynthia Huisman",
+          "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -27703,7 +27703,7 @@
       "abstract": "Risk factors for graft-versus-host disease (GVHD) following allogeneic hematopoietic stem-cell transplantation (HCST) include: HLA mismatches, sex-mismatch, and stem-cell source. We retrospectively analyzed if HLA- and sex-mismatching quantitatively affects the composition of GVHD-induced T-cell infiltrates. We quantified absolute numbers of CD4+ and CD8+ T cells present in tissue sections from skin biopsies of 23 pediatric HSCT-recipients with GVHD. HSCT with a sex-mismatched unrelated donor was associated with an increased number of CD4+ T cells when compared to a sex-matched unrelated donor (p=0.01). The absolute numbers of skin-infiltrating T cells were increased in patients expressing T-cell epitopes derived from the recipient's mismatched HLA, so called predicted indirectly recognizable HLA epitopes (PIRCHE). The combined expression of PIRCHE with a sex-mismatch resulted in the highest number of skin-infiltrating T cells. Our results indicate that an increased number of recipient-specific T-cell epitopes is associated with accumulation of CD4+ and CD8+ T cells in the skin.",
       "authors": [
         {
-          "name": "Kirsten A. Thus",
+          "name": "Kirsten Anne Thus",
           "orcid": "",
           "position": "first",
           "corresponding": true,
@@ -27894,7 +27894,7 @@
       "abstract": "Unrelated Cord Blood Transplantation (UCBT) provides a curative therapy for patients with hematological malignancies (and a variety of benign disorders). HLA-mismatched UCBT is associated with improved leukemia control. The aim of this study was to investigate whether indirect recognition of the mismatched HLA provides an explanation for this improved graft-versus-leukemia (GVL) effect, and can be used to identify donors with optimal GVL properties without impacting probability on graft-versus-host disease (GVHD).",
       "authors": [
         {
-          "name": "Kirsten A. Thus",
+          "name": "Kirsten Anne Thus",
           "orcid": "",
           "position": "first",
           "corresponding": false,
@@ -28401,7 +28401,7 @@
       "abstract": "Hematopoietic stem cell transplantation with HLA-DPB1-mismatched donors leads to an increased risk of acute graft-versus-host disease (GVHD). Studies have indicated a prognostic value for classifying HLA-DPB1 mismatches based on T cell-epitope (TCE) groups. The aim of this study was to determine the contribution of indirect recognition of HLA-DP-derived epitopes, as determined with the Predicted Indirectly ReCognizable HLA Epitopes (PIRCHE) method. We therefore conducted a retrospective single-center analysis on 80 patients transplanted with a 10/10 matched unrelated donor that was HLA-DPB1 mismatched. HLA-DPB1 mismatches that were classified as GVH nonpermissive by the TCE algorithm correlated to higher numbers of HLA class I as well as HLA class II presented PIRCHE (PIRCHE-I and -II) compared with permissive or host-versus-graft nonpermissive mismatches. Patients with acute GVHD grades II to IV presented significantly higher numbers of PIRCHE-I compared with patients without acute GVHD (P < .05). Patients were divided into 2 groups based on the presence or absence of PIRCHE. Patients with PIRCHE-I or -II have an increased hazard of acute GVHD when compared with patients without PIRCHE-I or -II (hazard ratio [HR], 3.19; 95% confidence interval [CI], 1.10 to 9.19; P < .05; and HR, 4.07; 95% CI, .97 to 17.19; P = .06, respectively). Patients classified as having an HLA-DPB1 permissive mismatch by the TCE model had an increased risk of acute GVHD when comparing presence of PIRCHE-I with absence of PIRCHE-I (HR, 2.96; 95% CI, .84 to 10.39; P = .09). We therefore conclude that the data presented in this study describe an attractive and feasible possibility to better select permissible HLA-DPB1 mismatches by including both a direct and an indirect recognition model.",
       "authors": [
         {
-          "name": "Kirsten A. Thus",
+          "name": "Kirsten Anne Thus",
           "orcid": "",
           "position": "first",
           "corresponding": false,
@@ -28419,7 +28419,7 @@
           ]
         },
         {
-          "name": "Talitha de Hoop",
+          "name": "Talitha A. de Hoop",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -28609,7 +28609,7 @@
       "abstract": "Predicted indirectly recognizable HLA epitopes (PIRCHE) computationally predict donor T-cell recognition of mismatched-HLA derived peptides following allogeneic haematopoietic stem-cell transplantation (allo-HSCT), as is evidenced by the correlation between presence of HLA-DPB1-derived PIRCHE and the occurrence of graft-vs.-host disease (GVHD). Complete donor T-cell chimerism associates with an increased GVHD risk compared to mixed patient and donor chimerism. If the correlation between the presence of PIRCHE and GVHD occurrence is indeed mediated by donor T cells, the presence of donor T cells should be required to observe such a correlation. This study was initiated to investigate whether the effect of PIRCHE is different in patients with complete chimerism compared to those with mixed chimerism. Indeed, the correlation between PIRCHE and GVHD is present in patients with complete chimerism, whereas it is absent in those with mixed chimerism. The data presented here suggest that chimerism status is important for the detection of potential GVHD epitopes.",
       "authors": [
         {
-          "name": "Kirsten A. Thus",
+          "name": "Kirsten Anne Thus",
           "orcid": "",
           "position": "first",
           "corresponding": false,
@@ -28627,7 +28627,7 @@
           ]
         },
         {
-          "name": "Talitha de Hoop",
+          "name": "Talitha A. de Hoop",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -29145,8 +29145,8 @@
           ]
         },
         {
-          "name": "Frans van Ittersum",
-          "orcid": "",
+          "name": "Frans J. van Ittersum",
+          "orcid": "https://orcid.org/0000-0002-8079-0166",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -29400,7 +29400,7 @@
       "abstract": "HLA-C mismatches are clearly associated to alloreactivity after hematopoietic stem-cell transplantation; in a number of large cohorts, HLA-C mismatches are correlated to an increased risk of acute graft-versus-host disease (GVHD) or even impaired survival. While for HLA-A and -B, both antigenic as well as allelic mismatches are associated with an increased risk of acute GVHD, such an increased risk is only observed for antigenic HLA-C mismatches and not for allelic mismatches. These observations raise the question what sets HLA-C apart from HLA-A and -B. The difference may well be related to the reduced levels of cell-surface expression of HLA-C as compared to HLA-A and -B, possibly due to, among other factors, a limited peptide-binding capacity. This limited peptide-binding capacity may retain HLA-C in the ER and enhance degradation of the HLA-C protein. Once degraded, HLA-C-derived peptides can be presented to the immune system via other HLA alleles and are thus available for indirect recognition. Indeed, such HLA-C-derived peptides have previously been eluted from other HLA alleles. We have recently developed an approach to predict indirect recognition of HLA molecules, by establishing the numbers of predicted indirectly recognizable HLA epitopes (PIRCHES). The number of PIRCHES presented on HLA class I and II (PIRCHE-I and -II, respectively), are highly correlated to clinical measures of alloreactivity, such as acute GVHD. In the present \"Hypothesis & Theory,\" we reviewed the current knowledge on HLA-C mismatches and alloreactivity. Moreover, we speculate about the role of direct and indirect recognition of HLA-C and the consequences for donor selection in HLA-C mismatched stem-cell transplantation.",
       "authors": [
         {
-          "name": "Kirsten A. Thus",
+          "name": "Kirsten Anne Thus",
           "orcid": "",
           "position": "first",
           "corresponding": false,
@@ -29751,7 +29751,7 @@
       "abstract": "HLA mismatches in hematopoietic stem-cell transplantation (HSCT) correlate with adverse outcome due to increased alloreactivity. Identification of permissible HLA-mismatches might be beneficial for donor selection when a 10/10 matched donor cannot be found.",
       "authors": [
         {
-          "name": "Kirsten A. Thus",
+          "name": "Kirsten Anne Thus",
           "orcid": "",
           "position": "first",
           "corresponding": false,
@@ -30247,7 +30247,7 @@
           ]
         },
         {
-          "name": "Kirsten A. Thus",
+          "name": "Kirsten Anne Thus",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -30530,8 +30530,8 @@
           ]
         },
         {
-          "name": "María Belén Alvarez",
-          "orcid": "https://orcid.org/0009-0004-0149-0598",
+          "name": "M. B. Alvarez",
+          "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -32208,8 +32208,8 @@
           ]
         },
         {
-          "name": "A. P. Kater",
-          "orcid": "",
+          "name": "Arnon Philip Kater",
+          "orcid": "https://orcid.org/0000-0003-3190-1891",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -32648,7 +32648,7 @@
           "institutions": []
         },
         {
-          "name": "Katharina L. Fleischhauer",
+          "name": "Katharina Fleischhauer",
           "orcid": "https://orcid.org/0000-0002-5827-8000",
           "position": "middle",
           "corresponding": false,
@@ -32712,8 +32712,8 @@
           ]
         },
         {
-          "name": "Marc Stern",
-          "orcid": "https://orcid.org/0000-0001-5275-6959",
+          "name": "M. Stern",
+          "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -33530,7 +33530,7 @@
           ]
         },
         {
-          "name": "Stan Pavel",
+          "name": "S Pavel",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -34557,7 +34557,7 @@
           ]
         },
         {
-          "name": "Stan Pavel",
+          "name": "S Pavel",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -36263,7 +36263,7 @@
           ]
         },
         {
-          "name": "John Crowley",
+          "name": "John J. Crowley",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -36846,8 +36846,8 @@
           ]
         },
         {
-          "name": "Daniel Boehringer",
-          "orcid": "https://orcid.org/0000-0002-6666-8447",
+          "name": "Daniel Böhringer",
+          "orcid": "https://orcid.org/0000-0001-9042-0508",
           "position": "last",
           "corresponding": true,
           "institutions": [
@@ -37229,7 +37229,7 @@
           ]
         },
         {
-          "name": "Corine Vermeulen",
+          "name": "Corine J. Vermeulen",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -38413,7 +38413,7 @@
           ]
         },
         {
-          "name": "Corine Vermeulen",
+          "name": "Corine J. Vermeulen",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -40130,7 +40130,7 @@
           "institutions": []
         },
         {
-          "name": "T.H.M. Ottenhoff",
+          "name": "Thomas H. M. Ottenhoff",
           "orcid": "",
           "position": "last",
           "corresponding": false,
@@ -40568,8 +40568,8 @@
           ]
         },
         {
-          "name": "John van Noort",
-          "orcid": "https://orcid.org/0000-0002-9094-5598",
+          "name": "J van Noort",
+          "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": [
