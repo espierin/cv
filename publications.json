@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-15T09:12:15.784Z",
+  "generatedAt": "2026-10-16T09:04:21.885Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -2606,11 +2606,11 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 15,
+      "citedByCount": 16,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2025,
@@ -3185,11 +3185,11 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 2,
+      "citedByCount": 3,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -7395,11 +7395,11 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 22,
+      "citedByCount": 23,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2025,
@@ -10074,11 +10074,11 @@
           "score": 0.007699999958276749
         }
       ],
-      "citedByCount": 22,
+      "citedByCount": 23,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -12121,11 +12121,11 @@
           "score": 0.031700000166893005
         }
       ],
-      "citedByCount": 98,
+      "citedByCount": 99,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2025,
@@ -24892,7 +24892,7 @@
       "pmcid": "PMC5147017",
       "url": "https://europepmc.org/articles/PMC5147017",
       "fullTextUrl": "https://europepmc.org/articles/PMC5147017",
-      "bestOpenAccessUrl": "http://www.bloodjournal.org/content/bloodjournal/128/15/1979.full.pdf",
+      "bestOpenAccessUrl": "http://hdl.handle.net/20.500.11768/58154",
       "openAlexId": "https://openalex.org/W2511359521",
       "openAlexUrl": "https://openalex.org/W2511359521",
       "abstract": "Graft-versus-host disease (GVHD) is among the most challenging complications in unrelated donor hematopoietic cell transplantation (HCT). The highly polymorphic MHC class I chain-related gene A, MICA, encodes a stress-induced glycoprotein expressed primarily on epithelia. MICA interacts with the invariant activating receptor NKG2D, expressed by cytotoxic lymphocytes, and is located in the MHC, next to HLA-B Hence, MICA has the requisite attributes of a bona fide transplantation antigen. Using high-resolution sequence-based genotyping of MICA, we retrospectively analyzed the clinical effect of MICA mismatches in a multicenter cohort of 922 unrelated donor HLA-A, HLA-B, HLA-C, HLA-DRB1, and HLA-DQB1 10/10 allele-matched HCT pairs. Among the 922 pairs, 113 (12.3%) were mismatched in MICA MICA mismatches were significantly associated with an increased incidence of grade III-IV acute GVHD (hazard ratio [HR], 1.83; 95% confidence interval [CI], 1.50-2.23; P < .001), chronic GVHD (HR, 1.50; 95% CI, 1.45-1.55; P < .001), and nonelapse mortality (HR, 1.35; 95% CI, 1.24-1.46; P < .001). The increased risk for GVHD was mirrored by a lower risk for relapse (HR, 0.50; 95% CI, 0.43-0.59; P < .001), indicating a possible graft-versus-leukemia effect. In conclusion, when possible, selecting a MICA-matched donor significantly influences key clinical outcomes of HCT in which a marked reduction of GVHD is paramount. The tight linkage disequilibrium between MICA and HLA-B renders identifying a MICA-matched donor readily feasible in clinical practice.",
