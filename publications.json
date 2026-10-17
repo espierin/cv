@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-16T09:04:21.885Z",
+  "generatedAt": "2026-10-17T08:37:36.035Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -1296,7 +1296,7 @@
         },
         {
           "name": "Qing Ma",
-          "orcid": "https://orcid.org/0000-0002-8361-5275",
+          "orcid": "https://orcid.org/0000-0003-4291-4057",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -9842,7 +9842,7 @@
         },
         {
           "name": "Madeleine Bunders",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-9538-9500",
           "position": "last",
           "corresponding": true,
           "institutions": [
@@ -18131,7 +18131,7 @@
           "score": 0.038100000470876694
         }
       ],
-      "citedByCount": 10,
+      "citedByCount": 14,
       "countsByYear": [
         {
           "year": 2026,
@@ -18139,7 +18139,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2024,
@@ -18147,7 +18147,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 1
+          "cited_by_count": 3
         },
         {
           "year": 2022,
@@ -18155,7 +18155,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2020,
@@ -18917,7 +18917,7 @@
         },
         {
           "name": "Jasper C. A. Broen",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-4344-3157",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -27451,7 +27451,7 @@
         },
         {
           "name": "Cynthia Huisman",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-0616-2847",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -33531,7 +33531,7 @@
         },
         {
           "name": "S Pavel",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-3703-9278",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -34558,7 +34558,7 @@
         },
         {
           "name": "S Pavel",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0003-3703-9278",
           "position": "middle",
           "corresponding": false,
           "institutions": [
