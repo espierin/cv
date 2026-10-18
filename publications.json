@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-17T08:37:36.035Z",
+  "generatedAt": "2026-10-18T08:53:16.315Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -232,7 +232,7 @@
           "institutions": []
         },
         {
-          "name": "James Theodore Robinson",
+          "name": "James Robinson",
           "orcid": "https://orcid.org/0000-0002-2187-5944",
           "position": "middle",
           "corresponding": false,
@@ -2268,7 +2268,7 @@
           ]
         },
         {
-          "name": "James Theodore Robinson",
+          "name": "James Robinson",
           "orcid": "https://orcid.org/0000-0002-2187-5944",
           "position": "middle",
           "corresponding": false,
@@ -9841,7 +9841,7 @@
           ]
         },
         {
-          "name": "Madeleine Bunders",
+          "name": "Madeleine J. Bunders",
           "orcid": "https://orcid.org/0000-0002-9538-9500",
           "position": "last",
           "corresponding": true,
@@ -10074,11 +10074,11 @@
           "score": 0.007699999958276749
         }
       ],
-      "citedByCount": 23,
+      "citedByCount": 24,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -13121,7 +13121,7 @@
           "institutions": []
         },
         {
-          "name": "Robert Wynn",
+          "name": "Robert F. Wynn",
           "orcid": "https://orcid.org/0000-0002-6046-8428",
           "position": "middle",
           "corresponding": false,
@@ -15266,7 +15266,7 @@
           ]
         },
         {
-          "name": "James Theodore Robinson",
+          "name": "James Robinson",
           "orcid": "https://orcid.org/0000-0002-2187-5944",
           "position": "middle",
           "corresponding": false,
@@ -21577,11 +21577,11 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 168,
+      "citedByCount": 169,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2025,
