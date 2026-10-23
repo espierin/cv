@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-22T09:27:39.403Z",
+  "generatedAt": "2026-10-23T09:23:48.099Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -13,7 +13,7 @@
       "putCode": 227329515,
       "title": "Comprehensive In Vitro Profiling Demonstrates Successful Immune Evasion of Bioengineered Immune‐Shielded Heart Valves",
       "year": 2026,
-      "sortDate": "2026-09-21",
+      "sortDate": "2026-10-00",
       "journal": "Advanced Healthcare Materials",
       "type": "journal-article",
       "typeLabel": "Journal-Article",
@@ -150,7 +150,7 @@
       "selfAuthorPositions": [
         "middle"
       ],
-      "volumeIssuePages": "pp. e71737",
+      "volumeIssuePages": "vol. 15, no. 39, pp. e71737",
       "categories": [
         "outcome"
       ],
@@ -1706,7 +1706,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -1868,7 +1868,7 @@
           "position": "last",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         }
       ],
@@ -2491,7 +2491,7 @@
           "position": "first",
           "corresponding": true,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -2527,7 +2527,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -2536,7 +2536,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -4893,11 +4893,11 @@
           "score": 0.03909999877214432
         }
       ],
-      "citedByCount": 12,
+      "citedByCount": 13,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -6737,7 +6737,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -6746,7 +6746,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -6755,7 +6755,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -6764,7 +6764,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -7395,11 +7395,11 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 23,
+      "citedByCount": 24,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2025,
@@ -9998,7 +9998,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -11116,11 +11116,11 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 53,
+      "citedByCount": 54,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2025,
@@ -21036,7 +21036,7 @@
           "position": "first",
           "corresponding": true,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -21052,7 +21052,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -21061,7 +21061,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -21070,7 +21070,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -21079,7 +21079,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -21088,7 +21088,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -21097,7 +21097,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -21116,7 +21116,7 @@
           "position": "last",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         }
       ],
@@ -21164,11 +21164,15 @@
           "score": 0.0005000000237487257
         }
       ],
-      "citedByCount": 4,
+      "citedByCount": 5,
       "countsByYear": [
         {
           "year": 2024,
           "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
         },
         {
           "year": 2018,
@@ -21434,7 +21438,7 @@
           "position": "first",
           "corresponding": true,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -21450,7 +21454,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -21459,7 +21463,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -21468,7 +21472,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -21477,7 +21481,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -21486,7 +21490,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -21495,7 +21499,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -21514,7 +21518,7 @@
           "position": "last",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         }
       ],
@@ -22997,7 +23001,7 @@
           "position": "first",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -23013,7 +23017,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -23022,7 +23026,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -23031,7 +23035,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -23041,7 +23045,7 @@
           "corresponding": false,
           "institutions": [
             "Berlin Institute of Health at Charité - Universitätsmedizin Berlin",
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -23059,7 +23063,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         },
         {
@@ -23069,7 +23073,7 @@
           "corresponding": false,
           "institutions": [
             "Berlin Institute of Health at Charité - Universitätsmedizin Berlin",
-            "Charité - Universitätsmedizin Berlin"
+            "Charité – Universitätsmedizin Berlin"
           ]
         }
       ],
@@ -25188,7 +25192,7 @@
           "corresponding": false,
           "institutions": [
             "IRCCS Ospedale San Raffaele",
-            "Istituto di Ricovero e Cura a Carattere Scientifico San Raffaele"
+            "IRCCS San Raffaele Roma"
           ]
         },
         {
