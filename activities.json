@@ -1,7 +1,7 @@
 {
   "person": "Eric Spierings",
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-23T09:23:48.099Z",
+  "generatedAt": "2026-10-24T09:06:22.576Z",
   "source": "Curated activities merged with ORCID conference presentations, conference papers and lectures",
   "count": 75,
   "activities": [
@@ -1335,7 +1335,7 @@
       "location": null,
       "recognition": null,
       "academic": "Academic",
-      "description": "Hematopoietic stem cell transplantation is currently used as a curative treatment for patients with malignant and non-malignant hematologic diseases. Human leukocyte antigen (HLA) matching is a major determinant for hematopoietic stem cell transplantation outcome. For patients lacking a fully HLA-matched donor, umbilical cord blood (UCB) units are alternative sources of hematopoietic stem cells because UCB transplantation allows a less stringent HLA matching. However, selection of the optimal UCB units remains challenging. The current UCB donor selection strategies are based on both cell dose and HLA matching. This Review focuses on the immunogenetic factors that influence UCB donor selection and highlights the future perspectives in UCB donor search.",
+      "description": null,
       "url": "https://doi.org/10.1016/j.jcyt.2015.03.002",
       "source": "ORCID Public API v3.0",
       "origin": "orcid",
