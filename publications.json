@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-25T09:11:39.620Z",
+  "generatedAt": "2026-10-26T10:12:06.956Z",
   "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
   "excludedWorkTypes": [
     "conference-presentation",
@@ -2005,7 +2005,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -4788,11 +4787,11 @@
           "score": 0
         }
       ],
-      "citedByCount": 13,
+      "citedByCount": 14,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -7930,7 +7929,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -7940,7 +7938,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -16842,7 +16839,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -18446,7 +18442,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -18959,7 +18954,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -18969,7 +18963,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -19006,7 +18999,6 @@
           "position": "last",
           "corresponding": true,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         }
@@ -19252,7 +19244,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -19772,7 +19763,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -20004,7 +19994,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "Erasmus MC",
             "University Medical Center Utrecht"
           ]
@@ -21116,7 +21105,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -21518,7 +21506,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -23452,7 +23439,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -23462,7 +23448,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -25739,7 +25724,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -28650,7 +28634,7 @@
           ]
         },
         {
-          "name": "V. Boers Trilles",
+          "name": "Valeria Boers Trilles",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -29437,7 +29421,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -32901,7 +32884,6 @@
           "position": "first",
           "corresponding": true,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht",
             "Wilhelmina Children's Hospital"
           ]
@@ -33987,7 +33969,6 @@
           "position": "middle",
           "corresponding": true,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -33997,7 +33978,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -34027,7 +34007,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -34046,7 +34025,6 @@
           "position": "middle",
           "corresponding": true,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
