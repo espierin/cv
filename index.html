@@ -966,7 +966,12 @@
         </span>
       </a>
 
-      <nav class="primary-nav" aria-label="Main navigation">
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation">
+        <span class="menu-toggle-icon" aria-hidden="true"><span></span><span></span><span></span></span>
+        <span class="menu-toggle-label">Menu</span>
+      </button>
+
+      <nav class="primary-nav" id="primary-navigation" aria-label="Main navigation">
         <a href="#profile">Profile</a>
         <a href="#focus">Focus</a>
         <a href="#roles">Roles</a>
@@ -1719,7 +1724,7 @@
       });
     });
 
-    loadPublications();
+    const menuToggle = document.querySelector(".menu-toggle");\n    const primaryNavigation = document.getElementById("primary-navigation");\n\n    menuToggle.addEventListener("click", () => {\n      const isOpen = menuToggle.getAttribute("aria-expanded") === "true";\n      menuToggle.setAttribute("aria-expanded", String(!isOpen));\n      primaryNavigation.classList.toggle("is-open", !isOpen);\n    });\n\n    primaryNavigation.querySelectorAll("a").forEach((link) => {\n      link.addEventListener("click", () => {\n        menuToggle.setAttribute("aria-expanded", "false");\n        primaryNavigation.classList.remove("is-open");\n      });\n    });\n\n    loadPublications();
   </script>
 </body>
 </html>
