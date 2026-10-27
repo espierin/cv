@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="800" height="957" viewBox="-115 -205 230 275"><defs id="enlarged-peptide-definitions-2026"><linearGradient id="ep2026Gold" x2=".7" y2="1"><stop stop-color="#FFF1AB" /><stop offset="1" stop-color="#FFC72C" /></linearGradient></defs><title>HLA-I self + self peptide</title><desc>Native cartoon rebuilt from the current detailed component style; not a recolored copy of the old PIRCHE geometry. Rebuilt detailed HLA-I. Colored residue differences are illustrative, not a specified sequence.</desc><defs>
+</defs><g id="component-layer" inkscape:groupmode="layer" inkscape:label="HLA-I self + self peptide"><g id="HLA-I-one-heavy-chain-membrane-anchor-and-extracellular-beta2m-4" inkscape:label="HLA-I: one heavy-chain membrane anchor and extracellular beta2m"><g id="Positioned-component-2" inkscape:label="Positioned component" transform="translate(0 0) rotate(0) scale(1)"><g id="Basis-basic-27-HLA-I-empty-svg-1" inkscape:label="Basis: basic_27_HLA_I_empty.svg"><defs><linearGradient id="basis1-beta" x2="1" y2="1">
+      <stop stop-color="#DAEEFC" id="basis1-stop4" />
+      <stop offset="1" stop-color="#88B9DE" id="basis1-stop5" />
+    </linearGradient>
+    <linearGradient id="basis1-blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#78B9EB" id="basis1-stop1" />
+      <stop offset=".46" stop-color="#287CC4" id="basis1-stop2" />
+      <stop offset="1" stop-color="#125698" id="basis1-stop3" />
+    </linearGradient>
+    </defs><g id="basis1-component-layer" inkscape:label="HLA-I / HLA-E – unloaded"><g id="basis1-Positioned-component-186" inkscape:label="Positioned component" transform="translate(0 0) rotate(0) scale(1)"><g id="basis1-User-edited-HLA-I-HLA-E-185" inkscape:label="User-edited HLA-I / HLA-E"><g id="basis1-copy277-HLA-class-I-HLA-E-peptide-complex-9" inkscape:label="HLA class I / HLA-E peptide complex">
+        <g id="basis1-copy277-Heavy-chain-stalk-single-transmembrane-helix-and-cytoplasmic-tail-1" inkscape:label="Heavy chain: stalk, single transmembrane helix and cytoplasmic tail">
+          <path d="M-15 -53 Q-12 -30 -10 -15 L-10 27 Q-10 40 -18 49" fill="none" stroke="#092E50" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" id="basis1-copy277-path33" />
+          <path d="M-15 -53 Q-12 -30 -10 -15 L-10 27" fill="none" stroke="#2167AE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" id="basis1-copy277-path34" />
+        </g>
+        <g id="basis1-copy277-Alpha3-immunoglobulin-like-domain-2" inkscape:label="Alpha3 immunoglobulin-like domain">
+          <path d="M-41 -108 C-54 -96 -50 -65 -33 -54 C-13 -39 12 -57 12 -80 C12 -102 -21 -121 -41 -108 Z" fill="url(#basis1-blue)" stroke="#092E50" stroke-width="3.7" stroke-linecap="round" stroke-linejoin="round" id="basis1-copy277-path35" />
+          <path d="M-37 -99 Q-12 -103 -1 -80 M-39 -90 Q-21 -93 -5 -70 M-33 -79 L-11 -61" fill="none" stroke="#72B3E5" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" id="basis1-copy277-path36" />
+        </g>
+        <g id="basis1-copy277-Beta2-microglobulin-non-membrane-subunit-3" inkscape:label="Beta2 microglobulin: non-membrane subunit">
+          <path d="M26 -111 C10 -103 14 -74 24 -62 C38 -46 57 -61 59 -79 C60 -98 47 -116 26 -111 Z" fill="url(#basis1-beta)" stroke="#092E50" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" id="basis1-copy277-path37" />
+          <path d="M24 -99 L48 -79 M23 -88 L43 -69" fill="none" stroke="#7FB5DC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="basis1-copy277-path38" />
+        </g>
+        <g id="basis1-copy277-Alpha1-and-alpha2-peptide-binding-platform-4" inkscape:label="Alpha1 and alpha2 peptide-binding platform">
+          <path d="M-66 -168 C-83 -159 -76 -134 -61 -124 L-37 -106 C-21 -100 -8 -108 -4 -117 C1 -106 15 -105 28 -111 L58 -127 C77 -138 79 -161 63 -172 C46 -184 32 -170 28 -153 C14 -135 -23 -138 -31 -153 C-37 -173 -49 -180 -66 -168 Z" fill="url(#basis1-blue)" stroke="#092E50" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" id="basis1-copy277-path39" />
+          <path d="M-57 -165 Q-68 -148 -45 -133 M50 -164 Q64 -149 44 -133" fill="none" stroke="#8CC5EF" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round" id="basis1-copy277-path40" />
+          <path d="M-40 -130 Q-1 -113 34 -133" fill="none" stroke="#0A4B8A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" id="basis1-copy277-path41" />
+        </g>
+      </g>
+    </g></g></g></g></g><g id="Peptide-seated-in-the-groove-3" inkscape:label="Peptide seated in the groove" data-peptide-updated="2026"><g data-peptide-model="freeform-user-2026-10-20" data-hla-class="I" data-residue-count="9" inkscape:label="User free-form peptide in HLA groove"><g inkscape:label="Class-II terminal extensions" /><g inkscape:label="User free-form nine-residue core, native vectors" transform="translate(0 -169) scale(0.631 0.612) translate(7.11 -4.379)"><g inkscape:groupmode="layer" inkscape:label="Free-form peptide – your chain"><g inkscape:label="User-edited flexible peptide chain" transform="translate(-195 -150)" data-peptide-updated="2026"><g transform="translate(187.89014 129.83300444444444) scale(1.18 1.27) translate(-187.89014 -129.83300444444444)"><path d="m 137.62014,136.1101 c 0,0 9.80663,13.55695 16.70732,12.57473 9.31297,-1.32557 7.6217,-24.03114 16.91713,-22.58775 16.04121,2.49087 1.5883,38.52336 15.99883,45.9974 6.22682,3.22955 15.38865,-0.72138 20.22891,-5.7983 9.31689,-9.77243 -2.19476,-32.32804 9.29094,-39.42616 6.08164,-3.75844 13.72605,4.71516 20.87188,4.937 4.90768,0.15236 14.5173,-2.49498 14.5173,-2.49498" fill="none" stroke="#092e50" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" sodipodi:nodetypes="caaaaaac" />
+    <g>
+      <ellipse cx="253.69035" cy="130.30888" rx="6.9263382" ry="7.6432471" fill="url(#ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="8" />
+      <ellipse cx="251.95877" cy="127.76113" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <path d="m 122.08993,130.01194 17.29588,5.58689" fill="none" stroke="#092e50" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" sodipodi:nodetypes="cc" />
+    <g>
+      <ellipse cx="122.08993" cy="130.01193" rx="6.9263382" ry="7.6432471" fill="url(#ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="0" />
+      <ellipse cx="120.35835" cy="127.46419" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(0,4)">
+      <ellipse cx="138.53998" cy="131.83958" rx="6.9263382" ry="7.6432471" fill="url(#ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="1" />
+      <ellipse cx="136.8084" cy="129.29184" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(-2,18)">
+      <ellipse cx="154.99004" cy="132.55861" rx="6.9263382" ry="7.6432471" fill="url(#ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="2" />
+      <ellipse cx="153.25845" cy="130.01085" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(0,-6)">
+      <ellipse cx="171.44009" cy="131.73285" rx="6.9263382" ry="7.6432471" fill="url(#ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="3" />
+      <ellipse cx="169.70851" cy="129.1851" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(2.2555508,37.592513)">
+      <ellipse cx="204.34019" cy="128.0838" rx="6.9263382" ry="7.6432471" fill="url(#ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="5" />
+      <ellipse cx="202.60861" cy="125.53605" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(-5.1339547,-1.1982767)">
+      <ellipse cx="220.79025" cy="127.47396" rx="6.9263382" ry="7.6432471" fill="url(#ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="6" />
+      <ellipse cx="219.05867" cy="124.92622" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(0,2)">
+      <ellipse cx="237.2403" cy="128.40363" rx="6.9263382" ry="7.6432471" fill="url(#ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="7" />
+      <ellipse cx="235.50871" cy="125.85588" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(-17.54798,44.503812)">
+      <ellipse cx="204.34019" cy="128.0838" rx="6.9263382" ry="7.6432471" fill="url(#ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="4" />
+      <ellipse cx="202.60861" cy="125.53605" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+  </g></g></g></g></g></g></g></g></svg>

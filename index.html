@@ -504,6 +504,9 @@
       font-weight: 800;
     }
 
+    .role-icon img { display: block; width: 56px; height: 56px; }
+    .role-card .role-icon { background: #eef7fc; border: 1px solid #a9c6e2; }
+
     .role-card h3 {
       margin: 0 0 5px;
       color: var(--umcu-blue-dark);
@@ -1198,7 +1201,7 @@
     }
 
     .role-card.role-primary .role-icon {
-      background: var(--umcu-blue-dark);
+      background: #eef7fc;
     }
 
     .role-card.role-academic::before {
@@ -1266,8 +1269,9 @@
     }
 
     /* Unified focus illustrations */
-    .focus-figure svg * {
-      vector-effect: non-scaling-stroke;
+    .focus-figure > .basisset-figure {
+      box-sizing: border-box;
+      padding: 8px 12px;
     }
 
     /* Compact publication presentation */
@@ -3239,7 +3243,7 @@
 
         <div class="roles-grid">
           <article class="role-card role-primary">
-            <div class="role-icon">CDL</div>
+            <div class="role-icon" aria-hidden="true"><img src="assets/icons/diagnostics.svg" alt="" width="56" height="56"></div>
             <div>
               <span class="role-type">Primary institutional role</span>
               <h3>Director Transplantation Diagnostics</h3>
@@ -3248,7 +3252,7 @@
           </article>
 
           <article class="role-card role-academic">
-            <div class="role-icon">UU</div>
+            <div class="role-icon" aria-hidden="true"><img src="assets/icons/academic.svg" alt="" width="56" height="56"></div>
             <div>
               <span class="role-type">Academic role</span>
               <h3>Associate Professor</h3>
@@ -3257,7 +3261,7 @@
           </article>
 
           <article class="role-card role-international">
-            <div class="role-icon">EFI</div>
+            <div class="role-icon" aria-hidden="true"><img src="assets/icons/international-network.svg" alt="" width="56" height="56"></div>
             <div>
               <span class="role-type">International leadership</span>
               <h3>EFI Scientific Committee and BITCom</h3>
@@ -3266,7 +3270,7 @@
           </article>
 
           <article class="role-card role-strategic">
-            <div class="role-icon">M</div>
+            <div class="role-icon" aria-hidden="true"><img src="assets/icons/donor-matching.svg" alt="" width="56" height="56"></div>
             <div>
               <span class="role-type">Strategic secondment</span>
               <h3>Secondment at Matchis</h3>
@@ -3275,7 +3279,7 @@
           </article>
 
           <article class="role-card role-strategic">
-            <div class="role-icon">TCU</div>
+            <div class="role-icon" aria-hidden="true"><img src="assets/icons/clinical-connection.svg" alt="" width="56" height="56"></div>
             <div>
               <span class="role-type">Strategic role</span>
               <h3>Diagnostics ambassador</h3>
@@ -3284,7 +3288,7 @@
           </article>
 
           <article class="role-card role-strategic">
-            <div class="role-icon">AI</div>
+            <div class="role-icon" aria-hidden="true"><img src="assets/icons/data-ai.svg" alt="" width="56" height="56"></div>
             <div>
               <span class="role-type">Strategic development</span>
               <h3>Data-driven diagnostics and AI</h3>
@@ -3348,18 +3352,74 @@
           <article class="focus-card" id="hla-diagnostics">
 
             <div class="focus-figure" aria-hidden="true">
-              <svg viewBox="0 0 320 132" xmlns="http://www.w3.org/2000/svg">
-                <rect width="320" height="132" fill="#f7fbfe"/>
-                <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
-                  <path d="M92 36c0-12 10-22 22-22h28c10 0 18 8 18 18v24h-43c-14 0-25-8-25-20Z" stroke="#005eb8"/>
-                  <path d="M228 36c0-12-10-22-22-22h-28c-10 0-18 8-18 18v24h43c14 0 25-8 25-20Z" stroke="#005eb8"/>
-                  <path d="M118 50c13 12 27 18 42 18s29-6 42-18" stroke="#003b70"/>
-                  <path d="M122 44c14-7 27-10 38-10s24 3 38 10" stroke="#f28c28" stroke-width="7"/>
-                  <path d="M126 70v21c0 14 11 25 25 25h18c14 0 25-11 25-25V70" stroke="#005eb8"/>
-                  <path d="M160 116v10" stroke="#003b70"/>
-                  <path d="M96 78c0-9 7-16 16-16h10v36h-10c-9 0-16-7-16-16Z" stroke="#003b70"/>
-                </g>
-              </svg>
+              <svg class="basisset-figure" preserveAspectRatio="xMidYMid meet" data-component="basic_098_HLA_I_self_self_peptide_PIRCHE.svg" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="-115 -205 230 275"><defs id="hla-diagnostics-enlarged-peptide-definitions-2026"><linearGradient id="hla-diagnostics-ep2026Gold" x2=".7" y2="1"><stop stop-color="#FFF1AB" /><stop offset="1" stop-color="#FFC72C" /></linearGradient></defs><title>HLA-I self + self peptide</title><desc>Native cartoon rebuilt from the current detailed component style; not a recolored copy of the old PIRCHE geometry. Rebuilt detailed HLA-I. Colored residue differences are illustrative, not a specified sequence.</desc><defs>
+</defs><g id="hla-diagnostics-component-layer" inkscape:groupmode="layer" inkscape:label="HLA-I self + self peptide"><g id="hla-diagnostics-HLA-I-one-heavy-chain-membrane-anchor-and-extracellular-beta2m-4" inkscape:label="HLA-I: one heavy-chain membrane anchor and extracellular beta2m"><g id="hla-diagnostics-Positioned-component-2" inkscape:label="Positioned component" transform="translate(0 0) rotate(0) scale(1)"><g id="hla-diagnostics-Basis-basic-27-HLA-I-empty-svg-1" inkscape:label="Basis: basic_27_HLA_I_empty.svg"><defs><linearGradient id="hla-diagnostics-basis1-beta" x2="1" y2="1">
+      <stop stop-color="#DAEEFC" id="hla-diagnostics-basis1-stop4" />
+      <stop offset="1" stop-color="#88B9DE" id="hla-diagnostics-basis1-stop5" />
+    </linearGradient>
+    <linearGradient id="hla-diagnostics-basis1-blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#78B9EB" id="hla-diagnostics-basis1-stop1" />
+      <stop offset=".46" stop-color="#287CC4" id="hla-diagnostics-basis1-stop2" />
+      <stop offset="1" stop-color="#125698" id="hla-diagnostics-basis1-stop3" />
+    </linearGradient>
+    </defs><g id="hla-diagnostics-basis1-component-layer" inkscape:label="HLA-I / HLA-E – unloaded"><g id="hla-diagnostics-basis1-Positioned-component-186" inkscape:label="Positioned component" transform="translate(0 0) rotate(0) scale(1)"><g id="hla-diagnostics-basis1-User-edited-HLA-I-HLA-E-185" inkscape:label="User-edited HLA-I / HLA-E"><g id="hla-diagnostics-basis1-copy277-HLA-class-I-HLA-E-peptide-complex-9" inkscape:label="HLA class I / HLA-E peptide complex">
+        <g id="hla-diagnostics-basis1-copy277-Heavy-chain-stalk-single-transmembrane-helix-and-cytoplasmic-tail-1" inkscape:label="Heavy chain: stalk, single transmembrane helix and cytoplasmic tail">
+          <path d="M-15 -53 Q-12 -30 -10 -15 L-10 27 Q-10 40 -18 49" fill="none" stroke="#092E50" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" id="hla-diagnostics-basis1-copy277-path33" />
+          <path d="M-15 -53 Q-12 -30 -10 -15 L-10 27" fill="none" stroke="#2167AE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" id="hla-diagnostics-basis1-copy277-path34" />
+        </g>
+        <g id="hla-diagnostics-basis1-copy277-Alpha3-immunoglobulin-like-domain-2" inkscape:label="Alpha3 immunoglobulin-like domain">
+          <path d="M-41 -108 C-54 -96 -50 -65 -33 -54 C-13 -39 12 -57 12 -80 C12 -102 -21 -121 -41 -108 Z" fill="url(#hla-diagnostics-basis1-blue)" stroke="#092E50" stroke-width="3.7" stroke-linecap="round" stroke-linejoin="round" id="hla-diagnostics-basis1-copy277-path35" />
+          <path d="M-37 -99 Q-12 -103 -1 -80 M-39 -90 Q-21 -93 -5 -70 M-33 -79 L-11 -61" fill="none" stroke="#72B3E5" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" id="hla-diagnostics-basis1-copy277-path36" />
+        </g>
+        <g id="hla-diagnostics-basis1-copy277-Beta2-microglobulin-non-membrane-subunit-3" inkscape:label="Beta2 microglobulin: non-membrane subunit">
+          <path d="M26 -111 C10 -103 14 -74 24 -62 C38 -46 57 -61 59 -79 C60 -98 47 -116 26 -111 Z" fill="url(#hla-diagnostics-basis1-beta)" stroke="#092E50" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" id="hla-diagnostics-basis1-copy277-path37" />
+          <path d="M24 -99 L48 -79 M23 -88 L43 -69" fill="none" stroke="#7FB5DC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="hla-diagnostics-basis1-copy277-path38" />
+        </g>
+        <g id="hla-diagnostics-basis1-copy277-Alpha1-and-alpha2-peptide-binding-platform-4" inkscape:label="Alpha1 and alpha2 peptide-binding platform">
+          <path d="M-66 -168 C-83 -159 -76 -134 -61 -124 L-37 -106 C-21 -100 -8 -108 -4 -117 C1 -106 15 -105 28 -111 L58 -127 C77 -138 79 -161 63 -172 C46 -184 32 -170 28 -153 C14 -135 -23 -138 -31 -153 C-37 -173 -49 -180 -66 -168 Z" fill="url(#hla-diagnostics-basis1-blue)" stroke="#092E50" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" id="hla-diagnostics-basis1-copy277-path39" />
+          <path d="M-57 -165 Q-68 -148 -45 -133 M50 -164 Q64 -149 44 -133" fill="none" stroke="#8CC5EF" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round" id="hla-diagnostics-basis1-copy277-path40" />
+          <path d="M-40 -130 Q-1 -113 34 -133" fill="none" stroke="#0A4B8A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" id="hla-diagnostics-basis1-copy277-path41" />
+        </g>
+      </g>
+    </g></g></g></g></g><g id="hla-diagnostics-Peptide-seated-in-the-groove-3" inkscape:label="Peptide seated in the groove" data-peptide-updated="2026"><g data-peptide-model="freeform-user-2026-10-20" data-hla-class="I" data-residue-count="9" inkscape:label="User free-form peptide in HLA groove"><g inkscape:label="Class-II terminal extensions" /><g inkscape:label="User free-form nine-residue core, native vectors" transform="translate(0 -169) scale(0.631 0.612) translate(7.11 -4.379)"><g inkscape:groupmode="layer" inkscape:label="Free-form peptide – your chain"><g inkscape:label="User-edited flexible peptide chain" transform="translate(-195 -150)" data-peptide-updated="2026"><g transform="translate(187.89014 129.83300444444444) scale(1.18 1.27) translate(-187.89014 -129.83300444444444)"><path d="m 137.62014,136.1101 c 0,0 9.80663,13.55695 16.70732,12.57473 9.31297,-1.32557 7.6217,-24.03114 16.91713,-22.58775 16.04121,2.49087 1.5883,38.52336 15.99883,45.9974 6.22682,3.22955 15.38865,-0.72138 20.22891,-5.7983 9.31689,-9.77243 -2.19476,-32.32804 9.29094,-39.42616 6.08164,-3.75844 13.72605,4.71516 20.87188,4.937 4.90768,0.15236 14.5173,-2.49498 14.5173,-2.49498" fill="none" stroke="#092e50" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" sodipodi:nodetypes="caaaaaac" />
+    <g>
+      <ellipse cx="253.69035" cy="130.30888" rx="6.9263382" ry="7.6432471" fill="url(#hla-diagnostics-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="8" />
+      <ellipse cx="251.95877" cy="127.76113" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <path d="m 122.08993,130.01194 17.29588,5.58689" fill="none" stroke="#092e50" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" sodipodi:nodetypes="cc" />
+    <g>
+      <ellipse cx="122.08993" cy="130.01193" rx="6.9263382" ry="7.6432471" fill="url(#hla-diagnostics-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="0" />
+      <ellipse cx="120.35835" cy="127.46419" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(0,4)">
+      <ellipse cx="138.53998" cy="131.83958" rx="6.9263382" ry="7.6432471" fill="url(#hla-diagnostics-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="1" />
+      <ellipse cx="136.8084" cy="129.29184" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(-2,18)">
+      <ellipse cx="154.99004" cy="132.55861" rx="6.9263382" ry="7.6432471" fill="url(#hla-diagnostics-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="2" />
+      <ellipse cx="153.25845" cy="130.01085" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(0,-6)">
+      <ellipse cx="171.44009" cy="131.73285" rx="6.9263382" ry="7.6432471" fill="url(#hla-diagnostics-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="3" />
+      <ellipse cx="169.70851" cy="129.1851" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(2.2555508,37.592513)">
+      <ellipse cx="204.34019" cy="128.0838" rx="6.9263382" ry="7.6432471" fill="url(#hla-diagnostics-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="5" />
+      <ellipse cx="202.60861" cy="125.53605" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(-5.1339547,-1.1982767)">
+      <ellipse cx="220.79025" cy="127.47396" rx="6.9263382" ry="7.6432471" fill="url(#hla-diagnostics-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="6" />
+      <ellipse cx="219.05867" cy="124.92622" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(0,2)">
+      <ellipse cx="237.2403" cy="128.40363" rx="6.9263382" ry="7.6432471" fill="url(#hla-diagnostics-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="7" />
+      <ellipse cx="235.50871" cy="125.85588" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(-17.54798,44.503812)">
+      <ellipse cx="204.34019" cy="128.0838" rx="6.9263382" ry="7.6432471" fill="url(#hla-diagnostics-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="4" />
+      <ellipse cx="202.60861" cy="125.53605" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+  </g></g></g></g></g></g></g></g></svg>
             </div>
             <span class="focus-number">01</span>
             <h3>HLA diagnostics</h3>
@@ -3371,15 +3431,46 @@
           <article class="focus-card" id="epitope-matching">
 
             <div class="focus-figure" aria-hidden="true">
-              <svg viewBox="0 0 320 132" xmlns="http://www.w3.org/2000/svg">
-                <rect width="320" height="132" fill="#f7fbfe"/>
-                <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
-                  <path d="M54 91c28-42 56-58 88-46 17 6 26 18 44 18 24 0 35-23 61-25 13-1 25 3 36 12" stroke="#005eb8"/>
-                  <path d="M63 101c26-20 50-27 75-20 19 5 31 16 50 16 23 0 37-14 57-15 14-1 25 3 35 10" stroke="#003b70"/>
-                  <path d="M92 58l18-8 18 8 18-8 18 8 18-8 18 8" stroke="#f28c28" stroke-width="7"/>
-                  <path d="M92 111h136" stroke="#003b70"/>
-                </g>
-              </svg>
+              <svg class="basisset-figure" preserveAspectRatio="xMidYMid meet" data-component="basic_232_PIRCHE_II_bound_HLA_derived_peptide.svg" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="-130 -230 260 310"><title>PIRCHE-II: HLA-derived peptide in recipient HLA-II</title><desc>Red marks an illustrative donor-HLA sequence segment. Protein breakdown precedes presentation; this is not a fragment falling spontaneously out of an intact HLA molecule. No actual allele sequence, processing yield or proven immunogenicity is asserted. The blue presenting HLA is distinct from the donor source protein.</desc><defs>
+<linearGradient id="epitope-matching-ep2026Red" x2=".8" y2="1"><stop stop-color="#FFB38B" /><stop offset="1" stop-color="#FF5A36" /></linearGradient></defs><g id="epitope-matching-component-layer" inkscape:groupmode="layer" inkscape:label="PIRCHE-II: HLA-derived peptide in recipient HLA-II"><g id="epitope-matching-Presenting-HLA-II-with-HLA-derived-peptide-3" inkscape:label="Presenting HLA-II with HLA-derived peptide"><g id="epitope-matching-Positioned-component-2" inkscape:label="Positioned component" transform="translate(0 0) rotate(0) scale(1)"><g id="epitope-matching-Basis-basic-151-HLA-II-peptide-modern-svg-1" inkscape:label="Basis: basic_151_HLA_II_peptide_modern.svg"><defs><linearGradient id="epitope-matching-basis1-optBlue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B8DDF8" /><stop offset=".45" stop-color="#70AFE5" /><stop offset="1" stop-color="#2167AE" /></linearGradient></defs><g inkscape:label="HLA class II peptide complex" id="epitope-matching-basis1-component-layer"><g id="epitope-matching-basis1-Positioned-component-6" inkscape:label="Positioned component" transform="translate(0 0) rotate(0) scale(1)"><g id="epitope-matching-basis1-HLA-class-II-with-peptide-two-transmembrane-chains-5" inkscape:label="HLA class II with peptide, two transmembrane chains"><g id="epitope-matching-basis1-HLA-II-alpha-chain-1" inkscape:label="HLA-II alpha chain"><path d="M-25 -54 V28 Q-25 40 -32 48" fill="none" stroke="#064986" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" /><path d="M-25 -54 V28" fill="none" stroke="#2167AE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" /><rect x="-45" y="-108" width="40" height="55" rx="18" fill="url(#epitope-matching-basis1-optBlue)" stroke="#064986" stroke-width="3.6" /></g><g id="epitope-matching-basis1-HLA-II-beta-chain-2" inkscape:label="HLA-II beta chain"><path d="M25 -54 V28 Q25 40 32 48" fill="none" stroke="#064986" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" /><path d="M25 -54 V28" fill="none" stroke="#2167AE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" /><rect x="5" y="-108" width="40" height="55" rx="18" fill="url(#epitope-matching-basis1-optBlue)" stroke="#064986" stroke-width="3.6" /></g><g id="epitope-matching-basis1-Alpha1-and-beta1-form-the-open-ended-groove-3" inkscape:label="Alpha1 and beta1 form the open-ended groove"><path d="M-64 -168 C-79 -157 -74 -135 -57 -123 L-32 -109 C-15 -100 -4 -111 -3 -121 L-3 -140 C-22 -141 -27 -149 -32 -160 C-41 -179 -52 -178 -64 -168 Z" fill="url(#epitope-matching-basis1-optBlue)" stroke="#064986" stroke-width="3.7" stroke-linecap="round" stroke-linejoin="round" /><path d="M64 -168 C79 -157 74 -135 57 -123 L32 -109 C15 -100 4 -111 3 -121 L3 -140 C22 -141 27 -149 32 -160 C41 -179 52 -178 64 -168 Z" fill="url(#epitope-matching-basis1-optBlue)" stroke="#064986" stroke-width="3.7" stroke-linecap="round" stroke-linejoin="round" /><path d="M-58 -161 Q-63 -141 -40 -128 M58 -161 Q63 -141 40 -128" fill="none" stroke="#B4D7F3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /></g></g></g></g></g></g><g data-peptide-model="freeform-user-2026-10-20" data-hla-class="II" data-residue-count="15" inkscape:label="User free-form peptide in HLA groove"><g inkscape:label="Class-II terminal extensions"><path d="M-82.064 -178.8 L-69.564 -180.2" fill="none" stroke="#092E50" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" /><path d="M-69.564 -180.2 L-57.064 -181.6" fill="none" stroke="#092E50" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" /><path d="M-57.064 -181.6 L-44.564 -183.88" fill="none" stroke="#092E50" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" /><path d="M44.564 -183.65 L57.064 -180.6" fill="none" stroke="#092E50" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" /><path d="M57.064 -180.6 L69.564 -179.2" fill="none" stroke="#092E50" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" /><path d="M69.564 -179.2 L82.064 -177.8" fill="none" stroke="#092E50" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" /><ellipse cx="-82.064" cy="-178.8" rx="4.9" ry="5.2" fill="url(#epitope-matching-ep2026Red)" stroke="#092E50" stroke-width="1.25" /><ellipse cx="-83.264" cy="-180.3" rx="1.3" ry="1" fill="white" stroke="#092E50" stroke-width="0" /><ellipse cx="-69.564" cy="-180.2" rx="4.9" ry="5.2" fill="url(#epitope-matching-ep2026Red)" stroke="#092E50" stroke-width="1.25" /><ellipse cx="-70.764" cy="-181.7" rx="1.3" ry="1" fill="white" stroke="#092E50" stroke-width="0" /><ellipse cx="-57.064" cy="-181.6" rx="4.9" ry="5.2" fill="url(#epitope-matching-ep2026Red)" stroke="#092E50" stroke-width="1.25" /><ellipse cx="-58.264" cy="-183.1" rx="1.3" ry="1" fill="white" stroke="#092E50" stroke-width="0" /><ellipse cx="57.064" cy="-180.6" rx="4.9" ry="5.2" fill="url(#epitope-matching-ep2026Red)" stroke="#092E50" stroke-width="1.25" /><ellipse cx="55.864" cy="-182.1" rx="1.3" ry="1" fill="white" stroke="#092E50" stroke-width="0" /><ellipse cx="69.564" cy="-179.2" rx="4.9" ry="5.2" fill="url(#epitope-matching-ep2026Red)" stroke="#092E50" stroke-width="1.25" /><ellipse cx="68.364" cy="-180.7" rx="1.3" ry="1" fill="white" stroke="#092E50" stroke-width="0" /><ellipse cx="82.064" cy="-177.8" rx="4.9" ry="5.2" fill="url(#epitope-matching-ep2026Red)" stroke="#092E50" stroke-width="1.25" /><ellipse cx="80.864" cy="-179.3" rx="1.3" ry="1" fill="white" stroke="#092E50" stroke-width="0" /></g><g inkscape:label="User free-form nine-residue core, native vectors" transform="translate(0 -169) scale(0.574 0.612) translate(7.11 -4.379)"><g inkscape:groupmode="layer" inkscape:label="Free-form peptide – your chain"><g inkscape:label="User-edited flexible peptide chain" transform="translate(-195 -150)" data-peptide-updated="2026"><g transform="translate(187.89014 129.83300444444444) scale(1.18 1.27) translate(-187.89014 -129.83300444444444)"><path d="m 137.62014,136.1101 c 0,0 9.80663,13.55695 16.70732,12.57473 9.31297,-1.32557 7.6217,-24.03114 16.91713,-22.58775 16.04121,2.49087 1.5883,38.52336 15.99883,45.9974 6.22682,3.22955 15.38865,-0.72138 20.22891,-5.7983 9.31689,-9.77243 -2.19476,-32.32804 9.29094,-39.42616 6.08164,-3.75844 13.72605,4.71516 20.87188,4.937 4.90768,0.15236 14.5173,-2.49498 14.5173,-2.49498" fill="none" stroke="#092e50" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" sodipodi:nodetypes="caaaaaac" />
+    <g>
+      <ellipse cx="253.69035" cy="130.30888" rx="6.9263382" ry="7.6432471" fill="url(#epitope-matching-ep2026Red)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="8" />
+      <ellipse cx="251.95877" cy="127.76113" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <path d="m 122.08993,130.01194 17.29588,5.58689" fill="none" stroke="#092e50" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" sodipodi:nodetypes="cc" />
+    <g>
+      <ellipse cx="122.08993" cy="130.01193" rx="6.9263382" ry="7.6432471" fill="url(#epitope-matching-ep2026Red)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="0" />
+      <ellipse cx="120.35835" cy="127.46419" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(0,4)">
+      <ellipse cx="138.53998" cy="131.83958" rx="6.9263382" ry="7.6432471" fill="url(#epitope-matching-ep2026Red)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="1" />
+      <ellipse cx="136.8084" cy="129.29184" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(-2,18)">
+      <ellipse cx="154.99004" cy="132.55861" rx="6.9263382" ry="7.6432471" fill="url(#epitope-matching-ep2026Red)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="2" />
+      <ellipse cx="153.25845" cy="130.01085" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(0,-6)">
+      <ellipse cx="171.44009" cy="131.73285" rx="6.9263382" ry="7.6432471" fill="url(#epitope-matching-ep2026Red)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="3" />
+      <ellipse cx="169.70851" cy="129.1851" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(2.2555508,37.592513)">
+      <ellipse cx="204.34019" cy="128.0838" rx="6.9263382" ry="7.6432471" fill="url(#epitope-matching-ep2026Red)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="5" />
+      <ellipse cx="202.60861" cy="125.53605" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(-5.1339547,-1.1982767)">
+      <ellipse cx="220.79025" cy="127.47396" rx="6.9263382" ry="7.6432471" fill="url(#epitope-matching-ep2026Red)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="6" />
+      <ellipse cx="219.05867" cy="124.92622" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(0,2)">
+      <ellipse cx="237.2403" cy="128.40363" rx="6.9263382" ry="7.6432471" fill="url(#epitope-matching-ep2026Red)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="7" />
+      <ellipse cx="235.50871" cy="125.85588" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(-17.54798,44.503812)">
+      <ellipse cx="204.34019" cy="128.0838" rx="6.9263382" ry="7.6432471" fill="url(#epitope-matching-ep2026Red)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="4" />
+      <ellipse cx="202.60861" cy="125.53605" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+  </g></g></g></g></g></g></g></svg>
             </div>
             <span class="focus-number">02</span>
             <h3>Epitope matching</h3>
@@ -3391,18 +3482,22 @@
           <article class="focus-card" id="data-standards">
 
             <div class="focus-figure" aria-hidden="true">
-              <svg viewBox="0 0 320 132" xmlns="http://www.w3.org/2000/svg">
-                <rect width="320" height="132" fill="#f7fbfe"/>
-                <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
-                  <rect x="48" y="28" width="96" height="76" rx="10" stroke="#005eb8"/>
-                  <path d="M70 52h51M70 67h39M70 82h56" stroke="#003b70"/>
-                  <path d="M145 66h38" stroke="#f28c28"/>
-                  <path d="M172 56l11 10-11 10" stroke="#f28c28"/>
-                  <ellipse cx="236" cy="40" rx="39" ry="11" stroke="#005eb8"/>
-                  <path d="M197 40v48c0 7 17 13 39 13s39-6 39-13V40" stroke="#005eb8"/>
-                  <path d="M197 64c0 7 17 13 39 13s39-6 39-13M197 85c0 7 17 13 39 13s39-6 39-13" stroke="#003b70"/>
-                </g>
-              </svg>
+              <svg class="basisset-figure" preserveAspectRatio="xMidYMid meet" data-component="basic_1754_HSTD_icon_HML.svg" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="-310 -240 620 500"><title>Pictogram HML — DNA on XML genotyping-data document</title><desc>Native editable conceptual diagram. Didactische native vector. Voorbeelden zijn illustratief, geen klinisch bericht of implementatievalidatie. Concept pictogram, not an official logo. DNA symbol is generic, not a locus map. Native editable vector; domain cartoons are not atomic models.</desc><defs>
+<linearGradient id="data-standards-blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78B9EB"/><stop offset=".46" stop-color="#287CC4"/><stop offset="1" stop-color="#125698"/></linearGradient>
+<linearGradient id="data-standards-beta" x2="1" y2="1"><stop stop-color="#DAEEFC"/><stop offset="1" stop-color="#88B9DE"/></linearGradient>
+<linearGradient id="data-standards-orange" x2="1" y2="1"><stop stop-color="#FFB47D"/><stop offset=".45" stop-color="#FF7546"/><stop offset="1" stop-color="#E74D30"/></linearGradient>
+<radialGradient id="data-standards-cell" cx=".33" cy=".28" r=".8"><stop stop-color="#F0F8FD"/><stop offset=".65" stop-color="#C2E0F5"/><stop offset="1" stop-color="#94C3E7"/></radialGradient>
+<radialGradient id="data-standards-warmCell"><stop stop-color="#FFE8D9"/><stop offset="1" stop-color="#FAB08D"/></radialGradient>
+<radialGradient id="data-standards-nucleus" cx=".35" cy=".3"><stop stop-color="#4D95D2"/><stop offset="1" stop-color="#1B5B9D"/></radialGradient>
+<radialGradient id="data-standards-warmNucleus"><stop stop-color="#FFA36C"/><stop offset="1" stop-color="#E86F4B"/></radialGradient>
+<radialGradient id="data-standards-virus"><stop stop-color="#D2E9F9"/><stop offset="1" stop-color="#8FBFE4"/></radialGradient>
+<linearGradient id="data-standards-lipid" x2="0" y2="1"><stop stop-color="#D5EEFF"/><stop offset="1" stop-color="#92BFE2"/></linearGradient>
+<linearGradient id="data-standards-kidney" x2="1" y2="1"><stop stop-color="#FFC6AE"/><stop offset=".5" stop-color="#F59C83"/><stop offset="1" stop-color="#D56A57"/></linearGradient>
+<linearGradient id="data-standards-lung" x2="1" y2="1"><stop stop-color="#E1F1FC"/><stop offset="1" stop-color="#9CC6E7"/></linearGradient>
+<linearGradient id="data-standards-glass" x2="1" y2="0"><stop stop-color="#E0EEF8"/><stop offset=".4" stop-color="#FFFFFF"/><stop offset="1" stop-color="#C3DAEC"/></linearGradient>
+<linearGradient id="data-standards-machine" x2="1" y2="1"><stop stop-color="#ACD6F2"/><stop offset="1" stop-color="#3183C5"/></linearGradient>
+<marker id="data-standards-arrB" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="6" markerHeight="6" markerUnits="strokeWidth" orient="auto-start-reverse" overflow="visible"><path d="M1 1 L11 6 1 11 4 6 Z" fill="#064986" stroke="none"/></marker>
+<marker id="data-standards-arrO" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="6" markerHeight="6" markerUnits="strokeWidth" orient="auto-start-reverse" overflow="visible"><path d="M1 1 L11 6 1 11 4 6 Z" fill="#FF5A36" stroke="none"/></marker><linearGradient id="data-standards-ep2026Gold" x2=".7" y2="1"><stop stop-color="#FFF1AB"/><stop offset="1" stop-color="#FFC72C"/></linearGradient><linearGradient id="data-standards-ep2026Red" x2=".8" y2="1"><stop stop-color="#FFB38B"/><stop offset="1" stop-color="#FF5A36"/></linearGradient><linearGradient id="data-standards-pxBlue" x2=".8" y2="1"><stop stop-color="#B7DBF7"/><stop offset=".5" stop-color="#6EADE2"/><stop offset="1" stop-color="#2167AE"/></linearGradient><linearGradient id="data-standards-pxLight" x2=".8" y2="1"><stop stop-color="#F1F9FF"/><stop offset="1" stop-color="#A9C6E2"/></linearGradient><linearGradient id="data-standards-pxWarm" x2=".8" y2="1"><stop stop-color="#FFD6BA"/><stop offset="1" stop-color="#FF5A36"/></linearGradient><linearGradient id="data-standards-pxGreen" x2=".8" y2="1"><stop stop-color="#D1EDAD"/><stop offset="1" stop-color="#93C94D"/></linearGradient><linearGradient id="data-standards-pxGold" x2=".8" y2="1"><stop stop-color="#FFF1A9"/><stop offset="1" stop-color="#FFC72C"/></linearGradient></defs><g id="data-standards-component-layer" inkscape:groupmode="layer" inkscape:label="Pictogram HML — DNA on XML genotyping-data document" data-extension-set="HSTD"><path d="M-130 -145 H65 L130 -80 V145 H-130 Z" fill="url(#data-standards-pxLight)" stroke="#064986" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" /><path d="M65 -145 V-80 H130" fill="none" stroke="#064986" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" /><g id="data-standards-Positioned-component-3" inkscape:label="Positioned component" transform="translate(0 0) rotate(0) scale(0.7394366197183099)"><g id="data-standards-Positioned-component-2" inkscape:label="Positioned component" transform="translate(0 -10) rotate(0) scale(1)"><g id="data-standards-Basis-basic-177-DNA-helix-cartoon-svg-1" inkscape:label="Basis: basic_177_DNA_helix_cartoon.svg"><defs></defs><g xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="data-standards-basis1-component-layer" inkscape:label="DNA double helix"><path d="M36.000 -105.000 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 -105.000 H-36.000" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M29.125 -94.500 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 -94.500 H-29.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M11.125 -84.000 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 -84.000 H-11.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M-11.125 -73.500 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 -73.500 H11.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M-29.125 -63.000 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 -63.000 H29.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M-36.000 -52.500 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 -52.500 H36.000" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M-29.125 -42.000 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 -42.000 H29.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M-11.125 -31.500 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 -31.500 H11.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M11.125 -21.000 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 -21.000 H-11.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M29.125 -10.500 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 -10.500 H-29.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M36.000 0.000 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 0.000 H-36.000" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M29.125 10.500 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 10.500 H-29.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M11.125 21.000 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 21.000 H-11.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M-11.125 31.500 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 31.500 H11.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M-29.125 42.000 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 42.000 H29.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M-36.000 52.500 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 52.500 H36.000" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M-29.125 63.000 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 63.000 H29.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M-11.125 73.500 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 73.500 H11.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M11.125 84.000 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 84.000 H-11.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M29.125 94.500 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 94.500 H-29.125" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M36.000 105.000 H0.000" fill="none" stroke="#FF5A36" stroke-width="4" stroke-linecap="round" /><path d="M0.000 105.000 H-36.000" fill="none" stroke="#A9C6E2" stroke-width="4" stroke-linecap="round" /><path d="M-36.000 -52.500 L-35.912 -51.333 L-35.650 -50.167 L-35.213 -49.000 L-34.605 -47.833 L-33.829 -46.667 L-32.888 -45.500 L-31.786 -44.333 L-30.530 -43.167 L-29.125 -42.000 L-27.578 -40.833 L-25.896 -39.667 L-24.089 -38.500 L-22.164 -37.333 L-20.131 -36.167 L-18.000 -35.000 L-15.781 -33.833 L-13.486 -32.667 L-11.125 -31.500 L-8.709 -30.333 L-6.251 -29.167 L-3.763 -28.000 L-1.256 -26.833 L1.256 -25.667 L3.763 -24.500 L6.251 -23.333 L8.709 -22.167 L11.125 -21.000 L13.486 -19.833 L15.781 -18.667 L18.000 -17.500 L20.131 -16.333 L22.164 -15.167 L24.089 -14.000 L25.896 -12.833 L27.578 -11.667 L29.125 -10.500 L30.530 -9.333 L31.786 -8.167 L32.888 -7.000 L33.829 -5.833 L34.605 -4.667 L35.213 -3.500 L35.650 -2.333 L35.912 -1.167 L36.000 0.000" fill="none" stroke="#092E50" stroke-width="9" stroke-linecap="round" /><path d="M-36.000 -52.500 L-35.912 -51.333 L-35.650 -50.167 L-35.213 -49.000 L-34.605 -47.833 L-33.829 -46.667 L-32.888 -45.500 L-31.786 -44.333 L-30.530 -43.167 L-29.125 -42.000 L-27.578 -40.833 L-25.896 -39.667 L-24.089 -38.500 L-22.164 -37.333 L-20.131 -36.167 L-18.000 -35.000 L-15.781 -33.833 L-13.486 -32.667 L-11.125 -31.500 L-8.709 -30.333 L-6.251 -29.167 L-3.763 -28.000 L-1.256 -26.833 L1.256 -25.667 L3.763 -24.500 L6.251 -23.333 L8.709 -22.167 L11.125 -21.000 L13.486 -19.833 L15.781 -18.667 L18.000 -17.500 L20.131 -16.333 L22.164 -15.167 L24.089 -14.000 L25.896 -12.833 L27.578 -11.667 L29.125 -10.500 L30.530 -9.333 L31.786 -8.167 L32.888 -7.000 L33.829 -5.833 L34.605 -4.667 L35.213 -3.500 L35.650 -2.333 L35.912 -1.167 L36.000 0.000" fill="none" stroke="#2167AE" stroke-width="6" stroke-linecap="round" /><path d="M-36.000 52.500 L-35.912 53.667 L-35.650 54.833 L-35.213 56.000 L-34.605 57.167 L-33.829 58.333 L-32.888 59.500 L-31.786 60.667 L-30.530 61.833 L-29.125 63.000 L-27.578 64.167 L-25.896 65.333 L-24.089 66.500 L-22.164 67.667 L-20.131 68.833 L-18.000 70.000 L-15.781 71.167 L-13.486 72.333 L-11.125 73.500 L-8.709 74.667 L-6.251 75.833 L-3.763 77.000 L-1.256 78.167 L1.256 79.333 L3.763 80.500 L6.251 81.667 L8.709 82.833 L11.125 84.000 L13.486 85.167 L15.781 86.333 L18.000 87.500 L20.131 88.667 L22.164 89.833 L24.089 91.000 L25.896 92.167 L27.578 93.333 L29.125 94.500 L30.530 95.667 L31.786 96.833 L32.888 98.000 L33.829 99.167 L34.605 100.333 L35.213 101.500 L35.650 102.667 L35.912 103.833 L36.000 105.000" fill="none" stroke="#092E50" stroke-width="9" stroke-linecap="round" /><path d="M-36.000 52.500 L-35.912 53.667 L-35.650 54.833 L-35.213 56.000 L-34.605 57.167 L-33.829 58.333 L-32.888 59.500 L-31.786 60.667 L-30.530 61.833 L-29.125 63.000 L-27.578 64.167 L-25.896 65.333 L-24.089 66.500 L-22.164 67.667 L-20.131 68.833 L-18.000 70.000 L-15.781 71.167 L-13.486 72.333 L-11.125 73.500 L-8.709 74.667 L-6.251 75.833 L-3.763 77.000 L-1.256 78.167 L1.256 79.333 L3.763 80.500 L6.251 81.667 L8.709 82.833 L11.125 84.000 L13.486 85.167 L15.781 86.333 L18.000 87.500 L20.131 88.667 L22.164 89.833 L24.089 91.000 L25.896 92.167 L27.578 93.333 L29.125 94.500 L30.530 95.667 L31.786 96.833 L32.888 98.000 L33.829 99.167 L34.605 100.333 L35.213 101.500 L35.650 102.667 L35.912 103.833 L36.000 105.000" fill="none" stroke="#2167AE" stroke-width="6" stroke-linecap="round" /><path d="M-36.000 -105.000 L-35.912 -103.833 L-35.650 -102.667 L-35.213 -101.500 L-34.605 -100.333 L-33.829 -99.167 L-32.888 -98.000 L-31.786 -96.833 L-30.530 -95.667 L-29.125 -94.500 L-27.578 -93.333 L-25.896 -92.167 L-24.089 -91.000 L-22.164 -89.833 L-20.131 -88.667 L-18.000 -87.500 L-15.781 -86.333 L-13.486 -85.167 L-11.125 -84.000 L-8.709 -82.833 L-6.251 -81.667 L-3.763 -80.500 L-1.256 -79.333 L1.256 -78.167 L3.763 -77.000 L6.251 -75.833 L8.709 -74.667 L11.125 -73.500 L13.486 -72.333 L15.781 -71.167 L18.000 -70.000 L20.131 -68.833 L22.164 -67.667 L24.089 -66.500 L25.896 -65.333 L27.578 -64.167 L29.125 -63.000 L30.530 -61.833 L31.786 -60.667 L32.888 -59.500 L33.829 -58.333 L34.605 -57.167 L35.213 -56.000 L35.650 -54.833 L35.912 -53.667 L36.000 -52.500" fill="none" stroke="#092E50" stroke-width="9" stroke-linecap="round" /><path d="M-36.000 -105.000 L-35.912 -103.833 L-35.650 -102.667 L-35.213 -101.500 L-34.605 -100.333 L-33.829 -99.167 L-32.888 -98.000 L-31.786 -96.833 L-30.530 -95.667 L-29.125 -94.500 L-27.578 -93.333 L-25.896 -92.167 L-24.089 -91.000 L-22.164 -89.833 L-20.131 -88.667 L-18.000 -87.500 L-15.781 -86.333 L-13.486 -85.167 L-11.125 -84.000 L-8.709 -82.833 L-6.251 -81.667 L-3.763 -80.500 L-1.256 -79.333 L1.256 -78.167 L3.763 -77.000 L6.251 -75.833 L8.709 -74.667 L11.125 -73.500 L13.486 -72.333 L15.781 -71.167 L18.000 -70.000 L20.131 -68.833 L22.164 -67.667 L24.089 -66.500 L25.896 -65.333 L27.578 -64.167 L29.125 -63.000 L30.530 -61.833 L31.786 -60.667 L32.888 -59.500 L33.829 -58.333 L34.605 -57.167 L35.213 -56.000 L35.650 -54.833 L35.912 -53.667 L36.000 -52.500" fill="none" stroke="#064986" stroke-width="6" stroke-linecap="round" /><path d="M-36.000 0.000 L-35.912 1.167 L-35.650 2.333 L-35.213 3.500 L-34.605 4.667 L-33.829 5.833 L-32.888 7.000 L-31.786 8.167 L-30.530 9.333 L-29.125 10.500 L-27.578 11.667 L-25.896 12.833 L-24.089 14.000 L-22.164 15.167 L-20.131 16.333 L-18.000 17.500 L-15.781 18.667 L-13.486 19.833 L-11.125 21.000 L-8.709 22.167 L-6.251 23.333 L-3.763 24.500 L-1.256 25.667 L1.256 26.833 L3.763 28.000 L6.251 29.167 L8.709 30.333 L11.125 31.500 L13.486 32.667 L15.781 33.833 L18.000 35.000 L20.131 36.167 L22.164 37.333 L24.089 38.500 L25.896 39.667 L27.578 40.833 L29.125 42.000 L30.530 43.167 L31.786 44.333 L32.888 45.500 L33.829 46.667 L34.605 47.833 L35.213 49.000 L35.650 50.167 L35.912 51.333 L36.000 52.500" fill="none" stroke="#092E50" stroke-width="9" stroke-linecap="round" /><path d="M-36.000 0.000 L-35.912 1.167 L-35.650 2.333 L-35.213 3.500 L-34.605 4.667 L-33.829 5.833 L-32.888 7.000 L-31.786 8.167 L-30.530 9.333 L-29.125 10.500 L-27.578 11.667 L-25.896 12.833 L-24.089 14.000 L-22.164 15.167 L-20.131 16.333 L-18.000 17.500 L-15.781 18.667 L-13.486 19.833 L-11.125 21.000 L-8.709 22.167 L-6.251 23.333 L-3.763 24.500 L-1.256 25.667 L1.256 26.833 L3.763 28.000 L6.251 29.167 L8.709 30.333 L11.125 31.500 L13.486 32.667 L15.781 33.833 L18.000 35.000 L20.131 36.167 L22.164 37.333 L24.089 38.500 L25.896 39.667 L27.578 40.833 L29.125 42.000 L30.530 43.167 L31.786 44.333 L32.888 45.500 L33.829 46.667 L34.605 47.833 L35.213 49.000 L35.650 50.167 L35.912 51.333 L36.000 52.500" fill="none" stroke="#064986" stroke-width="6" stroke-linecap="round" /><path d="M36.000 -105.000 L35.912 -103.833 L35.650 -102.667 L35.213 -101.500 L34.605 -100.333 L33.829 -99.167 L32.888 -98.000 L31.786 -96.833 L30.530 -95.667 L29.125 -94.500 L27.578 -93.333 L25.896 -92.167 L24.089 -91.000 L22.164 -89.833 L20.131 -88.667 L18.000 -87.500 L15.781 -86.333 L13.486 -85.167 L11.125 -84.000 L8.709 -82.833 L6.251 -81.667 L3.763 -80.500 L1.256 -79.333 L-1.256 -78.167 L-3.763 -77.000 L-6.251 -75.833 L-8.709 -74.667 L-11.125 -73.500 L-13.486 -72.333 L-15.781 -71.167 L-18.000 -70.000 L-20.131 -68.833 L-22.164 -67.667 L-24.089 -66.500 L-25.896 -65.333 L-27.578 -64.167 L-29.125 -63.000 L-30.530 -61.833 L-31.786 -60.667 L-32.888 -59.500 L-33.829 -58.333 L-34.605 -57.167 L-35.213 -56.000 L-35.650 -54.833 L-35.912 -53.667 L-36.000 -52.500" fill="none" stroke="#092E50" stroke-width="9" stroke-linecap="round" /><path d="M36.000 -105.000 L35.912 -103.833 L35.650 -102.667 L35.213 -101.500 L34.605 -100.333 L33.829 -99.167 L32.888 -98.000 L31.786 -96.833 L30.530 -95.667 L29.125 -94.500 L27.578 -93.333 L25.896 -92.167 L24.089 -91.000 L22.164 -89.833 L20.131 -88.667 L18.000 -87.500 L15.781 -86.333 L13.486 -85.167 L11.125 -84.000 L8.709 -82.833 L6.251 -81.667 L3.763 -80.500 L1.256 -79.333 L-1.256 -78.167 L-3.763 -77.000 L-6.251 -75.833 L-8.709 -74.667 L-11.125 -73.500 L-13.486 -72.333 L-15.781 -71.167 L-18.000 -70.000 L-20.131 -68.833 L-22.164 -67.667 L-24.089 -66.500 L-25.896 -65.333 L-27.578 -64.167 L-29.125 -63.000 L-30.530 -61.833 L-31.786 -60.667 L-32.888 -59.500 L-33.829 -58.333 L-34.605 -57.167 L-35.213 -56.000 L-35.650 -54.833 L-35.912 -53.667 L-36.000 -52.500" fill="none" stroke="#2167AE" stroke-width="6" stroke-linecap="round" /><path d="M36.000 0.000 L35.912 1.167 L35.650 2.333 L35.213 3.500 L34.605 4.667 L33.829 5.833 L32.888 7.000 L31.786 8.167 L30.530 9.333 L29.125 10.500 L27.578 11.667 L25.896 12.833 L24.089 14.000 L22.164 15.167 L20.131 16.333 L18.000 17.500 L15.781 18.667 L13.486 19.833 L11.125 21.000 L8.709 22.167 L6.251 23.333 L3.763 24.500 L1.256 25.667 L-1.256 26.833 L-3.763 28.000 L-6.251 29.167 L-8.709 30.333 L-11.125 31.500 L-13.486 32.667 L-15.781 33.833 L-18.000 35.000 L-20.131 36.167 L-22.164 37.333 L-24.089 38.500 L-25.896 39.667 L-27.578 40.833 L-29.125 42.000 L-30.530 43.167 L-31.786 44.333 L-32.888 45.500 L-33.829 46.667 L-34.605 47.833 L-35.213 49.000 L-35.650 50.167 L-35.912 51.333 L-36.000 52.500" fill="none" stroke="#092E50" stroke-width="9" stroke-linecap="round" /><path d="M36.000 0.000 L35.912 1.167 L35.650 2.333 L35.213 3.500 L34.605 4.667 L33.829 5.833 L32.888 7.000 L31.786 8.167 L30.530 9.333 L29.125 10.500 L27.578 11.667 L25.896 12.833 L24.089 14.000 L22.164 15.167 L20.131 16.333 L18.000 17.500 L15.781 18.667 L13.486 19.833 L11.125 21.000 L8.709 22.167 L6.251 23.333 L3.763 24.500 L1.256 25.667 L-1.256 26.833 L-3.763 28.000 L-6.251 29.167 L-8.709 30.333 L-11.125 31.500 L-13.486 32.667 L-15.781 33.833 L-18.000 35.000 L-20.131 36.167 L-22.164 37.333 L-24.089 38.500 L-25.896 39.667 L-27.578 40.833 L-29.125 42.000 L-30.530 43.167 L-31.786 44.333 L-32.888 45.500 L-33.829 46.667 L-34.605 47.833 L-35.213 49.000 L-35.650 50.167 L-35.912 51.333 L-36.000 52.500" fill="none" stroke="#2167AE" stroke-width="6" stroke-linecap="round" /><path d="M36.000 -52.500 L35.912 -51.333 L35.650 -50.167 L35.213 -49.000 L34.605 -47.833 L33.829 -46.667 L32.888 -45.500 L31.786 -44.333 L30.530 -43.167 L29.125 -42.000 L27.578 -40.833 L25.896 -39.667 L24.089 -38.500 L22.164 -37.333 L20.131 -36.167 L18.000 -35.000 L15.781 -33.833 L13.486 -32.667 L11.125 -31.500 L8.709 -30.333 L6.251 -29.167 L3.763 -28.000 L1.256 -26.833 L-1.256 -25.667 L-3.763 -24.500 L-6.251 -23.333 L-8.709 -22.167 L-11.125 -21.000 L-13.486 -19.833 L-15.781 -18.667 L-18.000 -17.500 L-20.131 -16.333 L-22.164 -15.167 L-24.089 -14.000 L-25.896 -12.833 L-27.578 -11.667 L-29.125 -10.500 L-30.530 -9.333 L-31.786 -8.167 L-32.888 -7.000 L-33.829 -5.833 L-34.605 -4.667 L-35.213 -3.500 L-35.650 -2.333 L-35.912 -1.167 L-36.000 0.000" fill="none" stroke="#092E50" stroke-width="9" stroke-linecap="round" /><path d="M36.000 -52.500 L35.912 -51.333 L35.650 -50.167 L35.213 -49.000 L34.605 -47.833 L33.829 -46.667 L32.888 -45.500 L31.786 -44.333 L30.530 -43.167 L29.125 -42.000 L27.578 -40.833 L25.896 -39.667 L24.089 -38.500 L22.164 -37.333 L20.131 -36.167 L18.000 -35.000 L15.781 -33.833 L13.486 -32.667 L11.125 -31.500 L8.709 -30.333 L6.251 -29.167 L3.763 -28.000 L1.256 -26.833 L-1.256 -25.667 L-3.763 -24.500 L-6.251 -23.333 L-8.709 -22.167 L-11.125 -21.000 L-13.486 -19.833 L-15.781 -18.667 L-18.000 -17.500 L-20.131 -16.333 L-22.164 -15.167 L-24.089 -14.000 L-25.896 -12.833 L-27.578 -11.667 L-29.125 -10.500 L-30.530 -9.333 L-31.786 -8.167 L-32.888 -7.000 L-33.829 -5.833 L-34.605 -4.667 L-35.213 -3.500 L-35.650 -2.333 L-35.912 -1.167 L-36.000 0.000" fill="none" stroke="#064986" stroke-width="6" stroke-linecap="round" /><path d="M36.000 52.500 L35.912 53.667 L35.650 54.833 L35.213 56.000 L34.605 57.167 L33.829 58.333 L32.888 59.500 L31.786 60.667 L30.530 61.833 L29.125 63.000 L27.578 64.167 L25.896 65.333 L24.089 66.500 L22.164 67.667 L20.131 68.833 L18.000 70.000 L15.781 71.167 L13.486 72.333 L11.125 73.500 L8.709 74.667 L6.251 75.833 L3.763 77.000 L1.256 78.167 L-1.256 79.333 L-3.763 80.500 L-6.251 81.667 L-8.709 82.833 L-11.125 84.000 L-13.486 85.167 L-15.781 86.333 L-18.000 87.500 L-20.131 88.667 L-22.164 89.833 L-24.089 91.000 L-25.896 92.167 L-27.578 93.333 L-29.125 94.500 L-30.530 95.667 L-31.786 96.833 L-32.888 98.000 L-33.829 99.167 L-34.605 100.333 L-35.213 101.500 L-35.650 102.667 L-35.912 103.833 L-36.000 105.000" fill="none" stroke="#092E50" stroke-width="9" stroke-linecap="round" /><path d="M36.000 52.500 L35.912 53.667 L35.650 54.833 L35.213 56.000 L34.605 57.167 L33.829 58.333 L32.888 59.500 L31.786 60.667 L30.530 61.833 L29.125 63.000 L27.578 64.167 L25.896 65.333 L24.089 66.500 L22.164 67.667 L20.131 68.833 L18.000 70.000 L15.781 71.167 L13.486 72.333 L11.125 73.500 L8.709 74.667 L6.251 75.833 L3.763 77.000 L1.256 78.167 L-1.256 79.333 L-3.763 80.500 L-6.251 81.667 L-8.709 82.833 L-11.125 84.000 L-13.486 85.167 L-15.781 86.333 L-18.000 87.500 L-20.131 88.667 L-22.164 89.833 L-24.089 91.000 L-25.896 92.167 L-27.578 93.333 L-29.125 94.500 L-30.530 95.667 L-31.786 96.833 L-32.888 98.000 L-33.829 99.167 L-34.605 100.333 L-35.213 101.500 L-35.650 102.667 L-35.912 103.833 L-36.000 105.000" fill="none" stroke="#064986" stroke-width="6" stroke-linecap="round" /><text x="36" y="-118" fill="#064986" font-family="Calibri" font-size="12" text-anchor="middle">5′</text><text x="-36" y="-118" fill="#064986" font-family="Calibri" font-size="12" text-anchor="middle">3′</text><text x="36" y="125" fill="#064986" font-family="Calibri" font-size="12" text-anchor="middle">3′</text><text x="-36" y="125" fill="#064986" font-family="Calibri" font-size="12" text-anchor="middle">5′</text></g></g></g></g><g id="data-standards-Positioned-component-4" inkscape:label="Positioned component" transform="translate(-122 0) rotate(0) scale(0.42)"><path d="M24 49 H140 L179 93 140 137 H24 Z" fill="url(#data-standards-pxWarm)" stroke="#064986" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" /><text x="92" y="105" font-family="Calibri" font-size="36" fill="#064986" text-anchor="middle" font-weight="600">XML</text><ellipse cx="147" cy="92" rx="7" ry="7" fill="white" stroke="#064986" stroke-width="3" /></g><text x="0" y="207" font-family="Calibri" font-size="31" fill="#064986" text-anchor="middle" font-weight="600">HML</text></g></svg>
             </div>
             <span class="focus-number">03</span>
             <h3>Data standards</h3>
@@ -3414,20 +3509,8 @@
           <article class="focus-card" id="clinical-implementation">
 
             <div class="focus-figure" aria-hidden="true">
-              <svg viewBox="0 0 320 132" xmlns="http://www.w3.org/2000/svg">
-                <rect width="320" height="132" fill="#f7fbfe"/>
-                <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
-                  <circle cx="84" cy="42" r="18" stroke="#005eb8"/>
-                  <path d="M53 103c3-27 14-41 31-41s28 14 31 41" stroke="#005eb8"/>
-                  <circle cx="236" cy="42" r="18" stroke="#005eb8"/>
-                  <path d="M205 103c3-27 14-41 31-41s28 14 31 41" stroke="#005eb8"/>
-                  <path d="M121 72h78" stroke="#f28c28"/>
-                  <path d="M188 61l12 11-12 11" stroke="#f28c28"/>
-                  <rect x="136" y="27" width="48" height="28" rx="7" stroke="#003b70"/>
-                  <path d="M148 41h24M160 29v24" stroke="#003b70"/>
-                  <path d="M61 112h46M213 112h46" stroke="#003b70"/>
-                </g>
-              </svg>
+<svg class="basisset-figure" preserveAspectRatio="xMidYMid meet" data-component="basic_59_clinician.svg" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="-131.60000000000002 -139.10000000000002 263.20000000000005 263.20000000000005"><defs id="clinical-implementation-opt-soft-defs"><linearGradient id="clinical-implementation-optBlue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B8DDF8" /><stop offset=".45" stop-color="#70AFE5" /><stop offset="1" stop-color="#2167AE" /></linearGradient></defs><title>Transplant clinician</title><desc>Transplant clinician. Schematic editable native vector component. Group labels describe its parts.</desc><defs>
+    </defs><g id="clinical-implementation-component-layer" inkscape:groupmode="layer" inkscape:label="Transplant clinician"><g id="clinical-implementation-Positioned-component-251" inkscape:label="Positioned component" transform="translate(0 15) rotate(0) scale(1.4)"><g id="clinical-implementation-Transplant-clinician-250" inkscape:label="Transplant clinician"><ellipse cx="0" cy="-51" rx="19" ry="23" fill="#E8B997" stroke="#092E50" stroke-width="2" /><path d="M-19 -58 Q-21 -83 0 -80 Q23 -78 19 -57 L9 -67 -4 -63 Z" fill="#064986" stroke="#092E50" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M-15 -25 L-33 -11 -37 49 H36 L31 -11 15 -25 0 -6 Z" fill="white" stroke="#092E50" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" /><path d="M-15 -25 L-7 8 -18 15 0 43 M15 -25 L7 8 18 15 0 43" fill="none" stroke="#A9C6E2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M-10 -12 V8 Q1 24 12 7 V-12" fill="none" stroke="#064986" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><ellipse cx="13" cy="13" rx="4" ry="4" fill="url(#clinical-implementation-optBlue)" stroke="#092E50" stroke-width="1" /><rect x="-17" y="30" width="13" height="14" rx="2" fill="#EAF3FA" stroke="#2167AE" stroke-width="1" /></g></g></g></svg>
             </div>
             <span class="focus-number">04</span>
             <h3>Implementation</h3>
