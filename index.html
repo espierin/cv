@@ -2946,6 +2946,71 @@
       }
     }
 
+    /* Responsive navigation menu */
+    #nav-toggle {
+      display: none;
+    }
+
+    .nav-toggle-icon {
+      font-size: 1.1rem;
+      line-height: 1;
+    }
+
+    @media (max-width: 1120px) {
+      .nav-shell {
+        grid-template-columns: minmax(0, 1fr) auto;
+      }
+
+      #nav-toggle {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        min-height: 42px;
+      }
+
+      #primary-nav.is-open {
+        position: absolute;
+        top: calc(100% + 1px);
+        left: 18px;
+        right: 18px;
+        z-index: 101;
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+        gap: 2px;
+        max-height: calc(100vh - 90px);
+        overflow-y: auto;
+        padding: 8px;
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        background: var(--white);
+        box-shadow: var(--shadow);
+      }
+
+      #primary-nav.is-open a {
+        order: 0;
+        padding: 12px 14px;
+        border-radius: 10px;
+        white-space: normal;
+      }
+
+      #primary-nav.is-open a:hover,
+      #primary-nav.is-open a:focus-visible {
+        background: var(--soft);
+      }
+    }
+
+    @media (max-width: 620px) {
+      .nav-controls {
+        gap: 6px;
+      }
+
+      #nav-toggle {
+        padding: 0 14px;
+      }
+    }
+
   </style>
 
   <meta name="author" content="Eric Spierings">
@@ -3001,7 +3066,7 @@
         </span>
       </a>
 
-      <nav class="primary-nav" aria-label="Main navigation">
+      <nav id="primary-nav" class="primary-nav" aria-label="Main navigation">
         <a class="nav-profile" href="#profile">Profile</a>
         <a class="nav-roles" href="#roles">Current roles</a>
         <a class="nav-career" href="#career">Career</a>
@@ -3014,6 +3079,10 @@
       </nav>
 
       <div class="nav-controls">
+        <button class="nav-control" id="nav-toggle" type="button" aria-controls="primary-nav" aria-expanded="false" aria-label="Open navigation menu" title="Open navigation menu">
+          <span class="nav-toggle-label">Menu</span>
+          <span aria-hidden="true" class="nav-toggle-icon">☰</span>
+        </button>
         <button class="nav-control" id="theme-toggle" type="button" aria-label="Switch color theme" title="Switch color theme">
           <span aria-hidden="true">◐</span>
         </button>
@@ -3118,7 +3187,114 @@
       </div>
     </section>
 
-    <section class="section section-alt" id="focus">
+<section class="section" id="roles">
+      <div class="container">
+        <div class="section-head">
+          <p class="section-label">Current roles</p>
+          <div>
+            <h2>Institutional and international responsibilities</h2>
+            <p class="section-intro">
+              My work links laboratory leadership at UMC Utrecht with scientific, educational, and standardization activities in international histocompatibility and immunogenetics networks.
+            </p>
+          </div>
+        </div>
+
+        <div class="roles-grid">
+          <article class="role-card role-primary">
+            <div class="role-icon">CDL</div>
+            <div>
+              <span class="role-type">Primary institutional role</span>
+              <h3>Director Transplantation Diagnostics</h3>
+              <p>I hold scientific and professional responsibility for HLA and transplantation diagnostics within the Central Diagnostic Laboratory at UMC Utrecht.</p>
+            </div>
+          </article>
+
+          <article class="role-card role-academic">
+            <div class="role-icon">UU</div>
+            <div>
+              <span class="role-type">Academic role</span>
+              <h3>Associate Professor</h3>
+              <p>I conduct research, supervise researchers and students, teach, and contribute to academic development in transplantation immunology and immunogenetics.</p>
+            </div>
+          </article>
+
+          <article class="role-card role-international">
+            <div class="role-icon">EFI</div>
+            <div>
+              <span class="role-type">International leadership</span>
+              <h3>EFI Scientific Committee and BITCom</h3>
+              <p>I am a member of the EFI Scientific Committee and founding chair of the Bioinformatics and Information Technology Committee.</p>
+            </div>
+          </article>
+
+          <article class="role-card role-strategic">
+            <div class="role-icon">M</div>
+            <div>
+              <span class="role-type">Strategic secondment</span>
+              <h3>Secondment at Matchis</h3>
+              <p>Through my secondment at Matchis, I strengthen the connection between donor registry practice, HLA expertise, research development, and implementation of improved matching strategies.</p>
+            </div>
+          </article>
+
+          <article class="role-card role-strategic">
+            <div class="role-icon">TCU</div>
+            <div>
+              <span class="role-type">Strategic role</span>
+              <h3>Diagnostics ambassador</h3>
+              <p>As diagnostics ambassador within the Transplantation Center Utrecht, I connect laboratory disciplines with care, research, innovation, and education.</p>
+            </div>
+          </article>
+
+          <article class="role-card role-strategic">
+            <div class="role-icon">AI</div>
+            <div>
+              <span class="role-type">Strategic development</span>
+              <h3>Data-driven diagnostics and AI</h3>
+              <p>I lead CDL-wide development in data-driven working and artificial intelligence, including operational dashboards, workflow analytics, and diagnostic decision support.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+<section class="section" id="career">
+      <div class="container">
+        <div class="section-head">
+          <p class="section-label">Career</p>
+          <div>
+            <h2>From molecular HLA typing to integrated transplantation diagnostics</h2>
+          </div>
+        </div>
+
+        <div class="timeline">
+          <article class="timeline-item">
+            <div class="timeline-time">Current</div>
+            <h3>UMC Utrecht</h3>
+            <p>Associate Professor, medical immunologist, and Director Transplantation Diagnostics within the Central Diagnostic Laboratory.</p>
+          </article>
+
+          <article class="timeline-item">
+            <div class="timeline-time">Academic development</div>
+            <h3>Transplantation immunology and immunogenetics</h3>
+            <p>I developed a research line integrating donor-recipient matching, PIRCHE, antibody risk, immune monitoring, computational models, and clinical implementation.</p>
+          </article>
+
+          <article class="timeline-item">
+            <div class="timeline-time">Postdoctoral period</div>
+            <h3>Minor histocompatibility antigens</h3>
+            <p>I conducted postdoctoral research in the laboratory of Els Goulmy, expanding my expertise from HLA into cellular allo-immunity and minor histocompatibility antigens.</p>
+          </article>
+
+          <article class="timeline-item">
+            <div class="timeline-time">Education</div>
+            <h3>Leiden University Medical Center</h3>
+            <p>I completed an MSc in Biomedical Sciences and a PhD in Immunology. My first practical HLA experience was in 1992 through PCR-SSOP work with Marius Giphart.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+<section class="section section-alt" id="focus">
       <div class="container">
         <div class="section-head">
           <p class="section-label">Scientific focus</p>
@@ -3225,78 +3401,53 @@
       </div>
     </section>
 
-    <section class="section" id="roles">
+<section class="section section-alt" id="initiatives">
       <div class="container">
         <div class="section-head">
-          <p class="section-label">Current roles</p>
+          <p class="section-label">Selected initiatives</p>
           <div>
-            <h2>Institutional and international responsibilities</h2>
+            <h2>Programs connecting research, diagnostics and implementation</h2>
             <p class="section-intro">
-              My work links laboratory leadership at UMC Utrecht with scientific, educational, and standardization activities in international histocompatibility and immunogenetics networks.
+              These initiatives translate immunogenetic concepts, laboratory expertise and interoperable data into practical improvements for transplantation care.
             </p>
           </div>
         </div>
 
-        <div class="roles-grid">
-          <article class="role-card role-primary">
-            <div class="role-icon">CDL</div>
-            <div>
-              <span class="role-type">Primary institutional role</span>
-              <h3>Director Transplantation Diagnostics</h3>
-              <p>I hold scientific and professional responsibility for HLA and transplantation diagnostics within the Central Diagnostic Laboratory at UMC Utrecht.</p>
-            </div>
+        <div class="initiatives-grid">
+          <article class="initiative-card featured">
+            <span class="initiative-number">01</span>
+            <h3>PIRCHE</h3>
+            <p>I develop and clinically evaluate indirect T-cell epitope matching to improve donor-recipient risk assessment and transplant outcome prediction.</p>
           </article>
 
-          <article class="role-card role-academic">
-            <div class="role-icon">UU</div>
-            <div>
-              <span class="role-type">Academic role</span>
-              <h3>Associate Professor</h3>
-              <p>I conduct research, supervise researchers and students, teach, and contribute to academic development in transplantation immunology and immunogenetics.</p>
-            </div>
+          <article class="initiative-card featured">
+            <span class="initiative-number">02</span>
+            <h3>HAML and HLA data standards</h3>
+            <p>I contribute to structured, interoperable exchange of HLA and antibody data between laboratories, registries, research platforms and clinical systems.</p>
           </article>
 
-          <article class="role-card role-international">
-            <div class="role-icon">EFI</div>
-            <div>
-              <span class="role-type">International leadership</span>
-              <h3>EFI Scientific Committee and BITCom</h3>
-              <p>I am a member of the EFI Scientific Committee and founding chair of the Bioinformatics and Information Technology Committee.</p>
-            </div>
+          <article class="initiative-card">
+            <span class="initiative-number">03</span>
+            <h3>EFI BITCom</h3>
+            <p>As founding chair, I support bioinformatics, education and international harmonization across the European histocompatibility and immunogenetics community.</p>
           </article>
 
-          <article class="role-card role-strategic">
-            <div class="role-icon">M</div>
-            <div>
-              <span class="role-type">Strategic secondment</span>
-              <h3>Secondment at Matchis</h3>
-              <p>Through my secondment at Matchis, I strengthen the connection between donor registry practice, HLA expertise, research development, and implementation of improved matching strategies.</p>
-            </div>
+          <article class="initiative-card">
+            <span class="initiative-number">04</span>
+            <h3>Data-driven diagnostics and AI</h3>
+            <p>I develop operational analytics, workflow intelligence and decision support to improve laboratory quality, capacity and clinical interpretation.</p>
           </article>
 
-          <article class="role-card role-strategic">
-            <div class="role-icon">TCU</div>
-            <div>
-              <span class="role-type">Strategic role</span>
-              <h3>Diagnostics ambassador</h3>
-              <p>As diagnostics ambassador within the Transplantation Center Utrecht, I connect laboratory disciplines with care, research, innovation, and education.</p>
-            </div>
-          </article>
-
-          <article class="role-card role-strategic">
-            <div class="role-icon">AI</div>
-            <div>
-              <span class="role-type">Strategic development</span>
-              <h3>Data-driven diagnostics and AI</h3>
-              <p>I lead CDL-wide development in data-driven working and artificial intelligence, including operational dashboards, workflow analytics, and diagnostic decision support.</p>
-            </div>
+          <article class="initiative-card">
+            <span class="initiative-number">05</span>
+            <h3>Matchis secondment</h3>
+            <p>My secondment connects donor registry practice with HLA expertise, research development and implementation of improved matching strategies.</p>
           </article>
         </div>
       </div>
     </section>
 
-
-    <section class="section section-alt" id="activities">
+<section class="section section-alt" id="activities">
       <div class="container">
         <div class="section-head">
           <p class="section-label">Activities</p>
@@ -3348,93 +3499,7 @@
       </div>
     </section>
 
-
-<section class="section" id="career">
-      <div class="container">
-        <div class="section-head">
-          <p class="section-label">Career</p>
-          <div>
-            <h2>From molecular HLA typing to integrated transplantation diagnostics</h2>
-          </div>
-        </div>
-
-        <div class="timeline">
-          <article class="timeline-item">
-            <div class="timeline-time">Current</div>
-            <h3>UMC Utrecht</h3>
-            <p>Associate Professor, medical immunologist, and Director Transplantation Diagnostics within the Central Diagnostic Laboratory.</p>
-          </article>
-
-          <article class="timeline-item">
-            <div class="timeline-time">Academic development</div>
-            <h3>Transplantation immunology and immunogenetics</h3>
-            <p>I developed a research line integrating donor-recipient matching, PIRCHE, antibody risk, immune monitoring, computational models, and clinical implementation.</p>
-          </article>
-
-          <article class="timeline-item">
-            <div class="timeline-time">Postdoctoral period</div>
-            <h3>Minor histocompatibility antigens</h3>
-            <p>I conducted postdoctoral research in the laboratory of Els Goulmy, expanding my expertise from HLA into cellular allo-immunity and minor histocompatibility antigens.</p>
-          </article>
-
-          <article class="timeline-item">
-            <div class="timeline-time">Education</div>
-            <h3>Leiden University Medical Center</h3>
-            <p>I completed an MSc in Biomedical Sciences and a PhD in Immunology. My first practical HLA experience was in 1992 through PCR-SSOP work with Marius Giphart.</p>
-          </article>
-        </div>
-      </div>
-    </section>
-
-
-    <section class="section section-alt" id="initiatives">
-      <div class="container">
-        <div class="section-head">
-          <p class="section-label">Selected initiatives</p>
-          <div>
-            <h2>Programs connecting research, diagnostics and implementation</h2>
-            <p class="section-intro">
-              These initiatives translate immunogenetic concepts, laboratory expertise and interoperable data into practical improvements for transplantation care.
-            </p>
-          </div>
-        </div>
-
-        <div class="initiatives-grid">
-          <article class="initiative-card featured">
-            <span class="initiative-number">01</span>
-            <h3>PIRCHE</h3>
-            <p>I develop and clinically evaluate indirect T-cell epitope matching to improve donor-recipient risk assessment and transplant outcome prediction.</p>
-          </article>
-
-          <article class="initiative-card featured">
-            <span class="initiative-number">02</span>
-            <h3>HAML and HLA data standards</h3>
-            <p>I contribute to structured, interoperable exchange of HLA and antibody data between laboratories, registries, research platforms and clinical systems.</p>
-          </article>
-
-          <article class="initiative-card">
-            <span class="initiative-number">03</span>
-            <h3>EFI BITCom</h3>
-            <p>As founding chair, I support bioinformatics, education and international harmonization across the European histocompatibility and immunogenetics community.</p>
-          </article>
-
-          <article class="initiative-card">
-            <span class="initiative-number">04</span>
-            <h3>Data-driven diagnostics and AI</h3>
-            <p>I develop operational analytics, workflow intelligence and decision support to improve laboratory quality, capacity and clinical interpretation.</p>
-          </article>
-
-          <article class="initiative-card">
-            <span class="initiative-number">05</span>
-            <h3>Matchis secondment</h3>
-            <p>My secondment connects donor registry practice with HLA expertise, research development and implementation of improved matching strategies.</p>
-          </article>
-        </div>
-      </div>
-    </section>
-
-    
-    <section class="section" id="insights">
+<section class="section" id="insights">
       <div class="container">
         <div class="section-head">
           <p class="section-label">Research insights</p>
@@ -3509,7 +3574,7 @@
       </div>
     </section>
 
-    <section class="section section-alt" id="publications">
+<section class="section section-alt" id="publications">
       <div class="container">
         <div class="section-head">
           <p class="section-label">Academic output</p>
@@ -3613,8 +3678,7 @@
       </div>
     </section>
 
-    
-    <section class="section contact-band" id="contact">
+<section class="section contact-band" id="contact">
       <div class="contact-pattern" aria-hidden="true"></div>
 
       <div class="container contact-layout">
@@ -4575,6 +4639,34 @@
       { rootMargin: "-28% 0px -60% 0px", threshold: [0.05, 0.2, 0.5] }
     );
     observedSections.forEach((section) => navigationObserver.observe(section));
+
+    const navigationToggle = document.getElementById("nav-toggle");
+    const primaryNavigation = document.getElementById("primary-nav");
+    const setNavigationOpen = (open) => {
+      primaryNavigation.classList.toggle("is-open", open);
+      navigationToggle.setAttribute("aria-expanded", String(open));
+      navigationToggle.setAttribute(
+        "aria-label",
+        open ? "Close navigation menu" : "Open navigation menu"
+      );
+      navigationToggle.title = open ? "Close navigation menu" : "Open navigation menu";
+    };
+
+    navigationToggle.addEventListener("click", () => {
+      setNavigationOpen(navigationToggle.getAttribute("aria-expanded") !== "true");
+    });
+    navigationLinks.forEach((link) => {
+      link.addEventListener("click", () => setNavigationOpen(false));
+    });
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") setNavigationOpen(false);
+    });
+    document.addEventListener("click", (event) => {
+      if (!event.target.closest(".site-header")) setNavigationOpen(false);
+    });
+    window.addEventListener("resize", () => {
+      if (window.innerWidth > 1120) setNavigationOpen(false);
+    });
 
     const themeToggle = document.getElementById("theme-toggle");
     const storedTheme = localStorage.getItem("site-theme");
