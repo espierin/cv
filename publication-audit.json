@@ -3,18 +3,56 @@
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "policy": "Verified conference abstracts are separate from scientific publications. Unresolved candidates are recorded for review.",
   "counts": {
-    "scientificPublications": 136,
-    "conferenceAbstracts": 51,
-    "abstractsNeedingReview": 8
+    "scientificPublications": 135,
+    "conferenceAbstracts": 142,
+    "abstractsNeedingReview": 2
   },
   "research": {
     "reviewedAt": "2026-10-27",
-    "curatedCount": 51,
-    "policy": "Explicit author attribution required. Coauthors and related full papers corroborate identity; topic similarity alone never establishes authorship. Distinct conference presentations may share a study.",
+    "curatedCount": 126,
+    "policy": "Explicit author attribution from publisher, congress, institutional bibliography or the claimed ORCID-linked WoS profile, corroborated by established coauthors. Abridged lists are labelled; missing authors and author positions are not invented. Content similarity alone is insufficient.",
     "registry": "conference-abstracts-manual.json",
     "report": "research/conference-abstracts/README.md"
   },
   "abstracts": [
+    {
+      "id": "abstract-wos-001750677700175",
+      "title": "Histocompatibility Does not Predict Villitis of Unknown Etiology in Oocyte Donation Pregnancies",
+      "year": 2026,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 107",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 107"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: eikmans, peereboom"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 107"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001750677700175",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
     {
       "id": "abstract-ba73a50a9ccd4312",
       "title": "HLA Class I Leader Peptides Are Associated with Increased Risk of Acute Rejection in CMV Seropositive Lung Transplant Recipients",
@@ -22,7 +60,7 @@
       "journal": "The Journal of Heart and Lung Transplantation",
       "volumeIssuePages": "vol. 45, no. 5, pp. 569",
       "doi": "10.1016/j.healun.2026.02.1237",
-      "meeting": null,
+      "meeting": "46th Annual Meeting and Scientific Sessions of the International-Society-for-Heart-and-Lung-Transplantation (ISHLT)",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W7154593608",
       "reasons": [
@@ -53,6 +91,49 @@
           "url": "https://openalex.org/W7154593608",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001761422000017",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-001750677700268",
+      "title": "HLA leader peptides and CMV define a unified mechanism of early rejection after solid organ transplantation",
+      "year": 2026,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 107",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 107"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "E. Spierings explicitly appears in the displayed author line; HLA/transplantation research context corroborates identity."
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 107"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001750677700268",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -63,7 +144,7 @@
       "journal": "The Journal of Heart and Lung Transplantation",
       "volumeIssuePages": "vol. 45, no. 5, pp. 192",
       "doi": "10.1016/j.healun.2026.02.409",
-      "meeting": null,
+      "meeting": "46th Annual Meeting and Scientific Sessions of the International-Society-for-Heart-and-Lung-Transplantation (ISHLT)",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W7154587695",
       "reasons": [
@@ -94,6 +175,11 @@
           "url": "https://openalex.org/W7154587695",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001761463200006",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -145,7 +231,7 @@
       "journal": "Transplantation",
       "volumeIssuePages": "vol. 110, no. 9S",
       "doi": "10.1097/01.tp.0001254944.35607.69",
-      "meeting": null,
+      "meeting": "31st International Congress of the Transplantation-Society",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W7204808736",
       "reasons": [
@@ -176,6 +262,87 @@
           "url": "https://openalex.org/W7204808736",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001863721100039",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-001525853600059",
+      "title": "Combined Population Based on Ancestry-Specific 2007 NMDP Haplotype Frequencies Facilitates Accurate HLA Genotype Imputation and molecular Matching in Absence of Ancestry Information",
+      "year": 2025,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 105",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 105"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: matern, niemann"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 105"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001525853600059",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-001525853600060",
+      "title": "Data Type Conversions and Misinterpretations in HLA Typing Data: Impact of Spreadsheet Software Formatting on HLA Genotype Integrity",
+      "year": 2025,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 105",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 105"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: bandstra, matern, niemann"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 105"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001525853600060",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -186,7 +353,7 @@
       "journal": "American Journal of Transplantation",
       "volumeIssuePages": "vol. 25, no. 8, pp. S542",
       "doi": "10.1016/j.ajt.2025.07.1257",
-      "meeting": null,
+      "meeting": "World Transplant Congress (WTC)",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W4412851589",
       "reasons": [
@@ -217,6 +384,11 @@
           "url": "https://openalex.org/W4412851589",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001551680300140",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -253,13 +425,50 @@
       ]
     },
     {
+      "id": "abstract-0db9558c95e61670",
+      "title": "HLA-B leader peptide dimorphism affects kidney transplant outcome",
+      "year": 2025,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 105",
+      "doi": null,
+      "collectionDoi": "10.1111/tan.70158",
+      "meeting": "EFI 2025",
+      "abstractNumber": "O8",
+      "reasons": [
+        "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Explicit Eric Spierings / E. Spierings author list in institutional or congress source; corroborated by established coauthors"
+        ],
+        "classificationEvidence": [
+          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://efi-conference.org/fileadmin/Congress_2025/program-overview/EFI2025_Preliminary_Program17-4.pdf",
+          "checkedAt": "2026-10-27",
+          "kind": "indexed-official-program-extract",
+          "access": "Original URL now redirects; indexed author list cross-checked with related publication"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001525853600009",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
       "id": "abstract-e9bcb3a4fad5ac40",
       "title": "Indirect T Cell Epitope Mismatch Loads Are Correlated with Increased Levels of Panel-Reactive HLA Antibodies After Kidney Transplantation",
       "year": 2025,
       "journal": "American Journal of Transplantation",
       "volumeIssuePages": "vol. 25, no. 8, pp. S539-S540",
       "doi": "10.1016/j.ajt.2025.07.1252",
-      "meeting": null,
+      "meeting": "World Transplant Congress (WTC)",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W4412851562",
       "orcidPutCode": 225654275,
@@ -291,6 +500,125 @@
           "url": "https://openalex.org/W4412851562",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001551680300134",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-001422987100011",
+      "title": "PREDICTION OF HYPERTENSIVE COMPLICATIONS IN OOCYTE DONATION PREGNANCY USING FETAL-MATERNAL HLA-MISMATCHES AND PIRCHE-II SCORES: A MULTICENTER COHORT STUDY IN THE NETHERLANDS",
+      "year": 2025,
+      "journal": "JOURNAL OF REPRODUCTIVE IMMUNOLOGY",
+      "volumeIssuePages": "JOURNAL OF REPRODUCTIVE IMMUNOLOGY 167",
+      "doi": null,
+      "meeting": "15th World Congress of the International-Society-for-Immunology-of-Reproduction (ISIR)",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: JOURNAL OF REPRODUCTIVE IMMUNOLOGY 167"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: lafeber, lashley, peerenboom"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: JOURNAL OF REPRODUCTIVE IMMUNOLOGY 167"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001422987100011",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-001708634200179",
+      "title": "Allele-Specific Solvent-Accessible Surface-Protruding Amino Acid Mismatches and Predicted Indirect T-cell Epitopes Improve HLA Matching in Predicting Kidney Graft Survival",
+      "year": 2024,
+      "journal": "AMERICAN JOURNAL OF TRANSPLANTATION",
+      "volumeIssuePages": "AMERICAN JOURNAL OF TRANSPLANTATION 24(6), pp.S756-S756",
+      "doi": null,
+      "meeting": "American Transplant Congress (ATC)",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: AMERICAN JOURNAL OF TRANSPLANTATION 24(6), pp.S756-S756"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: matern, niemann"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: AMERICAN JOURNAL OF TRANSPLANTATION 24(6), pp.S756-S756"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001708634200179",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-001364287301324",
+      "title": "Assessment of the efficacy of a monoclonal antibody against pancreatic tumour cells by complement-dependent cytotoxicity assay",
+      "year": 2024,
+      "journal": "European Journal of Immunology",
+      "volumeIssuePages": "EUROPEAN JOURNAL OF IMMUNOLOGY 54, pp.751-751",
+      "doi": null,
+      "meeting": "7th European Conference of Immunology",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: EUROPEAN JOURNAL OF IMMUNOLOGY 54, pp.751-751"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: francisco"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: EUROPEAN JOURNAL OF IMMUNOLOGY 54, pp.751-751"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001364287301324",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -325,13 +653,51 @@
       ]
     },
     {
+      "id": "abstract-wos-001708632700139",
+      "title": "Swine Xenografts Share Few Predicted Indirectly Recognizable SLA-Derived Epitopes with HLA-Derived Epitopes from Human Kidney Grafts",
+      "year": 2024,
+      "journal": "AMERICAN JOURNAL OF TRANSPLANTATION",
+      "volumeIssuePages": "AMERICAN JOURNAL OF TRANSPLANTATION 24(6), pp.S478-S479",
+      "doi": null,
+      "meeting": "Annual Meeting of the American-Society-of-Transplant-Surgeons (ASTS)",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: AMERICAN JOURNAL OF TRANSPLANTATION 24(6), pp.S478-S479"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: matern, niemann"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: AMERICAN JOURNAL OF TRANSPLANTATION 24(6), pp.S478-S479"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001708632700139",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
       "id": "abstract-f43e2a703ef07cad",
       "title": "O7 Combining allele-specific solvent-accessible surface-protruding amino acid mismatches and predicted indirect T cell epitopes improves HLA matching in predicting kidney graft survival",
       "year": 2023,
       "journal": "Human Immunology",
       "volumeIssuePages": "vol. 84, pp. 20-21",
       "doi": "10.1016/j.humimm.2023.07.016",
-      "meeting": null,
+      "meeting": "43rd Annual Meeting of International-Society-for-Heart-and-Lung-Transplantation (ISHLT)",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W4387007847",
       "orcidPutCode": 225651303,
@@ -363,6 +729,11 @@
           "url": "https://openalex.org/W4387007847",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001078560900008",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -373,7 +744,7 @@
       "journal": "Human Immunology",
       "volumeIssuePages": "vol. 84, pp. 144",
       "doi": "10.1016/j.humimm.2023.08.087",
-      "meeting": null,
+      "meeting": "43rd Annual Meeting of International-Society-for-Heart-and-Lung-Transplantation (ISHLT)",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W4387007654",
       "orcidPutCode": 225651302,
@@ -405,6 +776,11 @@
           "url": "https://openalex.org/W4387007654",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001078560900126",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -441,6 +817,11 @@
           "url": "https://pure.eur.nl/en/publications/the-18th-international-hla-and-immunogenetics-workshop-ihiws-hla-/",
           "kind": "institutional-bibliography-with-WoS-accession",
           "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001082837700010",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -469,6 +850,156 @@
       "sources": [
         {
           "url": "https://easychair.org/smart-program/EFI2023/2023-04-27.html#talk:212989",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-5c778174e7a72e58",
+      "title": "The number of donor HLA-derived T-cell epitopes available for indirect antigen presentation determines the risk for vascular rejection after kidney transplantation",
+      "year": 2023,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 101(4), pp.347-348",
+      "doi": null,
+      "meeting": "EFI 2023",
+      "abstractNumber": "talk:212989",
+      "reasons": [
+        "Official program provides a scientific abstract body for this contribution"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Eric Spierings explicitly listed with Utrecht affiliation in official program author list"
+        ],
+        "classificationEvidence": [
+          "Official program provides a scientific abstract body for this contribution"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://easychair.org/smart-program/EFI2023/2023-04-27.html#talk:212989",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001082837700042",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000891281900009",
+      "title": "ALLELE-SPECIFIC SOLVENT ACCESSIBLE AMINO ACID MISMATCHES ARE CORRELATED WITH IMMUNIZER-SPECIFIC HLA ANTIBODIES AFTER KIDNEY TRANSPLANTATION OR PREGNANCY",
+      "year": 2022,
+      "journal": "HUMAN IMMUNOLOGY",
+      "volumeIssuePages": "HUMAN IMMUNOLOGY 83, pp.20-20",
+      "doi": null,
+      "meeting": "48th Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics (ASHI)",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HUMAN IMMUNOLOGY 83, pp.20-20"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: niemann, strehler"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HUMAN IMMUNOLOGY 83, pp.20-20"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000891281900009",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000891281900171",
+      "title": "DEVELOPING A DEEP LEARNING-BASED EPITOPE MATCHING ALGORITHM CONSIDERING ALLELE-SPECIFIC SOLVENT ACCESSIBILITY",
+      "year": 2022,
+      "journal": "HUMAN IMMUNOLOGY",
+      "volumeIssuePages": "HUMAN IMMUNOLOGY 83, pp.184-184",
+      "doi": null,
+      "meeting": "48th Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics (ASHI)",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HUMAN IMMUNOLOGY 83, pp.184-184"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: matern, niemann"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HUMAN IMMUNOLOGY 83, pp.184-184"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000891281900171",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000893223200368",
+      "title": "Indirectly Recognizable Epitopes Derived from Recipient Mismatched HLA-B Are Associated with Adverse Prognosis in Single-Unit Cord Blood Transplantation",
+      "year": 2022,
+      "journal": "Blood",
+      "volumeIssuePages": "BLOOD 140",
+      "doi": "10.1182/blood-2022-164913",
+      "meeting": "64th Annual Meeting and Exposition of the American-Society-of-Hematology (ASH)",
+      "abstractNumber": null,
+      "openAlexId": "https://openalex.org/W4310107118",
+      "orcidPutCode": 225651310,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: BLOOD 140"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: kato, morishima, sugio"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: BLOOD 140"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000893223200368",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
           "checkedAt": "2026-10-27"
         }
       ]
@@ -503,6 +1034,40 @@
       ]
     },
     {
+      "id": "abstract-1d01a3171014f9ae",
+      "title": "Single-cell sequence analyses of circulating T follicular helper cells during antibody-mediated rejection",
+      "year": 2022,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 99(5), pp.443-443",
+      "doi": null,
+      "meeting": "EFI 2022",
+      "abstractNumber": "talk:188488",
+      "reasons": [
+        "Official program provides a scientific abstract body for this contribution"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Eric Spierings explicitly listed with Utrecht affiliation in official program author list"
+        ],
+        "classificationEvidence": [
+          "Official program provides a scientific abstract body for this contribution"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://easychair.org/smart-program/EFI2022/2022-05-19.html#talk:188488",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000788004300061",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
       "id": "abstract-2d1dedaed8c18651",
       "title": "T-cell epitopes shared between immunizing and donor HLA associate with kidney allograft failure",
       "year": 2022,
@@ -527,6 +1092,40 @@
       "sources": [
         {
           "url": "https://easychair.org/smart-program/EFI2022/2022-05-18.html#talk:188487",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-2d1dedaed8c18651",
+      "title": "T-cell epitopes shared between immunizing and donor HLA associate with kidney allograft failure",
+      "year": 2022,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 99(5), pp.422-423",
+      "doi": null,
+      "meeting": "EFI 2022",
+      "abstractNumber": "talk:188487",
+      "reasons": [
+        "Official program provides a scientific abstract body for this contribution"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Eric Spierings explicitly listed with Utrecht affiliation in official program author list"
+        ],
+        "classificationEvidence": [
+          "Official program provides a scientific abstract body for this contribution"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://easychair.org/smart-program/EFI2022/2022-05-18.html#talk:188487",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000788004300018",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
           "checkedAt": "2026-10-27"
         }
       ]
@@ -561,6 +1160,40 @@
       ]
     },
     {
+      "id": "abstract-801b9026f6398fff",
+      "title": "The Role of HLA Epitope Mismatches in Antibody Development and Refractoriness to Optimize Allocation in Platelet Transfusion",
+      "year": 2022,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 99(5), pp.432-432",
+      "doi": null,
+      "meeting": "EFI 2022",
+      "abstractNumber": "talk:188474",
+      "reasons": [
+        "Official program provides a scientific abstract body for this contribution"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Eric Spierings explicitly listed with Utrecht affiliation in official program author list"
+        ],
+        "classificationEvidence": [
+          "Official program provides a scientific abstract body for this contribution"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://easychair.org/smart-program/EFI2022/2022-05-18.html#talk:188474",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000788004300039",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
       "id": "abstract-deb4876fb804f039",
       "title": "Which is More Important for Predicting De Novo DSA Production, B Cell Epitope (EPLET) or T Cell Epitope (PIRCHE) Analysis ?",
       "year": 2022,
@@ -586,6 +1219,41 @@
       "sources": [
         {
           "url": "https://atcmeetingabstracts.com/abstract/which-is-more-important-for-predicting-de-novo-dsa-production-b-cell-epitope-eplet-or-t-cell-epitope-pirche-analysis/",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-deb4876fb804f039",
+      "title": "Which is More Important for Predicting De Novo DSA Production, B Cell Epitope (EPLET) or T Cell Epitope (PIRCHE) Analysis ?",
+      "year": 2022,
+      "journal": "American Journal of Transplantation",
+      "volumeIssuePages": "AMERICAN JOURNAL OF TRANSPLANTATION 22, pp.386-386",
+      "doi": null,
+      "meeting": "2022 American Transplant Congress",
+      "abstractNumber": "120",
+      "reasons": [
+        "Official congress abstract page with meeting year and abstract number 120"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "E. Spierings explicitly listed as author with UMC Utrecht affiliation on official congress page",
+          "Shared PIRCHE/kidney-transplantation coauthors confirmed against publication dataset"
+        ],
+        "classificationEvidence": [
+          "Official congress abstract page with meeting year and abstract number 120"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://atcmeetingabstracts.com/abstract/which-is-more-important-for-predicting-de-novo-dsa-production-b-cell-epitope-eplet-or-t-cell-epitope-pirche-analysis/",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000842606302120",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
           "checkedAt": "2026-10-27"
         }
       ]
@@ -625,6 +1293,45 @@
       ]
     },
     {
+      "id": "abstract-59806c64a7d7bfb7",
+      "title": "Compartmentalization, persistence and conserved shared motifs of dominant (regulatory) T cell clones in autoimmune inflammation",
+      "year": 2021,
+      "journal": "Clinical and Experimental Rheumatology",
+      "volumeIssuePages": "vol. 39, no. 5, pp. 1153–1154",
+      "doi": null,
+      "meeting": "Twelfth International Congress on Spondyloarthritides",
+      "abstractNumber": null,
+      "reasons": [
+        "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Explicit Eric Spierings / E. Spierings author list in institutional or congress source; corroborated by established coauthors"
+        ],
+        "classificationEvidence": [
+          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://researchinformation.umcutrecht.nl/en/publications/compartmentalization-persistence-and-conserved-shared-motifs-of-d/",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.clinexprheumatol.org/abstract.asp?a=17839",
+          "kind": "publisher-congress-supplement",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000691812200014",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
       "id": "abstract-4e411f2ca4efb419",
       "title": "Human Leukocyte Antigen mapping of paediatric uveitis",
       "year": 2021,
@@ -654,6 +1361,83 @@
         {
           "url": "https://openalex.org/W3181208277",
           "kind": "author-network-cross-check",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-4e411f2ca4efb419",
+      "title": "Human Leukocyte Antigen mapping of paediatric uveitis",
+      "year": 2021,
+      "journal": "Investigative Ophthalmology & Visual Science",
+      "volumeIssuePages": "vol. 62, no. 8, abstract 3480",
+      "doi": null,
+      "meeting": "ARVO 2021",
+      "abstractNumber": "3480",
+      "reasons": [
+        "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Explicit Eric Spierings / E. Spierings author list in institutional or congress source; corroborated by established coauthors"
+        ],
+        "classificationEvidence": [
+          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://iovs.arvojournals.org/article.aspx?articleid=2776078",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://openalex.org/W3181208277",
+          "kind": "author-network-cross-check",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000690761600719",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000697845200009",
+      "title": "SHARED T-CELL EPITOPES BETWEEN IMMUNIZING AND DONOR HLA ASSOCIATE WITH KIDNEY ALLOGRAFT SURVIVAL",
+      "year": 2021,
+      "journal": "HUMAN IMMUNOLOGY",
+      "volumeIssuePages": "HUMAN IMMUNOLOGY 82, pp.15-15",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HUMAN IMMUNOLOGY 82, pp.15-15"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: matern, peereboom, zuilen"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HUMAN IMMUNOLOGY 82, pp.15-15"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000697845200009",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
           "checkedAt": "2026-10-27"
         }
       ]
@@ -759,6 +1543,41 @@
       ]
     },
     {
+      "id": "abstract-a6883d1a31870da9",
+      "title": "Clinical Significance of T Cell and B Cell Epitope Prediction as a Risk Factor of De Novo DSA Production after Kidney Transplantation",
+      "year": 2020,
+      "journal": "American Journal of Transplantation",
+      "volumeIssuePages": "AMERICAN JOURNAL OF TRANSPLANTATION 20, pp.403-403",
+      "doi": null,
+      "meeting": "2020 American Transplant Congress",
+      "abstractNumber": "243",
+      "reasons": [
+        "Official congress abstract page with meeting year and abstract number 243"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "E. Spierings explicitly listed as author with UMC Utrecht affiliation on official congress page",
+          "Shared PIRCHE/kidney-transplantation coauthors confirmed against publication dataset"
+        ],
+        "classificationEvidence": [
+          "Official congress abstract page with meeting year and abstract number 243"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://atcmeetingabstracts.com/abstract/clinical-significance-of-t-cell-and-b-cell-epitope-prediction-as-a-risk-factor-of-de-novo-dsa-production-after-kidney-transplantation/",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000546629501344",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
       "id": "abstract-eed3114c422ddd65",
       "title": "Evaluating Preformed Donor HLA Reactive T Cells Using PIRCHE-II Algorithm",
       "year": 2020,
@@ -789,6 +1608,117 @@
       ]
     },
     {
+      "id": "abstract-eed3114c422ddd65",
+      "title": "Evaluating Preformed Donor HLA Reactive T Cells Using PIRCHE-II Algorithm",
+      "year": 2020,
+      "journal": "American Journal of Transplantation",
+      "volumeIssuePages": "AMERICAN JOURNAL OF TRANSPLANTATION 20, pp.636-636",
+      "doi": null,
+      "meeting": "2020 American Transplant Congress",
+      "abstractNumber": "B-365",
+      "reasons": [
+        "Official congress abstract page with meeting year and abstract number B-365"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "E. Spierings explicitly listed as author with UMC Utrecht affiliation on official congress page",
+          "Shared PIRCHE/kidney-transplantation coauthors confirmed against publication dataset"
+        ],
+        "classificationEvidence": [
+          "Official congress abstract page with meeting year and abstract number B-365"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://atcmeetingabstracts.com/abstract/evaluating-preformed-donor-hla-reactive-t-cells-using-pirche-ii-algorithm/",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000546629502251",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000518393300156",
+      "title": "EVALUATION OF PREFORMED DONOR-HLA-CROSS-REACTIVE T CELLS USING PIRCHE-II ALGORITHM",
+      "year": 2020,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 95(4), pp.344-345",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 95(4), pp.344-345"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: iwasaki, tomosugi"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 95(4), pp.344-345"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000518393300156",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000751335600070",
+      "title": "HLA ANTIBODY MARKUP LANGUAGE (HAML) - A CASE STUDY AND TECHNOLOGY DEMONSTRATION INVOLVING DPB1 EPITOPE ANALYSIS",
+      "year": 2020,
+      "journal": "Human Immunology",
+      "volumeIssuePages": "HUMAN IMMUNOLOGY 81, pp.82-82",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HUMAN IMMUNOLOGY 81, pp.82-82"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: gragert"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HUMAN IMMUNOLOGY 81, pp.82-82"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000751335600070",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
       "id": "abstract-19d84ce27c3fb2f1",
       "title": "Human Leukocyte Antigen mapping of paediatric uveitis",
       "year": 2020,
@@ -814,6 +1744,386 @@
       "sources": [
         {
           "url": "https://onlinelibrary.wiley.com/doi/10.1111/aos.14387",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-19d84ce27c3fb2f1",
+      "title": "Human Leukocyte Antigen mapping of paediatric uveitis",
+      "year": 2020,
+      "journal": "Acta Ophthalmologica",
+      "volumeIssuePages": "vol. 98, suppl. 264",
+      "doi": null,
+      "collectionDoi": "10.1111/aos.14387",
+      "meeting": "Acta Ophthalmologica congress abstracts 2020",
+      "abstractNumber": null,
+      "reasons": [
+        "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Explicit Eric Spierings / E. Spierings author list in institutional or congress source; corroborated by established coauthors"
+        ],
+        "classificationEvidence": [
+          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/aos.14387",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000562907300110",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000578671900091",
+      "title": "IN SILICO SIMULATIONS DEMONSTRATE THE BENEFIT OF HLA EPITOPE MATCHING FOR KIDNEY ALLOCATION",
+      "year": 2020,
+      "journal": "Transplant International",
+      "volumeIssuePages": "TRANSPLANT INTERNATIONAL 33, pp.32-33",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TRANSPLANT INTERNATIONAL 33, pp.32-33"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: budde, lachmann, niemann"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TRANSPLANT INTERNATIONAL 33, pp.32-33"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000578671900091",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000518393300153",
+      "title": "THE NUMBER OF PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES PRESENTED BY HLA-DQ AND -DP ARE CORRELATED WITH CHILD-SPECIFIC HLA-ANTIBODIES IN PREGNANCY",
+      "year": 2020,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 95(4), pp.343-343",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 95(4), pp.343-343"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: honger, niemann"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 95(4), pp.343-343"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000518393300153",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000518393300233",
+      "title": "UNRAVELING THE CELL SURFACE EXPRESSION OF THE HLA-B*13:123Q ALLELE",
+      "year": 2020,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 95(4), pp.381-382",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 95(4), pp.381-382"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, graaff"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 95(4), pp.381-382"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000518393300233",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000464517600210",
+      "title": "A NEW B*35 ALLELE DETECTED IN A POTENTIAL BRAZILIAN BONE MARROW VOLUNTEER DONOR FROM CURITIBA, BRAZIL",
+      "year": 2019,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 93(5), pp.352–353",
+      "doi": null,
+      "meeting": "EFI 2019",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS explicitly classifies this item as Meeting Abstract; HLA 93(5):352–353, May 2019."
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Direct work association in Eric Spierings’ claimed WoS profile AAU-5138-2021, linked to ORCID 0000-0001-9441-1019.",
+          "Independent coauthor CV index for Alessandro Pirri explicitly lists E. Spierings with Pirri, Bicalho and Silva for this exact 2019 title. Author order differs between abbreviated sources, so no complete ordered author list is asserted."
+        ],
+        "classificationEvidence": [
+          "WoS explicitly classifies this item as Meeting Abstract; HLA 93(5):352–353, May 2019."
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000464517600210",
+          "kind": "web-of-science-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.escavador.com/sobre/2839087/alessandro-pirri",
+          "kind": "independent-coauthor-CV-index",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000491488701124",
+      "title": "COMPUTATIONAL SIMULATIONS DEMONSTRATE THE FEASIBILITY AND BENEFIT OF EPITOPE MATCHING FOR KIDNEY TRANSPLANTATION",
+      "year": 2019,
+      "journal": "Transplant International",
+      "volumeIssuePages": "TRANSPLANT INTERNATIONAL 32, pp.42-43",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TRANSPLANT INTERNATIONAL 32, pp.42-43"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, niemann"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TRANSPLANT INTERNATIONAL 32, pp.42-43"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000491488701124",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000491488701287",
+      "title": "IDENTIFICATION OF IMMUNOGENIC RECIPIENT HLA CLASS II AND DONOR-HLA-DERIVED PEPTIDE COMPLEXES: CLINICAL RELEVANCE TO DE NOVO DONOR-SPECIFIC HLA ANTIBODY FORMATION IN KIDNEY TRANSPLANTATION",
+      "year": 2019,
+      "journal": "Transplant International",
+      "volumeIssuePages": "TRANSPLANT INTERNATIONAL 32, pp.88-88",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TRANSPLANT INTERNATIONAL 32, pp.88-88"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: iwasaki, tomosugi"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TRANSPLANT INTERNATIONAL 32, pp.88-88"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000491488701287",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000464517600082",
+      "title": "THE NUMBER OF DONOR-HLA-DERIVED PEPTIDES PRESENTED BY RECIPIENT DRB3/4/5 AND DQA1-DQB1 IN KIDNEY-TRANSPLANTED RECIPIENTS ARE INDEPENDENT FROM THE NUMBER OF DRB1-PRESENTED PEPTIDES",
+      "year": 2019,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 93(5), pp.293-293",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 93(5), pp.293-293"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, kobayashi, niemann"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 93(5), pp.293-293"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000464517600082",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000430290800025",
+      "title": "COMPUTATIONAL SIMULATIONS DEMONSTRATE THE FEASIBILITY AND BENEFIT OF EPITOPE MATCHING FOR KIDNEY TRANSPLANTATION",
+      "year": 2018,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 91(5), pp.333-333",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 91(5), pp.333-333"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: lachmann, niemann"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 91(5), pp.333-333"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000430290800025",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000449666000049",
+      "title": "COMPUTATIONAL SIMULATIONS DEMONSTRATE THE FEASIBILITY AND BENEFIT OF HLA EPITOPE MATCHING IN DECEASED DONOR KIDNEY ALLOCATION",
+      "year": 2018,
+      "journal": "Transplant International",
+      "volumeIssuePages": "TRANSPLANT INTERNATIONAL 31, pp.21-22",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TRANSPLANT INTERNATIONAL 31, pp.21-22"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, niemann"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TRANSPLANT INTERNATIONAL 31, pp.21-22"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000449666000049",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
           "checkedAt": "2026-10-27"
         }
       ]
@@ -859,6 +2169,203 @@
       ]
     },
     {
+      "id": "abstract-06c353a7fe5f3b91",
+      "title": "Decreased Graft Survival of Retransplants can Largely be Explained By Increased Hla-immunization",
+      "year": 2018,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 91(5), pp.372-372",
+      "doi": null,
+      "meeting": "EFI 2018",
+      "abstractNumber": "P40",
+      "reasons": [
+        "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Explicit Eric Spierings / E. Spierings author list in institutional or congress source; corroborated by established coauthors"
+        ],
+        "classificationEvidence": [
+          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://research.rug.nl/en/publications/fa382244-44a3-4360-b4ec-55e08d526cad",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://openalex.org/W2807425322",
+          "kind": "author-network-cross-check",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://cemia.eu/wp-content/uploads/2018/05/R43-Venice-May2018_DEF_82247.pdf",
+          "kind": "indexed-official-program-extract",
+          "checkedAt": "2026-10-27",
+          "access": "Full PDF unavailable at review; indexed author/title/abstract-number extract corroborates repository record"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000430290800105",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000430290800046",
+      "title": "HLA EPITOPE MATCHING OF KIDNEY TRANSPLANTS PREDICTS ANTIBODY- AND CELL-MEDIATED REJECTION",
+      "year": 2018,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 91(5), pp.343-344",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 91(5), pp.343-344"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: lachmann, schonemann, staeck"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 91(5), pp.343-344"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000430290800046",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000449666000016",
+      "title": "PREDICTION OF ANTIBODY- AND CELL-MEDIATED REJECTION OF KIDNEY TRANSPLANTS BY HLA EPITOPE MATCHING",
+      "year": 2018,
+      "journal": "Transplant International",
+      "volumeIssuePages": "TRANSPLANT INTERNATIONAL 31, pp.12-12",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TRANSPLANT INTERNATIONAL 31, pp.12-12"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: lachmann, niemann, staeck"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TRANSPLANT INTERNATIONAL 31, pp.12-12"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000449666000016",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000430290800022",
+      "title": "SIMULATING THROMBOCYTE TRANSFUSIONS TO INVESTIGATE THE ROLE OF T-HELPER AND B-CELL EPITOPES ON THE RISK FOR PLATELET REFRACTORINESS",
+      "year": 2018,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 91(5), pp.332-332",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 91(5), pp.332-332"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, hoop"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 91(5), pp.332-332"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000430290800022",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000400973300043",
+      "title": "A PREVIOUS MISCARRIAGE AND A PREVIOUS SUCCESSFUL PREGNANCY HAVE A DIFFERENT IMPACT ON HLA ANTIBODY FORMATION DURING A SUBSEQUENT SUCCESSFUL PREGNANCY",
+      "year": 2017,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 89(6), pp.358-358",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 89(6), pp.358-358"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, honger"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 89(6), pp.358-358"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300043",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
       "id": "abstract-fd9e25ad05879459",
       "title": "Analysis of Predicted Indirectly Recognizable HLA Epitopes (PIRCHE) in Mismatched Unrelated Donor Hematopoietic Stem Cell Transplants (HCT): A Center for International Blood and Marrow Transplant Research (CIBMTR) Cohort Study",
       "year": 2017,
@@ -896,6 +2403,125 @@
           "url": "https://openalex.org/W2590743714",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000540635000197",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000400973300193",
+      "title": "COMPUTATIONAL APPROACHES TO FACILITATE EPITOPE-BASED HLA MATCHING IN SOLID ORGAN TRANSPLANTATION",
+      "year": 2017,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 89(6), pp.426-426",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 89(6), pp.426-426"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, niemann"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 89(6), pp.426-426"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300193",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000400973300022",
+      "title": "DIFFERENTIAL EFFECT OF DONOR-SPECIFIC HLA ANTIBODIES IN LIVING VERSUS DECEASED DONOR KIDNEY TRANSPLANTATION",
+      "year": 2017,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 89(6), pp.348-348",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 89(6), pp.348-348"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: kamburova, otten, wisse"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 89(6), pp.348-348"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300022",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000411688500094",
+      "title": "DONOR RECIPIENT MATCHING BASED ON HLA EPITOPES IMPROVES OUTCOME IN KIDNEY TRANSPLANT RECIPIENTS",
+      "year": 2017,
+      "journal": "Transplant International",
+      "volumeIssuePages": "TRANSPLANT INTERNATIONAL 30, pp.35-35",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TRANSPLANT INTERNATIONAL 30, pp.35-35"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: lachmann, niemann, staeck"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TRANSPLANT INTERNATIONAL 30, pp.35-35"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000411688500094",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -925,6 +2551,41 @@
       "sources": [
         {
           "url": "https://atcmeetingabstracts.com/abstract/donor-recipient-matching-based-on-hla-epitopes-improves-outcome-in-kidney-transplant-recipients/",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-9797340f028fed64",
+      "title": "Donor Recipient Matching Based on HLA Epitopes Improves Outcome in Kidney Transplant Recipients.",
+      "year": 2017,
+      "journal": "American Journal of Transplantation",
+      "volumeIssuePages": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.358-358",
+      "doi": null,
+      "meeting": "2017 American Transplant Congress",
+      "abstractNumber": "432",
+      "reasons": [
+        "Official congress abstract page with meeting year and abstract number 432"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "E. Spierings explicitly listed as author with UMC Utrecht affiliation on official congress page",
+          "Shared PIRCHE/kidney-transplantation coauthors confirmed against publication dataset"
+        ],
+        "classificationEvidence": [
+          "Official congress abstract page with meeting year and abstract number 432"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://atcmeetingabstracts.com/abstract/donor-recipient-matching-based-on-hla-epitopes-improves-outcome-in-kidney-transplant-recipients/",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000404515702432",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
           "checkedAt": "2026-10-27"
         }
       ]
@@ -968,6 +2629,11 @@
           "url": "https://openalex.org/W2590104313",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000540635000087",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1002,13 +2668,87 @@
       ]
     },
     {
+      "id": "abstract-900db76abbbdd0c7",
+      "title": "Improved Outcome of Kidney Transplants by Donor Recipient Matching Based on Predicted Indirectly Recognizable HLA Epitopes.",
+      "year": 2017,
+      "journal": "American Journal of Transplantation",
+      "volumeIssuePages": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.359-359",
+      "doi": null,
+      "meeting": "2017 American Transplant Congress",
+      "abstractNumber": "433",
+      "reasons": [
+        "Official congress abstract page with meeting year and abstract number 433"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "E. Spierings explicitly listed as author with UMC Utrecht affiliation on official congress page",
+          "Shared PIRCHE/kidney-transplantation coauthors confirmed against publication dataset"
+        ],
+        "classificationEvidence": [
+          "Official congress abstract page with meeting year and abstract number 433"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://atcmeetingabstracts.com/abstract/improved-outcome-of-kidney-transplants-by-donor-recipient-matching-based-on-predicted-indirectly-recognizable-hla-epitopes/",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000404515702433",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000400973300026",
+      "title": "MATCHING FOR THE NON-CONVENTIONAL MHC-I MICA GENE SIGNIFICANTLY REDUCES THE INCIDENCE OF ACUTE AND CHRONIC GVHD",
+      "year": 2017,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 89(6), pp.350-351",
+      "doi": null,
+      "collectionDoi": "10.1111/tan.13034",
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 89(6), pp.350-351"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: bahram, carapito, jung"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 89(6), pp.350-351"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300026",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
       "id": "abstract-da613d9a8fea36d3",
       "title": "OR41 PIRCHE-II: A novel tool to identify permissible HLA mismatches in kidney transplantation",
       "year": 2017,
       "journal": "Human Immunology",
       "volumeIssuePages": "vol. 78, pp. 39",
       "doi": "10.1016/j.humimm.2017.06.047",
-      "meeting": null,
+      "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2751990043",
       "orcidPutCode": 225651199,
@@ -1040,6 +2780,11 @@
           "url": "https://openalex.org/W2751990043",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000411658700042",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1050,7 +2795,7 @@
       "journal": "Human Immunology",
       "volumeIssuePages": "vol. 78, pp. 104",
       "doi": "10.1016/j.humimm.2017.06.129",
-      "meeting": null,
+      "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2752283238",
       "orcidPutCode": 225651197,
@@ -1082,6 +2827,11 @@
           "url": "https://openalex.org/W2752283238",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000411658700123",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1092,7 +2842,7 @@
       "journal": "Human Immunology",
       "volumeIssuePages": "vol. 78, pp. 140",
       "doi": "10.1016/j.humimm.2017.06.179",
-      "meeting": null,
+      "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2752443213",
       "reasons": [
@@ -1123,6 +2873,11 @@
           "url": "https://openalex.org/W2752443213",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000411658700173",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1133,7 +2888,7 @@
       "journal": "Human Immunology",
       "volumeIssuePages": "vol. 78, pp. 141",
       "doi": "10.1016/j.humimm.2017.06.180",
-      "meeting": null,
+      "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2751315842",
       "reasons": [
@@ -1164,6 +2919,11 @@
           "url": "https://openalex.org/W2751315842",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000411658700174",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1174,7 +2934,7 @@
       "journal": "Human Immunology",
       "volumeIssuePages": "vol. 78, pp. 217",
       "doi": "10.1016/j.humimm.2017.06.280",
-      "meeting": null,
+      "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2752893008",
       "reasons": [
@@ -1205,6 +2965,49 @@
           "url": "https://openalex.org/W2752893008",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000411658700274",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000400973300077",
+      "title": "PIRCHE-II: A NOVEL TOOL TO IDENTIFY PERMISSIBLE HLA MISMATCHES IN KIDNEY TRANSPLANTATION",
+      "year": 2017,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 89(6), pp.374-375",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 89(6), pp.374-375"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, niemann"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 89(6), pp.374-375"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300077",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1234,6 +3037,82 @@
       "sources": [
         {
           "url": "https://onlinelibrary.wiley.com/doi/10.1111/vox.12530",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000413348700012",
+      "title": "PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES FROM EPLET MISMATCHES CORRELATE WITH DE NOVO DONOR-SPECIFIC HLA ANTIBODIES AFTER KIDNEY TRANSPLANTATION",
+      "year": 2017,
+      "journal": "Transplant International",
+      "volumeIssuePages": "TRANSPLANT INTERNATIONAL 30, pp.10-10",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TRANSPLANT INTERNATIONAL 30, pp.10-10"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: lachmann, niemann, staeck"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TRANSPLANT INTERNATIONAL 30, pp.10-10"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000413348700012",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000400973300019",
+      "title": "PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES FROM EPLET MISMATCHES CORRELATE WITH DE NOVO DONOR-SPECIFIC HLA ANTIBODIES AFTER KIDNEY TRANSPLANTATION",
+      "year": 2017,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 89(6), pp.346-347",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 89(6), pp.346-347"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: lachmann, schonemann, staeck"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 89(6), pp.346-347"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300019",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
           "checkedAt": "2026-10-27"
         }
       ]
@@ -1276,6 +3155,11 @@
           "url": "https://openalex.org/W2619672646",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000469797100025",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1318,6 +3202,277 @@
           "url": "https://openalex.org/W2618251445",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000469797100026",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000379484601079",
+      "title": "CLINICAL OUTCOME AND IMMUNE RECONSTITUTION IN α/β T-CELL DEPLETED ALLOGENEIC STEM CELL TRANSPLANTATION FROM MATCHED RELATED AND UNRELATED DONORS",
+      "year": 2016,
+      "journal": "Haematologica",
+      "volumeIssuePages": "HAEMATOLOGICA 101, pp.287-288",
+      "doi": null,
+      "meeting": "21st Congress of the European-Hematology-Association",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HAEMATOLOGICA 101, pp.287-288"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: janssen, kuball"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HAEMATOLOGICA 101, pp.287-288"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000379484601079",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000373357601045",
+      "title": "Clinical Outcome and Immune Reconstitution in αβ T-cell Depleted Allogeneic Stem Cell Transplantation from Matched Related and Unrelated Donors",
+      "year": 2016,
+      "journal": "Bone Marrow Transplantation",
+      "volumeIssuePages": "BONE MARROW TRANSPLANTATION 51, pp.S335-S336",
+      "doi": null,
+      "meeting": "42nd Annual Meeting of the European-Society-for-Blood-and-Marrow-Transplantation",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: BONE MARROW TRANSPLANTATION 51, pp.S335-S336"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: kuball"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: BONE MARROW TRANSPLANTATION 51, pp.S335-S336"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000373357601045",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000383951500031",
+      "title": "COMPLETION OF HLA PROTEIN SEQUENCES BY AUTOMATED HOMOLOGY-BASED NEAREST-NEIGHBOR EXTRAPOLATION OF HLA DATABASE SEQUENCES",
+      "year": 2016,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 87(4), pp.214-214",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 87(4), pp.214-214"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, niemann"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 87(4), pp.214-214"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000383951500031",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000385569800073",
+      "title": "DE NOVO DONOR-SPECIFIC HLA ANTIBODIES AFTER KIDNEY TRANSPLANTATION ARE CORRELATED WITH THE NUMBER OF PREDICTED INDIRECTLY RECOGNIZABLE EPITOPES",
+      "year": 2016,
+      "journal": "Transplant International",
+      "volumeIssuePages": "TRANSPLANT INTERNATIONAL 29, pp.25-25",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TRANSPLANT INTERNATIONAL 29, pp.25-25"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: lachmann, niemann, staeck"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TRANSPLANT INTERNATIONAL 29, pp.25-25"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000385569800073",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000379484600244",
+      "title": "EFFICACY OF HOST-DENDRITIC CELL VACCINATIONS WITH AND WITHOUT MINOR HISTOCOMPATIBILITY ANTIGEN LOADING, COMBINED WITH DONOR LYMPHOCYTE INFUSION IN MULTIPLE MYELOMA PATIENTS",
+      "year": 2016,
+      "journal": "Haematologica",
+      "volumeIssuePages": "HAEMATOLOGICA 101, pp.112-112",
+      "doi": null,
+      "meeting": "21st Congress of the European-Hematology-Association",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HAEMATOLOGICA 101, pp.112-112"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: kneppers, mutis, oostvogels"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HAEMATOLOGICA 101, pp.112-112"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000379484600244",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000383951500064",
+      "title": "IMMUNOGENICITY OF ANTI-HLA ANTIBODIES IN PANCREAS AND ISLET TRANSPLANTATION",
+      "year": 2016,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 87(4), pp.227-227",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 87(4), pp.227-227"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: chaigne, geneugelijk, villard"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 87(4), pp.227-227"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000383951500064",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000383951500061",
+      "title": "PRE-TRANSPLANT DONOR SPECIFIC HLA ANTIBODIES IN 4386 RENAL TRANSPLANT RECIPIENTS: A PRELIMINARY ANALYSIS OF THE PROCARE COHORT",
+      "year": 2016,
+      "journal": "HLA",
+      "volumeIssuePages": "HLA 87(4), pp.225-226",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HLA 87(4), pp.225-226"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: kamburova, otten, wisse"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HLA 87(4), pp.225-226"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000383951500061",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1328,7 +3483,7 @@
       "journal": "Blood",
       "volumeIssuePages": "vol. 126, no. 23, pp. 4313-4313",
       "doi": "10.1182/blood.v126.23.4313.4313",
-      "meeting": null,
+      "meeting": "57th Annual Meeting of the American-Society-of-Hematology",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2550019273",
       "orcidPutCode": 225651216,
@@ -1360,6 +3515,11 @@
           "url": "https://openalex.org/W2550019273",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000368021801255",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1370,7 +3530,7 @@
       "journal": "Biology of Blood and Marrow Transplantation",
       "volumeIssuePages": "vol. 21, no. 2, pp. S350-S351",
       "doi": "10.1016/j.bbmt.2014.11.557",
-      "meeting": null,
+      "meeting": "BMT Tandem Meetings",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2322632010",
       "orcidPutCode": 225651221,
@@ -1402,6 +3562,11 @@
           "url": "https://openalex.org/W2322632010",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000348633000511",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1412,7 +3577,7 @@
       "journal": "Biology of Blood and Marrow Transplantation",
       "volumeIssuePages": "vol. 20, no. 2, pp. S141-S142",
       "doi": "10.1016/j.bbmt.2013.12.218",
-      "meeting": null,
+      "meeting": "BMT Tandem Meetings",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2122221803",
       "orcidPutCode": 225651238,
@@ -1444,6 +3609,125 @@
           "url": "https://openalex.org/W2122221803",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000331155400200",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000359941902298",
+      "title": "AN ALTERNATIVE EXPLANATION FOR NON-PERMISSIBLE HLA-DPB1 MISMATCHES IN HEMATOPOIETIC STEM-CELL TRANSPLANTATION: HLA-DPB1-DERIVED PIRCHES CORRELATE TO ACUTE GVHD",
+      "year": 2014,
+      "journal": "Bone Marrow Transplantation",
+      "volumeIssuePages": "BONE MARROW TRANSPLANTATION 49, pp.S513-S513",
+      "doi": null,
+      "meeting": "40th Annual Meeting of the European-Group-for-Blood-and-Marrow-Transplantation",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: BONE MARROW TRANSPLANTATION 49, pp.S513-S513"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: ruizendaal, thus"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: BONE MARROW TRANSPLANTATION 49, pp.S513-S513"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000359941902298",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000359941901391",
+      "title": "COMBINED HLA AND SEX-MISMATCHED HSCT IS ASSOCIATED WITH INCREASED CD4+AND CD8+T CELL NUMBERS IN ACUTE GVHD CUTANEOUS INFILTRATES",
+      "year": 2014,
+      "journal": "Bone Marrow Transplantation",
+      "volumeIssuePages": "BONE MARROW TRANSPLANTATION 49, pp.S287-S288",
+      "doi": null,
+      "meeting": "40th Annual Meeting of the European-Group-for-Blood-and-Marrow-Transplantation",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: BONE MARROW TRANSPLANTATION 49, pp.S287-S288"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: halteren, thus"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: BONE MARROW TRANSPLANTATION 49, pp.S287-S288"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000359941901391",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000337546000009",
+      "title": "HLA CLASS-II PRESENTED PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES ARE RELATED TO THE FORMATION OF CHILD-SPECIFIC HLA ANTIBODIES DURING PREGNANCY",
+      "year": 2014,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 84(1), pp.8-8",
+      "doi": null,
+      "meeting": "28th EFI European Immunogenetics and Histocompatibility Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 84(1), pp.8-8"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, honger"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 84(1), pp.8-8"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000337546000009",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1485,6 +3769,49 @@
           "url": "https://openalex.org/W2569589420",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000349242707088",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000337546000063",
+      "title": "IDENTIFYING PERMISSIBLE HLA-MISMATCHES: PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES",
+      "year": 2014,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 84(1), pp.32-32",
+      "doi": null,
+      "meeting": "28th EFI European Immunogenetics and Histocompatibility Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 84(1), pp.32-32"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: thus"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 84(1), pp.32-32"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000337546000063",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1495,7 +3822,7 @@
       "journal": "Blood",
       "volumeIssuePages": "vol. 124, no. 21, pp. 664-664",
       "doi": "10.1182/blood.v124.21.664.664",
-      "meeting": null,
+      "meeting": "56th Annual Meeting of the American-Society-of-Hematology",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2553981673",
       "reasons": [
@@ -1526,6 +3853,11 @@
           "url": "https://openalex.org/W2553981673",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000349233803023",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1571,6 +3903,82 @@
       ]
     },
     {
+      "id": "abstract-wos-000342830901163",
+      "title": "TREATMENT OF STEROID RESISTANT GRADE II TO IV ACUTE GVHD BY INFUSION OF MESENCHYMAL",
+      "year": 2014,
+      "journal": "Haematologica",
+      "volumeIssuePages": "HAEMATOLOGICA 99, pp.254-254",
+      "doi": null,
+      "meeting": "19th Congress of the European-Hematology-Association",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: HAEMATOLOGICA 99, pp.254-254"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: boome, kuball, wagen"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: HAEMATOLOGICA 99, pp.254-254"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000342830901163",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000359941900036",
+      "title": "TREATMENT OF STEROID RESISTANT GRADE II TO IV ACUTE GVHD BY INFUSION OF MESENCHYMAL STROMA CELLS EXPANDED WITH PLATELET LYSATE - A PHASE I/II STUDY",
+      "year": 2014,
+      "journal": "Bone Marrow Transplantation",
+      "volumeIssuePages": "BONE MARROW TRANSPLANTATION 49, pp.S19-S20",
+      "doi": null,
+      "meeting": "40th Annual Meeting of the European-Group-for-Blood-and-Marrow-Transplantation",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: BONE MARROW TRANSPLANTATION 49, pp.S19-S20"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: boome, kuball, wagen"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: BONE MARROW TRANSPLANTATION 49, pp.S19-S20"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000359941900036",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
       "id": "abstract-712616b941a7c700",
       "title": "Treatment of steroid resistant grade II to IV acute GVHD by infusion of mesenchymal stromal cells expanded with platelet lysate - a phase I/II study",
       "year": 2014,
@@ -1609,6 +4017,87 @@
           "url": "https://openalex.org/W2160478249",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000333438100022",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000337546000019",
+      "title": "VALIDATION AND IMPLEMENTATION OF NEXT GENERATION SEQUENCING-BASED HLA TYPING FOR CLINICAL DIAGNOSTICS",
+      "year": 2014,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 84(1), pp.12-12",
+      "doi": null,
+      "meeting": "28th EFI European Immunogenetics and Histocompatibility Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 84(1), pp.12-12"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: hoop"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 84(1), pp.12-12"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000337546000019",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000318523600064",
+      "title": "CONFIRMATION OF AND EXPLANATION FOR THE EFFECT OF HLA-DPB1 NON-PERMISSIVE MISMATCHES AFTER 10/10 HLA MATCHED-UNRELATED DONOR STEM-CELL TRANSPLANTATION: A SINGLE CENTER STUDY",
+      "year": 2013,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 81(5), pp.289-290",
+      "doi": null,
+      "meeting": "27th Annual EFI European Immunogenetics and Histocompatibility Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.289-290"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: ruizendaal, thus"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.289-290"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600064",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1671,13 +4160,81 @@
       ]
     },
     {
+      "id": "abstract-7282ef24b54781f1",
+      "title": "Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host disease and relapse-related mortality in paediatric patients after cord blood transplantation",
+      "year": 2013,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "vol. 81, no. 5, pp. 295–296",
+      "doi": null,
+      "meeting": "EFI 2013",
+      "abstractNumber": null,
+      "reasons": [
+        "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Explicit Eric Spierings / E. Spierings author list in institutional or congress source; corroborated by established coauthors"
+        ],
+        "classificationEvidence": [
+          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://researchinformation.umcutrecht.nl/en/publications/predicted-indirectly-recognizable-hla-epitopes-correlate-with-chr/",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600077",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-72d1ece5125af8bd",
+      "title": "Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host disease and relapse-related mortality in paediatric patients after cord blood transplantation",
+      "year": 2013,
+      "journal": "Bone Marrow Transplantation",
+      "volumeIssuePages": "vol. 48, pp. S87–S88",
+      "doi": null,
+      "meeting": "EBMT 2013",
+      "abstractNumber": null,
+      "reasons": [
+        "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Explicit Eric Spierings / E. Spierings author list in institutional or congress source; corroborated by established coauthors"
+        ],
+        "classificationEvidence": [
+          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://researchinformation.umcutrecht.nl/en/publications/predicted-indirectly-recognizable-hla-epitopes-correlate-with-chr-3/",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000319025200200",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
       "id": "abstract-ef9923b4abd2fae0",
       "title": "Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host-disease and relapse-related mortality in pediatric patients after cord blood transplantation",
       "year": 2013,
       "journal": "Human Immunology",
       "volumeIssuePages": "vol. 74, pp. 39",
       "doi": "10.1016/j.humimm.2013.08.061",
-      "meeting": null,
+      "meeting": "39th Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics (ASHI)",
       "abstractNumber": "50-OR",
       "openAlexId": "https://openalex.org/W52139077",
       "reasons": [
@@ -1713,6 +4270,239 @@
           "url": "https://researchinformation.umcutrecht.nl/en/publications/predicted-indirectly-recognizable-hla-epitopes-correlate-with-chr-2/",
           "checkedAt": "2026-10-27",
           "kind": "institutional-bibliography"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000326060900051",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000318523600027",
+      "title": "PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES PRESENTED BY HLA-DR CORRELATE WITH THE DE NOVO DEVELOPMENT OF DONOR-SPECIFIC HLA IGG ANTIBODIES AFTER KIDNEY TRANSPLANTATION",
+      "year": 2013,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 81(5), pp.273-274",
+      "doi": null,
+      "meeting": "27th Annual EFI European Immunogenetics and Histocompatibility Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.273-274"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: calis, otten"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.273-274"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600027",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000319025200201",
+      "title": "Risk of alloreactivity after single HLA-mismatched haematopoietic stem cell transplantation increases with increasing numbers of predicted indirectly recognized HLA epitopes",
+      "year": 2013,
+      "journal": "Bone Marrow Transplantation",
+      "volumeIssuePages": "BONE MARROW TRANSPLANTATION 48, pp.S88-S88",
+      "doi": null,
+      "meeting": "39th Annual Meeting of the European-Group-for-Blood-and-Marrow-Transplantation (EBMT)",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: BONE MARROW TRANSPLANTATION 48, pp.S88-S88"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: calis, thus"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: BONE MARROW TRANSPLANTATION 48, pp.S88-S88"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000319025200201",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000318523600040",
+      "title": "RISK OF ALLOREACTIVITY AFTER SINGLE HLA-MISMATCHED HAEMATOPOIETIC STEM-CELL TRANSPLANTATION INCREASES WITH INCREASING NUMBERS OF PREDICTED INDIRECTLY RECOGNIZED HLA EPITOPES",
+      "year": 2013,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 81(5), pp.279-279",
+      "doi": null,
+      "meeting": "27th Annual EFI European Immunogenetics and Histocompatibility Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.279-279"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: calis, thus"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.279-279"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600040",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000318523600226",
+      "title": "THE NOVEL HLA-A*24:215 ALLELE, IDENTIFIED BY SEQUENCING-BASED TYPING OF A HSCT PATIENT AND DONOR",
+      "year": 2013,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 81(5), pp.356-356",
+      "doi": null,
+      "meeting": "27th Annual EFI European Immunogenetics and Histocompatibility Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.356-356"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: geerts"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.356-356"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600226",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000318523600237",
+      "title": "THE NOVEL HLA-A*29:46 ALLELE, IDENTIFIED BY SEQUENCING-BASED TYPING OF A CORD BLOOD DONOR",
+      "year": 2013,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 81(5), pp.360-360",
+      "doi": null,
+      "meeting": "27th Annual EFI European Immunogenetics and Histocompatibility Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.360-360"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: hoop"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.360-360"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600237",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000318523600225",
+      "title": "THE NOVEL HLA-B*44:02:27 ALLELE, IDENTIFIED BY SEQUENCING-BASED TYPING OF A CANDIDATE STEM-CELL DONOR",
+      "year": 2013,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 81(5), pp.355-356",
+      "doi": null,
+      "meeting": "27th Annual EFI European Immunogenetics and Histocompatibility Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.355-356"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: rosel, soest"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.355-356"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600225",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1723,7 +4513,7 @@
       "journal": "Biology of Blood and Marrow Transplantation",
       "volumeIssuePages": "vol. 19, no. 2, pp. S144",
       "doi": "10.1016/j.bbmt.2012.11.090",
-      "meeting": null,
+      "meeting": "BMT Tandem Meetings",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W4243572623",
       "orcidPutCode": 225654287,
@@ -1755,6 +4545,201 @@
           "url": "https://openalex.org/W4243572623",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000314441900064",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000319025200369",
+      "title": "Treatment of steroid-resistant grade II to IV acute Gvhd by infusion of mesenchymal stromal cells expanded with platelet lysate: a phase I/II study",
+      "year": 2013,
+      "journal": "Bone Marrow Transplantation",
+      "volumeIssuePages": "BONE MARROW TRANSPLANTATION 48, pp.S169-S170",
+      "doi": null,
+      "meeting": "39th Annual Meeting of the European-Group-for-Blood-and-Marrow-Transplantation (EBMT)",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: BONE MARROW TRANSPLANTATION 48, pp.S169-S170"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: boome, kuball"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: BONE MARROW TRANSPLANTATION 48, pp.S169-S170"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000319025200369",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000303499800115",
+      "title": "PREDICTING SUCCES IN MATCHED UNRELATED HEMATOPOIETIC STEM CELL DONOR SEARCH",
+      "year": 2012,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 79(6), pp.449-450",
+      "doi": null,
+      "meeting": "Joint 16th International HLA and Immunogenetics Workshop/26th European Federation for Immunogenetics Conference/23rd British-Society-of-Histocompatibility-and-Immunogenetics Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 79(6), pp.449-450"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: oudshoorn, thus, walraven"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 79(6), pp.449-450"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000303499800115",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000303499800133",
+      "title": "THE DELETERIOUS EFFECT OF GENDER MISMATCHING DEPENDS ON GRAFT SOURCE CHARACTERISTICS",
+      "year": 2012,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 79(6), pp.457-457",
+      "doi": null,
+      "meeting": "Joint 16th International HLA and Immunogenetics Workshop/26th European Federation for Immunogenetics Conference/23rd British-Society-of-Histocompatibility-and-Immunogenetics Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 79(6), pp.457-457"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: petersdorf, stern"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 79(6), pp.457-457"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000303499800133",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000306994301378",
+      "title": "The Human Leukocyte Antigen DQ 2.2 and Celiac Disease",
+      "year": 2012,
+      "journal": "Gastroenterology",
+      "volumeIssuePages": "GASTROENTEROLOGY 142(5), pp.S273-S273",
+      "doi": null,
+      "meeting": "Digestive Disease Week (DDW)",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: GASTROENTEROLOGY 142(5), pp.S273-S273"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: houwen, mubarak"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: GASTROENTEROLOGY 142(5), pp.S273-S273"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000306994301378",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000306994301393",
+      "title": "The Human Leukocyte Antigen DQ B1*02 is More Frequent in Patients With Tissue-Transglutaminase Antibody Levels ≥100 U/mL",
+      "year": 2012,
+      "journal": "Gastroenterology",
+      "volumeIssuePages": "GASTROENTEROLOGY 142(5), pp.S277-S277",
+      "doi": null,
+      "meeting": "Digestive Disease Week (DDW)",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: GASTROENTEROLOGY 142(5), pp.S277-S277"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: houwen, mubarak"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: GASTROENTEROLOGY 142(5), pp.S277-S277"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000306994301393",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1765,7 +4750,7 @@
       "journal": "Blood",
       "volumeIssuePages": "vol. 120, no. 21, pp. 736-736",
       "doi": "10.1182/blood.v120.21.736.736",
-      "meeting": null,
+      "meeting": "54th Annual Meeting and Exposition of the American-Society-of-Hematology (ASH)",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W4246078988",
       "reasons": [
@@ -1796,6 +4781,49 @@
           "url": "https://openalex.org/W4246078988",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000313838900223",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000289249000032",
+      "title": "Gene therapy with IGG-HY fusion proteins to reduce male-specific T-cell reactivity in-vitro",
+      "year": 2011,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 77(5), pp.382-382",
+      "doi": null,
+      "meeting": "25th Conference on European Immunogenetics and Histocompatibility",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 77(5), pp.382-382"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: dierselhuis, schrama"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 77(5), pp.382-382"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000289249000032",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1806,7 +4834,7 @@
       "journal": "Blood",
       "volumeIssuePages": "vol. 118, no. 21, pp. 2979-2979",
       "doi": "10.1182/blood.v118.21.2979.2979",
-      "meeting": null,
+      "meeting": "53rd Annual Meeting and Exposition of the American-Society-of-Hematology (ASH)/Symposium on the Basic Science of Hemostasis and Thrombosis",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2530035443",
       "orcidPutCode": 225654285,
@@ -1838,6 +4866,87 @@
           "url": "https://openalex.org/W2530035443",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000299597104330",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000277611300111",
+      "title": "Accumulation of female hy-specific CD8 positive T-cells in male skin during acute graft-versus-host disease",
+      "year": 2010,
+      "journal": "Bone Marrow Transplantation",
+      "volumeIssuePages": "BONE MARROW TRANSPLANTATION 45, pp.S45-S46",
+      "doi": null,
+      "meeting": "36th Annual Meeting of the European-Group-for-Blood-and-Marrow-Transplantat/9th Meeting of the EBMT Data-Management-Group/26th Meeting of the EBMT Nurses Group/2nd EBMT Qual Management Meeting",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: BONE MARROW TRANSPLANTATION 45, pp.S45-S46"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: faaij, kim"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: BONE MARROW TRANSPLANTATION 45, pp.S45-S46"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000277611300111",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000276659100061",
+      "title": "Accumulation of female HY-specific CD8-positive T cells in male skin during acute graft-versus-host disease",
+      "year": 2010,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 75(5), pp.490-490",
+      "doi": null,
+      "meeting": "24th European Immunogenetics and Histocompatibility Conference/17th Annual Meeting of the Italian-Society-for-Immunogenetics-and-Transplantation-Biology",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 75(5), pp.490-490"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: faaij, kim"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 75(5), pp.490-490"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000276659100061",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
         }
       ]
     },
@@ -1877,13 +4986,51 @@
       ]
     },
     {
+      "id": "abstract-wos-000266032200250",
+      "title": "A sequence-based typing methodology for minor histocompatibility antigen HA-1",
+      "year": 2009,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 73(5), pp.483-483",
+      "doi": null,
+      "meeting": "23rd European Immunogenetics and Histocompatibility Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 73(5), pp.483-483"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: dijk, ginkel"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 73(5), pp.483-483"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000266032200250",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
       "id": "abstract-2e9d4050079fe570",
       "title": "Poor-Risk Acute Leukemia Patients with An EBMT Low-Risk Score and An 8/8 Matched Unrelated Donor Show Excellent Survival After Hematopoietic Stem Cell Transplantation.",
       "year": 2009,
       "journal": "Blood",
       "volumeIssuePages": "vol. 114, no. 22, pp. 1196-1196",
       "doi": "10.1182/blood.v114.22.1196.1196",
-      "meeting": null,
+      "meeting": "51st Annual Meeting of the American-Society-of-Hematology",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2979622763",
       "reasons": [
@@ -1914,84 +5061,434 @@
           "url": "https://openalex.org/W2979622763",
           "checkedAt": "2026-10-27",
           "kind": "cross-check"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000272725801376",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000266032200008",
+      "title": "Steric hindrance and fast dissociation explain the lack of immunogenicity of the minor histocompatibility HA-1arg NULL allele",
+      "year": 2009,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 73(5), pp.387-387",
+      "doi": null,
+      "meeting": "23rd European Immunogenetics and Histocompatibility Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 73(5), pp.387-387"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: goulmy, gras"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 73(5), pp.387-387"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000266032200008",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000258444500050",
+      "title": "Are cytotoxic T cells and T regulator cells specific for the same minor H antigen HA-1 using the same or a different TCR for performing their unique function?",
+      "year": 2008,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 72(3), pp.247-248",
+      "doi": null,
+      "meeting": "15th International Histocompatibility and Immunogenetics Workshop and Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 72(3), pp.247-248"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: dierselhuis, goulmy, pool"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 72(3), pp.247-248"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000258444500050",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000258444500051",
+      "title": "Strong atomic HLA-peptide interactions explain the immunogenicity of the HA-1 minor H antigen",
+      "year": 2008,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 72(3), pp.248-248",
+      "doi": null,
+      "meeting": "15th International Histocompatibility and Immunogenetics Workshop and Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 72(3), pp.248-248"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: goulmy, gras"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 72(3), pp.248-248"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000258444500051",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000245985000006",
+      "title": "Phenotype frequencies of autosomal minor histocompatibility antigens display significant differences among ethnic populations",
+      "year": 2007,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 69(5), pp.374-375",
+      "doi": null,
+      "meeting": "21st European Immunogenetics and Histocompatibility Conference",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 69(5), pp.374-375"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: goulmy, hendriks"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 69(5), pp.374-375"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000245985000006",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000233542700564",
+      "title": "A uniform methodology for minor histocompatibility antigen typing",
+      "year": 2005,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 66(5), pp.549-549",
+      "doi": null,
+      "meeting": "35th Annual Scientific Meeting of the Australasian-Society-for-Immunology/14th International HLA and Immunogenetics Workshops",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 66(5), pp.549-549"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: drabbels, goulmy"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 66(5), pp.549-549"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000233542700564",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000233542700565",
+      "title": "Identification of new immunotherapeutic candidates encoded by the minor histocompatibility antigen HA-1 gene",
+      "year": 2005,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 66(5), pp.549-550",
+      "doi": null,
+      "meeting": "35th Annual Scientific Meeting of the Australasian-Society-for-Immunology/14th International HLA and Immunogenetics Workshops",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 66(5), pp.549-550"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: goulmy"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 66(5), pp.549-550"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000233542700565",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000183208800043",
+      "title": "In vitro priming of HLA-identical T cells with allogeneic dendritic cells allows identification of an MHC class II-restricted minor Histocompatibility Ag peptide encoded by DBY",
+      "year": 2003,
+      "journal": "Genes and Immunity",
+      "volumeIssuePages": "GENES AND IMMUNITY 4, pp.S11-S11",
+      "doi": null,
+      "meeting": "17th European Histocompatability Conference/11th Annual Meeting of the German-Society-of-Immunogenetics",
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: GENES AND IMMUNITY 4, pp.S11-S11"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: eljaafari, laurin"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: GENES AND IMMUNITY 4, pp.S11-S11"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000183208800043",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000176311300116",
+      "title": "Complete anti-H-Y immune response clarifies poorer graft outcome of sex-mismatched transplants",
+      "year": 2002,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 59, pp.38-38",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 59, pp.38-38"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: goulmy, vermeulen"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 59, pp.38-38"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000176311300116",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000176311300403",
+      "title": "HLA-B7 can present a variety of minor histocompatibility antigens within a single patient",
+      "year": 2002,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 59, pp.124-124",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 59, pp.124-124"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: goulmy, vermeulen"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 59, pp.124-124"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000176311300403",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000176311300017",
+      "title": "Identification and initial characterization of the human minor histocompatibility antigen HA-3",
+      "year": 2002,
+      "journal": "Tissue Antigens",
+      "volumeIssuePages": "TISSUE ANTIGENS 59, pp.5-5",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: TISSUE ANTIGENS 59, pp.5-5"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: brickner, caldwell, engelhard"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: TISSUE ANTIGENS 59, pp.5-5"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000176311300017",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": "abstract-wos-000172134103096",
+      "title": "The DBY gene codes for an HLA-DQ5 restricted human male specific minor histocompatibility antigen involved in graft versus host disease.",
+      "year": 2001,
+      "journal": "Blood",
+      "volumeIssuePages": "BLOOD 98(11), pp.740A-740A",
+      "doi": null,
+      "meeting": null,
+      "abstractNumber": null,
+      "reasons": [
+        "WoS profile explicitly labels this contribution Meeting Abstract.",
+        "Bibliographic citation: BLOOD 98(11), pp.740A-740A"
+      ],
+      "verification": {
+        "status": "verified",
+        "checkedAt": "2026-10-27",
+        "identityEvidence": [
+          "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
+          "Corroborating displayed coauthors in the verified publication network: falkenburg, muijsenberg, vogt"
+        ],
+        "classificationEvidence": [
+          "WoS profile explicitly labels this contribution Meeting Abstract.",
+          "Bibliographic citation: BLOOD 98(11), pp.740A-740A"
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000172134103096",
+          "kind": "web-of-science-profile-linked-meeting-abstract",
+          "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+          "kind": "claimed-researcher-profile-with-ORCID",
+          "checkedAt": "2026-10-27"
         }
       ]
     }
   ],
   "needsReview": [
-    {
-      "putCode": 189228353,
-      "title": "The role of Schwann cells, T cells and Mycobacterium leprae in the immunopathogenesis of nerve damage in leprosy.",
-      "year": 2000,
-      "sortDate": "2000-12-01",
-      "journal": "Leprosy review",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": null,
-      "pmid": "11201869",
-      "pmcid": null,
-      "url": null,
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": null,
-      "openAlexId": null,
-      "openAlexType": null,
-      "crossrefType": null,
-      "openAlexUrl": null,
-      "abstract": "Damage to peripheral nerves is the major complication of reversal (type I) reactions in leprosy. The underlying mechanism of nerve damage remains largely unresolved; however, an important role for type-1 T cells has been suggested. Mycobacterium leprae has a remarkable tropism for the Schwann cells that surround peripheral axons. Because reversal reactions in leprosy are often accompanied by severe and irreversible nerve destruction, and are associated with increased cellular immune reactivity against M. leprae, a likely immunopathogenic mechanism of damage to Schwann cells and peripheral nerves in leprosy is that infected Schwann cells process and present antigens of M. leprae to antigen-specific, inflammatory, type-1 T cells, and that these T cells subsequently damage and lyse infected Schwann cells. Previous animal studies with CD8+ T cells revealed evidence for the existence of such a mechanism. A similar role has been suggested for CD4+ T cells. These latter cells may be more important in causing nerve damage in vivo, given the predilection of M. leprae for Schwann cells, and the dominant role of CD4+, serine esterase+ Th1 cells in the lesions of leprosy. Antagonism of the molecular interactions among M. leprae, Schwann cells and inflammatory T cells may therefore provide a rational strategy for prevention of damage of Schwann cell and nerves in leprosy.",
-      "authors": [
-        {
-          "name": "Spierings E"
-        },
-        {
-          "name": "De Boer T"
-        },
-        {
-          "name": "Zulianello L"
-        },
-        {
-          "name": "Ottenhoff TH."
-        }
-      ],
-      "selfAuthorPositions": [
-        "first"
-      ],
-      "volumeIssuePages": "pp. S121-9",
-      "categories": [
-        "cellular"
-      ],
-      "primaryCategoryLabel": "Cellular immunology",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [
-        "Schwann Cells",
-        "T-Lymphocytes",
-        "Humans",
-        "Mycobacterium leprae",
-        "Leprosy",
-        "Peripheral Nervous System Diseases",
-        "Prognosis",
-        "Severity of Illness Index",
-        "Risk Assessment",
-        "Immunity, Cellular",
-        "Female",
-        "Male"
-      ],
-      "keywords": [],
-      "openAlexTopics": [],
-      "citedByCount": 0,
-      "countsByYear": [],
-      "isOpenAccess": false,
-      "openAccessStatus": null,
-      "relatedOpenAlexWorks": [],
-      "abstractClassification": {
-        "decision": "review",
-        "confidence": "needs-review",
-        "reasons": [
-          "supplement-page-number-needs-source-check"
-        ]
-      }
-    },
     {
       "title": "Identification Of a skin-homing population of CD4+T cells in patients with skin GvHD",
       "year": 2005,
@@ -2004,54 +5501,6 @@
       ]
     },
     {
-      "title": "Accumulation of female HY-specific CD8-positive T cells in male skin during acute graft-versus-host disease",
-      "year": 2010,
-      "openAlexId": "https://openalex.org/W3042518843",
-      "reason": "Inconsistent indexed pagination (490 versus S45–S46); resolve primary meeting record",
-      "sourceUrls": [
-        "http://hdl.handle.net/1887/111446",
-        "http://hdl.handle.net/1887/117858",
-        "https://hdl.handle.net/1887/111446",
-        "https://scholarlypublications.universiteitleiden.nl/handle/1887/117858"
-      ]
-    },
-    {
-      "title": "DIFFERENTIAL EFFECT OF DONOR-SPECIFIC HLA ANTIBODIES IN LIVING VERSUS DECEASED DONOR KIDNEY TRANSPLANTATION",
-      "year": 2017,
-      "openAlexId": "https://openalex.org/W2792860257",
-      "reason": "Likely EFI 2017 abstract at HLA 89(6):348; primary abstract author list not retrieved",
-      "sourceUrls": [
-        "http://hdl.handle.net/1887/115933",
-        "https://scholarlypublications.universiteitleiden.nl/handle/1887/115933",
-        "http://hdl.handle.net/1887/115933",
-        "https://hdl.handle.net/1887/115933"
-      ]
-    },
-    {
-      "title": "PRE-TRANSPLANT DONOR SPECIFIC HLA ANTIBODIES IN 4386 RENAL TRANSPLANT RECIPIENTS : A PRELIMINARY ANALYSIS OF THE PROCARE COHORT",
-      "year": 2016,
-      "openAlexId": "https://openalex.org/W3047425102",
-      "reason": "Likely EFI 2016 abstract at HLA 87(4):225–226; primary source still needed",
-      "sourceUrls": [
-        "http://hdl.handle.net/1887/112773",
-        "http://hdl.handle.net/1887/114231",
-        "https://hdl.handle.net/1887/112773",
-        "https://scholarlypublications.universiteitleiden.nl/handle/1887/114231"
-      ]
-    },
-    {
-      "title": "MATCHING FOR THE NON-CONVENTIONAL MHC-I MICA GENE SIGNIFICANTLY REDUCES THE INCIDENCE OF ACUTE AND CHRONIC GVHD",
-      "year": 2016,
-      "openAlexId": "https://openalex.org/W3210671374",
-      "reason": "Repository attaches a whole-book DOI and inconsistent year; identify individual oral abstract before counting",
-      "sourceUrls": [
-        "http://hdl.handle.net/1887/115756",
-        "https://hal.science/hal-03408177v1",
-        "https://dspace.library.uu.nl/handle/1874/346610",
-        "http://hdl.handle.net/1887/112755"
-      ]
-    },
-    {
       "title": "Human Schwann cells present Mycobacterium leprae antigens to CD4+ T-lymphocytes",
       "year": 1997,
       "openAlexId": "https://openalex.org/W1983550841",
@@ -2060,18 +5509,6 @@
         "https://doi.org/10.1016/s0165-2478(97)86800-9",
         "http://doi.org/10.1016/s0165-2478(97)88640-3"
       ]
-    },
-    {
-      "title": "Phenotype frequencies of autosomal minor histocompatibility antigens display significant differences among ethnic populations",
-      "year": 2007,
-      "journal": "Tissue Antigens",
-      "volumeIssuePages": "vol. 69, pp. 374–375",
-      "meeting": "21st European Immunogenetics and Histocompatibility Conference, Barcelona, 5–8 May 2007",
-      "reason": "Institutional coauthor bibliography explicitly lists this conference contribution and Spierings E. with Hendriks, Absi, Canossi, Chhaya and Crowley. Full abstract author list and original supplement still needed; kept for review rather than copying the full-paper author list.",
-      "sourceUrls": [
-        "https://avesis.istanbul.edu.tr/oguzsf/publications"
-      ],
-      "possibleRelatedPublicationDoi": "10.1371/journal.pgen.0030103"
     }
   ]
 }
