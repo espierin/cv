@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2026-10-27T21:09:36.348Z",
+  "source": "ORCID Public API enriched with Crossref, Europe PMC and OpenAlex",
+  "policy": "High-confidence conference abstracts are separated from scientific publications. Ambiguous records remain in the publication list and are also marked for review.",
+  "counts": {
+    "scientificPublications": 140,
+    "conferenceAbstracts": 9,
+    "abstractsNeedingReview": 0
+  },
+  "abstracts": [
+    {
+      "title": "Indirect T Cell Epitope Mismatch Loads Are Correlated with Increased Levels of Panel-Reactive HLA Antibodies After Kidney Transplantation",
+      "year": 2025,
+      "journal": "American Journal of Transplantation",
+      "volumeIssuePages": "vol. 25, no. 8, pp. S539-S540",
+      "doi": "10.1016/j.ajt.2025.07.1252",
+      "pmid": null,
+      "openAlexId": "https://openalex.org/W4412851562",
+      "orcidPutCode": 225654275,
+      "reasons": [
+        "supplement-page-number"
+      ]
+    },
+    {
+      "title": "Identifying Permissible HLA-Mismatches in Unrelated-Donor Hematopoietic Stem-Cell Transplantation Using Predicted Indirectly Recognizable HLA Epitopes",
+      "year": 2017,
+      "journal": "Biology of Blood and Marrow Transplantation",
+      "volumeIssuePages": "vol. 23, no. 3, pp. S107-S108",
+      "doi": "10.1016/j.bbmt.2016.12.064",
+      "pmid": null,
+      "openAlexId": "https://openalex.org/W2590104313",
+      "orcidPutCode": 225654286,
+      "reasons": [
+        "supplement-page-number"
+      ]
+    },
+    {
+      "title": "Immune Reconstitution and Clinical Outcome after α/β T-Cell Depleted Allogeneic Stem Cell Transplantation from Matched Related and Unrelated Donors",
+      "year": 2015,
+      "journal": "Blood",
+      "volumeIssuePages": "vol. 126, no. 23, pp. 4313-4313",
+      "doi": "10.1182/blood.v126.23.4313.4313",
+      "pmid": null,
+      "openAlexId": "https://openalex.org/W2550019273",
+      "orcidPutCode": 225651216,
+      "reasons": [
+        "blood-meeting-abstract-doi"
+      ]
+    },
+    {
+      "title": "Predicted Indirectly Recognizable Hla Epitopes (PIRCHE) Provide a Novel Strategy to Individualize Donor Selection That Optimizes Survival Chances",
+      "year": 2015,
+      "journal": "Biology of Blood and Marrow Transplantation",
+      "volumeIssuePages": "vol. 21, no. 2, pp. S350-S351",
+      "doi": "10.1016/j.bbmt.2014.11.557",
+      "pmid": null,
+      "openAlexId": "https://openalex.org/W2322632010",
+      "orcidPutCode": 225651221,
+      "reasons": [
+        "supplement-page-number"
+      ]
+    },
+    {
+      "title": "A Universal Approach to Identify Permissible HLA-Mismatches in HSCT: Predicted Indirectly Recognizable HLA Epitopes",
+      "year": 2014,
+      "journal": "Biology of Blood and Marrow Transplantation",
+      "volumeIssuePages": "vol. 20, no. 2, pp. S141-S142",
+      "doi": "10.1016/j.bbmt.2013.12.218",
+      "pmid": null,
+      "openAlexId": "https://openalex.org/W2122221803",
+      "orcidPutCode": 225651238,
+      "reasons": [
+        "supplement-page-number"
+      ]
+    },
+    {
+      "title": "Treatment of Steroid Resistant Grade II to IV Acute GVHD by Infusion of Mesenchymal Stroma Cells Expanded with Platelet Lysate - a Phase I/II Study",
+      "year": 2013,
+      "journal": "Biology of Blood and Marrow Transplantation",
+      "volumeIssuePages": "vol. 19, no. 2, pp. S144",
+      "doi": "10.1016/j.bbmt.2012.11.090",
+      "pmid": null,
+      "openAlexId": "https://openalex.org/W4243572623",
+      "orcidPutCode": 225654287,
+      "reasons": [
+        "supplement-page-number"
+      ]
+    },
+    {
+      "title": "Treatment of steroid resistant grade II to IV acute GVHD by infusion of mesenchymal stromal cells expanded with platelet lysate - a phase I/II study",
+      "year": 2014,
+      "journal": "Cytotherapy",
+      "volumeIssuePages": "vol. 16, no. 4, pp. S13",
+      "doi": "10.1016/j.jcyt.2014.01.032",
+      "pmid": null,
+      "openAlexId": "https://openalex.org/W2160478249",
+      "orcidPutCode": 225651234,
+      "reasons": [
+        "supplement-page-number"
+      ]
+    },
+    {
+      "title": "Identification of New Hematopoietic Minor Histocompatibility Antigen UTA2-1; Ready for Application in Antitumor Immunotherapy",
+      "year": 2011,
+      "journal": "Blood",
+      "volumeIssuePages": "vol. 118, no. 21, pp. 2979-2979",
+      "doi": "10.1182/blood.v118.21.2979.2979",
+      "pmid": null,
+      "openAlexId": "https://openalex.org/W2530035443",
+      "orcidPutCode": 225654285,
+      "reasons": [
+        "blood-meeting-abstract-doi"
+      ]
+    },
+    {
+      "title": "The role of Schwann cells, T cells and Mycobacterium leprae in the immunopathogenesis of nerve damage in leprosy.",
+      "year": 2000,
+      "journal": "Leprosy review",
+      "volumeIssuePages": "pp. S121-9",
+      "doi": null,
+      "pmid": "11201869",
+      "openAlexId": null,
+      "orcidPutCode": 189228353,
+      "reasons": [
+        "supplement-page-number"
+      ]
+    }
+  ],
+  "needsReview": []
+}
