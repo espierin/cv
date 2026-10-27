@@ -8,6 +8,7 @@ on:
     paths:
       - "scripts/fetch-orcid.mjs"
       - "publication-config.json"
+      - "publication-audit.json"
       - ".github/workflows/update-orcid.yml"
 
 permissions:
@@ -34,15 +35,15 @@ jobs:
           ORCID_CLIENT_SECRET: ${{ secrets.ORCID_CLIENT_SECRET }}
         run: node scripts/fetch-orcid.mjs
 
-      - name: Commit refreshed publications.json
+      - name: Commit refreshed ORCID data
         run: |
-          if git diff --quiet publications.json activities.json; then
+          if git diff --quiet publications.json activities.json publication-audit.json; then
             echo "No publication changes detected."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add publications.json activities.json
+          git add publications.json activities.json publication-audit.json
           git commit -m "Refresh ORCID publications and lectures"
           git push
