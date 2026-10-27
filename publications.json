@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-27T22:36:26.530Z",
+  "generatedAt": "2026-10-27T23:11:57.512Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "includedWorkTypes": [
     "book",
@@ -24,12 +24,12 @@
   ],
   "excludedRecordCounts": {
     "nonScientificWorkType": 68,
-    "authorshipNotVerified": 96,
-    "conferenceAbstract": 8,
+    "authorshipNotVerified": 101,
+    "conferenceAbstract": 31,
     "conferenceAbstractNeedsReview": 1,
     "erratumOrRetraction": 0
   },
-  "count": 135,
+  "count": 129,
   "publications": [
     {
       "putCode": 227329515,
@@ -2370,151 +2370,6 @@
         "https://openalex.org/W4403342844",
         "https://openalex.org/W2069776427",
         "https://openalex.org/W2021935957"
-      ],
-      "abstractClassification": {
-        "decision": "include",
-        "confidence": "no-signal",
-        "reasons": []
-      }
-    },
-    {
-      "putCode": 225651290,
-      "title": "PREDICTION OF HYPERTENSIVE COMPLICATIONS IN OOCYTE DONATION PREGNANCY USING FETAL-MATERNAL HLA-MISMATCHES AND PIRCHE-II SCORES: A MULTICENTER COHORT STUDY IN THE NETHERLANDS",
-      "year": 2025,
-      "sortDate": "2025-02-00",
-      "journal": "Journal of Reproductive Immunology",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": "10.1016/j.jri.2024.104347",
-      "pmid": null,
-      "pmcid": null,
-      "url": "https://doi.org/10.1016/j.jri.2024.104347",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": null,
-      "openAlexId": "https://openalex.org/W4406747677",
-      "openAlexType": "article",
-      "crossrefType": "journal-article",
-      "openAlexUrl": "https://openalex.org/W4406747677",
-      "abstract": null,
-      "authors": [
-        {
-          "name": "Géraldine Lafeber",
-          "orcid": "https://orcid.org/0000-0001-8323-6921",
-          "position": "first",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Emma Peerenboom",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Yvonne V. Louwers",
-          "orcid": "https://orcid.org/0000-0002-9048-7398",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Erasmus MC"
-          ]
-        },
-        {
-          "name": "Saskia le Cessie",
-          "orcid": "https://orcid.org/0000-0003-2154-4923",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": []
-        },
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Michael Eikmans",
-          "orcid": "https://orcid.org/0000-0002-9648-4227",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Marie‐Louise van der Hoorn",
-          "orcid": "https://orcid.org/0000-0002-7781-7815",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": []
-        },
-        {
-          "name": "Eileen E. L. O. Lashley",
-          "orcid": "https://orcid.org/0000-0003-3410-2294",
-          "position": "last",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        }
-      ],
-      "selfAuthorPositions": [
-        "middle"
-      ],
-      "volumeIssuePages": "vol. 167, pp. 104347",
-      "categories": [
-        "matching",
-        "outcome"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [],
-      "keywords": [
-        "oocyte donation",
-        "hypertension complications",
-        "preeclampsia",
-        "HLA mismatch",
-        "pregnancy outcomes"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "Pregnancy and preeclampsia studies",
-          "score": 0.7372999787330627
-        },
-        {
-          "name": "Reproductive System and Pregnancy",
-          "score": 0.22190000116825104
-        },
-        {
-          "name": "Reproductive Health and Technologies",
-          "score": 0.01209999993443489
-        }
-      ],
-      "citedByCount": 0,
-      "countsByYear": [],
-      "isOpenAccess": false,
-      "openAccessStatus": "closed",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W2023244440",
-        "https://openalex.org/W3091901614",
-        "https://openalex.org/W2801239535",
-        "https://openalex.org/W2395296333",
-        "https://openalex.org/W2412485454",
-        "https://openalex.org/W4306175218",
-        "https://openalex.org/W2378289042",
-        "https://openalex.org/W2120906877",
-        "https://openalex.org/W2124153834",
-        "https://openalex.org/W2051092528"
       ],
       "abstractClassification": {
         "decision": "include",
@@ -21336,406 +21191,6 @@
       }
     },
     {
-      "putCode": 225654280,
-      "title": "Completion of HLA protein sequences by automated homology-based nearest-neighbor extrapolation of HLA database sequences",
-      "year": 2016,
-      "sortDate": "2016-11-00",
-      "journal": "Human Immunology",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": "10.1016/j.humimm.2016.04.005",
-      "pmid": "27060031",
-      "pmcid": null,
-      "url": "https://doi.org/10.1016/j.humimm.2016.04.005",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": "https://dspace.library.uu.nl/handle/1874/346561",
-      "openAlexId": "https://openalex.org/W2324497054",
-      "openAlexType": "article",
-      "crossrefType": "journal-article",
-      "openAlexUrl": "https://openalex.org/W2324497054",
-      "abstract": "The IMGT/HLA database contains every publicly available HLA sequence. However, most of these HLA protein sequences are restricted to the alpha-1/alpha-2 domain for HLA class-I and alpha-1/beta-1 domain for HLA class-II. Nevertheless, also polymorphism outside these domains may play a role in alloreactivity after transplantation. Several computational algorithms that aim for predicting alloreactivity after transplantation, HLAMatchmaker and the PIRCHE algorithm, require a major or the whole part of the HLA protein sequence as input for their prediction. In this study we describe an automated homology-based nearest-neighbor method to extrapolate incomplete HLA protein sequences. To get insight in the reliability of our extrapolation method, we performed a 10-fold cross-validation. The majority of the amino acid positions of the individual HLA class-I and -II proteins were correctly predicted. Eplets as defined by HLAMatchmaker were located both at correctly predicted as well as at lower reliably predicted amino acid positions. Moreover, six out of seven completely sequenced HLA alleles with previously unknown exons sequences were in agreement with the extrapolated amino acid sequences. In conclusion, incomplete HLA sequences can be completed by a homology-based nearest-neighbor principle. Since this method is automated, future submitted incomplete HLA sequences can easily be extrapolated.",
-      "authors": [
-        {
-          "name": "Kirsten Geneugelijk",
-          "orcid": "https://orcid.org/0000-0002-1689-8383",
-          "position": "first",
-          "corresponding": true,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Matthias Niemann",
-          "orcid": "https://orcid.org/0000-0002-3514-9812",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": []
-        },
-        {
-          "name": "Talitha A. de Hoop",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "last",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        }
-      ],
-      "selfAuthorPositions": [
-        "last"
-      ],
-      "volumeIssuePages": "vol. 77, no. 11, pp. 1030-1036",
-      "categories": [
-        "matching",
-        "outcome",
-        "diagnostics"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "HLA Antigens",
-        "Histocompatibility Testing",
-        "Organ Transplantation",
-        "Cluster Analysis",
-        "Reproducibility of Results",
-        "Sequence Homology, Nucleic Acid",
-        "Databases, Genetic",
-        "Automation, Laboratory",
-        "High-Throughput Nucleotide Sequencing"
-      ],
-      "keywords": [
-        "nearest neighbor algorithm",
-        "HLA class I",
-        "HLA class II",
-        "eplets",
-        "exon sequences",
-        "IMGT/HLA Database"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "vaccines and immunoinformatics approaches",
-          "score": 0.9330999851226807
-        },
-        {
-          "name": "Renal Transplantation Outcomes and Treatments",
-          "score": 0.023000000044703484
-        },
-        {
-          "name": "Genomics and Phylogenetic Studies",
-          "score": 0.012799999676644802
-        }
-      ],
-      "citedByCount": 11,
-      "countsByYear": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 2
-        }
-      ],
-      "isOpenAccess": true,
-      "openAccessStatus": "green",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W1529892761",
-        "https://openalex.org/W1980959159",
-        "https://openalex.org/W2027345511",
-        "https://openalex.org/W2118290743",
-        "https://openalex.org/W2735482459",
-        "https://openalex.org/W2011602722",
-        "https://openalex.org/W217748083",
-        "https://openalex.org/W2010884366",
-        "https://openalex.org/W2069969703",
-        "https://openalex.org/W2051002350"
-      ],
-      "abstractClassification": {
-        "decision": "include",
-        "confidence": "no-signal",
-        "reasons": []
-      }
-    },
-    {
-      "putCode": 225654282,
-      "title": "Immunogenicity of Anti-HLA Antibodies in Pancreas and Islet Transplantation",
-      "year": 2016,
-      "sortDate": "2016-11-00",
-      "journal": "Cell Transplantation",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": "10.3727/096368916x691673",
-      "pmid": "27196533",
-      "pmcid": null,
-      "url": "https://doi.org/10.3727/096368916x691673",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": "https://doi.org/10.3727/096368916x691673",
-      "openAlexId": "https://openalex.org/W2396644448",
-      "openAlexType": "article",
-      "crossrefType": "journal-article",
-      "openAlexUrl": "https://openalex.org/W2396644448",
-      "abstract": "The aim of the current study was to characterize the anti-HLA antibodies before and after pancreatic islet or pancreas transplantation. We assessed the risk of anti-donor-specific antibody (DSA) sensitization in a single-center, retrospective clinical study at Geneva University Hospital. Data regarding clinical characteristics, graft outcome, HLA mismatch, donor HLA immunogenicity, and anti-HLA antibody characteristics were collected. Between January 2008 and July 2014, 18 patients received islet transplants, and 26 patients received a pancreas transplant. Eleven out of 18 patients (61.1%) in the islet group and 12 out of 26 patients (46.2%) in the pancreas group had anti-HLA antibodies. Six patients (33.3%) developed DSAs against HLA of the islets, and 10 patients (38.4%) developed DSAs against HLA of the pancreas. Most of the DSAs were at a low level. Several parameters such as gender, number of times cells were transplanted, HLA mismatch, eplet mismatch and PIRCHE-II numbers, rejection, and infection were analyzed. Only the number of PIRCHE-II was associated with the development of anti-HLA class II de novo DSAs. Overall, the development of de novo DSAs did not influence graft survival as estimated by insulin independence. Our results indicated that pretransplant DSAs at low levels do not restrict islet or pancreas transplantation [especially islet transplantation (27.8% vs. 15.4.%)]. De novo DSAs do occur at a similar rate in both pancreas and islet transplant recipients (mainly of class II), and the immunogenicity of donor HLA is a parameter that should be taken into consideration. When combined with an immunosuppressive regimen and close follow-up, development of low levels of DSAs was not found to result in reduced graft survival or graft function in the current study.",
-      "authors": [
-        {
-          "name": "Benjamin Chaigne",
-          "orcid": "https://orcid.org/0000-0001-5448-7860",
-          "position": "first",
-          "corresponding": false,
-          "institutions": [
-            "University Hospital of Geneva"
-          ]
-        },
-        {
-          "name": "Kirsten Geneugelijk",
-          "orcid": "https://orcid.org/0000-0002-1689-8383",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Benoît Bédat",
-          "orcid": "https://orcid.org/0000-0002-3758-7867",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Hospital of Geneva"
-          ]
-        },
-        {
-          "name": "Mohamed Alibashe Ahmed",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Hospital of Geneva"
-          ]
-        },
-        {
-          "name": "Gideon Hönger",
-          "orcid": "https://orcid.org/0000-0003-1661-2661",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Hospital of Basel"
-          ]
-        },
-        {
-          "name": "Sophie de Seigneux",
-          "orcid": "https://orcid.org/0000-0002-4243-366X",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University of Geneva",
-            "University Hospital of Geneva"
-          ]
-        },
-        {
-          "name": "Sandrine Demuylder-Mischler",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Hospital of Geneva"
-          ]
-        },
-        {
-          "name": "Thierry Berney",
-          "orcid": "https://orcid.org/0000-0002-4230-9378",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Hospital of Geneva"
-          ]
-        },
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Sylvie Ferrari‐Lacraz",
-          "orcid": "https://orcid.org/0000-0002-2183-3349",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Hospital of Geneva"
-          ]
-        },
-        {
-          "name": "Jean Villard",
-          "orcid": "https://orcid.org/0000-0003-2667-7506",
-          "position": "last",
-          "corresponding": true,
-          "institutions": [
-            "University Hospital of Geneva"
-          ]
-        }
-      ],
-      "selfAuthorPositions": [
-        "middle"
-      ],
-      "volumeIssuePages": "vol. 25, no. 11, pp. 2041-2050",
-      "categories": [
-        "matching",
-        "outcome",
-        "diagnostics"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Immunosuppressive Agents",
-        "Isoantibodies",
-        "HLA Antigens",
-        "Epitopes",
-        "Histocompatibility Testing",
-        "Pancreas Transplantation",
-        "Islets of Langerhans Transplantation",
-        "Risk Factors",
-        "Retrospective Studies",
-        "Graft Survival",
-        "Adolescent",
-        "Adult",
-        "Middle Aged",
-        "Female",
-        "Male",
-        "Young Adult",
-        "Glycated Hemoglobin"
-      ],
-      "keywords": [
-        "HLA antibodies",
-        "donor-specific antibodies",
-        "islet transplantation",
-        "pancreas transplantation",
-        "HLA mismatch",
-        "HLA class II",
-        "graft survival",
-        "insulin independence",
-        "graft rejection",
-        "eplet mismatch"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "Renal Transplantation Outcomes and Treatments",
-          "score": 0.48410001397132874
-        },
-        {
-          "name": "Transplantation: Methods and Outcomes",
-          "score": 0.28610000014305115
-        },
-        {
-          "name": "Diabetes and associated disorders",
-          "score": 0.08730000257492065
-        }
-      ],
-      "citedByCount": 45,
-      "countsByYear": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        }
-      ],
-      "isOpenAccess": true,
-      "openAccessStatus": "bronze",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W2230279975",
-        "https://openalex.org/W2097100676",
-        "https://openalex.org/W2326274414",
-        "https://openalex.org/W1990822151",
-        "https://openalex.org/W2306687011",
-        "https://openalex.org/W3130427505",
-        "https://openalex.org/W4290311647",
-        "https://openalex.org/W2315116515",
-        "https://openalex.org/W2398759423",
-        "https://openalex.org/W2402111696"
-      ],
-      "abstractClassification": {
-        "decision": "include",
-        "confidence": "no-signal",
-        "reasons": []
-      }
-    },
-    {
       "putCode": 189229202,
       "title": "Matching for the nonconventional MHC-I MICA gene significantly reduces the incidence of acute and chronic GVHD",
       "year": 2016,
@@ -23646,217 +23101,6 @@
         "https://openalex.org/W4389671191",
         "https://openalex.org/W4247453431",
         "https://openalex.org/W2004448416"
-      ],
-      "abstractClassification": {
-        "decision": "include",
-        "confidence": "no-signal",
-        "reasons": []
-      }
-    },
-    {
-      "putCode": 225654277,
-      "title": "Predicted Indirectly Recognizable HLA Epitopes Presented by HLA-DRB1 Are Related to HLA Antibody Formation During Pregnancy",
-      "year": 2015,
-      "sortDate": "2015-12-00",
-      "journal": "American Journal of Transplantation",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": "10.1111/ajt.13508",
-      "pmid": "26512793",
-      "pmcid": null,
-      "url": "https://doi.org/10.1111/ajt.13508",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": "https://doi.org/10.1111/ajt.13508",
-      "openAlexId": "https://openalex.org/W1881788246",
-      "openAlexType": "article",
-      "crossrefType": "journal-article",
-      "openAlexUrl": "https://openalex.org/W1881788246",
-      "abstract": "Pregnancy can prime maternal immune responses against inherited paternal HLA of the fetus, leading to the production of child-specific HLA antibodies. We previously demonstrated that donor-specific HLA antibody formation after kidney transplantation is associated with donor-derived HLA epitopes presented by recipient HLA class II (predicted indirectly recognizable HLA epitopes presented by HLA class II [PIRCHE-II]). In the present study, we evaluated the role of PIRCHE-II in child-specific HLA antibody formation during pregnancy. A total of 229 mother-child pairs were HLA typed. For all mismatched HLA class I molecules of the child, we subsequently predicted the number of HLA epitopes that could be presented by maternal HLA class II molecules. Child-specific antigens were classified as either immunogenic or nonimmunogenic HLA based on the presence of specific antibodies and correlated to PIRCHE-II numbers. Immunogenic HLA contained higher PIRCHE-II numbers than nonimmunogenic HLA. Moreover, the probability of antibody production during pregnancy increased with the number of PIRCHE-II. In conclusion, our data suggest that the number of PIRCHE-II is related to the formation of child-specific HLA antibodies during pregnancy. Present confirmation of the role of PIRCHE-II in antibody formation outside the transplantation setting suggests the PIRCHE-II concept is universal.",
-      "authors": [
-        {
-          "name": "Kirsten Geneugelijk",
-          "orcid": "https://orcid.org/0000-0002-1689-8383",
-          "position": "first",
-          "corresponding": true,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Gideon Hönger",
-          "orcid": "https://orcid.org/0000-0003-1661-2661",
-          "position": "middle",
-          "corresponding": true,
-          "institutions": [
-            "University Hospital of Basel"
-          ]
-        },
-        {
-          "name": "Hanneke W. M. van Deutekom",
-          "orcid": "https://orcid.org/0000-0002-2429-1098",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Utrecht University"
-          ]
-        },
-        {
-          "name": "Kirsten Anne Thus",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Can Keşmir",
-          "orcid": "https://orcid.org/0000-0002-8756-1171",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Utrecht University"
-          ]
-        },
-        {
-          "name": "Irène Hösli",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Hospital of Basel"
-          ]
-        },
-        {
-          "name": "Stefan Schaub",
-          "orcid": "https://orcid.org/0000-0002-9170-1341",
-          "position": "middle",
-          "corresponding": true,
-          "institutions": [
-            "University Hospital of Basel"
-          ]
-        },
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "last",
-          "corresponding": true,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        }
-      ],
-      "selfAuthorPositions": [
-        "last",
-        "corresponding"
-      ],
-      "volumeIssuePages": "vol. 15, no. 12, pp. 3112-3122",
-      "categories": [
-        "matching",
-        "outcome",
-        "diagnostics"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Isoantibodies",
-        "Epitopes",
-        "Histocompatibility Testing",
-        "Prognosis",
-        "Cohort Studies",
-        "Follow-Up Studies",
-        "Antibody Formation",
-        "Pregnancy",
-        "Child",
-        "Tissue Donors",
-        "Female",
-        "HLA-DRB1 Chains"
-      ],
-      "keywords": [
-        "HLA antibodies",
-        "pregnancy",
-        "HLA-DRB1",
-        "HLA class II epitopes",
-        "HLA class I",
-        "alloantibody formation"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "Reproductive System and Pregnancy",
-          "score": 0.5112000107765198
-        },
-        {
-          "name": "vaccines and immunoinformatics approaches",
-          "score": 0.39649999141693115
-        },
-        {
-          "name": "Renal Transplantation Outcomes and Treatments",
-          "score": 0.07090000063180923
-        }
-      ],
-      "citedByCount": 53,
-      "countsByYear": [
-        {
-          "year": 2026,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        }
-      ],
-      "isOpenAccess": true,
-      "openAccessStatus": "hybrid",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W203802859",
-        "https://openalex.org/W2408599910",
-        "https://openalex.org/W4241627343",
-        "https://openalex.org/W1966634667",
-        "https://openalex.org/W1005959667",
-        "https://openalex.org/W2405493166",
-        "https://openalex.org/W2271013594",
-        "https://openalex.org/W4289975057",
-        "https://openalex.org/W2011936762",
-        "https://openalex.org/W2006475088"
       ],
       "abstractClassification": {
         "decision": "include",
@@ -27661,145 +26905,6 @@
       }
     },
     {
-      "putCode": 225654292,
-      "title": "The novel HLA ‐B*44:02:27 allele, identified by sequencing‐based typing of a candidate stem‐cell donor",
-      "year": 2013,
-      "sortDate": "2013-04-00",
-      "journal": "Tissue Antigens",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": "10.1111/tan.12065",
-      "pmid": "23510421",
-      "pmcid": null,
-      "url": "https://doi.org/10.1111/tan.12065",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": null,
-      "openAlexId": "https://openalex.org/W1592903110",
-      "openAlexType": "article",
-      "crossrefType": "journal-article",
-      "openAlexUrl": "https://openalex.org/W1592903110",
-      "abstract": "The HLA-B*44:02:27 allele strongly resembles the HLA-B*44:02:01:01 allele with respect to HLA-C association and haplotype constitution.",
-      "authors": [
-        {
-          "name": "M. van Soest",
-          "orcid": "",
-          "position": "first",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Marc Rösel",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Anko M. de Graaff",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "B. Zwan",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "last",
-          "corresponding": true,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        }
-      ],
-      "selfAuthorPositions": [
-        "last",
-        "corresponding"
-      ],
-      "volumeIssuePages": "vol. 81, no. 4, pp. 230-231",
-      "categories": [
-        "matching",
-        "outcome",
-        "diagnostics"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "HLA-B Antigens",
-        "Histocompatibility Testing",
-        "Stem Cell Transplantation",
-        "Base Sequence",
-        "Point Mutation",
-        "Alleles",
-        "Exons",
-        "Molecular Sequence Data",
-        "Tissue Donors"
-      ],
-      "keywords": [
-        "novel HLA allele",
-        "HLA haplotypes",
-        "stem cell donors",
-        "sequence-based typing"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "Hematopoietic Stem Cell Transplantation",
-          "score": 0.8417999744415283
-        },
-        {
-          "name": "Renal Transplantation Outcomes and Treatments",
-          "score": 0.07859999686479568
-        },
-        {
-          "name": "Genetic Associations and Epidemiology",
-          "score": 0.05079999938607216
-        }
-      ],
-      "citedByCount": 5,
-      "countsByYear": [
-        {
-          "year": 2013,
-          "cited_by_count": 5
-        }
-      ],
-      "isOpenAccess": false,
-      "openAccessStatus": "closed",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W1902821440",
-        "https://openalex.org/W2055395993",
-        "https://openalex.org/W1821487627",
-        "https://openalex.org/W2223919059",
-        "https://openalex.org/W1755117935",
-        "https://openalex.org/W101503009",
-        "https://openalex.org/W1869508445",
-        "https://openalex.org/W1968383574",
-        "https://openalex.org/W2072606516",
-        "https://openalex.org/W4283775834"
-      ],
-      "abstractClassification": {
-        "decision": "include",
-        "confidence": "no-signal",
-        "reasons": []
-      }
-    },
-    {
       "putCode": 225651259,
       "title": "Predicted indirectly recognizable HLA epitopes presented by HLA-DR correlate with the de novo development of donor-specific HLA IgG antibodies after kidney transplantation",
       "year": 2013,
@@ -30232,284 +29337,6 @@
         "https://openalex.org/W2514487591",
         "https://openalex.org/W2021935957",
         "https://openalex.org/W1990373061"
-      ],
-      "abstractClassification": {
-        "decision": "include",
-        "confidence": "no-signal",
-        "reasons": []
-      }
-    },
-    {
-      "putCode": 225654276,
-      "title": "Steric Hindrance and Fast Dissociation Explain the Lack of Immunogenicity of the Minor Histocompatibility HA-1Arg Null Allele",
-      "year": 2009,
-      "sortDate": "2009-04-15",
-      "journal": "The Journal of Immunology",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": "10.4049/jimmunol.0803911",
-      "pmid": "19342659",
-      "pmcid": null,
-      "url": "http://europepmc.org/abstract/med/19342659",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": null,
-      "openAlexId": "https://openalex.org/W1780043079",
-      "openAlexType": "article",
-      "crossrefType": "journal-article",
-      "openAlexUrl": "https://openalex.org/W1780043079",
-      "abstract": "The di-allelic HLA-A2 restricted minor histocompatibility Ag HA-1 locus codes for the highly immunogenic HA-1(His) and the nonimmunogenic HA-1(Arg) nonapeptides, differing in one amino acid. The HA-1(His) peptide is currently used for boosting the graft-vs-tumor responses after HLA matched HA-1 mismatched stem cell transplantation; usage of the HA-1(Arg) peptide would significantly enlarge the applicability for this therapy. Our studies on mechanisms causing the HA-1 unidirectional immunogenicity revealed marginal differences in proteasomal digestion, TAP translocation, and binding affinity, whereas both dissociation rates and structural analyses clearly showed marked differences in the stability of these two HLA-A2 bound alleles. These data provide a rationale for the lack of HA-1(Arg) peptide immunogenicity essential for the choice of tumor peptides for stem cell-based immunotherapeutic application.",
-      "authors": [
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "first",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Stéphanie Gras",
-          "orcid": "https://orcid.org/0000-0001-7416-038X",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Centre National de la Recherche Scientifique",
-            "Université Joseph Fourier",
-            "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
-            "CEA Grenoble",
-            "Institut de Biologie Structurale"
-          ]
-        },
-        {
-          "name": "Jean‐Baptiste Reiser",
-          "orcid": "https://orcid.org/0000-0001-6926-9137",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Centre National de la Recherche Scientifique",
-            "Université Joseph Fourier",
-            "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
-            "CEA Grenoble",
-            "Institut de Biologie Structurale"
-          ]
-        },
-        {
-          "name": "Bregje Mommaas",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Mathilde M. Almekinders",
-          "orcid": "https://orcid.org/0000-0002-1554-2887",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Michel G.D. Kester",
-          "orcid": "https://orcid.org/0000-0002-8960-7348",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Anne Chouquet",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Centre National de la Recherche Scientifique",
-            "Université Joseph Fourier",
-            "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
-            "CEA Grenoble",
-            "Institut de Biologie Structurale"
-          ]
-        },
-        {
-          "name": "Madalen Le Gorrec",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Centre National de la Recherche Scientifique",
-            "Université Joseph Fourier",
-            "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
-            "CEA Grenoble",
-            "Institut de Biologie Structurale"
-          ]
-        },
-        {
-          "name": "Jan Wouter Drijfhout",
-          "orcid": "https://orcid.org/0000-0003-4808-5296",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "FERRY A. OSSENDORP",
-          "orcid": "https://orcid.org/0000-0001-9730-7954",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Dominique Housset",
-          "orcid": "https://orcid.org/0000-0003-1732-0193",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Centre National de la Recherche Scientifique",
-            "Université Joseph Fourier",
-            "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
-            "CEA Grenoble",
-            "Institut de Biologie Structurale"
-          ]
-        },
-        {
-          "name": "Els Goulmy",
-          "orcid": "",
-          "position": "last",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        }
-      ],
-      "selfAuthorPositions": [
-        "first"
-      ],
-      "volumeIssuePages": "vol. 182, no. 8, pp. 4809-4816",
-      "categories": [
-        "matching",
-        "cellular"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [
-        "Hela Cells",
-        "Humans",
-        "Proteasome Endopeptidase Complex",
-        "Histocompatibility Antigens Class I",
-        "Crystallography, X-Ray",
-        "Amino Acid Sequence",
-        "Protein Structure, Tertiary",
-        "Protein Binding",
-        "Protein Transport",
-        "Alleles",
-        "Models, Molecular",
-        "Time Factors",
-        "Molecular Sequence Data"
-      ],
-      "keywords": [
-        "minor histocompatibility antigens",
-        "HLA-A2",
-        "peptide immunogenicity",
-        "steric hindrance",
-        "MHC class I peptide binding",
-        "peptide stability",
-        "stem cell transplantation"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "vaccines and immunoinformatics approaches",
-          "score": 0.6640999913215637
-        },
-        {
-          "name": "Immunotherapy and Immune Responses",
-          "score": 0.31349998712539673
-        },
-        {
-          "name": "Chemical Synthesis and Analysis",
-          "score": 0.006800000090152025
-        }
-      ],
-      "citedByCount": 33,
-      "countsByYear": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 2
-        }
-      ],
-      "isOpenAccess": false,
-      "openAccessStatus": "closed",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W1581415616",
-        "https://openalex.org/W1552738310",
-        "https://openalex.org/W4250292386",
-        "https://openalex.org/W4310690213",
-        "https://openalex.org/W4294723901",
-        "https://openalex.org/W1965238818",
-        "https://openalex.org/W2470318958",
-        "https://openalex.org/W2090391251",
-        "https://openalex.org/W2428121789",
-        "https://openalex.org/W2030908446"
       ],
       "abstractClassification": {
         "decision": "include",
@@ -35133,28 +33960,35 @@
       },
       "webOfScienceId": "WOS:001750677700175",
       "relatedPublications": [],
+      "putCode": 231445746,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 107"
         ]
-      },
-      "putCode": 231445746,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
+      "putCode": 231445798,
       "title": "HLA Class I Leader Peptides Are Associated with Increased Risk of Acute Rejection in CMV Seropositive Lung Transplant Recipients",
       "year": 2026,
       "sortDate": "2026-04-00",
+      "journal": "The Journal of Heart and Lung Transplantation",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1016/j.healun.2026.02.1237",
-      "journal": "The Journal of Heart and Lung Transplantation",
-      "volumeIssuePages": "vol. 45, no. 5, pp. 569",
-      "meeting": "46th Annual Meeting and Scientific Sessions of the International-Society-for-Heart-and-Lung-Transplantation (ISHLT)",
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1016/j.healun.2026.02.1237",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W7154593608",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W7154593608",
+      "abstract": null,
       "authors": [
         {
           "name": "B.A. Zweers"
@@ -35190,9 +34024,49 @@
       "selfAuthorPositions": [
         "last"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 45, no. 5, pp. 569",
       "categories": [],
+      "primaryCategoryLabel": "Outcome",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "cytomegalovirus",
+        "CMV seropositivity",
+        "lung transplantation",
+        "acute cellular rejection",
+        "HLA mismatch",
+        "HLA-A",
+        "HLA-C",
+        "T cell-mediated rejection",
+        "donor-recipient mismatch"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.9854000210762024
+        },
+        {
+          "name": "Cytomegalovirus and herpesvirus research",
+          "score": 0.010400000028312206
+        },
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.0027000000700354576
+        }
+      ],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "ISHLT 2026 meeting abstract; one-page congress item"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1016/j.healun.2026.02.1237",
@@ -35214,6 +34088,8 @@
           "checkedAt": "2026-10-27"
         }
       ],
+      "meeting": "46th Annual Meeting and Scientific Sessions of the International-Society-for-Heart-and-Lung-Transplantation (ISHLT)",
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -35225,20 +34101,12 @@
           "ISHLT 2026 meeting abstract; one-page congress item"
         ]
       },
-      "openAlexId": "https://openalex.org/W7154593608",
       "id": "abstract-ba73a50a9ccd4312",
       "relatedPublications": [],
       "webOfScienceId": "WOS:001761422000017",
       "sourceCitations": {
         "webOfScience": "JOURNAL OF HEART AND LUNG TRANSPLANTATION 45(5), pp.569-569"
       },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "ISHLT 2026 meeting abstract; one-page congress item"
-        ]
-      },
-      "putCode": 231445798,
       "orcidWorkType": "conference-output"
     },
     {
@@ -35302,28 +34170,35 @@
       },
       "webOfScienceId": "WOS:001750677700268",
       "relatedPublications": [],
+      "putCode": 231445796,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 107"
         ]
-      },
-      "putCode": 231445796,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
+      "putCode": 231445789,
       "title": "HLA-B-21M Leader Variant is Associated with Increased Risk of Early Acute Rejection in CMV Seropositive Lung Transplant Recipients",
       "year": 2026,
       "sortDate": "2026-04-00",
+      "journal": "The Journal of Heart and Lung Transplantation",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1016/j.healun.2026.02.409",
-      "journal": "The Journal of Heart and Lung Transplantation",
-      "volumeIssuePages": "vol. 45, no. 5, pp. 192",
-      "meeting": "46th Annual Meeting and Scientific Sessions of the International-Society-for-Heart-and-Lung-Transplantation (ISHLT)",
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1016/j.healun.2026.02.409",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W7154587695",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W7154587695",
+      "abstract": null,
       "authors": [
         {
           "name": "B.A. Zweers"
@@ -35359,9 +34234,45 @@
       "selfAuthorPositions": [
         "last"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 45, no. 5, pp. 192",
       "categories": [],
+      "primaryCategoryLabel": "Outcome",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "lung transplantation",
+        "acute rejection",
+        "cytomegalovirus seropositivity",
+        "T cell-mediated rejection",
+        "transplant rejection risk"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.9990000128746033
+        },
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.0005000000237487257
+        },
+        {
+          "name": "Cytomegalovirus and herpesvirus research",
+          "score": 0.00009999999747378752
+        }
+      ],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "ISHLT 2026 meeting abstract; one-page congress item"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1016/j.healun.2026.02.409",
@@ -35383,6 +34294,8 @@
           "checkedAt": "2026-10-27"
         }
       ],
+      "meeting": "46th Annual Meeting and Scientific Sessions of the International-Society-for-Heart-and-Lung-Transplantation (ISHLT)",
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -35394,34 +34307,33 @@
           "ISHLT 2026 meeting abstract; one-page congress item"
         ]
       },
-      "openAlexId": "https://openalex.org/W7154587695",
       "id": "abstract-02e21ff69df30a3e",
       "relatedPublications": [],
       "webOfScienceId": "WOS:001761463200006",
       "sourceCitations": {
         "webOfScience": "JOURNAL OF HEART AND LUNG TRANSPLANTATION 45(5), pp.192-192"
       },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "ISHLT 2026 meeting abstract; one-page congress item"
-        ]
-      },
-      "putCode": 231445789,
       "orcidWorkType": "conference-output"
     },
     {
+      "putCode": 231445788,
       "title": "Molecular Mismatch Probability is Dominated by Recipient Genotype Rather Than Donor Population",
       "year": 2026,
       "sortDate": "2026-06-00",
+      "journal": "American Journal of Transplantation",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1016/j.ajt.2026.05.1305",
-      "journal": "American Journal of Transplantation",
-      "volumeIssuePages": "vol. 26, no. 7, pp. S630-S631",
-      "meeting": null,
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1016/j.ajt.2026.05.1305",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W7165365350",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W7165365350",
+      "abstract": null,
       "authors": [
         {
           "name": "M. Niemann"
@@ -35442,9 +34354,44 @@
       "selfAuthorPositions": [
         "middle"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 26, no. 7, pp. S630-S631",
       "categories": [],
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "kidney transplantation",
+        "histocompatibility",
+        "recipient genotype",
+        "organ allocation algorithms"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.9916999936103821
+        },
+        {
+          "name": "Organ Donation and Transplantation",
+          "score": 0.005200000014156103
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.0012000000569969416
+        }
+      ],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1016/j.ajt.2026.05.1305",
@@ -35461,6 +34408,8 @@
           "kind": "cross-check"
         }
       ],
+      "meeting": null,
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -35472,30 +34421,29 @@
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
       },
-      "openAlexId": "https://openalex.org/W7165365350",
       "id": "abstract-025c715ccca41374",
       "relatedPublications": [],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
-        ]
-      },
-      "putCode": 231445788,
       "orcidWorkType": "conference-output"
     },
     {
+      "putCode": 231445783,
       "title": "P4.877: Attempt to minimize maintenance immunosuppressive therapy based on T and B cell epitope mismatch: Difference between PIRCHE-II and PIRCHE-T2.",
       "year": 2026,
       "sortDate": "2026-08-24",
+      "journal": "Transplantation",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1097/01.tp.0001254944.35607.69",
-      "journal": "Transplantation",
-      "volumeIssuePages": "vol. 110, no. 9S",
-      "meeting": "31st International Congress of the Transplantation-Society",
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1097/01.tp.0001254944.35607.69",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W7204808736",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W7204808736",
+      "abstract": null,
       "authors": [
         {
           "name": "Takaaki Kobayashi"
@@ -35552,9 +34500,44 @@
       "selfAuthorPositions": [
         "middle"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 110, no. 9S",
       "categories": [],
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
+      "impactFactor": 5,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "maintenance immunosuppression",
+        "kidney transplantation",
+        "donor-recipient mismatch",
+        "immunosuppression reduction"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.6187000274658203
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.3167000114917755
+        },
+        {
+          "name": "Organ and Tissue Transplantation Research",
+          "score": 0.01269999984651804
+        }
+      ],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1097/01.tp.0001254944.35607.69",
@@ -35576,6 +34559,8 @@
           "checkedAt": "2026-10-27"
         }
       ],
+      "meeting": "31st International Congress of the Transplantation-Society",
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -35587,20 +34572,12 @@
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
       },
-      "openAlexId": "https://openalex.org/W7204808736",
       "id": "abstract-ed93278f42cbc94b",
       "relatedPublications": [],
       "webOfScienceId": "WOS:001863721100039",
       "sourceCitations": {
         "webOfScience": "TRANSPLANTATION 110(9S), pp.S885-S886"
       },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
-        ]
-      },
-      "putCode": 231445783,
       "orcidWorkType": "conference-output"
     },
     {
@@ -35664,15 +34641,15 @@
       },
       "webOfScienceId": "WOS:001525853600059",
       "relatedPublications": [],
+      "putCode": 231445886,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 105"
         ]
-      },
-      "putCode": 231445886,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-001525853600060",
@@ -35735,28 +34712,35 @@
       },
       "webOfScienceId": "WOS:001525853600060",
       "relatedPublications": [],
+      "putCode": 231445880,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 105"
         ]
-      },
-      "putCode": 231445880,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
+      "putCode": 231445877,
       "title": "Detection of Immunogenic T Cell Epitopes (Peptides) Involved in De Novo DSA Production Using Machine Learning Methods",
       "year": 2025,
       "sortDate": "2025-08-00",
+      "journal": "American Journal of Transplantation",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1016/j.ajt.2025.07.1257",
-      "journal": "American Journal of Transplantation",
-      "volumeIssuePages": "vol. 25, no. 8, pp. S542",
-      "meeting": "World Transplant Congress (WTC)",
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1016/j.ajt.2025.07.1257",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": "https://doi.org/10.1016/j.ajt.2025.07.1257",
+      "openAlexId": "https://openalex.org/W4412851589",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W4412851589",
+      "abstract": "Purpose: In kidney transplantation, HLA molecular mismatches are associated with de novo DSA production. We have reported that the prevalence of de novo DSA production is significantly lower in patients with good matching of both T cell and B cell epitopes, and we are planning to minimize immunosuppressive therapy in these patients.The next challenge is the detection of immunogenic epitopes. While there have been scattered reports on B cell epitopes, there have been few reports on T cell epitopes due to the large number of peptides to be evaluated.",
       "authors": [
         {
           "name": "T. Kobayashi"
@@ -35813,9 +34797,60 @@
       "selfAuthorPositions": [
         "middle"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 25, no. 8, pp. S542",
       "categories": [],
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "de novo donor-specific antibodies",
+        "T cell epitopes",
+        "HLA mismatch",
+        "kidney transplantation",
+        "immunogenic peptides",
+        "epitope prediction",
+        "machine learning",
+        "B-cell epitopes",
+        "immunosuppression reduction"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "vaccines and immunoinformatics approaches",
+          "score": 0.7422000169754028
+        },
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.25270000100135803
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.0003000000142492354
+        }
+      ],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": true,
+      "openAccessStatus": "hybrid",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W2021824670",
+        "https://openalex.org/W2009867644",
+        "https://openalex.org/W2363997565",
+        "https://openalex.org/W1981120125",
+        "https://openalex.org/W3036615648",
+        "https://openalex.org/W2408448169",
+        "https://openalex.org/W2182598264",
+        "https://openalex.org/W2075879923",
+        "https://openalex.org/W2205639271",
+        "https://openalex.org/W2059333433"
+      ],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1016/j.ajt.2025.07.1257",
@@ -35837,6 +34872,8 @@
           "checkedAt": "2026-10-27"
         }
       ],
+      "meeting": "World Transplant Congress (WTC)",
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -35848,20 +34885,12 @@
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
       },
-      "openAlexId": "https://openalex.org/W4412851589",
       "id": "abstract-297a163f9b3a0891",
       "relatedPublications": [],
       "webOfScienceId": "WOS:001551680300140",
       "sourceCitations": {
         "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 25(8), pp.S542-S542"
       },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
-        ]
-      },
-      "putCode": 231445877,
       "orcidWorkType": "conference-output"
     },
     {
@@ -35935,14 +34964,14 @@
       "sourceCitations": {
         "webOfScience": "HLA 105"
       },
+      "putCode": 231445876,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "putCode": 231445876,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "putCode": 231445874,
@@ -36142,15 +35171,15 @@
       },
       "webOfScienceId": "WOS:001422987100011",
       "relatedPublications": [],
+      "putCode": 231445812,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: JOURNAL OF REPRODUCTIVE IMMUNOLOGY 167"
         ]
-      },
-      "putCode": 231445812,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-001708634200179",
@@ -36213,15 +35242,15 @@
       },
       "webOfScienceId": "WOS:001708634200179",
       "relatedPublications": [],
+      "putCode": 231446052,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: AMERICAN JOURNAL OF TRANSPLANTATION 24(6), pp.S756-S756"
         ]
-      },
-      "putCode": 231446052,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-001364287301324",
@@ -36284,15 +35313,15 @@
       },
       "webOfScienceId": "WOS:001364287301324",
       "relatedPublications": [],
+      "putCode": 231445892,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: EUROPEAN JOURNAL OF IMMUNOLOGY 54, pp.751-751"
         ]
-      },
-      "putCode": 231445892,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "Paternal HLA-Derived Epitopes and Live Birth in Secondary Recurrent Pregnancy Loss: New Insights From a Clinical Trial",
@@ -36369,14 +35398,14 @@
           "score": 1
         }
       ],
+      "putCode": 231445889,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "putCode": 231445889,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-001708632700139",
@@ -36439,15 +35468,15 @@
       },
       "webOfScienceId": "WOS:001708632700139",
       "relatedPublications": [],
+      "putCode": 231445887,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: AMERICAN JOURNAL OF TRANSPLANTATION 24(6), pp.S478-S479"
         ]
-      },
-      "putCode": 231445887,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "putCode": 231446058,
@@ -36809,15 +35838,15 @@
       "sourceCitations": {
         "webOfScience": "HLA 101(4), pp.331-331"
       },
+      "putCode": 231446055,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official program provides a scientific abstract body for this contribution",
           "Erasmus University repository explicitly classifies this as Meeting Abstract and provides Web of Science accession WOS:001082837700010."
         ]
-      },
-      "putCode": 231446055,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "The number of donor HLA-derived T-cell epitopes available for indirect antigen presentation determines the risk for vascular rejection after kidney transplantation",
@@ -36887,14 +35916,14 @@
       "sourceCitations": {
         "webOfScience": "HLA 101(4), pp.347-348"
       },
+      "putCode": 231446054,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official program provides a scientific abstract body for this contribution"
         ]
-      },
-      "putCode": 231446054,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000891281900009",
@@ -36957,15 +35986,15 @@
       },
       "webOfScienceId": "WOS:000891281900009",
       "relatedPublications": [],
+      "putCode": 231446072,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HUMAN IMMUNOLOGY 83, pp.20-20"
         ]
-      },
-      "putCode": 231446072,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000891281900171",
@@ -37028,15 +36057,15 @@
       },
       "webOfScienceId": "WOS:000891281900171",
       "relatedPublications": [],
+      "putCode": 231446070,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HUMAN IMMUNOLOGY 83, pp.184-184"
         ]
-      },
-      "putCode": 231446070,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "putCode": 231446069,
@@ -37228,14 +36257,14 @@
       "sourceCitations": {
         "webOfScience": "HLA 99(5), pp.443-443"
       },
+      "putCode": 231446068,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official program provides a scientific abstract body for this contribution"
         ]
-      },
-      "putCode": 231446068,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "T-cell epitopes shared between immunizing and donor HLA associate with kidney allograft failure",
@@ -37314,14 +36343,14 @@
       "sourceCitations": {
         "webOfScience": "HLA 99(5), pp.422-423"
       },
+      "putCode": 231446062,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official program provides a scientific abstract body for this contribution"
         ]
-      },
-      "putCode": 231446062,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "The Role of HLA Epitope Mismatches in Antibody Development and Refractoriness to Optimize Allocation in Platelet Transfusion",
@@ -37388,14 +36417,14 @@
       "sourceCitations": {
         "webOfScience": "HLA 99(5), pp.432-432"
       },
+      "putCode": 231446060,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official program provides a scientific abstract body for this contribution"
         ]
-      },
-      "putCode": 231446060,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "Which is More Important for Predicting De Novo DSA Production, B Cell Epitope (EPLET) or T Cell Epitope (PIRCHE) Analysis ?",
@@ -37496,14 +36525,14 @@
       "sourceCitations": {
         "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 22, pp.386-386"
       },
+      "putCode": 231446059,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official congress abstract page with meeting year and abstract number 120"
         ]
-      },
-      "putCode": 231446059,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "Compartmentalization, persistence and conserved shared motifs of dominant (regulatory) T cell clones in autoimmune inflammation",
@@ -37596,14 +36625,14 @@
       "sourceCitations": {
         "webOfScience": "CLINICAL AND EXPERIMENTAL RHEUMATOLOGY 39(5), pp.1153-1154"
       },
+      "putCode": 231446080,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "putCode": 231446080,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "Human Leukocyte Antigen mapping of paediatric uveitis",
@@ -37684,14 +36713,14 @@
       "sourceCitations": {
         "webOfScience": "INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 62(8)"
       },
+      "putCode": 231446077,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "putCode": 231446077,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000697845200009",
@@ -37754,15 +36783,15 @@
       },
       "webOfScienceId": "WOS:000697845200009",
       "relatedPublications": [],
+      "putCode": 231446076,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HUMAN IMMUNOLOGY 82, pp.15-15"
         ]
-      },
-      "putCode": 231446076,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "腎移植後患者における新規ドナー特異的抗体産生リスク予測のためのT細胞およびB細胞エピトープ解析",
@@ -37840,27 +36869,34 @@
       "relatedPublications": [],
       "translatedTitle": "T- and B-cell epitope analysis to predict de novo donor-specific antibody production risk after kidney transplantation",
       "translationNote": "English translation for discovery; Japanese source title retained as the authoritative title.",
+      "putCode": 231446073,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "putCode": 231446073,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
+      "putCode": 231446126,
       "title": "21%-51% of a Single-Center, 15-Year Cohort of All Patients with ESKD Prior to the Age of 50 Have Monogenic Kidney Disease",
       "year": 2020,
       "sortDate": "2020-10-00",
+      "journal": "Journal of the American Society of Nephrology",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1681/asn.20203110s1522a",
-      "journal": "Journal of the American Society of Nephrology",
-      "volumeIssuePages": "vol. 31, no. 10S, pp. 522-522",
-      "meeting": null,
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1681/asn.20203110s1522a",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W4396999126",
+      "openAlexType": "conference-abstract",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W4396999126",
+      "abstract": "Background: Often only CKD patients with high likelihood of genetic disease are offered genetic testing. Early genetic testing could obviate the need for kidney biopsies, allowing for adequate prognostication and treatment. To test the viability of a ‘genetics first’ approach for CKD, we performed genetic testing in a group of renal transplant recipients <50 years, irrespective of cause of transplant. Methods: From a cohort of 273 transplant patients, we selected 110 that were in care in the UMC Utrecht, had DNA available and were without clear-cut non-genetic disease. Forty patients had been diagnosed with a genetic disease prior to enrollment, in 70 patients we performed a whole exome sequencing based 379 gene panel analysis. Results: Genetic analysis yielded a diagnosis in 51%. Extrapolated to the 273 patient cohort, who did not all fit the inclusion criteria, the diagnostic yield was still 21%. Retrospectively, in 43% of biopsied patients the kidney biopsy would not have had added diagnostic value if genetic testing had been performed as a first tier diagnostic. Conclusions: The burden of monogenic disease in transplant patients with ESKD of any cause prior to the age of 50 is 21-51%. Early genetic testing can provide a noninvasive diagnostic, impacting prognostication and treatment and obviating the need for an invasive biopsy. We conclude that in patients who one expects to develop ESKD prior to the age of 50, genetic testing should be considered as first mode of diagnostics.",
       "authors": [
         {
           "name": "Rozemarijn Snoek"
@@ -37911,9 +36947,62 @@
       "selfAuthorPositions": [
         "middle"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 31, no. 10S, pp. 522-522",
       "categories": [],
+      "primaryCategoryLabel": "Diagnostics",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "monogenic kidney disease",
+        "end-stage renal disease",
+        "kidney transplant recipients",
+        "genetic testing",
+        "early diagnosis",
+        "renal biopsy",
+        "diagnostic yield",
+        "exome sequencing",
+        "gene panel",
+        "young adults",
+        "non-invasive diagnosis"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Renal Diseases and Glomerulopathies",
+          "score": 0.40450000762939453
+        },
+        {
+          "name": "Genomics and Rare Diseases",
+          "score": 0.29760000109672546
+        },
+        {
+          "name": "Chronic Kidney Disease and Diabetes",
+          "score": 0.06599999964237213
+        }
+      ],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W2894467686",
+        "https://openalex.org/W1606496894",
+        "https://openalex.org/W4200133826",
+        "https://openalex.org/W3081332639",
+        "https://openalex.org/W2782606626",
+        "https://openalex.org/W2055704044",
+        "https://openalex.org/W1986135018",
+        "https://openalex.org/W2148718224",
+        "https://openalex.org/W2103425699",
+        "https://openalex.org/W2330453918"
+      ],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "ASN Kidney Week abstract; volume 31, issue 10S"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1681/asn.20203110s1522a",
@@ -37930,6 +37019,8 @@
           "kind": "cross-check"
         }
       ],
+      "meeting": null,
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -37941,16 +37032,8 @@
           "ASN Kidney Week abstract; volume 31, issue 10S"
         ]
       },
-      "openAlexId": "https://openalex.org/W4396999126",
       "id": "abstract-189f1f6c0cf225ca",
       "relatedPublications": [],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "ASN Kidney Week abstract; volume 31, issue 10S"
-        ]
-      },
-      "putCode": 231446126,
       "orcidWorkType": "conference-output"
     },
     {
@@ -38062,14 +37145,14 @@
       "sourceCitations": {
         "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 20, pp.403-403"
       },
+      "putCode": 231446120,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official congress abstract page with meeting year and abstract number 243"
         ]
-      },
-      "putCode": 231446120,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "Evaluating Preformed Donor HLA Reactive T Cells Using PIRCHE-II Algorithm",
@@ -38158,14 +37241,14 @@
       "sourceCitations": {
         "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 20, pp.636-636"
       },
+      "putCode": 231446117,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official congress abstract page with meeting year and abstract number B-365"
         ]
-      },
-      "putCode": 231446117,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000518393300156",
@@ -38228,15 +37311,15 @@
       },
       "webOfScienceId": "WOS:000518393300156",
       "relatedPublications": [],
+      "putCode": 231446119,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 95(4), pp.344-345"
         ]
-      },
-      "putCode": 231446119,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000751335600070",
@@ -38299,15 +37382,15 @@
       },
       "webOfScienceId": "WOS:000751335600070",
       "relatedPublications": [],
+      "putCode": 231446116,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HUMAN IMMUNOLOGY 81, pp.82-82"
         ]
-      },
-      "putCode": 231446116,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "Human Leukocyte Antigen mapping of paediatric uveitis",
@@ -38384,14 +37467,14 @@
       "sourceCitations": {
         "webOfScience": "ACTA OPHTHALMOLOGICA 98, pp.34-34"
       },
+      "putCode": 231446113,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "putCode": 231446113,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000578671900091",
@@ -38454,15 +37537,15 @@
       },
       "webOfScienceId": "WOS:000578671900091",
       "relatedPublications": [],
+      "putCode": 231446112,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TRANSPLANT INTERNATIONAL 33, pp.32-33"
         ]
-      },
-      "putCode": 231446112,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000518393300153",
@@ -38525,15 +37608,15 @@
       },
       "webOfScienceId": "WOS:000518393300153",
       "relatedPublications": [],
+      "putCode": 231446110,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 95(4), pp.343-343"
         ]
-      },
-      "putCode": 231446110,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000518393300233",
@@ -38596,15 +37679,15 @@
       },
       "webOfScienceId": "WOS:000518393300233",
       "relatedPublications": [],
+      "putCode": 231446106,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 95(4), pp.381-382"
         ]
-      },
-      "putCode": 231446106,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000464517600210",
@@ -38671,14 +37754,14 @@
       },
       "webOfScienceId": "WOS:000464517600210",
       "relatedPublications": [],
+      "putCode": 231446130,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS explicitly classifies this item as Meeting Abstract; HLA 93(5):352–353, May 2019."
         ]
-      },
-      "putCode": 231446130,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000491488701124",
@@ -38741,15 +37824,15 @@
       },
       "webOfScienceId": "WOS:000491488701124",
       "relatedPublications": [],
+      "putCode": 231446129,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TRANSPLANT INTERNATIONAL 32, pp.42-43"
         ]
-      },
-      "putCode": 231446129,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000491488701287",
@@ -38812,15 +37895,15 @@
       },
       "webOfScienceId": "WOS:000491488701287",
       "relatedPublications": [],
+      "putCode": 231446128,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TRANSPLANT INTERNATIONAL 32, pp.88-88"
         ]
-      },
-      "putCode": 231446128,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000464517600082",
@@ -38883,15 +37966,15 @@
       },
       "webOfScienceId": "WOS:000464517600082",
       "relatedPublications": [],
+      "putCode": 231446127,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 93(5), pp.293-293"
         ]
-      },
-      "putCode": 231446127,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000430290800025",
@@ -38954,15 +38037,15 @@
       },
       "webOfScienceId": "WOS:000430290800025",
       "relatedPublications": [],
+      "putCode": 231446191,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 91(5), pp.333-333"
         ]
-      },
-      "putCode": 231446191,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000449666000049",
@@ -39025,15 +38108,15 @@
       },
       "webOfScienceId": "WOS:000449666000049",
       "relatedPublications": [],
+      "putCode": 231446190,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TRANSPLANT INTERNATIONAL 31, pp.21-22"
         ]
-      },
-      "putCode": 231446190,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "Decreased Graft Survival of Retransplants can Largely be Explained By Increased Hla-immunization",
@@ -39220,14 +38303,14 @@
       "sourceCitations": {
         "webOfScience": "HLA 91(5), pp.372-372"
       },
+      "putCode": 231446189,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "putCode": 231446189,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000430290800046",
@@ -39290,15 +38373,15 @@
       },
       "webOfScienceId": "WOS:000430290800046",
       "relatedPublications": [],
+      "putCode": 231446135,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 91(5), pp.343-344"
         ]
-      },
-      "putCode": 231446135,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000449666000016",
@@ -39361,15 +38444,15 @@
       },
       "webOfScienceId": "WOS:000449666000016",
       "relatedPublications": [],
+      "putCode": 231446133,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TRANSPLANT INTERNATIONAL 31, pp.12-12"
         ]
-      },
-      "putCode": 231446133,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000430290800022",
@@ -39432,15 +38515,15 @@
       },
       "webOfScienceId": "WOS:000430290800022",
       "relatedPublications": [],
+      "putCode": 231446132,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 91(5), pp.332-332"
         ]
-      },
-      "putCode": 231446132,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000400973300043",
@@ -39503,28 +38586,35 @@
       },
       "webOfScienceId": "WOS:000400973300043",
       "relatedPublications": [],
+      "putCode": 231446281,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 89(6), pp.358-358"
         ]
-      },
-      "putCode": 231446281,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
+      "putCode": 231446248,
       "title": "Analysis of Predicted Indirectly Recognizable HLA Epitopes (PIRCHE) in Mismatched Unrelated Donor Hematopoietic Stem Cell Transplants (HCT): A Center for International Blood and Marrow Transplant Research (CIBMTR) Cohort Study",
       "year": 2017,
       "sortDate": "2017-03-00",
+      "journal": "Biology of Blood and Marrow Transplantation",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1016/j.bbmt.2016.12.341",
-      "journal": "Biology of Blood and Marrow Transplantation",
-      "volumeIssuePages": "vol. 23, no. 3, pp. S201",
-      "meeting": null,
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1016/j.bbmt.2016.12.341",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": "https://doi.org/10.1016/j.bbmt.2016.12.341",
+      "openAlexId": "https://openalex.org/W2590743714",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W2590743714",
+      "abstract": "Background: The PIRCHE (predicted indirectly recognizable HLA epitopes) algorithm defines potential epitopes that can be presented by the shared patient HLA and subsequently lead to indirect recognition of mismatched HLA by the donor T cells. Previous European studies (Hovon, The Netherlands and UKE Hamburg, Germany) showed that indirect recognition of HLA disparities may be important for the occurrence of alloreactivity after HLA 9/10 matched unrelated donor HCT. In these studies, the number of PIRCHE correlated with an increase in clinical alloreactivity and a poorer outcome. The aim of the current study was to validate the effect of PIRCHE on HCT in an independent cohort provided by the CIBMTR. Materials and Methods: We selected the 10/10 or 9/10 high resolution matched donor/recipient pairs receiving HCT for hematological malignancy (AML, ALL, CML or MDS) between 1999-2012. A total of 3043 10/10 and 1234 9/10 matched unrelated donor transplantations were included. For the 9/10, high resolution HLA data were converted to the most likely unambiguous protein designation and PIRCHE-I (class I-presented) and –II (class II-presented) scores were calculated using the www.pirche.org website. All 9/10 pairs were stratified into three groups based upon their PIRCHE scores using the previously observed cutoff values. Statistical analyses were performed on overall survival (primary outcome) and disease free survival, transplant related mortality, aGVHD, Relapse, and cGvHD (secondary outcomes). Results: None of the primary and secondary outcome parameters differed significantly when comparing low versus intermediate or high PIRCHE-I or –II groups. Further analyses to explore the potential underlying factors that might obscure PIRCHE effects were executed. Subgroup analyses suggested potential PIRCHE-I effects on aGvHD within the ATG subgroup, MA conditioning subgroup and Caucasian subgroups. In the ATG subgroup, aGVHD II-IV HR increased with increasing PIRCHE-I numbers (HR-low = 1.07, HR-mid = 1.39 (P = .2473 compared with PIRCHE low), high = 1.72 (P = .0284 compared with PIRCHE low); ns). Similarly, aGVHD III-IV was higher in the PIRCHE-I mid group compared to the PIRCHE-I low group, HR-mid = 2.40 (P = .0092). The results of these subgroup analyses were not significant when correcting for multiple testing. Conclusions: PIRCHE was previously shown to be associated with transplant outcome in two European studies. The current study could not confirm this association in the North American CIBMTR cohort. Possibly, heterogeneity in the CIBMTR cohort with respect to race/ethnicity, conditioning regimen and GVHD prophylaxis treatment, as suggested by the subgroup analyses, obscures potential PIRCHE effects. Potentially, the group sizes are too small to show formal statistical significance after correction for multiple testing.",
       "authors": [
         {
           "name": "Eric Spierings"
@@ -39554,9 +38644,75 @@
       "selfAuthorPositions": [
         "first"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 23, no. 3, pp. S201",
       "categories": [],
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "unrelated donor hematopoietic stem cell transplantation",
+        "HLA mismatch",
+        "alloreactivity",
+        "acute graft-versus-host disease",
+        "chronic graft-versus-host disease",
+        "overall survival",
+        "disease-free survival",
+        "conditioning regimen",
+        "antithymocyte globulin",
+        "hematologic malignancies",
+        "CIBMTR"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Hematopoietic Stem Cell Transplantation",
+          "score": 0.9907000064849854
+        },
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.005100000184029341
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.0010000000474974513
+        }
+      ],
+      "citedByCount": 3,
+      "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        }
+      ],
+      "isOpenAccess": true,
+      "openAccessStatus": "hybrid",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W2092561569",
+        "https://openalex.org/W2377100155",
+        "https://openalex.org/W2793887421",
+        "https://openalex.org/W3153228984",
+        "https://openalex.org/W4389671191",
+        "https://openalex.org/W4247453431",
+        "https://openalex.org/W4312779314",
+        "https://openalex.org/W1965152511",
+        "https://openalex.org/W2032491827",
+        "https://openalex.org/W2028593954"
+      ],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1016/j.bbmt.2016.12.341",
@@ -39578,6 +38734,8 @@
           "checkedAt": "2026-10-27"
         }
       ],
+      "meeting": null,
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -39589,20 +38747,12 @@
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
       },
-      "openAlexId": "https://openalex.org/W2590743714",
       "id": "abstract-fd9e25ad05879459",
       "relatedPublications": [],
       "webOfScienceId": "WOS:000540635000197",
       "sourceCitations": {
         "webOfScience": "BIOLOGY OF BLOOD AND MARROW TRANSPLANTATION 23(3), pp.S161-S161"
       },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
-        ]
-      },
-      "putCode": 231446248,
       "orcidWorkType": "conference-output"
     },
     {
@@ -39666,15 +38816,15 @@
       },
       "webOfScienceId": "WOS:000400973300193",
       "relatedPublications": [],
+      "putCode": 231446244,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 89(6), pp.426-426"
         ]
-      },
-      "putCode": 231446244,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000400973300022",
@@ -39737,15 +38887,15 @@
       },
       "webOfScienceId": "WOS:000400973300022",
       "relatedPublications": [],
+      "putCode": 231446243,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 89(6), pp.348-348"
         ]
-      },
-      "putCode": 231446243,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000411688500094",
@@ -39808,15 +38958,15 @@
       },
       "webOfScienceId": "WOS:000411688500094",
       "relatedPublications": [],
+      "putCode": 231446240,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TRANSPLANT INTERNATIONAL 30, pp.35-35"
         ]
-      },
-      "putCode": 231446240,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "Donor Recipient Matching Based on HLA Epitopes Improves Outcome in Kidney Transplant Recipients.",
@@ -39893,14 +39043,14 @@
       "sourceCitations": {
         "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.358-358"
       },
+      "putCode": 231446235,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official congress abstract page with meeting year and abstract number 432"
         ]
-      },
-      "putCode": 231446235,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "putCode": 231446233,
@@ -40162,14 +39312,14 @@
       "sourceCitations": {
         "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.359-359"
       },
+      "putCode": 231446226,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official congress abstract page with meeting year and abstract number 433"
         ]
-      },
-      "putCode": 231446226,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000400973300026",
@@ -40233,15 +39383,15 @@
       "webOfScienceId": "WOS:000400973300026",
       "relatedPublications": [],
       "collectionDoi": "10.1111/tan.13034",
+      "putCode": 231446225,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 89(6), pp.350-351"
         ]
-      },
-      "putCode": 231446225,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "putCode": 231446224,
@@ -40634,17 +39784,24 @@
       "orcidWorkType": "conference-output"
     },
     {
+      "putCode": 231446220,
       "title": "P119 Computational approaches to facilitate epitope-based HLA matching in solid organ transplantation",
       "year": 2017,
       "sortDate": "2017-09-00",
+      "journal": "Human Immunology",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1016/j.humimm.2017.06.179",
-      "journal": "Human Immunology",
-      "volumeIssuePages": "vol. 78, pp. 140",
-      "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1016/j.humimm.2017.06.179",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W2752443213",
+      "openAlexType": "conference-abstract",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W2752443213",
+      "abstract": null,
       "authors": [
         {
           "name": "Kirsten Geneugelijk"
@@ -40665,9 +39822,61 @@
       "selfAuthorPositions": [
         "last"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 78, pp. 140",
       "categories": [],
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "solid organ transplantation",
+        "HLA haplotype frequencies",
+        "HLA-C",
+        "HLA-DQ",
+        "donor-recipient matching"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.7958999872207642
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.1177000030875206
+        },
+        {
+          "name": "vaccines and immunoinformatics approaches",
+          "score": 0.04919999837875366
+        }
+      ],
+      "citedByCount": 1,
+      "countsByYear": [
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        }
+      ],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W4283775834",
+        "https://openalex.org/W1966634667",
+        "https://openalex.org/W2334188214",
+        "https://openalex.org/W2394331430",
+        "https://openalex.org/W4289975057",
+        "https://openalex.org/W2405493166",
+        "https://openalex.org/W1005959667",
+        "https://openalex.org/W1976871621",
+        "https://openalex.org/W2069776427",
+        "https://openalex.org/W2408090560"
+      ],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1016/j.humimm.2017.06.179",
@@ -40689,6 +39898,8 @@
           "checkedAt": "2026-10-27"
         }
       ],
+      "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -40700,7 +39911,6 @@
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
       },
-      "openAlexId": "https://openalex.org/W2752443213",
       "id": "abstract-432f24c19ecb428c",
       "relatedPublications": [
         {
@@ -40716,27 +39926,27 @@
       "sourceCitations": {
         "webOfScience": "HUMAN IMMUNOLOGY 78, pp.140-140"
       },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
-        ]
-      },
-      "putCode": 231446220,
       "orcidWorkType": "conference-output"
     },
     {
+      "putCode": 231446216,
       "title": "P120 Predicted indirectly recognizable HLA epitopes presented by HLA-DRB1 are related to HLA antibody formation during pregnancy",
       "year": 2017,
       "sortDate": "2017-09-00",
+      "journal": "Human Immunology",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1016/j.humimm.2017.06.180",
-      "journal": "Human Immunology",
-      "volumeIssuePages": "vol. 78, pp. 141",
-      "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1016/j.humimm.2017.06.180",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W2751315842",
+      "openAlexType": "conference-abstract",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W2751315842",
+      "abstract": null,
       "authors": [
         {
           "name": "Kirsten Geneugelijk"
@@ -40766,9 +39976,54 @@
       "selfAuthorPositions": [
         "last"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 78, pp. 141",
       "categories": [],
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "HLA-DRB1",
+        "HLA class II epitopes",
+        "pregnancy"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Reproductive System and Pregnancy",
+          "score": 0.6937999725341797
+        },
+        {
+          "name": "vaccines and immunoinformatics approaches",
+          "score": 0.2703000009059906
+        },
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.021400000900030136
+        }
+      ],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W203802859",
+        "https://openalex.org/W2381567441",
+        "https://openalex.org/W3111171798",
+        "https://openalex.org/W4285100496",
+        "https://openalex.org/W1966634667",
+        "https://openalex.org/W1005959667",
+        "https://openalex.org/W2405493166",
+        "https://openalex.org/W1993728705",
+        "https://openalex.org/W4289975057",
+        "https://openalex.org/W2021935957"
+      ],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1016/j.humimm.2017.06.180",
@@ -40790,6 +40045,8 @@
           "checkedAt": "2026-10-27"
         }
       ],
+      "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -40801,7 +40058,6 @@
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
       },
-      "openAlexId": "https://openalex.org/W2751315842",
       "id": "abstract-3789a782c4a8f075",
       "relatedPublications": [
         {
@@ -40817,27 +40073,27 @@
       "sourceCitations": {
         "webOfScience": "HUMAN IMMUNOLOGY 78, pp.141-141"
       },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
-        ]
-      },
-      "putCode": 231446216,
       "orcidWorkType": "conference-output"
     },
     {
+      "putCode": 231446206,
       "title": "P220 A previous miscarriage and a previous successful pregnancy have a different impact on HLA antibody formation during a subsequent successful pregnancy",
       "year": 2017,
       "sortDate": "2017-09-00",
+      "journal": "Human Immunology",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1016/j.humimm.2017.06.280",
-      "journal": "Human Immunology",
-      "volumeIssuePages": "vol. 78, pp. 217",
-      "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1016/j.humimm.2017.06.280",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W2752893008",
+      "openAlexType": "conference-abstract",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W2752893008",
+      "abstract": null,
       "authors": [
         {
           "name": "Kirsten Geneugelijk"
@@ -40861,9 +40117,59 @@
       "selfAuthorPositions": [
         "last"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 78, pp. 217",
       "categories": [],
+      "primaryCategoryLabel": "Outcome",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "HLA antibodies",
+        "miscarriage",
+        "subsequent pregnancy",
+        "maternal immune response",
+        "HLA class I mismatch",
+        "immunogenicity",
+        "gravidity",
+        "pregnancy outcomes"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Reproductive System and Pregnancy",
+          "score": 0.9994999766349792
+        },
+        {
+          "name": "Blood groups and transfusion",
+          "score": 0.00009999999747378752
+        },
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.00009999999747378752
+        }
+      ],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W1581415616",
+        "https://openalex.org/W1552738310",
+        "https://openalex.org/W4250292386",
+        "https://openalex.org/W2470318958",
+        "https://openalex.org/W2428121789",
+        "https://openalex.org/W2030908446",
+        "https://openalex.org/W3042894437",
+        "https://openalex.org/W4205567707",
+        "https://openalex.org/W2403806215",
+        "https://openalex.org/W1585253481"
+      ],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1016/j.humimm.2017.06.280",
@@ -40885,6 +40191,8 @@
           "checkedAt": "2026-10-27"
         }
       ],
+      "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -40896,7 +40204,6 @@
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
       },
-      "openAlexId": "https://openalex.org/W2752893008",
       "id": "abstract-16bd0943cccb69b6",
       "relatedPublications": [
         {
@@ -40912,13 +40219,6 @@
       "sourceCitations": {
         "webOfScience": "HUMAN IMMUNOLOGY 78, pp.217-217"
       },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
-        ]
-      },
-      "putCode": 231446206,
       "orcidWorkType": "conference-output"
     },
     {
@@ -40982,15 +40282,15 @@
       },
       "webOfScienceId": "WOS:000400973300077",
       "relatedPublications": [],
+      "putCode": 231446202,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 89(6), pp.374-375"
         ]
-      },
-      "putCode": 231446202,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "Predicted Indirectly Recognizable HLA Epitopes (PIRCHE) and HLA-Specific Immune Responses",
@@ -41034,14 +40334,14 @@
       "collectionDoi": "10.1111/vox.12530",
       "id": "abstract-9bf8c641eaefef42",
       "relatedPublications": [],
+      "putCode": 231446197,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "putCode": 231446197,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000413348700012",
@@ -41104,15 +40404,15 @@
       },
       "webOfScienceId": "WOS:000413348700012",
       "relatedPublications": [],
+      "putCode": 231446198,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TRANSPLANT INTERNATIONAL 30, pp.10-10"
         ]
-      },
-      "putCode": 231446198,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000400973300019",
@@ -41175,28 +40475,35 @@
       },
       "webOfScienceId": "WOS:000400973300019",
       "relatedPublications": [],
+      "putCode": 231446200,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 89(6), pp.346-347"
         ]
-      },
-      "putCode": 231446200,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
+      "putCode": 231446196,
       "title": "SO024DONOR RECIPIENT MATCHING BASED ON INDIRECTLY RECOGNIZABLE HLA EPITOPES INDEPENDENTLY PREDICTS OUTCOME AFTER KIDNEY TRANSPLANTATION",
       "year": 2017,
       "sortDate": "2017-05-01",
+      "journal": "Nephrology Dialysis Transplantation",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1093/ndt/gfx104",
-      "journal": "Nephrology Dialysis Transplantation",
-      "volumeIssuePages": "vol. 32, no. suppl_3, pp. iii15-iii15",
-      "meeting": null,
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1093/ndt/gfx104",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": "https://doi.org/10.1093/ndt/gfx104",
+      "openAlexId": "https://openalex.org/W2619672646",
+      "openAlexType": "conference-abstract",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W2619672646",
+      "abstract": "INTRODUCTION AND AIMS: De novo donor-specific HLA antibodies (dnDSA) are recognized as a risk factor for graft loss. Determinants of DSA specificity are generated via the indirect allorecognition pathway. Here, we present supportive data for the relevance of predicted indirectly recognizable HLA epitopes (PIRCHE) to predict dnDSA following kidney transplantation. METHODS: A total of 2,787 consecutive kidney transplantations performed 1995-2015 without preformed DSA have been analyzed. De novo DSA were detected by Luminex single antigen assay. HLA epitope mismatches were determined by the PIRCHE and HLAMatchmaker approach and correlated in uni- and multivariate analyses with 10-year allograft survival and incidence of dnDSA. RESULTS: The correlation of the PIRCHE scores with the count of ABCDRDQ mismatches and with the HLAMatchmaker scores is shown in Fig.1 a, b. The PIRCHE score was a strong predictor of dnDSA (p<0.001, Fig.1 c) and moderately predicted allograft survival (Fig.1 d). When analyzing the predicted impact of high vs. low PIRCHE scores on dnDSA development stratified according to the degree of antigen mismatch at each HLA locus, a clear differentiation could be revealed for HLA-DR and DQ (illustrated according to low vs. high PIRCHE scores (1st vs. 4th quartile) in patients with 1 HLA mismatch at the specific locus in Fig.1 e, f) and to a lesser extent also for HLA-A (p=0.013) and B (p=0.010). In a multivariate Cox regression analysis adjusted for antigen mismatches and HLAMatchmaker epitopes the PRCHE-II score could be identified as an independent risk factor for dnDSA (p<0.001). SO024 Figure",
       "authors": [
         {
           "name": "Oliver Staeck"
@@ -41223,9 +40530,57 @@
       "selfAuthorPositions": [
         "middle"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 32, no. suppl_3, pp. iii15-iii15",
       "categories": [],
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "kidney transplantation",
+        "indirect allorecognition",
+        "allograft survival",
+        "HLA-DR",
+        "HLA-DQ",
+        "HLAMatchmaker"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.9994999766349792
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.0003000000142492354
+        },
+        {
+          "name": "Organ Donation and Transplantation",
+          "score": 0.00009999999747378752
+        }
+      ],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": true,
+      "openAccessStatus": "bronze",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W1979044599",
+        "https://openalex.org/W2021824670",
+        "https://openalex.org/W2009867644",
+        "https://openalex.org/W2363997565",
+        "https://openalex.org/W203802859",
+        "https://openalex.org/W2018278180",
+        "https://openalex.org/W3124636075",
+        "https://openalex.org/W3132695196",
+        "https://openalex.org/W2975193761",
+        "https://openalex.org/W2331394559"
+      ],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "ERA-EDTA 2017 numbered congress abstract SO024 in NDT supplement 3"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1093/ndt/gfx104",
@@ -41247,6 +40602,8 @@
           "checkedAt": "2026-10-27"
         }
       ],
+      "meeting": null,
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -41258,7 +40615,6 @@
           "ERA-EDTA 2017 numbered congress abstract SO024 in NDT supplement 3"
         ]
       },
-      "openAlexId": "https://openalex.org/W2619672646",
       "id": "abstract-e80165805cf4e9bc",
       "relatedPublications": [
         {
@@ -41274,13 +40630,6 @@
       "sourceCitations": {
         "webOfScience": "NEPHROLOGY DIALYSIS TRANSPLANTATION 32, pp.15-+"
       },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "ERA-EDTA 2017 numbered congress abstract SO024 in NDT supplement 3"
-        ]
-      },
-      "putCode": 231446196,
       "orcidWorkType": "conference-output"
     },
     {
@@ -41486,15 +40835,15 @@
       },
       "webOfScienceId": "WOS:000379484601079",
       "relatedPublications": [],
+      "putCode": 231446383,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HAEMATOLOGICA 101, pp.287-288"
         ]
-      },
-      "putCode": 231446383,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000373357601045",
@@ -41557,15 +40906,15 @@
       },
       "webOfScienceId": "WOS:000373357601045",
       "relatedPublications": [],
+      "putCode": 231446337,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: BONE MARROW TRANSPLANTATION 51, pp.S335-S336"
         ]
-      },
-      "putCode": 231446337,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000383951500031",
@@ -41628,15 +40977,15 @@
       },
       "webOfScienceId": "WOS:000383951500031",
       "relatedPublications": [],
+      "putCode": 231446381,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 87(4), pp.214-214"
         ]
-      },
-      "putCode": 231446381,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000385569800073",
@@ -41699,15 +41048,15 @@
       },
       "webOfScienceId": "WOS:000385569800073",
       "relatedPublications": [],
+      "putCode": 231446327,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TRANSPLANT INTERNATIONAL 29, pp.25-25"
         ]
-      },
-      "putCode": 231446327,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000379484600244",
@@ -41770,15 +41119,15 @@
       },
       "webOfScienceId": "WOS:000379484600244",
       "relatedPublications": [],
+      "putCode": 231446318,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HAEMATOLOGICA 101, pp.112-112"
         ]
-      },
-      "putCode": 231446318,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000383951500064",
@@ -41841,15 +41190,15 @@
       },
       "webOfScienceId": "WOS:000383951500064",
       "relatedPublications": [],
+      "putCode": 231446315,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 87(4), pp.227-227"
         ]
-      },
-      "putCode": 231446315,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000383951500061",
@@ -41912,15 +41261,15 @@
       },
       "webOfScienceId": "WOS:000383951500061",
       "relatedPublications": [],
+      "putCode": 231446313,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HLA 87(4), pp.225-226"
         ]
-      },
-      "putCode": 231446313,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "putCode": 231446389,
@@ -42430,15 +41779,15 @@
       },
       "webOfScienceId": "WOS:000359941902298",
       "relatedPublications": [],
+      "putCode": 231446414,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: BONE MARROW TRANSPLANTATION 49, pp.S513-S513"
         ]
-      },
-      "putCode": 231446414,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000359941901391",
@@ -42501,15 +41850,15 @@
       },
       "webOfScienceId": "WOS:000359941901391",
       "relatedPublications": [],
+      "putCode": 231446412,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: BONE MARROW TRANSPLANTATION 49, pp.S287-S288"
         ]
-      },
-      "putCode": 231446412,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000337546000009",
@@ -42572,28 +41921,35 @@
       },
       "webOfScienceId": "WOS:000337546000009",
       "relatedPublications": [],
+      "putCode": 231446410,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 84(1), pp.8-8"
         ]
-      },
-      "putCode": 231446410,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
+      "putCode": 231446408,
       "title": "Identification of Minor Histocompatibility Antigens Based on the 1000 Genomes Project for Application in Therapeutic Dendritic Cell Vaccination",
       "year": 2014,
       "sortDate": "2014-12-06",
+      "journal": "Blood",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1182/blood.v124.21.2418.2418",
-      "journal": "Blood",
-      "volumeIssuePages": "vol. 124, no. 21, pp. 2418-2418",
-      "meeting": null,
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1182/blood.v124.21.2418.2418",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W2569589420",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W2569589420",
+      "abstract": "Abstract Minor histocompatibility antigens (mHags) are highly immunogenic, HLA-bound polymorphic peptides playing prominent roles in the development of the graft vs host disease (GvHD) as well as the therapeutic graft vs tumor (GvT) effect of allogeneic stem cell transplantation (allo-SCT). To date, a small subset of mHags has been identified as genuinely hematopoietic system-specific. This small number of conceptually GvT-associated mHags are currently being tested in various clinical trials for the feasibility and efficacy of inducing an exclusive GvT effect without GvHD in patients with relapsing haematological malignancies after allo-SCT. Nonetheless, a broader and timely application of mHags as therapeutic tools in allo-SCT, as well as the development of appropriate GvHD prevention strategies still requires more insights that can be acquired through the identification of a much larger set of mHags presented by various HLA molecules in different ethnic populations. Recently, the introduction of genome-wide association (GWAS)-based strategies, despite a number of drawbacks, significantly accelerated the identification of mHags. To develop a strategy that can overcome the drawbacks of these earlier developed strategies, we now integrated our previously developed GWAS methodology [1,2] with the comprehensive genomic databases from the 1000 Genomes Project [3]. We show that the data set of the 1000 Genomes Project is suitable to identify all theoretical possible mHags, hereby enabling us to delineate important yet unknown characteristics of mHags. Furthermore, we demonstrate the actual power of this novel approach by the rapid and unambiguous identification of the HLA-DP4 restricted mHag UTDP4-1, which -despite extensive efforts in the past 15 years- could not be identified using any of the previously developed biochemical, molecular biological or genetic strategies. The 1000 Genomes Project-based identification of mHags thus represents a very rapid, convenient and robust method for the identification of new mHags, that will not only improve the understanding of the yet unknown facets of mHags but may also significantly enlarge the arsenal of targets for immunotherapy in haematological cancers. Spaapen et al., J.Exp.Med. 2008 Nov 24;205(12):2863-72. Oostvogels et al., Leukemia 2013 Mar;27(3):642-9. Abecasis et al., Nature 2012 Nov 1;491(7422):56-65. Disclosures Lokhorst: Celgene: Research Funding; J&J: Research Funding; Genmab: Research Funding. Mutis:Genmab BV: Research Funding; J&J: Research Funding; Celgene: Research Funding.",
       "authors": [
         {
           "name": "Rimke Oostvogels"
@@ -42623,9 +41979,63 @@
       "selfAuthorPositions": [
         "middle"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 124, no. 21, pp. 2418-2418",
       "categories": [],
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "minor histocompatibility antigens",
+        "HLA-bound peptides",
+        "1000 Genomes Project",
+        "genome-wide association study",
+        "allogeneic stem cell transplantation",
+        "graft-versus-host disease",
+        "dendritic cell vaccination",
+        "HLA-DP4",
+        "HLA polymorphism",
+        "hematologic malignancies",
+        "immunotherapy targets",
+        "HLA-peptide binding"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "vaccines and immunoinformatics approaches",
+          "score": 0.510699987411499
+        },
+        {
+          "name": "Immunotherapy and Immune Responses",
+          "score": 0.41040000319480896
+        },
+        {
+          "name": "Hematopoietic Stem Cell Transplantation",
+          "score": 0.039900001138448715
+        }
+      ],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W1993381802",
+        "https://openalex.org/W2370661437",
+        "https://openalex.org/W1864400744",
+        "https://openalex.org/W2736520836",
+        "https://openalex.org/W2381567441",
+        "https://openalex.org/W3111171798",
+        "https://openalex.org/W2068154221",
+        "https://openalex.org/W1549955232",
+        "https://openalex.org/W183718965",
+        "https://openalex.org/W2464208751"
+      ],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1182/blood.v124.21.2418.2418",
@@ -42647,6 +42057,8 @@
           "checkedAt": "2026-10-27"
         }
       ],
+      "meeting": null,
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -42658,7 +42070,6 @@
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
       },
-      "openAlexId": "https://openalex.org/W2569589420",
       "id": "abstract-e6fcb71a4a38833f",
       "relatedPublications": [
         {
@@ -42674,13 +42085,6 @@
       "sourceCitations": {
         "webOfScience": "BLOOD 124(21)"
       },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
-        ]
-      },
-      "putCode": 231446408,
       "orcidWorkType": "conference-output"
     },
     {
@@ -42744,28 +42148,35 @@
       },
       "webOfScienceId": "WOS:000337546000063",
       "relatedPublications": [],
+      "putCode": 231446409,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 84(1), pp.32-32"
         ]
-      },
-      "putCode": 231446409,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
+      "putCode": 231446405,
       "title": "Matching of MHC Class I Chain-Related Genes a and B Is Associated with Reduced Incidence of Severe Acute Graft-Versus-Host Disease after Unrelated Hematopoietic Stem Cell Transplantation",
       "year": 2014,
       "sortDate": "2014-12-06",
+      "journal": "Blood",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1182/blood.v124.21.664.664",
-      "journal": "Blood",
-      "volumeIssuePages": "vol. 124, no. 21, pp. 664-664",
-      "meeting": "56th Annual Meeting of the American-Society-of-Hematology",
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1182/blood.v124.21.664.664",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W2553981673",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W2553981673",
+      "abstract": "Abstract Background: Graft-versus-host disease (GVHD) is a major cause of mortality after unrelated hematopoietic stem cell transplantations (HSCT). Despite the development of modern immunosuppressive strategies, a nearly perfectly controlled compatibility of the classical HLA genes (HLA-A, -B, -C, -DRB1, -DQB1, and -DPB1) and availability of numerous so-called minor histocompatibility antigens (e.g. HY or HA-1), its incidence remains largely unexplained to date. MIC genes (MHC class I chain-related) - a distinct lineage of MHC class I genes – are promising candidates to explain, at least partially, the incidence of GVHD in HLA-matched transplantations. MICA and MICB are highly polymorphic (100 alleles for MICA and 40 for MICB) and encode functional cell-surface glycoproteins up-regulated by cell stress. They interact with NKG2D, an activating receptor expressed on the surface of cytotoxic αβ CD8+ and γδ T lymphocytes and natural killer cells. MIC genes are already known to have a HLA-independent effect on solid graft outcomes and may play a similar role in HSCT by triggering GVHD. Objective: The objective of the present study was to determine the impact of donor/patient matching at the MICA and MICB loci on the incidence of GVHD in patients undergoing unrelated HSCT. Methods: We retrospectively analyzed a multicenter cohort of 1072 unrelated transplantations performed between 1996 and 2013. All donor-recipient pairs were fully typed at high resolution for HLA-A, -B, -C, -DRB1, -DQB1, and -DPB1 and were matched for ten of ten HLA alleles (HLA 10/10 matched). High resolution genotyping of MICA and MICB was performed by sequenced-based typing in order to define matching grades between donors and patients. The endpoints of the study were acute and chronic GVHD. Apart from HLA-DPB1 matching, statistical models were adjusted for major clinical variables which have been shown to be associated with outcome (patient’s age, patient’s and donor’s sex, patient’s and donor’s serological status for cytomegalovirus, year of transplantation, time to transplantation, transplantation center, source of stem cells, conditioning regimen, GVHD prophylaxis, treatment with anti-thymocyte globulin, disease category and severity at transplantation). Results: Of the 1072 transplantations, 134 (12.5 %) and 380 (35.4 %) were mismatched at the MICA and MICB locus, respectively. Both MICA and MICB mismatches were significantly associated with an increased incidence of severe acute GVHD (grades III-IV) in univariate and multivariate models (multivariate model: HR = 2.32, 95 % CI = 1.84-2.92; p=0.0003 for MICA and HR = 1.49, 95 % CI = 1.24-1.79; p=0.03 for MICB). At day 100 post-HSCT severe acute GVHD incidences in mismatched vs. matched transplantations were 19.62 % vs. 15.08 % and 20.00 % vs. 14.84 % for MICA and MICB, respectively (Figure 1). Chronic GVHD was associated with MICA and MICB mismatches in univariate analysis (HR = 1.55, 95 % CI = 1.27-1.89; p=0.029 for MICA and HR=1.38, 95 % CI = 1.19-1.62; p=0.03 for MICB), but showed only a trend for association in multivariate models. Figure 1 Estimated cumulative incidence curves of grades III–IV acute GVHD according to MICA (panel A) and MICB (panel B) matching status. The solid and dashed lines represent MIC matched and mismatched grafts, respectively. The Fine and Gray model was used with relapse and death considered as competing risks. Figure 1. Estimated cumulative incidence curves of grades III–IV acute GVHD according to MICA (panel A) and MICB (panel B) matching status. The solid and dashed lines represent MIC matched and mismatched grafts, respectively. The Fine and Gray model was used with relapse and death considered as competing risks. Conclusion: To date this is the largest reported MICA and MICB sequence analysis whether in HSCT or solid organ transplantation. Inclusion of MICA and MICB typing in the donor selection process may be a practical clinical strategy for lowering the risks of severe acute GVHD after unrelated HSCT. Disclosures No relevant conflicts of interest to declare.",
       "authors": [
         {
           "name": "Raphael Carapito"
@@ -42903,9 +42314,77 @@
       "selfAuthorPositions": [
         "middle"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 124, no. 21, pp. 664-664",
       "categories": [],
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "mica",
+        "MICB",
+        "acute graft-versus-host disease",
+        "unrelated hematopoietic stem cell transplantation",
+        "donor-recipient matching",
+        "HLA matching",
+        "NKG2D",
+        "chronic graft-versus-host disease",
+        "HLA-DPB1",
+        "minor histocompatibility antigens",
+        "HLA-DQA1",
+        "HLA-DQB1",
+        "HLA-DRA"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Hematopoietic Stem Cell Transplantation",
+          "score": 0.9945999979972839
+        },
+        {
+          "name": "Immune Cell Function and Interaction",
+          "score": 0.002899999963119626
+        },
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.000699999975040555
+        }
+      ],
+      "citedByCount": 3,
+      "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        }
+      ],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W2028593954",
+        "https://openalex.org/W2381567441",
+        "https://openalex.org/W1840653008",
+        "https://openalex.org/W3111171798",
+        "https://openalex.org/W2977793531",
+        "https://openalex.org/W4210539530",
+        "https://openalex.org/W2023967363",
+        "https://openalex.org/W2302449393",
+        "https://openalex.org/W1939527068",
+        "https://openalex.org/W2070684866"
+      ],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1182/blood.v124.21.664.664",
@@ -42927,6 +42406,8 @@
           "checkedAt": "2026-10-27"
         }
       ],
+      "meeting": "56th Annual Meeting of the American-Society-of-Hematology",
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -42938,34 +42419,33 @@
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
       },
-      "openAlexId": "https://openalex.org/W2553981673",
       "id": "abstract-f22caa449a6106ed",
       "relatedPublications": [],
       "webOfScienceId": "WOS:000349233803023",
       "sourceCitations": {
         "webOfScience": "BLOOD 124(21)"
       },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
-        ]
-      },
-      "putCode": 231446405,
       "orcidWorkType": "conference-output"
     },
     {
+      "putCode": 231446398,
       "title": "The PROCARE consortium: Towards an improved allocation strategy for kidney allografts",
       "year": 2014,
       "sortDate": "2014-10-00",
+      "journal": "Transplant Immunology",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1016/j.trim.2014.11.191",
-      "journal": "Transplant Immunology",
-      "volumeIssuePages": "vol. 31, no. 4, pp. 250",
-      "meeting": null,
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1016/j.trim.2014.11.191",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W4248224126",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W4248224126",
+      "abstract": null,
       "authors": [
         {
           "name": "H.G. Otten"
@@ -43079,9 +42559,62 @@
       "selfAuthorPositions": [
         "middle"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 31, no. 4, pp. 250",
       "categories": [],
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "kidney transplantation",
+        "organ allocation",
+        "HLA matching",
+        "HLA antibodies",
+        "non-HLA antibodies",
+        "Fc receptors",
+        "graft survival",
+        "waiting lists",
+        "deceased donor kidney",
+        "donor registration",
+        "computer simulation"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.989300012588501
+        },
+        {
+          "name": "Organ Donation and Transplantation",
+          "score": 0.008700000122189522
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.0012000000569969416
+        }
+      ],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W2975193761",
+        "https://openalex.org/W2789484445",
+        "https://openalex.org/W4200066707",
+        "https://openalex.org/W2373576272",
+        "https://openalex.org/W2424462586",
+        "https://openalex.org/W2314831483",
+        "https://openalex.org/W1531388598",
+        "https://openalex.org/W3032431257",
+        "https://openalex.org/W4391044624",
+        "https://openalex.org/W2017383987"
+      ],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Publisher issue explicitly labels this item Conference abstract"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1016/j.trim.2014.11.191",
@@ -43098,6 +42631,8 @@
           "kind": "cross-check"
         }
       ],
+      "meeting": null,
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -43109,7 +42644,6 @@
           "Publisher issue explicitly labels this item Conference abstract"
         ]
       },
-      "openAlexId": "https://openalex.org/W4248224126",
       "id": "abstract-9da298857f604fa8",
       "relatedPublications": [
         {
@@ -43121,13 +42655,6 @@
           "score": 0.875
         }
       ],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Publisher issue explicitly labels this item Conference abstract"
-        ]
-      },
-      "putCode": 231446398,
       "orcidWorkType": "conference-output"
     },
     {
@@ -43191,15 +42718,15 @@
       },
       "webOfScienceId": "WOS:000342830901163",
       "relatedPublications": [],
+      "putCode": 231446400,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: HAEMATOLOGICA 99, pp.254-254"
         ]
-      },
-      "putCode": 231446400,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000359941900036",
@@ -43262,15 +42789,15 @@
       },
       "webOfScienceId": "WOS:000359941900036",
       "relatedPublications": [],
+      "putCode": 231446399,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: BONE MARROW TRANSPLANTATION 49, pp.S19-S20"
         ]
-      },
-      "putCode": 231446399,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "putCode": 231446394,
@@ -43507,15 +43034,15 @@
       },
       "webOfScienceId": "WOS:000337546000019",
       "relatedPublications": [],
+      "putCode": 231446391,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 84(1), pp.12-12"
         ]
-      },
-      "putCode": 231446391,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000318523600064",
@@ -43578,15 +43105,15 @@
       },
       "webOfScienceId": "WOS:000318523600064",
       "relatedPublications": [],
+      "putCode": 231446475,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.289-290"
         ]
-      },
-      "putCode": 231446475,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host disease and relapse-related mortality in paediatric patients after cord blood transplantation",
@@ -43653,14 +43180,14 @@
       "sourceCitations": {
         "webOfScience": "TISSUE ANTIGENS 81(5), pp.295-296"
       },
+      "putCode": 231446445,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "putCode": 231446445,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host disease and relapse-related mortality in paediatric patients after cord blood transplantation",
@@ -43727,27 +43254,34 @@
       "sourceCitations": {
         "webOfScience": "BONE MARROW TRANSPLANTATION 48, pp.S87-S88"
       },
+      "putCode": 231446451,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "putCode": 231446451,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
+      "putCode": 231446441,
       "title": "Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host-disease and relapse-related mortality in pediatric patients after cord blood transplantation",
       "year": 2013,
       "sortDate": "2013-11-00",
+      "journal": "Human Immunology",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1016/j.humimm.2013.08.061",
-      "journal": "Human Immunology",
-      "volumeIssuePages": "vol. 74, pp. 39",
-      "meeting": "39th Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics (ASHI)",
-      "abstractNumber": "50-OR",
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1016/j.humimm.2013.08.061",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W52139077",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W52139077",
+      "abstract": null,
       "authors": [
         {
           "name": "Kirsten A. Thus"
@@ -43771,9 +43305,62 @@
       "selfAuthorPositions": [
         "last"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 74, pp. 39",
       "categories": [],
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "cord blood transplantation",
+        "HLA mismatch",
+        "graft-versus-host disease",
+        "chronic graft-versus-host disease",
+        "alloreactivity",
+        "HLA class I epitopes",
+        "HLA class II epitopes",
+        "relapse",
+        "pediatric patients",
+        "graft-versus-leukemia effect",
+        "donor selection"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Hematopoietic Stem Cell Transplantation",
+          "score": 0.9970999956130981
+        },
+        {
+          "name": "vaccines and immunoinformatics approaches",
+          "score": 0.0005000000237487257
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.0005000000237487257
+        }
+      ],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W2028593954",
+        "https://openalex.org/W4210539530",
+        "https://openalex.org/W2302449393",
+        "https://openalex.org/W2405493166",
+        "https://openalex.org/W2022175694",
+        "https://openalex.org/W2271013594",
+        "https://openalex.org/W1966634667",
+        "https://openalex.org/W2021935957",
+        "https://openalex.org/W3168611530",
+        "https://openalex.org/W4289975057"
+      ],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1016/j.humimm.2013.08.061",
@@ -43800,6 +43387,8 @@
           "checkedAt": "2026-10-27"
         }
       ],
+      "meeting": "39th Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics (ASHI)",
+      "abstractNumber": "50-OR",
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -43811,20 +43400,12 @@
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
       },
-      "openAlexId": "https://openalex.org/W52139077",
       "id": "abstract-ef9923b4abd2fae0",
       "relatedPublications": [],
       "webOfScienceId": "WOS:000326060900051",
       "sourceCitations": {
         "webOfScience": "HUMAN IMMUNOLOGY 74, pp.39-39"
       },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
-        ]
-      },
-      "putCode": 231446441,
       "orcidWorkType": "conference-output"
     },
     {
@@ -43888,15 +43469,15 @@
       },
       "webOfScienceId": "WOS:000318523600027",
       "relatedPublications": [],
+      "putCode": 231446469,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.273-274"
         ]
-      },
-      "putCode": 231446469,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000319025200201",
@@ -43959,15 +43540,15 @@
       },
       "webOfScienceId": "WOS:000319025200201",
       "relatedPublications": [],
+      "putCode": 231446438,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: BONE MARROW TRANSPLANTATION 48, pp.S88-S88"
         ]
-      },
-      "putCode": 231446438,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000318523600040",
@@ -44030,15 +43611,15 @@
       },
       "webOfScienceId": "WOS:000318523600040",
       "relatedPublications": [],
+      "putCode": 231446440,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.279-279"
         ]
-      },
-      "putCode": 231446440,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000318523600226",
@@ -44101,15 +43682,15 @@
       },
       "webOfScienceId": "WOS:000318523600226",
       "relatedPublications": [],
+      "putCode": 231446433,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.356-356"
         ]
-      },
-      "putCode": 231446433,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000318523600237",
@@ -44172,15 +43753,15 @@
       },
       "webOfScienceId": "WOS:000318523600237",
       "relatedPublications": [],
+      "putCode": 231446429,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.360-360"
         ]
-      },
-      "putCode": 231446429,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000318523600225",
@@ -44243,15 +43824,15 @@
       },
       "webOfScienceId": "WOS:000318523600225",
       "relatedPublications": [],
+      "putCode": 231446427,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.355-356"
         ]
-      },
-      "putCode": 231446427,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "putCode": 231446424,
@@ -44479,15 +44060,15 @@
       },
       "webOfScienceId": "WOS:000319025200369",
       "relatedPublications": [],
+      "putCode": 231446421,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: BONE MARROW TRANSPLANTATION 48, pp.S169-S170"
         ]
-      },
-      "putCode": 231446421,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000303499800115",
@@ -44550,15 +44131,15 @@
       },
       "webOfScienceId": "WOS:000303499800115",
       "relatedPublications": [],
+      "putCode": 231446517,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 79(6), pp.449-450"
         ]
-      },
-      "putCode": 231446517,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000303499800133",
@@ -44621,15 +44202,15 @@
       },
       "webOfScienceId": "WOS:000303499800133",
       "relatedPublications": [],
+      "putCode": 231446511,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 79(6), pp.457-457"
         ]
-      },
-      "putCode": 231446511,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000306994301378",
@@ -44692,15 +44273,15 @@
       },
       "webOfScienceId": "WOS:000306994301378",
       "relatedPublications": [],
+      "putCode": 231446504,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: GASTROENTEROLOGY 142(5), pp.S273-S273"
         ]
-      },
-      "putCode": 231446504,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000306994301393",
@@ -44763,28 +44344,35 @@
       },
       "webOfScienceId": "WOS:000306994301393",
       "relatedPublications": [],
+      "putCode": 231446494,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: GASTROENTEROLOGY 142(5), pp.S277-S277"
         ]
-      },
-      "putCode": 231446494,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
+      "putCode": 231446484,
       "title": "Treatment of Steroid Resistant Grade II to IV Acute Gvhd by Infusion of Mesenchymal Stroma Cells Expanded with Human Plasma and Platelet Lysate - a Phase I/II Study",
       "year": 2012,
       "sortDate": "2012-11-16",
+      "journal": "Blood",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1182/blood.v120.21.736.736",
-      "journal": "Blood",
-      "volumeIssuePages": "vol. 120, no. 21, pp. 736-736",
-      "meeting": "54th Annual Meeting and Exposition of the American-Society-of-Hematology (ASH)",
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1182/blood.v120.21.736.736",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W4246078988",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W4246078988",
+      "abstract": "Abstract Abstract 736 Introduction Despite multiple improvements in the last decade in the field of HSCT, acute graft versus host disease (aGVHD) remains a life-threatening complication and reduces substantially efficacy of HSCT. In particular, the outcome of patients with severe steroid-resistant aGVHD is very poor. Therefore, it remains important to search for new therapeutic strategies for the treatment of aGVHD. Objective Feasibility of the generation and efficacy of mesenchymal stroma cells (MSCs) generated with fetal calf serum (FCS) has been suggested recently. However, FCS is a putative source of prions and virus transmission. Therefore, the feasibility of the generation of MSCs expanded with human plasma and platelet lysate (hPPL) was tested as well as the feasibility and safety of the application of hPPL-MSCs in patients with steroid-refractory aGVHD. Furthermore multiple immunological changes after infusion of MSC were characterized, in vitro. However, truly active mechanisms in human are poorly understood as well as whether infusion of MSC selectively impairs GVHD-inducing immune cells or also anti-virus and anti-leukemia reactive T-cells. Therefore, phenotypical and functional changes in immunological cell types and cytokine levels were investigated. Method In an open-label, non-randomized prospective phase I/II study MSCs were extracted from the bone marrow of healthy volunteers, expanded with hPPL, and stored. Patients with steroid-refractory aGVHD grade II to IV were treated with hPPL-MSC. 50 patients were included and received up to four infusions. Response rate, transplantation-related deaths, and other adverse events were assessed for up to 12 months after the last infusion of the cells. In addition, a comprehensive phenotypical and functional analysis was performed with PBMCs and serum isolated from all patients before, during, and after infusion of MSC. Results Between January 2009 and July 2012, 50 patients were included, 2 patients dropped out, 5 patients are so far incompletely documented. Thus 43 patients were so far available for analysis, 6 children and 37 adults. Median age was 51,5 years (1.3–65.9). Organs involved in aGVHD were the skin (56%), the gastro-intestinal tract (86%) and the liver (33%). Overall grade was II for 11 (26%), III for 28 (65%), and IV for 3 (7%) patients. Mean number of infusion were 3 (1–4). No severe side effects were observed. Median follow-up was 4.06 months (range 0.43–12). Complete overall response was observed in 24 patients (56%) after a median of 53 days (range 3–116 days). The overall survival was significantly better in responders when compared to non-responders (p <0.001). Most patients who relapsed with GVHD of the gut were again sensitive to steroids, except one patient who then responded well to a second cycle of MSCs. Immunological monitoring suggests that anti-viral and anti-leukemia reactive T-cells are well preserved in all patients who responded to MSC treatment. In addition, we identified biomarkers which associate even 2 weeks after MSC infusion with a complete resolution of GVHD, which occurred usually after months. Conclusion Generation and infusion of hPPL-MSCs in steroid-resistant aGVHD grade II- IV is feasible, safe and appears to be effective. In addition, also patients who initially responded to hPPL-MSCs but develop later a relapse of aGVHD during tapering or cessation of immunosuppressive drugs become again sensitive to the treatment with steroids. Infusion of MSC did not impair anti-virus and anti-leukemia reactive T-cells. Identified biomarkers predict very early a usually late clinical resolution of GVHD, thus might be useful to early guide clinical decisions. Disclosures: No relevant conflicts of interest to declare.",
       "authors": [
         {
           "name": "Liane CJ te Boome"
@@ -44829,9 +44417,61 @@
       "selfAuthorPositions": [
         "middle"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 120, no. 21, pp. 736-736",
       "categories": [],
+      "primaryCategoryLabel": "Outcome",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "steroid-refractory acute graft-versus-host disease",
+        "mesenchymal stem cells",
+        "cell expansion",
+        "bone marrow-derived cells",
+        "transplantation-related mortality",
+        "cytokine levels",
+        "T cell subsets",
+        "natural killer cells",
+        "regulatory T cells",
+        "CD34+ cells"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Hematopoietic Stem Cell Transplantation",
+          "score": 0.9901999831199646
+        },
+        {
+          "name": "Mesenchymal stem cell research",
+          "score": 0.009200000204145908
+        },
+        {
+          "name": "Periodontal Regeneration and Treatments",
+          "score": 0
+        }
+      ],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W1517851265",
+        "https://openalex.org/W2842196417",
+        "https://openalex.org/W4376112392",
+        "https://openalex.org/W2610282605",
+        "https://openalex.org/W2518015412",
+        "https://openalex.org/W2019197528",
+        "https://openalex.org/W1550572995",
+        "https://openalex.org/W2611479210",
+        "https://openalex.org/W3027934584",
+        "https://openalex.org/W4323668035"
+      ],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1182/blood.v120.21.736.736",
@@ -44853,6 +44493,8 @@
           "checkedAt": "2026-10-27"
         }
       ],
+      "meeting": "54th Annual Meeting and Exposition of the American-Society-of-Hematology (ASH)",
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -44864,7 +44506,6 @@
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
       },
-      "openAlexId": "https://openalex.org/W4246078988",
       "id": "abstract-9d068773938a82f3",
       "relatedPublications": [
         {
@@ -44880,13 +44521,6 @@
       "sourceCitations": {
         "webOfScience": "BLOOD 120(21)"
       },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
-        ]
-      },
-      "putCode": 231446484,
       "orcidWorkType": "conference-output"
     },
     {
@@ -44950,15 +44584,15 @@
       },
       "webOfScienceId": "WOS:000289249000032",
       "relatedPublications": [],
+      "putCode": 231446534,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 77(5), pp.382-382"
         ]
-      },
-      "putCode": 231446534,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "putCode": 231446525,
@@ -45172,15 +44806,15 @@
       },
       "webOfScienceId": "WOS:000277611300111",
       "relatedPublications": [],
+      "putCode": 231446542,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: BONE MARROW TRANSPLANTATION 45, pp.S45-S46"
         ]
-      },
-      "putCode": 231446542,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000276659100061",
@@ -45243,15 +44877,15 @@
       },
       "webOfScienceId": "WOS:000276659100061",
       "relatedPublications": [],
+      "putCode": 231446550,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 75(5), pp.490-490"
         ]
-      },
-      "putCode": 231446550,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "title": "High H-Y antibody responses in secondary recurrent miscarriage patients correlate with low male birth in surviving pregnancies",
@@ -45324,14 +44958,14 @@
       "collectionDoi": "10.1093/humrep/de.25.s1.117",
       "id": "abstract-61ca26cd62e563f2",
       "relatedPublications": [],
+      "putCode": 231446729,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "putCode": 231446729,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000266032200250",
@@ -45394,28 +45028,35 @@
       },
       "webOfScienceId": "WOS:000266032200250",
       "relatedPublications": [],
+      "putCode": 231446589,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 73(5), pp.483-483"
         ]
-      },
-      "putCode": 231446589,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
+      "putCode": 231446580,
       "title": "Poor-Risk Acute Leukemia Patients with An EBMT Low-Risk Score and An 8/8 Matched Unrelated Donor Show Excellent Survival After Hematopoietic Stem Cell Transplantation.",
       "year": 2009,
       "sortDate": "2009-11-20",
+      "journal": "Blood",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": "10.1182/blood.v114.22.1196.1196",
-      "journal": "Blood",
-      "volumeIssuePages": "vol. 114, no. 22, pp. 1196-1196",
-      "meeting": "51st Annual Meeting of the American-Society-of-Hematology",
-      "abstractNumber": null,
+      "pmid": null,
+      "pmcid": null,
       "url": "https://doi.org/10.1182/blood.v114.22.1196.1196",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W2979622763",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W2979622763",
+      "abstract": "Abstract Abstract 1196 Poster Board I-218 Introduction: Allogeneic hematopoietic stem cell transplantation (alloSCT) from volunteer unrelated donors (URD) may be associated with a higher non-relapse mortality (NRM) and worse outcome as compared to alloSCT using HLA-identical sibling donors. However, many parameters next to donor type define NRM. The impact on outcome of allele-matching for HLA-A, -B, -C and -DRB1 between donor and recipient has clearly been demonstrated. The prognostic impact of the EBMT risk score, that takes into account age, stage of disease, time from diagnosis to transplantation, donor type and donor-recipient gender combination, has recently been validated in a variety of hematological malignancies including acute leukemia and myelodysplastic syndrome (MDS). We evaluated the relative prognostic value of high-resolution HLA matching and the EBMT risk score for patients with poor-risk acute leukemia and MDS who received an URD transplant. Patients and methods: Between 1987 and 2006, 327 patients (≥16y) with poor-risk acute leukemia and MDS underwent URD alloSCT in the Netherlands. Patients were in 1st complete remission (CR1, n=129), 2nd CR (CR2, n=91), beyond CR2 or not in remission (n=107). The leukemia-risk was considered to be poor if patients had adverse cytogenetics or were not in CR1. The majority of the grafts was T-cell depleted (94%). High-resolution typing of HLA-A, -B, -C, and -DRB1 alleles was available for analysis in 270 donor-recipient pairs and had in part been performed retrospectively. Results: We evaluated the impact of high-resolution matching for HLA-A, -B, -C and -DRB1 on progression free survival (PFS) and overall survival (OS). Patients who were fully matched (8/8) with their donors (n=170) hadsignificantly superior PFS (40+/-4% vs 26+/-5%, hazard ratio (HR)=0.68; 95%CI 0.50–0.92, p=0.01) and OS (39+/-4% vs 29+/-5%, HR=0.70; 95%CI 0.51-0.96, p=0.03), compared to patients with mismatched (≤7/8) donors (n=100). Superior OS in the 8/8 group appeared to be due to a lower NRM (24+/-4% vs 39+/-5%, HR=0.54; 95%CI 0.35-0.85, p=0.008), while the relapse mortality rate was identical in both groups (37+/-4% vs 32+/-5%). Patients with EBMT risk scores of 1-2 (n=71), 3 (n=77), 4 (n=76) and 5-7 (n=103) had a predicted 5 year OS of 52%, 41% (HR=1.57; 95%CI 0.98-2.52), 29% (HR=2.07; 95%CI 1.32-3.26) and 19% (HR=2.69; 95%CI 1.76-4.11), respectively (p 4) had a dismal outcome, despite allele-matching. These results emphasize the importance of incorporating age, disease stage, donor-recipient gender combination and time interval from diagnosis to transplantation (EBMT risk score parameters) as well as high-resolution HLA-typing in the risk assessment prior to URD alloSCT. As excellent OS was noted in well matched EBMT low-risk patients, our data underscore the importance of an immediate search for an unrelated donor in poor-risk leukemia patients in CR1 below the age of 40, who should then receive their alloSCT as early consolidation therapy following induction chemotherapy. Disclosures: No relevant conflicts of interest to declare.",
       "authors": [
         {
           "name": "Tom Lodewyck"
@@ -45466,9 +45107,65 @@
       "selfAuthorPositions": [
         "middle"
       ],
-      "abstract": null,
+      "volumeIssuePages": "vol. 114, no. 22, pp. 1196-1196",
       "categories": [],
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "unrelated donor transplantation",
+        "allogeneic hematopoietic stem cell transplantation",
+        "HLA matching",
+        "EBMT risk score",
+        "myelodysplastic syndrome",
+        "progression-free survival",
+        "overall survival",
+        "non-relapse mortality",
+        "high-resolution HLA typing",
+        "donor-recipient matching",
+        "adverse cytogenetics",
+        "complete remission",
+        "T cell depletion",
+        "donor type"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Hematopoietic Stem Cell Transplantation",
+          "score": 0.9984999895095825
+        },
+        {
+          "name": "Acute Myeloid Leukemia Research",
+          "score": 0.0003000000142492354
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.00009999999747378752
+        }
+      ],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W2357767897",
+        "https://openalex.org/W1162258005",
+        "https://openalex.org/W2365804799",
+        "https://openalex.org/W2605482055",
+        "https://openalex.org/W2001525647",
+        "https://openalex.org/W4230253767",
+        "https://openalex.org/W2225284550",
+        "https://openalex.org/W3030786829",
+        "https://openalex.org/W583668790",
+        "https://openalex.org/W2388494045"
+      ],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
+        ]
+      },
       "sources": [
         {
           "url": "https://doi.org/10.1182/blood.v114.22.1196.1196",
@@ -45490,6 +45187,8 @@
           "checkedAt": "2026-10-27"
         }
       ],
+      "meeting": "51st Annual Meeting of the American-Society-of-Hematology",
+      "abstractNumber": null,
       "verification": {
         "status": "verified",
         "checkedAt": "2026-10-27",
@@ -45501,20 +45200,12 @@
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
       },
-      "openAlexId": "https://openalex.org/W2979622763",
       "id": "abstract-2e9d4050079fe570",
       "relatedPublications": [],
       "webOfScienceId": "WOS:000272725801376",
       "sourceCitations": {
         "webOfScience": "BLOOD 114(22), pp.491-492"
       },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
-        ]
-      },
-      "putCode": 231446580,
       "orcidWorkType": "conference-output"
     },
     {
@@ -45578,15 +45269,15 @@
       },
       "webOfScienceId": "WOS:000266032200008",
       "relatedPublications": [],
+      "putCode": 231446570,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 73(5), pp.387-387"
         ]
-      },
-      "putCode": 231446570,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000258444500050",
@@ -45649,15 +45340,15 @@
       },
       "webOfScienceId": "WOS:000258444500050",
       "relatedPublications": [],
+      "putCode": 231446637,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 72(3), pp.247-248"
         ]
-      },
-      "putCode": 231446637,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000258444500051",
@@ -45720,15 +45411,15 @@
       },
       "webOfScienceId": "WOS:000258444500051",
       "relatedPublications": [],
+      "putCode": 231446632,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 72(3), pp.248-248"
         ]
-      },
-      "putCode": 231446632,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000245985000006",
@@ -45791,15 +45482,15 @@
       },
       "webOfScienceId": "WOS:000245985000006",
       "relatedPublications": [],
+      "putCode": 231446651,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 69(5), pp.374-375"
         ]
-      },
-      "putCode": 231446651,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000233542700564",
@@ -45862,15 +45553,15 @@
       },
       "webOfScienceId": "WOS:000233542700564",
       "relatedPublications": [],
+      "putCode": 231446668,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 66(5), pp.549-549"
         ]
-      },
-      "putCode": 231446668,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000233542700565",
@@ -45933,15 +45624,15 @@
       },
       "webOfScienceId": "WOS:000233542700565",
       "relatedPublications": [],
+      "putCode": 231446657,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 66(5), pp.549-550"
         ]
-      },
-      "putCode": 231446657,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000183208800043",
@@ -46004,15 +45695,15 @@
       },
       "webOfScienceId": "WOS:000183208800043",
       "relatedPublications": [],
+      "putCode": 231446675,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: GENES AND IMMUNITY 4, pp.S11-S11"
         ]
-      },
-      "putCode": 231446675,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000176311300116",
@@ -46075,15 +45766,15 @@
       },
       "webOfScienceId": "WOS:000176311300116",
       "relatedPublications": [],
+      "putCode": 231446697,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 59, pp.38-38"
         ]
-      },
-      "putCode": 231446697,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000176311300403",
@@ -46146,15 +45837,15 @@
       },
       "webOfScienceId": "WOS:000176311300403",
       "relatedPublications": [],
+      "putCode": 231446692,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 59, pp.124-124"
         ]
-      },
-      "putCode": 231446692,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000176311300017",
@@ -46217,15 +45908,15 @@
       },
       "webOfScienceId": "WOS:000176311300017",
       "relatedPublications": [],
+      "putCode": 231446683,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: TISSUE ANTIGENS 59, pp.5-5"
         ]
-      },
-      "putCode": 231446683,
-      "orcidWorkType": "conference-output"
+      }
     },
     {
       "id": "abstract-wos-000172134103096",
@@ -46288,15 +45979,15 @@
       },
       "webOfScienceId": "WOS:000172134103096",
       "relatedPublications": [],
+      "putCode": 231446703,
+      "orcidWorkType": "conference-output",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
           "Bibliographic citation: BLOOD 98(11), pp.740A-740A"
         ]
-      },
-      "putCode": 231446703,
-      "orcidWorkType": "conference-output"
+      }
     }
   ],
   "abstractReviewCount": 2,

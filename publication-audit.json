@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-27T22:36:26.530Z",
+  "generatedAt": "2026-10-27T23:11:57.512Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "policy": "Verified conference abstracts are separate from scientific publications. Unresolved candidates are recorded for review.",
   "counts": {
-    "scientificPublications": 135,
+    "scientificPublications": 129,
     "conferenceAbstracts": 126,
     "abstractsNeedingReview": 2
   },
