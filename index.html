@@ -47,7 +47,7 @@
     }
 
     a {
-      color: inherit;
+      color: var(--umcu-orange);
     }
 
     .primary-nav a:hover,
@@ -118,7 +118,7 @@
     }
 
     .primary-nav a {
-      color: var(--muted);
+      color: var(--umcu-orange);
       text-decoration: none;
       font-size: 0.92rem;
       font-weight: 700;
@@ -1542,7 +1542,7 @@
 
     function formatAuthors(authors) {
       if (!Array.isArray(authors) || authors.length === 0) return "";
-      return authors.map(escapeHtml).join(", ");
+      return authors\n        .map((author) => typeof author === "string" ? author : author?.name || "")\n        .filter(Boolean)\n        .map(escapeHtml)\n        .join(", ");
     }
 
     function publicationUrl(publication) {
@@ -1685,7 +1685,7 @@
           : [];
 
         statusElement.innerHTML =
-          `<strong>${state.publications.length} ORCID works loaded.</strong> ` +
+          `<strong>${state.publications.length} publications loaded.</strong> ` +
           `Dataset last refreshed ${escapeHtml(dataset.generatedAt || "at an unknown time")}.`;
         statusElement.classList.remove("error");
 
