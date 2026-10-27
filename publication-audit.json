@@ -3,7 +3,7 @@
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "policy": "Verified conference abstracts are separate from scientific publications. Unresolved candidates are recorded for review.",
   "counts": {
-    "scientificPublications": 129,
+    "scientificPublications": 134,
     "conferenceAbstracts": 126,
     "abstractsNeedingReview": 2
   },
@@ -492,7 +492,7 @@
       "year": 2025,
       "journal": "JOURNAL OF REPRODUCTIVE IMMUNOLOGY",
       "volumeIssuePages": "JOURNAL OF REPRODUCTIVE IMMUNOLOGY 167",
-      "doi": null,
+      "doi": "10.1016/j.jri.2024.104347",
       "meeting": "15th World Congress of the International-Society-for-Immunology-of-Reproduction (ISIR)",
       "abstractNumber": null,
       "orcidPutCode": 231445812,
@@ -522,6 +522,11 @@
           "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
           "kind": "claimed-researcher-profile-with-ORCID",
           "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1016/j.jri.2024.104347",
+          "label": "Publisher-deposited Crossref metadata",
+          "note": "Individual DOI matches the exact title. Congress classification established by the claimed WoS Meeting Abstract record."
         }
       ]
     },

@@ -29,7 +29,7 @@
     "conferenceAbstractNeedsReview": 1,
     "erratumOrRetraction": 0
   },
-  "count": 129,
+  "count": 134,
   "publications": [
     {
       "putCode": 227329515,
@@ -21191,6 +21191,406 @@
       }
     },
     {
+      "putCode": 225654280,
+      "title": "Completion of HLA protein sequences by automated homology-based nearest-neighbor extrapolation of HLA database sequences",
+      "year": 2016,
+      "sortDate": "2016-11-00",
+      "journal": "Human Immunology",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.1016/j.humimm.2016.04.005",
+      "pmid": "27060031",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.humimm.2016.04.005",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": "https://dspace.library.uu.nl/handle/1874/346561",
+      "openAlexId": "https://openalex.org/W2324497054",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W2324497054",
+      "abstract": "The IMGT/HLA database contains every publicly available HLA sequence. However, most of these HLA protein sequences are restricted to the alpha-1/alpha-2 domain for HLA class-I and alpha-1/beta-1 domain for HLA class-II. Nevertheless, also polymorphism outside these domains may play a role in alloreactivity after transplantation. Several computational algorithms that aim for predicting alloreactivity after transplantation, HLAMatchmaker and the PIRCHE algorithm, require a major or the whole part of the HLA protein sequence as input for their prediction. In this study we describe an automated homology-based nearest-neighbor method to extrapolate incomplete HLA protein sequences. To get insight in the reliability of our extrapolation method, we performed a 10-fold cross-validation. The majority of the amino acid positions of the individual HLA class-I and -II proteins were correctly predicted. Eplets as defined by HLAMatchmaker were located both at correctly predicted as well as at lower reliably predicted amino acid positions. Moreover, six out of seven completely sequenced HLA alleles with previously unknown exons sequences were in agreement with the extrapolated amino acid sequences. In conclusion, incomplete HLA sequences can be completed by a homology-based nearest-neighbor principle. Since this method is automated, future submitted incomplete HLA sequences can easily be extrapolated.",
+      "authors": [
+        {
+          "name": "Kirsten Geneugelijk",
+          "orcid": "https://orcid.org/0000-0002-1689-8383",
+          "position": "first",
+          "corresponding": true,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Matthias Niemann",
+          "orcid": "https://orcid.org/0000-0002-3514-9812",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": []
+        },
+        {
+          "name": "Talitha A. de Hoop",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "last",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        }
+      ],
+      "selfAuthorPositions": [
+        "last"
+      ],
+      "volumeIssuePages": "vol. 77, no. 11, pp. 1030-1036",
+      "categories": [
+        "matching",
+        "outcome",
+        "diagnostics"
+      ],
+      "primaryCategoryLabel": "Epitope matching",
+      "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [
+        "Humans",
+        "HLA Antigens",
+        "Histocompatibility Testing",
+        "Organ Transplantation",
+        "Cluster Analysis",
+        "Reproducibility of Results",
+        "Sequence Homology, Nucleic Acid",
+        "Databases, Genetic",
+        "Automation, Laboratory",
+        "High-Throughput Nucleotide Sequencing"
+      ],
+      "keywords": [
+        "nearest neighbor algorithm",
+        "HLA class I",
+        "HLA class II",
+        "eplets",
+        "exon sequences",
+        "IMGT/HLA Database"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "vaccines and immunoinformatics approaches",
+          "score": 0.9330999851226807
+        },
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.023000000044703484
+        },
+        {
+          "name": "Genomics and Phylogenetic Studies",
+          "score": 0.012799999676644802
+        }
+      ],
+      "citedByCount": 11,
+      "countsByYear": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 2
+        }
+      ],
+      "isOpenAccess": true,
+      "openAccessStatus": "green",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W1529892761",
+        "https://openalex.org/W1980959159",
+        "https://openalex.org/W2027345511",
+        "https://openalex.org/W2118290743",
+        "https://openalex.org/W2735482459",
+        "https://openalex.org/W2011602722",
+        "https://openalex.org/W217748083",
+        "https://openalex.org/W2010884366",
+        "https://openalex.org/W2069969703",
+        "https://openalex.org/W2051002350"
+      ],
+      "abstractClassification": {
+        "decision": "include",
+        "confidence": "no-signal",
+        "reasons": []
+      }
+    },
+    {
+      "putCode": 225654282,
+      "title": "Immunogenicity of Anti-HLA Antibodies in Pancreas and Islet Transplantation",
+      "year": 2016,
+      "sortDate": "2016-11-00",
+      "journal": "Cell Transplantation",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.3727/096368916x691673",
+      "pmid": "27196533",
+      "pmcid": null,
+      "url": "https://doi.org/10.3727/096368916x691673",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": "https://doi.org/10.3727/096368916x691673",
+      "openAlexId": "https://openalex.org/W2396644448",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W2396644448",
+      "abstract": "The aim of the current study was to characterize the anti-HLA antibodies before and after pancreatic islet or pancreas transplantation. We assessed the risk of anti-donor-specific antibody (DSA) sensitization in a single-center, retrospective clinical study at Geneva University Hospital. Data regarding clinical characteristics, graft outcome, HLA mismatch, donor HLA immunogenicity, and anti-HLA antibody characteristics were collected. Between January 2008 and July 2014, 18 patients received islet transplants, and 26 patients received a pancreas transplant. Eleven out of 18 patients (61.1%) in the islet group and 12 out of 26 patients (46.2%) in the pancreas group had anti-HLA antibodies. Six patients (33.3%) developed DSAs against HLA of the islets, and 10 patients (38.4%) developed DSAs against HLA of the pancreas. Most of the DSAs were at a low level. Several parameters such as gender, number of times cells were transplanted, HLA mismatch, eplet mismatch and PIRCHE-II numbers, rejection, and infection were analyzed. Only the number of PIRCHE-II was associated with the development of anti-HLA class II de novo DSAs. Overall, the development of de novo DSAs did not influence graft survival as estimated by insulin independence. Our results indicated that pretransplant DSAs at low levels do not restrict islet or pancreas transplantation [especially islet transplantation (27.8% vs. 15.4.%)]. De novo DSAs do occur at a similar rate in both pancreas and islet transplant recipients (mainly of class II), and the immunogenicity of donor HLA is a parameter that should be taken into consideration. When combined with an immunosuppressive regimen and close follow-up, development of low levels of DSAs was not found to result in reduced graft survival or graft function in the current study.",
+      "authors": [
+        {
+          "name": "Benjamin Chaigne",
+          "orcid": "https://orcid.org/0000-0001-5448-7860",
+          "position": "first",
+          "corresponding": false,
+          "institutions": [
+            "University Hospital of Geneva"
+          ]
+        },
+        {
+          "name": "Kirsten Geneugelijk",
+          "orcid": "https://orcid.org/0000-0002-1689-8383",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Benoît Bédat",
+          "orcid": "https://orcid.org/0000-0002-3758-7867",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Hospital of Geneva"
+          ]
+        },
+        {
+          "name": "Mohamed Alibashe Ahmed",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Hospital of Geneva"
+          ]
+        },
+        {
+          "name": "Gideon Hönger",
+          "orcid": "https://orcid.org/0000-0003-1661-2661",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Hospital of Basel"
+          ]
+        },
+        {
+          "name": "Sophie de Seigneux",
+          "orcid": "https://orcid.org/0000-0002-4243-366X",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University of Geneva",
+            "University Hospital of Geneva"
+          ]
+        },
+        {
+          "name": "Sandrine Demuylder-Mischler",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Hospital of Geneva"
+          ]
+        },
+        {
+          "name": "Thierry Berney",
+          "orcid": "https://orcid.org/0000-0002-4230-9378",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Hospital of Geneva"
+          ]
+        },
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Sylvie Ferrari‐Lacraz",
+          "orcid": "https://orcid.org/0000-0002-2183-3349",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Hospital of Geneva"
+          ]
+        },
+        {
+          "name": "Jean Villard",
+          "orcid": "https://orcid.org/0000-0003-2667-7506",
+          "position": "last",
+          "corresponding": true,
+          "institutions": [
+            "University Hospital of Geneva"
+          ]
+        }
+      ],
+      "selfAuthorPositions": [
+        "middle"
+      ],
+      "volumeIssuePages": "vol. 25, no. 11, pp. 2041-2050",
+      "categories": [
+        "matching",
+        "outcome",
+        "diagnostics"
+      ],
+      "primaryCategoryLabel": "Epitope matching",
+      "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [
+        "Humans",
+        "Immunosuppressive Agents",
+        "Isoantibodies",
+        "HLA Antigens",
+        "Epitopes",
+        "Histocompatibility Testing",
+        "Pancreas Transplantation",
+        "Islets of Langerhans Transplantation",
+        "Risk Factors",
+        "Retrospective Studies",
+        "Graft Survival",
+        "Adolescent",
+        "Adult",
+        "Middle Aged",
+        "Female",
+        "Male",
+        "Young Adult",
+        "Glycated Hemoglobin"
+      ],
+      "keywords": [
+        "HLA antibodies",
+        "donor-specific antibodies",
+        "islet transplantation",
+        "pancreas transplantation",
+        "HLA mismatch",
+        "HLA class II",
+        "graft survival",
+        "insulin independence",
+        "graft rejection",
+        "eplet mismatch"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.48410001397132874
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.28610000014305115
+        },
+        {
+          "name": "Diabetes and associated disorders",
+          "score": 0.08730000257492065
+        }
+      ],
+      "citedByCount": 45,
+      "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        }
+      ],
+      "isOpenAccess": true,
+      "openAccessStatus": "bronze",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W2230279975",
+        "https://openalex.org/W2097100676",
+        "https://openalex.org/W2326274414",
+        "https://openalex.org/W1990822151",
+        "https://openalex.org/W2306687011",
+        "https://openalex.org/W3130427505",
+        "https://openalex.org/W4290311647",
+        "https://openalex.org/W2315116515",
+        "https://openalex.org/W2398759423",
+        "https://openalex.org/W2402111696"
+      ],
+      "abstractClassification": {
+        "decision": "include",
+        "confidence": "no-signal",
+        "reasons": []
+      }
+    },
+    {
       "putCode": 189229202,
       "title": "Matching for the nonconventional MHC-I MICA gene significantly reduces the incidence of acute and chronic GVHD",
       "year": 2016,
@@ -23101,6 +23501,217 @@
         "https://openalex.org/W4389671191",
         "https://openalex.org/W4247453431",
         "https://openalex.org/W2004448416"
+      ],
+      "abstractClassification": {
+        "decision": "include",
+        "confidence": "no-signal",
+        "reasons": []
+      }
+    },
+    {
+      "putCode": 225654277,
+      "title": "Predicted Indirectly Recognizable HLA Epitopes Presented by HLA-DRB1 Are Related to HLA Antibody Formation During Pregnancy",
+      "year": 2015,
+      "sortDate": "2015-12-00",
+      "journal": "American Journal of Transplantation",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.1111/ajt.13508",
+      "pmid": "26512793",
+      "pmcid": null,
+      "url": "https://doi.org/10.1111/ajt.13508",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": "https://doi.org/10.1111/ajt.13508",
+      "openAlexId": "https://openalex.org/W1881788246",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W1881788246",
+      "abstract": "Pregnancy can prime maternal immune responses against inherited paternal HLA of the fetus, leading to the production of child-specific HLA antibodies. We previously demonstrated that donor-specific HLA antibody formation after kidney transplantation is associated with donor-derived HLA epitopes presented by recipient HLA class II (predicted indirectly recognizable HLA epitopes presented by HLA class II [PIRCHE-II]). In the present study, we evaluated the role of PIRCHE-II in child-specific HLA antibody formation during pregnancy. A total of 229 mother-child pairs were HLA typed. For all mismatched HLA class I molecules of the child, we subsequently predicted the number of HLA epitopes that could be presented by maternal HLA class II molecules. Child-specific antigens were classified as either immunogenic or nonimmunogenic HLA based on the presence of specific antibodies and correlated to PIRCHE-II numbers. Immunogenic HLA contained higher PIRCHE-II numbers than nonimmunogenic HLA. Moreover, the probability of antibody production during pregnancy increased with the number of PIRCHE-II. In conclusion, our data suggest that the number of PIRCHE-II is related to the formation of child-specific HLA antibodies during pregnancy. Present confirmation of the role of PIRCHE-II in antibody formation outside the transplantation setting suggests the PIRCHE-II concept is universal.",
+      "authors": [
+        {
+          "name": "Kirsten Geneugelijk",
+          "orcid": "https://orcid.org/0000-0002-1689-8383",
+          "position": "first",
+          "corresponding": true,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Gideon Hönger",
+          "orcid": "https://orcid.org/0000-0003-1661-2661",
+          "position": "middle",
+          "corresponding": true,
+          "institutions": [
+            "University Hospital of Basel"
+          ]
+        },
+        {
+          "name": "Hanneke W. M. van Deutekom",
+          "orcid": "https://orcid.org/0000-0002-2429-1098",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Utrecht University"
+          ]
+        },
+        {
+          "name": "Kirsten Anne Thus",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Can Keşmir",
+          "orcid": "https://orcid.org/0000-0002-8756-1171",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Utrecht University"
+          ]
+        },
+        {
+          "name": "Irène Hösli",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Hospital of Basel"
+          ]
+        },
+        {
+          "name": "Stefan Schaub",
+          "orcid": "https://orcid.org/0000-0002-9170-1341",
+          "position": "middle",
+          "corresponding": true,
+          "institutions": [
+            "University Hospital of Basel"
+          ]
+        },
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "last",
+          "corresponding": true,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        }
+      ],
+      "selfAuthorPositions": [
+        "last",
+        "corresponding"
+      ],
+      "volumeIssuePages": "vol. 15, no. 12, pp. 3112-3122",
+      "categories": [
+        "matching",
+        "outcome",
+        "diagnostics"
+      ],
+      "primaryCategoryLabel": "Epitope matching",
+      "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [
+        "Humans",
+        "Isoantibodies",
+        "Epitopes",
+        "Histocompatibility Testing",
+        "Prognosis",
+        "Cohort Studies",
+        "Follow-Up Studies",
+        "Antibody Formation",
+        "Pregnancy",
+        "Child",
+        "Tissue Donors",
+        "Female",
+        "HLA-DRB1 Chains"
+      ],
+      "keywords": [
+        "HLA antibodies",
+        "pregnancy",
+        "HLA-DRB1",
+        "HLA class II epitopes",
+        "HLA class I",
+        "alloantibody formation"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Reproductive System and Pregnancy",
+          "score": 0.5112000107765198
+        },
+        {
+          "name": "vaccines and immunoinformatics approaches",
+          "score": 0.39649999141693115
+        },
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.07090000063180923
+        }
+      ],
+      "citedByCount": 53,
+      "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        }
+      ],
+      "isOpenAccess": true,
+      "openAccessStatus": "hybrid",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W203802859",
+        "https://openalex.org/W2408599910",
+        "https://openalex.org/W4241627343",
+        "https://openalex.org/W1966634667",
+        "https://openalex.org/W1005959667",
+        "https://openalex.org/W2405493166",
+        "https://openalex.org/W2271013594",
+        "https://openalex.org/W4289975057",
+        "https://openalex.org/W2011936762",
+        "https://openalex.org/W2006475088"
       ],
       "abstractClassification": {
         "decision": "include",
@@ -26905,6 +27516,145 @@
       }
     },
     {
+      "putCode": 225654292,
+      "title": "The novel HLA ‐B*44:02:27 allele, identified by sequencing‐based typing of a candidate stem‐cell donor",
+      "year": 2013,
+      "sortDate": "2013-04-00",
+      "journal": "Tissue Antigens",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.1111/tan.12065",
+      "pmid": "23510421",
+      "pmcid": null,
+      "url": "https://doi.org/10.1111/tan.12065",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W1592903110",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W1592903110",
+      "abstract": "The HLA-B*44:02:27 allele strongly resembles the HLA-B*44:02:01:01 allele with respect to HLA-C association and haplotype constitution.",
+      "authors": [
+        {
+          "name": "M. van Soest",
+          "orcid": "",
+          "position": "first",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Marc Rösel",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Anko M. de Graaff",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "B. Zwan",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "last",
+          "corresponding": true,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        }
+      ],
+      "selfAuthorPositions": [
+        "last",
+        "corresponding"
+      ],
+      "volumeIssuePages": "vol. 81, no. 4, pp. 230-231",
+      "categories": [
+        "matching",
+        "outcome",
+        "diagnostics"
+      ],
+      "primaryCategoryLabel": "Epitope matching",
+      "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [
+        "Humans",
+        "HLA-B Antigens",
+        "Histocompatibility Testing",
+        "Stem Cell Transplantation",
+        "Base Sequence",
+        "Point Mutation",
+        "Alleles",
+        "Exons",
+        "Molecular Sequence Data",
+        "Tissue Donors"
+      ],
+      "keywords": [
+        "novel HLA allele",
+        "HLA haplotypes",
+        "stem cell donors",
+        "sequence-based typing"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Hematopoietic Stem Cell Transplantation",
+          "score": 0.8417999744415283
+        },
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.07859999686479568
+        },
+        {
+          "name": "Genetic Associations and Epidemiology",
+          "score": 0.05079999938607216
+        }
+      ],
+      "citedByCount": 5,
+      "countsByYear": [
+        {
+          "year": 2013,
+          "cited_by_count": 5
+        }
+      ],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W1902821440",
+        "https://openalex.org/W2055395993",
+        "https://openalex.org/W1821487627",
+        "https://openalex.org/W2223919059",
+        "https://openalex.org/W1755117935",
+        "https://openalex.org/W101503009",
+        "https://openalex.org/W1869508445",
+        "https://openalex.org/W1968383574",
+        "https://openalex.org/W2072606516",
+        "https://openalex.org/W4283775834"
+      ],
+      "abstractClassification": {
+        "decision": "include",
+        "confidence": "no-signal",
+        "reasons": []
+      }
+    },
+    {
       "putCode": 225651259,
       "title": "Predicted indirectly recognizable HLA epitopes presented by HLA-DR correlate with the de novo development of donor-specific HLA IgG antibodies after kidney transplantation",
       "year": 2013,
@@ -29337,6 +30087,284 @@
         "https://openalex.org/W2514487591",
         "https://openalex.org/W2021935957",
         "https://openalex.org/W1990373061"
+      ],
+      "abstractClassification": {
+        "decision": "include",
+        "confidence": "no-signal",
+        "reasons": []
+      }
+    },
+    {
+      "putCode": 225654276,
+      "title": "Steric Hindrance and Fast Dissociation Explain the Lack of Immunogenicity of the Minor Histocompatibility HA-1Arg Null Allele",
+      "year": 2009,
+      "sortDate": "2009-04-15",
+      "journal": "The Journal of Immunology",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.4049/jimmunol.0803911",
+      "pmid": "19342659",
+      "pmcid": null,
+      "url": "http://europepmc.org/abstract/med/19342659",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W1780043079",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W1780043079",
+      "abstract": "The di-allelic HLA-A2 restricted minor histocompatibility Ag HA-1 locus codes for the highly immunogenic HA-1(His) and the nonimmunogenic HA-1(Arg) nonapeptides, differing in one amino acid. The HA-1(His) peptide is currently used for boosting the graft-vs-tumor responses after HLA matched HA-1 mismatched stem cell transplantation; usage of the HA-1(Arg) peptide would significantly enlarge the applicability for this therapy. Our studies on mechanisms causing the HA-1 unidirectional immunogenicity revealed marginal differences in proteasomal digestion, TAP translocation, and binding affinity, whereas both dissociation rates and structural analyses clearly showed marked differences in the stability of these two HLA-A2 bound alleles. These data provide a rationale for the lack of HA-1(Arg) peptide immunogenicity essential for the choice of tumor peptides for stem cell-based immunotherapeutic application.",
+      "authors": [
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "first",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Stéphanie Gras",
+          "orcid": "https://orcid.org/0000-0001-7416-038X",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Université Joseph Fourier",
+            "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+            "CEA Grenoble",
+            "Institut de Biologie Structurale"
+          ]
+        },
+        {
+          "name": "Jean‐Baptiste Reiser",
+          "orcid": "https://orcid.org/0000-0001-6926-9137",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Université Joseph Fourier",
+            "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+            "CEA Grenoble",
+            "Institut de Biologie Structurale"
+          ]
+        },
+        {
+          "name": "Bregje Mommaas",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Mathilde M. Almekinders",
+          "orcid": "https://orcid.org/0000-0002-1554-2887",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Michel G.D. Kester",
+          "orcid": "https://orcid.org/0000-0002-8960-7348",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Anne Chouquet",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Université Joseph Fourier",
+            "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+            "CEA Grenoble",
+            "Institut de Biologie Structurale"
+          ]
+        },
+        {
+          "name": "Madalen Le Gorrec",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Université Joseph Fourier",
+            "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+            "CEA Grenoble",
+            "Institut de Biologie Structurale"
+          ]
+        },
+        {
+          "name": "Jan Wouter Drijfhout",
+          "orcid": "https://orcid.org/0000-0003-4808-5296",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "FERRY A. OSSENDORP",
+          "orcid": "https://orcid.org/0000-0001-9730-7954",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Dominique Housset",
+          "orcid": "https://orcid.org/0000-0003-1732-0193",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Centre National de la Recherche Scientifique",
+            "Université Joseph Fourier",
+            "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+            "CEA Grenoble",
+            "Institut de Biologie Structurale"
+          ]
+        },
+        {
+          "name": "Els Goulmy",
+          "orcid": "",
+          "position": "last",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        }
+      ],
+      "selfAuthorPositions": [
+        "first"
+      ],
+      "volumeIssuePages": "vol. 182, no. 8, pp. 4809-4816",
+      "categories": [
+        "matching",
+        "cellular"
+      ],
+      "primaryCategoryLabel": "Epitope matching",
+      "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [
+        "Hela Cells",
+        "Humans",
+        "Proteasome Endopeptidase Complex",
+        "Histocompatibility Antigens Class I",
+        "Crystallography, X-Ray",
+        "Amino Acid Sequence",
+        "Protein Structure, Tertiary",
+        "Protein Binding",
+        "Protein Transport",
+        "Alleles",
+        "Models, Molecular",
+        "Time Factors",
+        "Molecular Sequence Data"
+      ],
+      "keywords": [
+        "minor histocompatibility antigens",
+        "HLA-A2",
+        "peptide immunogenicity",
+        "steric hindrance",
+        "MHC class I peptide binding",
+        "peptide stability",
+        "stem cell transplantation"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "vaccines and immunoinformatics approaches",
+          "score": 0.6640999913215637
+        },
+        {
+          "name": "Immunotherapy and Immune Responses",
+          "score": 0.31349998712539673
+        },
+        {
+          "name": "Chemical Synthesis and Analysis",
+          "score": 0.006800000090152025
+        }
+      ],
+      "citedByCount": 33,
+      "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 2
+        }
+      ],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W1581415616",
+        "https://openalex.org/W1552738310",
+        "https://openalex.org/W4250292386",
+        "https://openalex.org/W4310690213",
+        "https://openalex.org/W4294723901",
+        "https://openalex.org/W1965238818",
+        "https://openalex.org/W2470318958",
+        "https://openalex.org/W2090391251",
+        "https://openalex.org/W2428121789",
+        "https://openalex.org/W2030908446"
       ],
       "abstractClassification": {
         "decision": "include",
@@ -35117,12 +36145,12 @@
       "sortDate": "2025-00-00",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
-      "doi": null,
+      "doi": "10.1016/j.jri.2024.104347",
       "journal": "JOURNAL OF REPRODUCTIVE IMMUNOLOGY",
       "volumeIssuePages": "JOURNAL OF REPRODUCTIVE IMMUNOLOGY 167",
       "meeting": "15th World Congress of the International-Society-for-Immunology-of-Reproduction (ISIR)",
       "abstractNumber": null,
-      "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001422987100011",
+      "url": "https://doi.org/10.1016/j.jri.2024.104347",
       "authors": [
         {
           "name": "GCM Lafeber"
@@ -35155,6 +36183,11 @@
           "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
           "kind": "claimed-researcher-profile-with-ORCID",
           "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1016/j.jri.2024.104347",
+          "label": "Publisher-deposited Crossref metadata",
+          "note": "Individual DOI matches the exact title. Congress classification established by the claimed WoS Meeting Abstract record."
         }
       ],
       "verification": {

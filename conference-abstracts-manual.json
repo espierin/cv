@@ -504,12 +504,12 @@
       "sortDate": "2025-00-00",
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
-      "doi": null,
+      "doi": "10.1016/j.jri.2024.104347",
       "journal": "JOURNAL OF REPRODUCTIVE IMMUNOLOGY",
       "volumeIssuePages": "JOURNAL OF REPRODUCTIVE IMMUNOLOGY 167",
       "meeting": "15th World Congress of the International-Society-for-Immunology-of-Reproduction (ISIR)",
       "abstractNumber": null,
-      "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001422987100011",
+      "url": "https://doi.org/10.1016/j.jri.2024.104347",
       "authors": [
         {
           "name": "GCM Lafeber"
@@ -542,6 +542,11 @@
           "url": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
           "kind": "claimed-researcher-profile-with-ORCID",
           "checkedAt": "2026-10-27"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1016/j.jri.2024.104347",
+          "label": "Publisher-deposited Crossref metadata",
+          "note": "Individual DOI matches the exact title. Congress classification established by the claimed WoS Meeting Abstract record."
         }
       ],
       "verification": {
@@ -9796,6 +9801,18 @@
       "title": "P5 Recognizing the disease, treating the patient: a mixed-method evaluation of care for the antiphospholipid syndrome (APS) in the Netherlands",
       "doi": "10.1136/lupus-2020-eurolupus.54",
       "reason": "Different given name/initials or no corroborating coauthor network; not attributed to Eric Spierings."
+    },
+    {
+      "title": "Treatment of Steroid Resistant Grade II to IV Acute Gvhd by Infusion of Mesenchymal Stroma Cells Expanded with Human Plasma and Platelet Lysate - a Phase I/II Study",
+      "year": 2011,
+      "doi": "10.1182/blood.v118.21.3046.3046",
+      "reason": "Publisher-deposited complete author list does not include Eric/E. Spierings. A legacy ORCID group had merged this 2011 item with the verified 2012 contribution. Matching title/content and coauthors alone are insufficient; not imported as a verified Eric Spierings abstract. Original ORCID source records retained, unrelated 2012 identifiers removed from the legacy 2011 version.",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1182/blood.v118.21.3046.3046",
+          "label": "Publisher-deposited author metadata"
+        }
+      ]
     }
   ],
   "resolvedReview": [
@@ -9886,14 +9903,14 @@
     }
   ],
   "orcidSynchronization": {
-    "verifiedAt": "2026-10-27T23:09:36.463310+00:00",
+    "verifiedAt": "2026-10-27T23:18:47.098700+00:00",
     "orcid": "0000-0001-9441-1019",
     "verifiedAbstracts": 126,
     "existingAbstracts": 119,
     "newAbstracts": 7,
     "preferredVersions": 126,
-    "correctedOvergroupedSourceVersions": 7,
-    "workGroupsAfter": 329,
+    "correctedOvergroupedSourceVersions": 13,
+    "workGroupsAfter": 335,
     "report": "research/conference-abstracts/orcid-sync.json"
   }
 }

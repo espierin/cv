@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "verifiedAt": "2026-10-27T23:09:36.463310+00:00",
+  "verifiedAt": "2026-10-27T23:19:06.442499+00:00",
   "policy": "Only 126 verified abstracts synchronized. Two unresolved candidates excluded. Conference output is the current ORCID work type; abstract identity is explicit in each citation and description. Original source versions retained.",
   "counts": {
     "verifiedAbstracts": 126,
@@ -8,8 +8,10 @@
     "newAbstracts": 7,
     "preferredConferenceOutputVersions": 126,
     "workGroupsBefore": 313,
-    "workGroupsAfter": 329,
-    "correctedOvergroupedSourceVersions": 7
+    "workGroupsAfter": 335,
+    "correctedOvergroupedSourceVersions": 13,
+    "restoredDistinctWorkGroups": 15,
+    "scientificPublications": 134
   },
   "verification": {
     "identifierAndTitleYearMatches": 126,
@@ -20,7 +22,10 @@
       "putCode": 231445746,
       "result": "Equivalent bibliographic citation and attribution verified; initial manually entered version has a more concise citation and description."
     },
-    "errors": []
+    "errors": [],
+    "identifierUrlsCorrected": 2,
+    "allExpectedIdentifierUrlsVerified": true,
+    "fullArticleSeparationVerified": 7
   },
   "groupingRepairs": [
     {
@@ -72,6 +77,46 @@
         "WOS:000314441900064"
       ],
       "verifiedPublicApi": true
+    },
+    {
+      "putCode": 225654280,
+      "removed": [
+        "WOS:000383951500031"
+      ]
+    },
+    {
+      "putCode": 225654282,
+      "removed": [
+        "10.3727/096368916X691673",
+        "WOS:000387774300010",
+        "27196533"
+      ]
+    },
+    {
+      "putCode": 225654277,
+      "removed": [
+        "10.1016/J.HUMIMM.2017.06.180",
+        "WOS:000411658700174"
+      ]
+    },
+    {
+      "putCode": 225654292,
+      "removed": [
+        "WOS:000318523600225"
+      ]
+    },
+    {
+      "putCode": 225654276,
+      "removed": [
+        "WOS:000266032200008"
+      ]
+    },
+    {
+      "putCode": 225654279,
+      "removed": [
+        "10.1182/BLOOD.V120.21.736.736",
+        "WOS:000313838900223"
+      ]
     }
   ],
   "records": [
@@ -2086,6 +2131,13 @@
       ],
       "preferred": true,
       "existingGroup": true
+    }
+  ],
+  "additionalReview": [
+    {
+      "doi": "10.1182/blood.v118.21.3046.3046",
+      "decision": "excluded from verified abstracts",
+      "reason": "Publisher-deposited author list does not include Eric Spierings. Legacy source record kept; link to the separate verified 2012 abstract removed."
     }
   ]
 }
