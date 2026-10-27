@@ -1,13 +1,24 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-27T09:52:30.959Z",
-  "source": "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
-  "excludedWorkTypes": [
-    "conference-presentation",
-    "conference-paper",
-    "lecture-speech"
+  "generatedAt": "2026-10-27T20:27:42.862Z",
+  "source": "ORCID works filtered to scholarly publications (journal articles, books and book chapters), enriched with Crossref, Europe PMC and OpenAlex metadata",
+  "includedWorkTypes": [
+    "book",
+    "book-chapter",
+    "edited-book",
+    "encyclopedia-entry",
+    "journal-article",
+    "scholarly-edition"
   ],
-  "count": 247,
+  "excludedWorkTypes": [
+    "conference-paper",
+    "conference-presentation",
+    "lecture-speech",
+    "other",
+    "patent",
+    "preprint"
+  ],
+  "count": 241,
   "publications": [
     {
       "putCode": 227329515,
@@ -1114,86 +1125,6 @@
       "countsByYear": [],
       "isOpenAccess": false,
       "openAccessStatus": null,
-      "relatedOpenAlexWorks": []
-    },
-    {
-      "putCode": 225653727,
-      "title": "Specific Immune Defence",
-      "year": 2025,
-      "sortDate": "2025-12-22",
-      "journal": "Histocompatibility and Immunogenetics",
-      "type": "other",
-      "typeLabel": "Other",
-      "doi": "10.1002/9783527847617.ch2",
-      "pmid": null,
-      "pmcid": null,
-      "url": "https://www.lens.org/104-974-972-486-508",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": null,
-      "openAlexId": "https://openalex.org/W4414367713",
-      "openAlexUrl": "https://openalex.org/W4414367713",
-      "abstract": "Chapter 2 explores the adaptive immune system, focusing on its essential components, mechanisms, and clinical implications. It describes the roles of T and B lymphocytes in antigen recognition, immune response activation, and the establishment of immunological memory, processes vital for effective pathogen elimination and long-term immunity. The chapter highlights the significance of antigen presentation, receptor diversity, and isotype switching in maintaining immune specificity and flexibility. Additionally, it explores the effects of adaptive immunity on transplantation, with particular attention to challenges such as graft rejection and alloimmunization, which significantly impact transplant success and patient outcomes. The chapter also briefly addresses the broader implications of adaptive immunity in transfusion medicine and other clinical applications. It emphasizes the critical role of advancing histocompatibility research and diagnostics to improve transplantation compatibility and immune management strategies.",
-      "authors": [
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "first",
-          "corresponding": true,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        }
-      ],
-      "selfAuthorPositions": [
-        "first",
-        "corresponding"
-      ],
-      "volumeIssuePages": "pp. 39-67",
-      "categories": [
-        "matching",
-        "outcome",
-        "diagnostics",
-        "cellular"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [],
-      "keywords": [
-        "adaptive immunity",
-        "T cells",
-        "B cells",
-        "antigen recognition",
-        "immune activation",
-        "immunological memory",
-        "antigen presentation",
-        "receptor diversity",
-        "class switch recombination",
-        "graft rejection",
-        "alloimmunization",
-        "transplantation",
-        "transfusion medicine",
-        "histocompatibility"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "T-cell and B-cell Immunology",
-          "score": 0.9848999977111816
-        },
-        {
-          "name": "Immunotherapy and Immune Responses",
-          "score": 0.006000000052154064
-        },
-        {
-          "name": "Transplantation: Methods and Outcomes",
-          "score": 0.004999999888241291
-        }
-      ],
-      "citedByCount": 0,
-      "countsByYear": [],
-      "isOpenAccess": false,
-      "openAccessStatus": "closed",
       "relatedOpenAlexWorks": []
     },
     {
@@ -3805,7 +3736,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -3815,7 +3745,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -3825,7 +3754,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -3835,7 +3763,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -3846,7 +3773,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -4329,7 +4255,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -4339,7 +4264,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -4349,7 +4273,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -4359,7 +4282,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -4370,7 +4292,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -5355,7 +5276,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -8008,8 +7928,8 @@
           ]
         },
         {
-          "name": "Frédèric Bertrand",
-          "orcid": "https://orcid.org/0000-0002-0837-8281",
+          "name": "Myriam Maumy‐Bertrand",
+          "orcid": "https://orcid.org/0000-0002-4615-1512",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -8174,7 +8094,6 @@
           "corresponding": false,
           "institutions": [
             "Koç University",
-            "Heidelberg University",
             "University Hospital Heidelberg"
           ]
         },
@@ -8235,7 +8154,7 @@
           "score": 0.0005000000237487257
         }
       ],
-      "citedByCount": 52,
+      "citedByCount": 51,
       "countsByYear": [
         {
           "year": 2026,
@@ -9115,7 +9034,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -9125,7 +9043,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -9135,7 +9052,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -9253,8 +9169,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -9263,8 +9178,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -9273,8 +9187,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -9283,8 +9196,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -9293,8 +9205,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -9303,8 +9214,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -9937,42 +9847,6 @@
         "https://openalex.org/W2981068399",
         "https://openalex.org/W1990804418"
       ]
-    },
-    {
-      "putCode": 225653967,
-      "title": "METHOD FOR PREDICTION OF AN IMMUNE RESPONSE AGAINST MISMATCHED HUMAN LEUKOCYTE ANTIGENS",
-      "year": 2021,
-      "sortDate": "2021-09-22",
-      "journal": "",
-      "type": "patent",
-      "typeLabel": "Patent",
-      "doi": null,
-      "pmid": null,
-      "pmcid": null,
-      "url": "https://www.lens.org/035-375-398-037-525",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": null,
-      "openAlexId": null,
-      "openAlexUrl": null,
-      "abstract": null,
-      "authors": [],
-      "selfAuthorPositions": [],
-      "volumeIssuePages": "",
-      "categories": [
-        "other"
-      ],
-      "primaryCategoryLabel": "Other",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [],
-      "keywords": [],
-      "openAlexTopics": [],
-      "citedByCount": 0,
-      "countsByYear": [],
-      "isOpenAccess": false,
-      "openAccessStatus": null,
-      "relatedOpenAlexWorks": []
     },
     {
       "putCode": 189158366,
@@ -10837,106 +10711,6 @@
       "relatedOpenAlexWorks": []
     },
     {
-      "putCode": 112501183,
-      "title": "Eurotransplant Kidney Allocation Simulations v1",
-      "year": 2020,
-      "sortDate": "2020-12-15",
-      "journal": "",
-      "type": "preprint",
-      "typeLabel": "Preprint",
-      "doi": "10.17504/protocols.io.bqrtmv6n",
-      "pmid": null,
-      "pmcid": null,
-      "url": "https://doi.org/10.17504/protocols.io.bqrtmv6n",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": "https://doi.org/10.17504/protocols.io.bqrtmv6n",
-      "openAlexId": "https://openalex.org/W4243450235",
-      "openAlexUrl": "https://openalex.org/W4243450235",
-      "abstract": "Background: The EuroTransplant Kidney Allocation System (ETKAS) aims at allocating organs to patients on the waiting list fairly whilst optimizing HLA match grades. ETKAS currently considers the number of HLA-A/-B/-DR mismatches. Evidently, epitope matching is biologically and clinically more relevant. We here executed ETKAS-based computer simulations to evaluate the impact of epitope matching on allocation and compared the strategies. Methods: A virtual population of 400,000 individuals was generated using the National Marrow Donor Program (NMDP) haplotype frequency dataset of 2011. Using this population, a waiting list of 10,400 patients was constructed and maintained during simulation, matching the 2015 Eurotransplant Annual Report characteristics. Unacceptable antigens were assigned randomly relative to their frequency using HLAMatchmaker. Over 22,600 kidneys were allocated in 10 years in triplicate using Markov Chain Monte Carlo simulations on 32-CPU-core cloud-computing instances. T-cell epitopes were calculated using the www.pirche.com portal. Waiting list effects were evaluated against ETKAS for five epitope matching scenarios. Results: Baseline simulations of ETKAS slightly overestimated reported average HLA match grades. The best-balanced scenario maintained prioritisation of HLA A-B-DR fully matched donors while replacing the HLA match grade by PIRCHE-II score and exchanging the HLA mismatch probability (MMP) by epitope MMP. This setup showed no considerable impact on kidney exchange rates and waiting time. PIRCHE-II scores improved, whereas the average HLA match grade diminishes slightly, yet leading to an improved estimated graft survival. Conclusions: We conclude that epitope-based matching in deceased donor kidney allocation is feasible while maintaining equal balances on the waiting list.",
-      "authors": [
-        {
-          "name": "Matthias Niemann",
-          "orcid": "https://orcid.org/0000-0002-3514-9812",
-          "position": "first",
-          "corresponding": false,
-          "institutions": []
-        },
-        {
-          "name": "Nils Lachmann",
-          "orcid": "https://orcid.org/0000-0002-2081-3098",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": []
-        },
-        {
-          "name": "Kirsten Geneugelijk",
-          "orcid": "https://orcid.org/0000-0002-1689-8383",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": []
-        },
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "last",
-          "corresponding": false,
-          "institutions": []
-        }
-      ],
-      "selfAuthorPositions": [
-        "last"
-      ],
-      "volumeIssuePages": "",
-      "categories": [
-        "matching",
-        "outcome"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [],
-      "keywords": [
-        "kidney transplantation",
-        "organ allocation",
-        "HLA matching",
-        "deceased donor kidney allocation",
-        "waiting lists",
-        "graft survival",
-        "kidney exchange"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "Renal Transplantation Outcomes and Treatments",
-          "score": 0.5874000191688538
-        },
-        {
-          "name": "Organ Donation and Transplantation",
-          "score": 0.37869998812675476
-        },
-        {
-          "name": "Transplantation: Methods and Outcomes",
-          "score": 0.008100000210106373
-        }
-      ],
-      "citedByCount": 0,
-      "countsByYear": [],
-      "isOpenAccess": true,
-      "openAccessStatus": "gold",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W3031052312",
-        "https://openalex.org/W4389568370",
-        "https://openalex.org/W3032375762",
-        "https://openalex.org/W1995515455",
-        "https://openalex.org/W2080531066",
-        "https://openalex.org/W2586801360",
-        "https://openalex.org/W3108674512",
-        "https://openalex.org/W1506200166",
-        "https://openalex.org/W203802859"
-      ]
-    },
-    {
       "putCode": 189157898,
       "title": "Analysis of T and B Cell Epitopes to Predict the Risk of de novo Donor-Specific Antibody (DSA) Production After Kidney Transplantation: A Two-Center Retrospective Cohort Study",
       "year": 2020,
@@ -11406,8 +11180,8 @@
           ]
         },
         {
-          "name": "Frédèric Bertrand",
-          "orcid": "https://orcid.org/0000-0002-0837-8281",
+          "name": "Myriam Maumy‐Bertrand",
+          "orcid": "https://orcid.org/0000-0002-4615-1512",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -12333,7 +12107,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -12495,7 +12268,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -13598,7 +13370,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -13609,7 +13380,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -13770,8 +13540,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -13780,8 +13549,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -13790,8 +13558,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -13800,8 +13567,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -13810,8 +13576,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -13820,8 +13585,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -14199,7 +13963,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -14210,7 +13973,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -14734,7 +14496,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -14744,7 +14505,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -14754,7 +14514,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -14764,7 +14523,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -14895,8 +14653,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -14905,8 +14662,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -14915,8 +14671,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -14925,8 +14680,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -14935,8 +14689,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -14945,8 +14698,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -15104,7 +14856,6 @@
           "position": "last",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -15784,7 +15535,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -15794,7 +15544,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -15804,7 +15553,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -15814,7 +15562,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -15825,7 +15572,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -15956,8 +15702,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -15966,8 +15711,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -15976,8 +15720,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -15986,8 +15729,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -15996,8 +15738,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -16006,8 +15747,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -16772,7 +16512,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -16783,7 +16522,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -16926,8 +16664,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -16936,8 +16673,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -16946,8 +16682,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -16956,8 +16691,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -16966,8 +16700,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -16976,8 +16709,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -18375,7 +18107,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -18386,7 +18117,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -18547,8 +18277,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -18557,8 +18286,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -18567,8 +18295,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -18577,8 +18304,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -18587,8 +18313,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -18597,8 +18322,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -18857,7 +18581,7 @@
       "pmcid": "PMC6159979",
       "url": "http://dx.doi.org/10.1172/jci96107",
       "fullTextUrl": "https://europepmc.org/articles/PMC6159979",
-      "bestOpenAccessUrl": "https://pure.eur.nl/en/publications/0ab43f94-a767-43e9-bfda-eb8acd44a6e4",
+      "bestOpenAccessUrl": "http://europepmc.org/pmc/articles/PMC6159979",
       "openAlexId": "https://openalex.org/W2892128713",
       "openAlexUrl": "https://openalex.org/W2892128713",
       "abstract": "Chronic inflammatory diseases are characterized by recurrent inflammatory attacks in the tissues mediated by autoreactive T cells. Identity and functional programming of CD8+ T cells at the target site of inflammation still remain elusive. One key question is whether, in these antigen-rich environments, chronic stimulation leads to CD8+ T cell exhaustion comparable to what is observed in infectious disease contexts. In the synovial fluid (SF) of juvenile idiopathic arthritis (JIA) patients, a model of chronic inflammation, an overrepresentation of PD-1+CD8+ T cells was found. Gene expression profiling, gene set enrichment analysis, functional studies, and extracellular flux analysis identified PD-1+CD8+ T cells as metabolically active effectors, with no sign of exhaustion. Furthermore, PD-1+CD8+ T cells were enriched for a tissue-resident memory (Trm) cell transcriptional profile and demonstrated increased clonal expansion compared with the PD-1- counterpart, suggesting antigen-driven expansion of locally adapted cells. Interestingly, this subset was also found increased in target tissues in other human chronic inflammatory diseases. These data indicate that local chronic inflammation drives the induction and expansion of CD8+ T cells endowed with potential detrimental properties. Together, these findings lay the basis for investigation of PD-1-expressing CD8+ T cell targeting strategies in human chronic inflammatory diseases.",
@@ -18988,7 +18712,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht",
             "Wilhelmina Children's Hospital"
           ]
@@ -19151,7 +18874,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -19161,7 +18883,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -19171,7 +18892,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -19331,8 +19051,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -19341,8 +19060,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -19351,8 +19069,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -19361,8 +19078,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -19371,8 +19087,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -19381,8 +19096,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -19654,7 +19368,7 @@
       "pmcid": "PMC6115667",
       "url": "https://doi.org/10.1681/ASN.2018020205",
       "fullTextUrl": "https://europepmc.org/articles/PMC6115667",
-      "bestOpenAccessUrl": "https://cris.maastrichtuniversity.nl/en/publications/bcb56365-43f6-4b2e-a1e4-280ca39f46a6",
+      "bestOpenAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/6115667",
       "openAlexId": "https://openalex.org/W2884800739",
       "openAlexUrl": "https://openalex.org/W2884800739",
       "abstract": "Background Complement-fixing antibodies against donor HLA are considered a contraindication for kidney transplant. A modification of the IgG single-antigen bead (SAB) assay allows detection of anti-HLA antibodies that bind C3d. Because early humoral graft rejection is considered to be complement mediated, this SAB-based technique may provide a valuable tool in the pretransplant risk stratification of kidney transplant recipients. Methods Previously, we established that pretransplant donor-specific anti-HLA antibodies (DSAs) are associated with increased risk for long-term graft failure in complement-dependent cytotoxicity crossmatch-negative transplants. In this study, we further characterized the DSA-positive serum samples using the C3d SAB assay. Results Among 567 pretransplant DSA-positive serum samples, 97 (17%) contained at least one C3d-fixing DSA, whereas 470 (83%) had non-C3d-fixing DSA. At 10 years after transplant, patients with C3d-fixing antibodies had a death-censored, covariate-adjusted graft survival of 60%, whereas patients with non-C3d-fixing DSA had a graft survival of 64% (hazard ratio, 1.02; 95% confidence interval, 0.70 to 1.48 for C3d-fixing DSA compared with non-C3d-fixing DSA; P =0.93). Patients without DSA had a 10-year graft survival of 78%. Conclusions The C3d-fixing ability of pretransplant DSA is not associated with increased risk for graft failure.",
@@ -19706,7 +19420,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -19717,7 +19430,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -19861,8 +19573,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -19871,8 +19582,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -19881,8 +19591,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -19969,7 +19678,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center",
             "Radboud Institute for Health Sciences"
           ]
@@ -20522,7 +20230,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -20532,7 +20239,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -20542,7 +20248,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -20680,8 +20385,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -20690,8 +20394,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -20700,8 +20403,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -20710,8 +20412,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -20720,8 +20421,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -20730,8 +20430,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -20740,8 +20439,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -21848,7 +21546,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -21858,7 +21555,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -21914,7 +21610,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -21960,7 +21655,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -22631,42 +22325,6 @@
       ]
     },
     {
-      "putCode": 225653975,
-      "title": "método implementado por computador para a previsão de uma resposta imune após transplante, método para a seleção de uma célula ou preparação de tecido ou órgão para o transplante alogênico, método para a seleção e/ou triagem de material doador para transplante alogênico com incompatibilidades aceitáveis, e método para a previsão de resultado terapêutico de um transplante",
-      "year": 2017,
-      "sortDate": "2017-07-11",
-      "journal": "",
-      "type": "patent",
-      "typeLabel": "Patent",
-      "doi": null,
-      "pmid": null,
-      "pmcid": null,
-      "url": "https://www.lens.org/121-312-853-686-471",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": null,
-      "openAlexId": null,
-      "openAlexUrl": null,
-      "abstract": null,
-      "authors": [],
-      "selfAuthorPositions": [],
-      "volumeIssuePages": "",
-      "categories": [
-        "other"
-      ],
-      "primaryCategoryLabel": "Other",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [],
-      "keywords": [],
-      "openAlexTopics": [],
-      "citedByCount": 0,
-      "countsByYear": [],
-      "isOpenAccess": false,
-      "openAccessStatus": null,
-      "relatedOpenAlexWorks": []
-    },
-    {
       "putCode": 225651180,
       "title": "Noninvasive Imaging of Human Immune Responses in a Human Xenograft Model of Graft-Versus-Host Disease",
       "year": 2017,
@@ -22690,8 +22348,7 @@
           "position": "first",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -22937,42 +22594,6 @@
         "https://openalex.org/W2936883434",
         "https://openalex.org/W1510574464"
       ]
-    },
-    {
-      "putCode": 225654281,
-      "title": "Methods and systems for predicting alloreactivity in transplantation",
-      "year": 2017,
-      "sortDate": "2017-05-31",
-      "journal": "",
-      "type": "patent",
-      "typeLabel": "Patent",
-      "doi": null,
-      "pmid": null,
-      "pmcid": null,
-      "url": "https://www.lens.org/083-865-904-329-137",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": null,
-      "openAlexId": null,
-      "openAlexUrl": null,
-      "abstract": null,
-      "authors": [],
-      "selfAuthorPositions": [],
-      "volumeIssuePages": "",
-      "categories": [
-        "other"
-      ],
-      "primaryCategoryLabel": "Other",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [],
-      "keywords": [],
-      "openAlexTopics": [],
-      "citedByCount": 0,
-      "countsByYear": [],
-      "isOpenAccess": false,
-      "openAccessStatus": null,
-      "relatedOpenAlexWorks": []
     },
     {
       "putCode": 225653723,
@@ -23693,7 +23314,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -24382,7 +24002,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "University of Basel",
             "University Hospital of Basel"
           ]
         },
@@ -24392,7 +24011,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "University of Basel",
             "University Hospital of Basel"
           ]
         },
@@ -24891,7 +24509,7 @@
       "pmcid": "PMC5147017",
       "url": "https://europepmc.org/articles/PMC5147017",
       "fullTextUrl": "https://europepmc.org/articles/PMC5147017",
-      "bestOpenAccessUrl": "http://hdl.handle.net/20.500.11768/58154",
+      "bestOpenAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/5147017",
       "openAlexId": "https://openalex.org/W2511359521",
       "openAlexUrl": "https://openalex.org/W2511359521",
       "abstract": "Graft-versus-host disease (GVHD) is among the most challenging complications in unrelated donor hematopoietic cell transplantation (HCT). The highly polymorphic MHC class I chain-related gene A, MICA, encodes a stress-induced glycoprotein expressed primarily on epithelia. MICA interacts with the invariant activating receptor NKG2D, expressed by cytotoxic lymphocytes, and is located in the MHC, next to HLA-B Hence, MICA has the requisite attributes of a bona fide transplantation antigen. Using high-resolution sequence-based genotyping of MICA, we retrospectively analyzed the clinical effect of MICA mismatches in a multicenter cohort of 922 unrelated donor HLA-A, HLA-B, HLA-C, HLA-DRB1, and HLA-DQB1 10/10 allele-matched HCT pairs. Among the 922 pairs, 113 (12.3%) were mismatched in MICA MICA mismatches were significantly associated with an increased incidence of grade III-IV acute GVHD (hazard ratio [HR], 1.83; 95% confidence interval [CI], 1.50-2.23; P < .001), chronic GVHD (HR, 1.50; 95% CI, 1.45-1.55; P < .001), and nonelapse mortality (HR, 1.35; 95% CI, 1.24-1.46; P < .001). The increased risk for GVHD was mirrored by a lower risk for relapse (HR, 0.50; 95% CI, 0.43-0.59; P < .001), indicating a possible graft-versus-leukemia effect. In conclusion, when possible, selecting a MICA-matched donor significantly influences key clinical outcomes of HCT in which a marked reduction of GVHD is paramount. The tight linkage disequilibrium between MICA and HLA-B renders identifying a MICA-matched donor readily feasible in clinical practice.",
@@ -25159,8 +24777,8 @@
           "institutions": []
         },
         {
-          "name": "Frédèric Bertrand",
-          "orcid": "https://orcid.org/0000-0002-0837-8281",
+          "name": "Myriam Maumy‐Bertrand",
+          "orcid": "https://orcid.org/0000-0002-4615-1512",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -25280,7 +24898,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -25629,7 +25246,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -25639,7 +25255,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -25649,7 +25264,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -25659,7 +25273,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -25669,7 +25282,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -26636,7 +26248,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -27164,7 +26775,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "University of Basel",
             "University Hospital of Basel"
           ]
         },
@@ -27174,7 +26784,6 @@
           "position": "middle",
           "corresponding": true,
           "institutions": [
-            "University of Basel",
             "University Hospital of Basel"
           ]
         },
@@ -27388,7 +26997,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -27499,7 +27107,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -27645,42 +27252,6 @@
         "https://openalex.org/W4376112403",
         "https://openalex.org/W4376112235"
       ]
-    },
-    {
-      "putCode": 225653963,
-      "title": "Method for prediction of immune response against mismatched human leukocyte antigens",
-      "year": 2015,
-      "sortDate": "2015-08-12",
-      "journal": "",
-      "type": "patent",
-      "typeLabel": "Patent",
-      "doi": null,
-      "pmid": null,
-      "pmcid": null,
-      "url": "https://www.lens.org/012-914-014-137-064",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": null,
-      "openAlexId": null,
-      "openAlexUrl": null,
-      "abstract": null,
-      "authors": [],
-      "selfAuthorPositions": [],
-      "volumeIssuePages": "",
-      "categories": [
-        "other"
-      ],
-      "primaryCategoryLabel": "Other",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [],
-      "keywords": [],
-      "openAlexTopics": [],
-      "citedByCount": 0,
-      "countsByYear": [],
-      "isOpenAccess": false,
-      "openAccessStatus": null,
-      "relatedOpenAlexWorks": []
     },
     {
       "putCode": 225651219,
@@ -28028,7 +27599,6 @@
           "position": "first",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -28458,7 +28028,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht"
           ]
         },
@@ -31447,7 +31016,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -32798,7 +32366,7 @@
           "score": 0.002400000113993883
         }
       ],
-      "citedByCount": 31,
+      "citedByCount": 30,
       "countsByYear": [
         {
           "year": 2026,
@@ -34323,7 +33891,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -34697,7 +34264,6 @@
           "position": "first",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -34707,7 +34273,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -34726,7 +34291,6 @@
           "position": "last",
           "corresponding": true,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center",
             "University Medical Center Utrecht"
           ]
@@ -34897,7 +34461,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -34916,7 +34479,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -34926,7 +34488,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center",
             "University Medical Center Utrecht"
           ]
@@ -34958,7 +34519,6 @@
           "position": "last",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         }
@@ -36269,7 +35829,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -36664,7 +36223,6 @@
           "position": "first",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -36674,7 +36232,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -36684,7 +36241,6 @@
           "position": "last",
           "corresponding": true,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         }
@@ -36826,7 +36382,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "University of Freiburg",
             "University Medical Center Freiburg"
           ]
         },
@@ -36845,7 +36400,6 @@
           "position": "last",
           "corresponding": true,
           "institutions": [
-            "University of Freiburg",
             "University Medical Center Freiburg"
           ]
         }
@@ -37397,7 +36951,6 @@
           "position": "first",
           "corresponding": true,
           "institutions": [
-            "University of Freiburg",
             "University Medical Center Freiburg"
           ]
         },
@@ -37606,7 +37159,6 @@
           "position": "first",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -37616,7 +37168,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -37626,7 +37177,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -37636,7 +37186,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -37671,7 +37220,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -37681,7 +37229,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -37691,7 +37238,6 @@
           "position": "last",
           "corresponding": true,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         }
@@ -38402,7 +37948,6 @@
           "position": "first",
           "corresponding": true,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -38412,7 +37957,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -38422,7 +37966,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -38432,7 +37975,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -38442,7 +37984,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -38452,7 +37993,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -38462,7 +38002,6 @@
           "position": "last",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         }
@@ -40395,7 +39934,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -40536,7 +40074,7 @@
       "pmcid": "PMC173672",
       "url": "https://europepmc.org/articles/PMC173672",
       "fullTextUrl": "https://europepmc.org/articles/PMC173672",
-      "bestOpenAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/173672",
+      "bestOpenAccessUrl": "http://europepmc.org/pmc/articles/PMC173672",
       "openAlexId": "https://openalex.org/W1930612456",
       "openAlexUrl": "https://openalex.org/W1930612456",
       "abstract": "A Mycobacterium leprae lambda gt11 clone designated T5 has previously been selected with sera from tuberculoid leprosy patients. Sequence analysis of this clone revealed the presence of two overlapping open reading frames (ORFs) present on the two cDNA strands. The first ORF codes for the serologically recognized antigen, which was fused with the lacZ gene in the lambda gt11 clone. The second ORF, present on the complementary strand, displays strong sequence homology with the aspartyl-tRNA synthetase genes of Escherichia coli and Thermus thermophilus. Here we show that the purified T5-derived product, overexpressed in E. coli, is recognized by T cells of the majority of the leprosy patients tested, including lepromatous leprosy patients who do not respond to whole M. leprae bacilli.",
@@ -40547,7 +40085,6 @@
           "position": "first",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -40557,7 +40094,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -40567,7 +40103,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -40577,7 +40112,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -40587,7 +40121,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         },
@@ -40597,7 +40130,6 @@
           "position": "last",
           "corresponding": false,
           "institutions": [
-            "Leiden University",
             "Leiden University Medical Center"
           ]
         }
