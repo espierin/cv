@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="620" height="500" viewBox="-310 -240 620 500"><title>Pictogram HAML — HLA protein on XML antibody-data document</title><desc>Native editable conceptual diagram. Didactische native vector. Voorbeelden zijn illustratief, geen klinisch bericht of implementatievalidatie. Concept pictogram, not an official logo. Uses the current canonical HLA class I protein component. The protein symbolizes HLA antibody assay context, not a genotype or a protein sequence file. Native editable vector; domain cartoons are not atomic models.</desc><defs>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78B9EB"/><stop offset=".46" stop-color="#287CC4"/><stop offset="1" stop-color="#125698"/></linearGradient>
+<linearGradient id="beta" x2="1" y2="1"><stop stop-color="#DAEEFC"/><stop offset="1" stop-color="#88B9DE"/></linearGradient>
+<linearGradient id="orange" x2="1" y2="1"><stop stop-color="#FFB47D"/><stop offset=".45" stop-color="#FF7546"/><stop offset="1" stop-color="#E74D30"/></linearGradient>
+<radialGradient id="cell" cx=".33" cy=".28" r=".8"><stop stop-color="#F0F8FD"/><stop offset=".65" stop-color="#C2E0F5"/><stop offset="1" stop-color="#94C3E7"/></radialGradient>
+<radialGradient id="warmCell"><stop stop-color="#FFE8D9"/><stop offset="1" stop-color="#FAB08D"/></radialGradient>
+<radialGradient id="nucleus" cx=".35" cy=".3"><stop stop-color="#4D95D2"/><stop offset="1" stop-color="#1B5B9D"/></radialGradient>
+<radialGradient id="warmNucleus"><stop stop-color="#FFA36C"/><stop offset="1" stop-color="#E86F4B"/></radialGradient>
+<radialGradient id="virus"><stop stop-color="#D2E9F9"/><stop offset="1" stop-color="#8FBFE4"/></radialGradient>
+<linearGradient id="lipid" x2="0" y2="1"><stop stop-color="#D5EEFF"/><stop offset="1" stop-color="#92BFE2"/></linearGradient>
+<linearGradient id="kidney" x2="1" y2="1"><stop stop-color="#FFC6AE"/><stop offset=".5" stop-color="#F59C83"/><stop offset="1" stop-color="#D56A57"/></linearGradient>
+<linearGradient id="lung" x2="1" y2="1"><stop stop-color="#E1F1FC"/><stop offset="1" stop-color="#9CC6E7"/></linearGradient>
+<linearGradient id="glass" x2="1" y2="0"><stop stop-color="#E0EEF8"/><stop offset=".4" stop-color="#FFFFFF"/><stop offset="1" stop-color="#C3DAEC"/></linearGradient>
+<linearGradient id="machine" x2="1" y2="1"><stop stop-color="#ACD6F2"/><stop offset="1" stop-color="#3183C5"/></linearGradient>
+<marker id="arrB" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="6" markerHeight="6" markerUnits="strokeWidth" orient="auto-start-reverse" overflow="visible"><path d="M1 1 L11 6 1 11 4 6 Z" fill="#064986" stroke="none"/></marker>
+<marker id="arrO" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="6" markerHeight="6" markerUnits="strokeWidth" orient="auto-start-reverse" overflow="visible"><path d="M1 1 L11 6 1 11 4 6 Z" fill="#FF5A36" stroke="none"/></marker><linearGradient id="ep2026Gold" x2=".7" y2="1"><stop stop-color="#FFF1AB"/><stop offset="1" stop-color="#FFC72C"/></linearGradient><linearGradient id="ep2026Red" x2=".8" y2="1"><stop stop-color="#FFB38B"/><stop offset="1" stop-color="#FF5A36"/></linearGradient><linearGradient id="pxBlue" x2=".8" y2="1"><stop stop-color="#B7DBF7"/><stop offset=".5" stop-color="#6EADE2"/><stop offset="1" stop-color="#2167AE"/></linearGradient><linearGradient id="pxLight" x2=".8" y2="1"><stop stop-color="#F1F9FF"/><stop offset="1" stop-color="#A9C6E2"/></linearGradient><linearGradient id="pxWarm" x2=".8" y2="1"><stop stop-color="#FFD6BA"/><stop offset="1" stop-color="#FF5A36"/></linearGradient><linearGradient id="pxGreen" x2=".8" y2="1"><stop stop-color="#D1EDAD"/><stop offset="1" stop-color="#93C94D"/></linearGradient><linearGradient id="pxGold" x2=".8" y2="1"><stop stop-color="#FFF1A9"/><stop offset="1" stop-color="#FFC72C"/></linearGradient></defs><g id="component-layer" inkscape:groupmode="layer" inkscape:label="Pictogram HAML — HLA protein on XML antibody-data document" data-extension-set="HSTD"><path d="M-130 -145 H65 L130 -80 V145 H-130 Z" fill="url(#pxLight)" stroke="#064986" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" /><path d="M65 -145 V-80 H130" fill="none" stroke="#064986" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" /><g id="Positioned-component-3" inkscape:label="Positioned component" transform="translate(0 0) rotate(0) scale(0.7377049180327869)"><g id="Positioned-component-2" inkscape:label="Positioned component" transform="translate(0 72.5) rotate(0) scale(1)"><g id="Basis-basic-25-HLA-I-peptide-user-svg-1" inkscape:label="Basis: basic_25_HLA_I_peptide_user.svg"><defs><linearGradient xmlns="http://www.w3.org/2000/svg" id="basis1-blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78B9EB" /><stop offset=".46" stop-color="#287CC4" /><stop offset="1" stop-color="#125698" /></linearGradient>
+<linearGradient xmlns="http://www.w3.org/2000/svg" id="basis1-beta" x2="1" y2="1"><stop stop-color="#DAEEFC" /><stop offset="1" stop-color="#88B9DE" /></linearGradient>
+<linearGradient xmlns="http://www.w3.org/2000/svg" id="basis1-ep2026Gold" x2=".7" y2="1"><stop stop-color="#FFF1AB" /><stop offset="1" stop-color="#FFC72C" /></linearGradient></defs><g xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:ns2="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" inkscape:label="Peptide-HLA class I complex" id="basis1-component-layer"><g id="basis1-Positioned-component-4" inkscape:label="Positioned component" transform="translate(0 0) rotate(0) scale(1)"><g id="basis1-Positioned-component-2" inkscape:label="Positioned component" transform="translate(0 0) rotate(0) scale(1)"><g id="basis1-Basis-basic-27-HLA-I-empty-svg-1" inkscape:label="Basis: basic_27_HLA_I_empty.svg"><defs /><g id="basis1-basis1-component-layer" inkscape:label="HLA-I / HLA-E – unloaded"><g id="basis1-basis1-Positioned-component-186" inkscape:label="Positioned component" transform="translate(0 0) rotate(0) scale(1)"><g id="basis1-basis1-User-edited-HLA-I-HLA-E-185" inkscape:label="User-edited HLA-I / HLA-E"><g id="basis1-basis1-copy277-HLA-class-I-HLA-E-peptide-complex-9" inkscape:label="HLA class I / HLA-E peptide complex">
+        <g id="basis1-basis1-copy277-Heavy-chain-stalk-single-transmembrane-helix-and-cytoplasmic-tail-1" inkscape:label="Heavy chain: stalk, single transmembrane helix and cytoplasmic tail">
+          <path d="M-15 -53 Q-12 -30 -10 -15 L-10 27 Q-10 40 -18 49" fill="none" stroke="#092E50" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" id="basis1-basis1-copy277-path33" />
+          <path d="M-15 -53 Q-12 -30 -10 -15 L-10 27" fill="none" stroke="#2167AE" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" id="basis1-basis1-copy277-path34" />
+        </g>
+        <g id="basis1-basis1-copy277-Alpha3-immunoglobulin-like-domain-2" inkscape:label="Alpha3 immunoglobulin-like domain">
+          <path d="M-41 -108 C-54 -96 -50 -65 -33 -54 C-13 -39 12 -57 12 -80 C12 -102 -21 -121 -41 -108 Z" fill="url(#basis1-blue)" stroke="#092E50" stroke-width="3.7" stroke-linecap="round" stroke-linejoin="round" id="basis1-basis1-copy277-path35" />
+          <path d="M-37 -99 Q-12 -103 -1 -80 M-39 -90 Q-21 -93 -5 -70 M-33 -79 L-11 -61" fill="none" stroke="#72B3E5" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" id="basis1-basis1-copy277-path36" />
+        </g>
+        <g id="basis1-basis1-copy277-Beta2-microglobulin-non-membrane-subunit-3" inkscape:label="Beta2 microglobulin: non-membrane subunit">
+          <path d="M26 -111 C10 -103 14 -74 24 -62 C38 -46 57 -61 59 -79 C60 -98 47 -116 26 -111 Z" fill="url(#basis1-beta)" stroke="#092E50" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" id="basis1-basis1-copy277-path37" />
+          <path d="M24 -99 L48 -79 M23 -88 L43 -69" fill="none" stroke="#7FB5DC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="basis1-basis1-copy277-path38" />
+        </g>
+        <g id="basis1-basis1-copy277-Alpha1-and-alpha2-peptide-binding-platform-4" inkscape:label="Alpha1 and alpha2 peptide-binding platform">
+          <path d="M-66 -168 C-83 -159 -76 -134 -61 -124 L-37 -106 C-21 -100 -8 -108 -4 -117 C1 -106 15 -105 28 -111 L58 -127 C77 -138 79 -161 63 -172 C46 -184 32 -170 28 -153 C14 -135 -23 -138 -31 -153 C-37 -173 -49 -180 -66 -168 Z" fill="url(#basis1-blue)" stroke="#092E50" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" id="basis1-basis1-copy277-path39" />
+          <path d="M-57 -165 Q-68 -148 -45 -133 M50 -164 Q64 -149 44 -133" fill="none" stroke="#8CC5EF" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round" id="basis1-basis1-copy277-path40" />
+          <path d="M-40 -130 Q-1 -113 34 -133" fill="none" stroke="#0A4B8A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" id="basis1-basis1-copy277-path41" />
+        </g>
+      </g>
+    </g></g></g></g></g><g id="basis1-Visible-peptide-within-the-HLA-groove-3" inkscape:label="Visible peptide within the HLA groove" data-peptide-updated="2026"><g data-peptide-model="freeform-user-2026-10-20" data-hla-class="I" data-residue-count="9" inkscape:label="User free-form peptide in HLA groove"><g inkscape:label="Class-II terminal extensions" /><g inkscape:label="User free-form nine-residue core, native vectors" transform="translate(0 -169) scale(0.631 0.612) translate(7.11 -4.379)"><g inkscape:label="Free-form peptide – your chain"><g inkscape:label="User-edited flexible peptide chain" transform="translate(-195 -150)" data-peptide-updated="2026"><g transform="translate(187.89014 129.83300444444444) scale(1.18 1.27) translate(-187.89014 -129.83300444444444)"><path d="m 137.62014,136.1101 c 0,0 9.80663,13.55695 16.70732,12.57473 9.31297,-1.32557 7.6217,-24.03114 16.91713,-22.58775 16.04121,2.49087 1.5883,38.52336 15.99883,45.9974 6.22682,3.22955 15.38865,-0.72138 20.22891,-5.7983 9.31689,-9.77243 -2.19476,-32.32804 9.29094,-39.42616 6.08164,-3.75844 13.72605,4.71516 20.87188,4.937 4.90768,0.15236 14.5173,-2.49498 14.5173,-2.49498" fill="none" stroke="#092e50" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" ns2:nodetypes="caaaaaac" />
+    <g>
+      <ellipse cx="253.69035" cy="130.30888" rx="6.9263382" ry="7.6432471" fill="url(#basis1-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="8" />
+      <ellipse cx="251.95877" cy="127.76113" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <path d="m 122.08993,130.01194 17.29588,5.58689" fill="none" stroke="#092e50" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" ns2:nodetypes="cc" />
+    <g>
+      <ellipse cx="122.08993" cy="130.01193" rx="6.9263382" ry="7.6432471" fill="url(#basis1-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="0" />
+      <ellipse cx="120.35835" cy="127.46419" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(0,4)">
+      <ellipse cx="138.53998" cy="131.83958" rx="6.9263382" ry="7.6432471" fill="url(#basis1-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="1" />
+      <ellipse cx="136.8084" cy="129.29184" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(-2,18)">
+      <ellipse cx="154.99004" cy="132.55861" rx="6.9263382" ry="7.6432471" fill="url(#basis1-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="2" />
+      <ellipse cx="153.25845" cy="130.01085" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(0,-6)">
+      <ellipse cx="171.44009" cy="131.73285" rx="6.9263382" ry="7.6432471" fill="url(#basis1-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="3" />
+      <ellipse cx="169.70851" cy="129.1851" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(2.2555508,37.592513)">
+      <ellipse cx="204.34019" cy="128.0838" rx="6.9263382" ry="7.6432471" fill="url(#basis1-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="5" />
+      <ellipse cx="202.60861" cy="125.53605" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(-5.1339547,-1.1982767)">
+      <ellipse cx="220.79025" cy="127.47396" rx="6.9263382" ry="7.6432471" fill="url(#basis1-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="6" />
+      <ellipse cx="219.05867" cy="124.92622" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(0,2)">
+      <ellipse cx="237.2403" cy="128.40363" rx="6.9263382" ry="7.6432471" fill="url(#basis1-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="7" />
+      <ellipse cx="235.50871" cy="125.85588" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+    <g transform="translate(-17.54798,44.503812)">
+      <ellipse cx="204.34019" cy="128.0838" rx="6.9263382" ry="7.6432471" fill="url(#basis1-ep2026Gold)" stroke="#092e50" stroke-width="2.2" data-freeform-residue="4" />
+      <ellipse cx="202.60861" cy="125.53605" rx="2.1644807" ry="1.6984993" fill="#ffffff" stroke="none" stroke-width="0" opacity="0.7" />
+    </g>
+  </g></g></g></g></g></g></g></g></g></g></g><g id="Positioned-component-4" inkscape:label="Positioned component" transform="translate(-122 0) rotate(0) scale(0.42)"><path d="M24 49 H140 L179 93 140 137 H24 Z" fill="url(#pxWarm)" stroke="#064986" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" /><text x="92" y="105" font-family="Calibri" font-size="36" fill="#064986" text-anchor="middle" font-weight="600">XML</text><ellipse cx="147" cy="92" rx="7" ry="7" fill="white" stroke="#064986" stroke-width="3" /></g><text x="0" y="207" font-family="Calibri" font-size="31" fill="#064986" text-anchor="middle" font-weight="600">HAML</text></g></svg>

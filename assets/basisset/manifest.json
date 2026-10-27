@@ -13,14 +13,14 @@
   },
   {
     "section": "data-standards",
-    "source": "08_Genetica_en_matching/basic_1754_HSTD_icon_HML.svg",
-    "copy": "assets/basisset/basic_1754_HSTD_icon_HML.svg",
-    "adaptation": "Inline IDs prefixed by section; responsive uniform scaling. Original geometry and colours retained."
+    "source": "08_Genetica_en_matching/basic_1751_HSTD_icon_HAML.svg",
+    "copy": "assets/basisset/basic_1751_HSTD_icon_HAML.svg",
+    "adaptation": "Tight canvas around complete artwork; proportions and geometry retained."
   },
   {
     "section": "clinical-implementation",
     "source": "06_Stamcel_GvHD_GvL/basic_80_HSC_graft_replete.svg",
     "copy": "assets/basisset/basic_80_HSC_graft_replete.svg",
-    "adaptation": "Uniform responsive scaling; inline IDs prefixed. Shapes and colours retained."
+    "adaptation": "Tight canvas around complete artwork; proportions and geometry retained."
   }
 ]
