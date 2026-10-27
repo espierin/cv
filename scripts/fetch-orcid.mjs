@@ -339,8 +339,12 @@ function classifyConferenceAbstract(record) {
   const strong = [];
   const review = [];
 
-  if (/\bS\d{2,}(?:\s*[-–]\s*S?\d+)?\b/i.test(citation)) {
-    strong.push("supplement-page-number");
+  const supplementPages = /\bS\d{2,}(?:\s*[-–]\s*S?\d+)?\b/i.test(citation);
+  const likelyAbstractVenue =
+    /\b(?:biology of blood and marrow transplantation|cytotherapy|american journal of transplantation)\b/i.test(venue);
+
+  if (supplementPages && likelyAbstractVenue) {
+    strong.push("conference-heavy-journal-supplement-pages");
   }
   if (/\b(?:conference|meeting)\s+abstract\b|\babstract\s+(?:number|no\.?|#)\s*\d+/i.test(title)) {
     strong.push("explicit-abstract-title");
@@ -354,6 +358,9 @@ function classifyConferenceAbstract(record) {
   }
   if (/\b(?:conference proceedings|meeting abstracts|abstracts supplement)\b/i.test(venue)) {
     strong.push("abstracts-proceedings-venue");
+  }
+  if (supplementPages && !strong.length) {
+    review.push("supplement-page-number-needs-source-check");
   }
   if (/\b(?:supplement|supplemental issue)\b/i.test(venue)) {
     review.push("supplement-venue");
