@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-27T22:21:34.601Z",
+  "generatedAt": "2026-10-27T22:36:26.530Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "includedWorkTypes": [
     "book",
@@ -9,6 +9,10 @@
     "encyclopedia-entry",
     "journal-article",
     "scholarly-edition"
+  ],
+  "conferenceAbstractWorkTypes": [
+    "conference-abstract",
+    "conference-output"
   ],
   "excludedWorkTypes": [
     "conference-paper",
@@ -35222,15 +35226,15 @@
       "openAlexId": "https://openalex.org/W7154593608",
       "id": "abstract-ba73a50a9ccd4312",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:001761422000017",
+      "sourceCitations": {
+        "webOfScience": "JOURNAL OF HEART AND LUNG TRANSPLANTATION 45(5), pp.569-569"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "ISHLT 2026 meeting abstract; one-page congress item"
         ]
-      },
-      "webOfScienceId": "WOS:001761422000017",
-      "sourceCitations": {
-        "webOfScience": "JOURNAL OF HEART AND LUNG TRANSPLANTATION 45(5), pp.569-569"
       }
     },
     {
@@ -35387,15 +35391,15 @@
       "openAlexId": "https://openalex.org/W7154587695",
       "id": "abstract-02e21ff69df30a3e",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:001761463200006",
+      "sourceCitations": {
+        "webOfScience": "JOURNAL OF HEART AND LUNG TRANSPLANTATION 45(5), pp.192-192"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "ISHLT 2026 meeting abstract; one-page congress item"
         ]
-      },
-      "webOfScienceId": "WOS:001761463200006",
-      "sourceCitations": {
-        "webOfScience": "JOURNAL OF HEART AND LUNG TRANSPLANTATION 45(5), pp.192-192"
       }
     },
     {
@@ -35576,15 +35580,15 @@
       "openAlexId": "https://openalex.org/W7204808736",
       "id": "abstract-ed93278f42cbc94b",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:001863721100039",
+      "sourceCitations": {
+        "webOfScience": "TRANSPLANTATION 110(9S), pp.S885-S886"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
-      },
-      "webOfScienceId": "WOS:001863721100039",
-      "sourceCitations": {
-        "webOfScience": "TRANSPLANTATION 110(9S), pp.S885-S886"
       }
     },
     {
@@ -35831,15 +35835,15 @@
       "openAlexId": "https://openalex.org/W4412851589",
       "id": "abstract-297a163f9b3a0891",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:001551680300140",
+      "sourceCitations": {
+        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 25(8), pp.S542-S542"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
-      },
-      "webOfScienceId": "WOS:001551680300140",
-      "sourceCitations": {
-        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 25(8), pp.S542-S542"
       }
     },
     {
@@ -35909,15 +35913,15 @@
       "collectionDoi": "10.1111/tan.70158",
       "id": "abstract-0db9558c95e61670",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:001525853600009",
+      "sourceCitations": {
+        "webOfScience": "HLA 105"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "webOfScienceId": "WOS:001525853600009",
-      "sourceCitations": {
-        "webOfScience": "HLA 105"
       }
     },
     {
@@ -36769,15 +36773,15 @@
       "id": "abstract-20944d9a118642b2",
       "relatedPublications": [],
       "webOfScienceId": "WOS:001082837700010",
+      "sourceCitations": {
+        "webOfScience": "HLA 101(4), pp.331-331"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official program provides a scientific abstract body for this contribution",
           "Erasmus University repository explicitly classifies this as Meeting Abstract and provides Web of Science accession WOS:001082837700010."
         ]
-      },
-      "sourceCitations": {
-        "webOfScience": "HLA 101(4), pp.331-331"
       }
     },
     {
@@ -36844,15 +36848,15 @@
           "score": 1
         }
       ],
+      "webOfScienceId": "WOS:001082837700042",
+      "sourceCitations": {
+        "webOfScience": "HLA 101(4), pp.347-348"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official program provides a scientific abstract body for this contribution"
         ]
-      },
-      "webOfScienceId": "WOS:001082837700042",
-      "sourceCitations": {
-        "webOfScience": "HLA 101(4), pp.347-348"
       }
     },
     {
@@ -37178,15 +37182,15 @@
       },
       "id": "abstract-1d01a3171014f9ae",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:000788004300061",
+      "sourceCitations": {
+        "webOfScience": "HLA 99(5), pp.443-443"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official program provides a scientific abstract body for this contribution"
         ]
-      },
-      "webOfScienceId": "WOS:000788004300061",
-      "sourceCitations": {
-        "webOfScience": "HLA 99(5), pp.443-443"
       }
     },
     {
@@ -37262,15 +37266,15 @@
           "score": 0.909
         }
       ],
+      "webOfScienceId": "WOS:000788004300018",
+      "sourceCitations": {
+        "webOfScience": "HLA 99(5), pp.422-423"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official program provides a scientific abstract body for this contribution"
         ]
-      },
-      "webOfScienceId": "WOS:000788004300018",
-      "sourceCitations": {
-        "webOfScience": "HLA 99(5), pp.422-423"
       }
     },
     {
@@ -37334,15 +37338,15 @@
       },
       "id": "abstract-801b9026f6398fff",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:000788004300039",
+      "sourceCitations": {
+        "webOfScience": "HLA 99(5), pp.432-432"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official program provides a scientific abstract body for this contribution"
         ]
-      },
-      "webOfScienceId": "WOS:000788004300039",
-      "sourceCitations": {
-        "webOfScience": "HLA 99(5), pp.432-432"
       }
     },
     {
@@ -37440,15 +37444,15 @@
           "score": 0.875
         }
       ],
+      "webOfScienceId": "WOS:000842606302120",
+      "sourceCitations": {
+        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 22, pp.386-386"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official congress abstract page with meeting year and abstract number 120"
         ]
-      },
-      "webOfScienceId": "WOS:000842606302120",
-      "sourceCitations": {
-        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 22, pp.386-386"
       }
     },
     {
@@ -37538,15 +37542,15 @@
       },
       "id": "abstract-59806c64a7d7bfb7",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:000691812200014",
+      "sourceCitations": {
+        "webOfScience": "CLINICAL AND EXPERIMENTAL RHEUMATOLOGY 39(5), pp.1153-1154"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "webOfScienceId": "WOS:000691812200014",
-      "sourceCitations": {
-        "webOfScience": "CLINICAL AND EXPERIMENTAL RHEUMATOLOGY 39(5), pp.1153-1154"
       }
     },
     {
@@ -37624,15 +37628,15 @@
       },
       "id": "abstract-4e411f2ca4efb419",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:000690761600719",
+      "sourceCitations": {
+        "webOfScience": "INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 62(8)"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "webOfScienceId": "WOS:000690761600719",
-      "sourceCitations": {
-        "webOfScience": "INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 62(8)"
       }
     },
     {
@@ -37994,15 +37998,15 @@
           "score": 0.643
         }
       ],
+      "webOfScienceId": "WOS:000546629501344",
+      "sourceCitations": {
+        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 20, pp.403-403"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official congress abstract page with meeting year and abstract number 243"
         ]
-      },
-      "webOfScienceId": "WOS:000546629501344",
-      "sourceCitations": {
-        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 20, pp.403-403"
       }
     },
     {
@@ -38088,15 +38092,15 @@
       },
       "id": "abstract-eed3114c422ddd65",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:000546629502251",
+      "sourceCitations": {
+        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 20, pp.636-636"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official congress abstract page with meeting year and abstract number B-365"
         ]
-      },
-      "webOfScienceId": "WOS:000546629502251",
-      "sourceCitations": {
-        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 20, pp.636-636"
       }
     },
     {
@@ -38308,15 +38312,15 @@
       "collectionDoi": "10.1111/aos.14387",
       "id": "abstract-19d84ce27c3fb2f1",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:000562907300110",
+      "sourceCitations": {
+        "webOfScience": "ACTA OPHTHALMOLOGICA 98, pp.34-34"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "webOfScienceId": "WOS:000562907300110",
-      "sourceCitations": {
-        "webOfScience": "ACTA OPHTHALMOLOGICA 98, pp.34-34"
       }
     },
     {
@@ -39124,15 +39128,15 @@
       },
       "id": "abstract-06c353a7fe5f3b91",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:000430290800105",
+      "sourceCitations": {
+        "webOfScience": "HLA 91(5), pp.372-372"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "webOfScienceId": "WOS:000430290800105",
-      "sourceCitations": {
-        "webOfScience": "HLA 91(5), pp.372-372"
       }
     },
     {
@@ -39490,15 +39494,15 @@
       "openAlexId": "https://openalex.org/W2590743714",
       "id": "abstract-fd9e25ad05879459",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:000540635000197",
+      "sourceCitations": {
+        "webOfScience": "BIOLOGY OF BLOOD AND MARROW TRANSPLANTATION 23(3), pp.S161-S161"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
-      },
-      "webOfScienceId": "WOS:000540635000197",
-      "sourceCitations": {
-        "webOfScience": "BIOLOGY OF BLOOD AND MARROW TRANSPLANTATION 23(3), pp.S161-S161"
       }
     },
     {
@@ -39779,15 +39783,15 @@
       },
       "id": "abstract-9797340f028fed64",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:000404515702432",
+      "sourceCitations": {
+        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.358-358"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official congress abstract page with meeting year and abstract number 432"
         ]
-      },
-      "webOfScienceId": "WOS:000404515702432",
-      "sourceCitations": {
-        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.358-358"
       }
     },
     {
@@ -40045,15 +40049,15 @@
       },
       "id": "abstract-900db76abbbdd0c7",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:000404515702433",
+      "sourceCitations": {
+        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.359-359"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official congress abstract page with meeting year and abstract number 433"
         ]
-      },
-      "webOfScienceId": "WOS:000404515702433",
-      "sourceCitations": {
-        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.359-359"
       }
     },
     {
@@ -40593,15 +40597,15 @@
           "score": 1
         }
       ],
+      "webOfScienceId": "WOS:000411658700173",
+      "sourceCitations": {
+        "webOfScience": "HUMAN IMMUNOLOGY 78, pp.140-140"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
-      },
-      "webOfScienceId": "WOS:000411658700173",
-      "sourceCitations": {
-        "webOfScience": "HUMAN IMMUNOLOGY 78, pp.140-140"
       }
     },
     {
@@ -40692,15 +40696,15 @@
           "score": 1
         }
       ],
+      "webOfScienceId": "WOS:000411658700174",
+      "sourceCitations": {
+        "webOfScience": "HUMAN IMMUNOLOGY 78, pp.141-141"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
-      },
-      "webOfScienceId": "WOS:000411658700174",
-      "sourceCitations": {
-        "webOfScience": "HUMAN IMMUNOLOGY 78, pp.141-141"
       }
     },
     {
@@ -40785,15 +40789,15 @@
           "score": 1
         }
       ],
+      "webOfScienceId": "WOS:000411658700274",
+      "sourceCitations": {
+        "webOfScience": "HUMAN IMMUNOLOGY 78, pp.217-217"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
-      },
-      "webOfScienceId": "WOS:000411658700274",
-      "sourceCitations": {
-        "webOfScience": "HUMAN IMMUNOLOGY 78, pp.217-217"
       }
     },
     {
@@ -41137,15 +41141,15 @@
           "score": 0.6
         }
       ],
+      "webOfScienceId": "WOS:000469797100025",
+      "sourceCitations": {
+        "webOfScience": "NEPHROLOGY DIALYSIS TRANSPLANTATION 32, pp.15-+"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "ERA-EDTA 2017 numbered congress abstract SO024 in NDT supplement 3"
         ]
-      },
-      "webOfScienceId": "WOS:000469797100025",
-      "sourceCitations": {
-        "webOfScience": "NEPHROLOGY DIALYSIS TRANSPLANTATION 32, pp.15-+"
       }
     },
     {
@@ -42511,15 +42515,15 @@
           "score": 1
         }
       ],
+      "webOfScienceId": "WOS:000349242707088",
+      "sourceCitations": {
+        "webOfScience": "BLOOD 124(21)"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
-      },
-      "webOfScienceId": "WOS:000349242707088",
-      "sourceCitations": {
-        "webOfScience": "BLOOD 124(21)"
       }
     },
     {
@@ -42778,15 +42782,15 @@
       "openAlexId": "https://openalex.org/W2553981673",
       "id": "abstract-f22caa449a6106ed",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:000349233803023",
+      "sourceCitations": {
+        "webOfScience": "BLOOD 124(21)"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
-      },
-      "webOfScienceId": "WOS:000349233803023",
-      "sourceCitations": {
-        "webOfScience": "BLOOD 124(21)"
       }
     },
     {
@@ -43473,15 +43477,15 @@
       },
       "id": "abstract-7282ef24b54781f1",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:000318523600077",
+      "sourceCitations": {
+        "webOfScience": "TISSUE ANTIGENS 81(5), pp.295-296"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "webOfScienceId": "WOS:000318523600077",
-      "sourceCitations": {
-        "webOfScience": "TISSUE ANTIGENS 81(5), pp.295-296"
       }
     },
     {
@@ -43545,15 +43549,15 @@
       },
       "id": "abstract-72d1ece5125af8bd",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:000319025200200",
+      "sourceCitations": {
+        "webOfScience": "BONE MARROW TRANSPLANTATION 48, pp.S87-S88"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "webOfScienceId": "WOS:000319025200200",
-      "sourceCitations": {
-        "webOfScience": "BONE MARROW TRANSPLANTATION 48, pp.S87-S88"
       }
     },
     {
@@ -43634,15 +43638,15 @@
       "openAlexId": "https://openalex.org/W52139077",
       "id": "abstract-ef9923b4abd2fae0",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:000326060900051",
+      "sourceCitations": {
+        "webOfScience": "HUMAN IMMUNOLOGY 74, pp.39-39"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
-      },
-      "webOfScienceId": "WOS:000326060900051",
-      "sourceCitations": {
-        "webOfScience": "HUMAN IMMUNOLOGY 74, pp.39-39"
       }
     },
     {
@@ -44671,15 +44675,15 @@
           "score": 0.7
         }
       ],
+      "webOfScienceId": "WOS:000313838900223",
+      "sourceCitations": {
+        "webOfScience": "BLOOD 120(21)"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
-      },
-      "webOfScienceId": "WOS:000313838900223",
-      "sourceCitations": {
-        "webOfScience": "BLOOD 120(21)"
       }
     },
     {
@@ -45286,15 +45290,15 @@
       "openAlexId": "https://openalex.org/W2979622763",
       "id": "abstract-2e9d4050079fe570",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:000272725801376",
+      "sourceCitations": {
+        "webOfScience": "BLOOD 114(22), pp.491-492"
+      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
         ]
-      },
-      "webOfScienceId": "WOS:000272725801376",
-      "sourceCitations": {
-        "webOfScience": "BLOOD 114(22), pp.491-492"
       }
     },
     {
