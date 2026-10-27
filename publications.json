@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-27T21:11:44.268Z",
+  "generatedAt": "2026-10-27T22:19:41.000Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "includedWorkTypes": [
     "book",
@@ -53,7 +53,6 @@
           "position": "first",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht",
             "Wilhelmina Children's Hospital"
           ]
@@ -64,7 +63,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht",
             "Wilhelmina Children's Hospital"
           ]
@@ -75,7 +73,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht",
             "Wilhelmina Children's Hospital"
           ]
@@ -86,7 +83,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht",
             "Wilhelmina Children's Hospital"
           ]
@@ -160,7 +156,6 @@
           "position": "last",
           "corresponding": false,
           "institutions": [
-            "Utrecht University",
             "University Medical Center Utrecht",
             "Wilhelmina Children's Hospital",
             "Eindhoven University of Technology"
@@ -237,7 +232,7 @@
       "fullTextUrl": "https://europepmc.org/articles/PMC13094400",
       "bestOpenAccessUrl": "https://doi.org/10.1111/tan.70725",
       "openAlexId": "https://openalex.org/W7154974896",
-      "openAlexType": "article",
+      "openAlexType": "review",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W7154974896",
       "abstract": "The rapid advances in HLA genotyping technology and the massive amounts of associated data have created a demand for better and more efficient laboratory data management practices. However, while some standards have been developed, there is a need for comprehensive guidelines that include all laboratory data-related processes such as messaging, storage and retention, documentation, reporting, validation and quality control. An important consideration in developing these recommendations is the feasibility of application in a laboratory setting without posing a substantial staff and cost burden for implementation and long-term maintenance and the availability of publicly available tools. This article presents evidence-based recommendations for multiple laboratory general data practices, focusing on HLA genotyping data and associated meta-data. These recommendations are compiled by experts in the fields of histocompatibility and immunogenetics (H&I) and representation from multiple H&I worldwide professional society leadership with the long-term goal of adopting these recommendations in future laboratory accreditation requirements.",
@@ -631,8 +626,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -750,8 +744,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
+            "Maastricht University Medical Centre"
           ]
         },
         {
@@ -35866,7 +35859,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W4412851562",
-      "abstract": null,
+      "abstract": "Purpose: Broad HLA sensitization induced by a first transplantation may limit the donor pool for a subsequent transplantation significantly. Identification of patients at a high risk of sensitization offers the opportunity to tailor immunosuppression strategies after loss of graft function to reduce this risk, with resultant increased chances of re-transplantation.",
       "authors": [
         {
           "name": "M. Niemann"
@@ -36388,14 +36381,14 @@
       },
       "id": "abstract-20944d9a118642b2",
       "relatedPublications": [],
+      "webOfScienceId": "WOS:001082837700010",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official program provides a scientific abstract body for this contribution",
           "Erasmus University repository explicitly classifies this as Meeting Abstract and provides Web of Science accession WOS:001082837700010."
         ]
-      },
-      "webOfScienceId": "WOS:001082837700010"
+      }
     },
     {
       "title": "The number of donor HLA-derived T-cell epitopes available for indirect antigen presentation determines the risk for vascular rejection after kidney transplantation",
@@ -36998,14 +36991,14 @@
       },
       "id": "abstract-f55da1459f845930",
       "relatedPublications": [],
+      "translatedTitle": "T- and B-cell epitope analysis to predict de novo donor-specific antibody production risk after kidney transplantation",
+      "translationNote": "English translation for discovery; Japanese source title retained as the authoritative title.",
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
-      },
-      "translatedTitle": "T- and B-cell epitope analysis to predict de novo donor-specific antibody production risk after kidney transplantation",
-      "translationNote": "English translation for discovery; Japanese source title retained as the authoritative title."
+      }
     },
     {
       "title": "21%-51% of a Single-Center, 15-Year Cohort of All Patients with ESKD Prior to the Age of 50 Have Monogenic Kidney Disease",
@@ -37728,7 +37721,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2590104313",
-      "abstract": null,
+      "abstract": "Background: HLA-mismatches in hematopoietic stem-cell transplantation (HSCT) correlate with impaired overall survival (OS). We aimed at identifying permissible HLA-mismatches. To this end, we analyzed a novel computational method that identifies the number of Predicted Indirectly ReCognizable HLA-Epitopes (PIRCHE). PIRCHE are predicted peptides derived from the patient's mismatched-HLA molecules that can be presented by shared HLA. Methods: A Dutch multicenter cohort of 685 patients was retrospectively studied. PIRCHE numbers were determined either presented on HLA class-I (PIRCHE-I) or class-II (PIRCHE-II) for patients receiving a single HLA-mismatched (9/10) unrelated donor transplant (N = 249), using unambiguous high-resolution HLA-A, -B, -C, -DRB1 and -DQB1 typings. Patients were divided into three equal-sized groups according to their PIRCHE numbers (low, medium, and high). The clinical outcome of these groups was compared to a reference group of HLA-matched transplantations (N = 436). The primary endpoints were OS and non-relapse mortality (NRM). Findings: The group transplanted with low PIRCHE-I and -II had an OS (HR 1.33, P = .13) and an NRM (HR .90, P = .69) comparable with the 10/10 HLA-matched group. The medium with high PIRCHE-I or -II had significantly increased risks of mortality (HR 1.44, P = .009) and NRM (HR 1.47, P = .02). Moreover, PIRCHE numbers also dissected HLA mismatches into those with a significantly increased or comparable risk of progression-free survival and acute graft-versus-host disease as HLA-matched transplantations, whereas there were no differences in progression risk when comparing the PIRCHE groups with HLA-matched transplantations. Interpretation: This study suggests that the permissibility of HLA-mismatched transplantations may be predicted by PIRCHE numbers. In future, PIRCHE may provide a novel method for selection of HLA-mismatched donors.",
       "authors": [
         {
           "name": "Kirsten A. Thus"
@@ -38737,7 +38730,7 @@
       "openAlexType": "conference-abstract",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2618251445",
-      "abstract": null,
+      "abstract": "INTRODUCTION AND AIMS: HLA mismatches of the donor and recipient causing de novo donor-specific HLA antibodies (dnDSA) are a risk factor for immunologic complications and poor graft survival. Evaluating histocompatibility based on HLA epitopes may improve outcomes after kidney transplantation and better prevent sensitization than classical matching of HLA class I and II antigens. To date there is very few data examining clinical outcomes based on HLA epitope matching. METHODS: 2,787 consecutive adult kidney transplants performed 1995-2015 without preformed DSA have been included. De novo DSA were detected by Luminex single antigen assay. HLAMatchmaker score was calculated as the weighted sum of eplets of high resolution patient and donor typing. RESULTS: The distribution of the HLA epitope mismatch (assessed by the HLAMatchmaker algorithm) and the correlation to the count of mismatched A,B,C,DR,DQ-HLA molecules is shown in Fig.1a and Fig.1b. Categorization by HLAMatchmaker epitopes significantly predicted the incidence of dnDSA (Fig.1c) and allograft survival (Fig.1d). In a multivariate Cox regression analysis adjusted for the number of antigen mismatches the HLAMatchmaker score could be identified as an independent risk factor for dnDSA (HR per 10 increment 1.269 (p<0.0001) adjusted for A,B,DR-antigen mismatches; HR 1.270 (p<0.0001) per 10 increment adjusted for A,B,C,DR,DQ-antigen mismatches). SO025 Figure",
       "authors": [
         {
           "name": "Oliver Staeck"
@@ -38869,7 +38862,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2550019273",
-      "abstract": null,
+      "abstract": "Abstract Introduction: The outcome of allo-SCT in patients with hematological malignancies is still hampered by GVHD and relapse. Specific depletion of αβ T- cells is proposed to result in a decreased incidence of aGVHD, whereas the remaining innate cells such as NK cells and γδT cells may provide control of infected and transformed cells the first months post SCT. This strategy has been pioneered in haploindentical transplantation with promising results. Within this study, we extend αβT- cell depleted allo-SCT to patients with a matched related and unrelated donor. The primary aim is to develop an allogeneic SCT protocol with a low incidence of aGVHD without an increased incidence of infections or relapse to serve as a platform for post-allo interventions such as a pre-emptive DLI or transfer of genetically modified T cells. Methods: Patients with hematological malignancies (including AML, ALL, MM, NHL) who received an αβT-cell depleted allo-SCT of a HLA matched sibling (MRD) or HLA matched (9 or 10/10) unrelated donor (MUD) were analysed. αβT-cell reduction was performed by negative selection with anti-αβTCR antibodies in combination with magnetic microbeads, using the automated CliniMACS device (Miltenyi Biotec, Bergisch Gladbach, Germany). The maximal contamination with αβT-cells was 5x105/kg. The conditioning regimen consisted of: ATG (Genzyme®) 6 mg/m2 + fludarabine 120 mg/m2 + busilvex AUC=90. Immune suppression consisted of 28 days of mycophenolic acid. A cohort of 32 patients was retrospectively analyzed for clinical parameters including immune reconstitution, engraftment, infections, GVHD, relapse, NRM and OS and compared to an historical control cohort of recipients of a T cell replete allo-SCT. In addition in a subset of patients NGS of the TCRβ chain was performed using the Illumina/MiSeq sequencing platform after isolation diverse immune subsets within the αβT-cell repertoire. Results: The combination of ATG/fludarabine/busilvex was well tolerated with hematological recovery within 3 weeks. Primary engraftment (chimerism > 95%) was observed in all patients (n=32). Immune reconstitution primarily consisted of NK cells. In addition, γδT cells were detectable at normal numbers the first half year post SCT, whereas the adaptive immune repertoire showed a delayed reconstitution. As compared to the historical control cohort, the incidence of CMV (54% vs 38%; p = 0,48) and EBV (32% vs 9%' p=0,148) infections did not show a significant increase. The incidence of aGVHD > grade II within 100 days in patients of a αβT-cell depleted allo-SCT was 0%. During this relative short time of follow-up (1-14 months) 2 patients developed a relapse (both > 6 months) and 2 patients deceased (one with mucormycosis, one with GVHD post DLI). With NGS of the TCRβ repertoire, a surprising diversity was observed in defined immune subsets ranging from clonal expansion of regulatory T cells to broad repertoires in effector memory cells. Conclusion: αβT-cell depletion in MRD/MUD results in a swift reconstitution of innate cells (NK cells and γδT-cells) the first 6 months post transplantation, followed by a subsequent reconstitution of the adaptive immune repertoire. The diversity appears to be different for diverse subsets of the αβT-cell repertoire, which remains to be confirmed in an extended pool of patients. The incidence of severe aGVHD is low, without a significant increase in infections or relapse shortly post allo-SCT. These results will be confirmed during extended follow-up and in a planned prospective multicenter study. Disclosures No relevant conflicts of interest to declare.",
       "authors": [
         {
           "name": "Moniek de Witte"
@@ -39012,7 +39005,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2322632010",
-      "abstract": null,
+      "abstract": "Unrelated Cord Blood Transplantation (UCBT) provides a curative therapy for patients with hematological malignancies (and a variety of benign disorders). HLA-mismatched UCBT is associated with improved leukemia control. The aim of this study was to investigate whether indirect recognition of the mismatched HLA provides an explanation for this improved graft-versus-leukemia (GVL) effect, and can be used to identify donors with optimal GVL properties without impacting probability on graft-versus-host disease (GVHD).",
       "authors": [
         {
           "name": "Kirsten A. Thus"
@@ -39143,7 +39136,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2122221803",
-      "abstract": null,
+      "abstract": "HLA mismatches in hematopoietic stem-cell transplantation (HSCT) correlate with adverse outcome due to increased alloreactivity. Identification of permissible HLA-mismatches might be beneficial for donor selection when a 10/10 matched donor cannot be found.",
       "authors": [
         {
           "name": "Kirsten A. Thus"
@@ -40109,7 +40102,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W4243572623",
-      "abstract": null,
+      "abstract": "Despite improvements in the last decade in the field of HSCT, acute graft versus host disease (aGVHD) remains a life-threatening complication of HSCT. In particular, the outcome of patients with severe steroid-resistant aGVHD is very poor. Therefore, it remains important to search for new therapeutic strategies.",
       "authors": [
         {
           "name": "Liane te Boome"
@@ -40369,7 +40362,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2530035443",
-      "abstract": null,
+      "abstract": "Abstract Abstract 2979 Allogeneic stem cell transplantation (allo-SCT), alone or followed by donor lymphocyte infusion (DLI), is a potentially curative treatment for various hematological malignancies. In an HLA-matched transplantation setting, the therapeutic graft-versus-tumor (GvT) effect is mediated by donor T-cells directed at minor histocompatibility antigens (mHags), which are HLA-bound polymorphic peptides. Since mHags are also involved in the induction of graft-versus-host disease (GvHD), the immunotherapeutic potential of a mHag depends on its hematopoietic tissue restriction. The identification of more relevant mHags, which are presented by frequent HLA molecules and display an equally balanced population frequency, is imperative to enable broad implementation of mHag-based immunotherapy. We now report the discovery of a novel mHag that fulfills all these criteria and thus has evident clinical and immunotherapeutic relevance. The mHag was identified by analysis of a cloned CD8+ cytotoxic T lymphocyte (CTL), isolated from a multiple myeloma (MM) patient at the peak of his clinical response. This response started just after a second DLI following an HLA matched sibling transplantation and resulted in a complete remission that at present persists for over 8 years, without other treatment. The CTL 503A1 was specifically selected for analysis since it displayed strong cytotoxic activity toward a mHag which was presented by the frequent HLA-molecule HLA-A2*0101. Phenotype analyses revealed a phenotype frequency of around 40% in the Caucasoid population, providing a possibility to apply this mHag in immunotherapy in nearly 12% of allo-SCT patients. Using genome wide zygosity-genotype correlation analysis, followed by fine epitope mapping with synthetic peptides, we identified the antigen recognized by this clone as a nonameric peptide encoded by the SNP rs2166807 on the gene C12orf35. This new mHag was designated as UTA2-1. Quantitative PCR experiments confirmed the hematopoietic tissue restriction of gene C12orf35, with high expression on malignant B and T cells. In a detailed analysis exploring the clinical relevancy of UTA2-1, CTL 503A1 lysed not only benign hematopoietic cells but also primary and immortalized multiple myeloma cells without affecting fibroblasts, keratinocytes or stromal cells derived from the original patient. Tetramer analyses executed on original recipient peripheral blood samples taken after allo-SCT and the DLIs, demonstrated significant expansion of UTA2-1 specific T-cells, coinciding with strong clinical responses after allo-SCT and the second DLI. In summary, UTA2-1 has an ideally balanced population frequency, HLA-A2 restriction, hematopoietic-specific tissue distribution, optimal expression on malignant cells and the clinical capacity to evoke effective T-cell responses during an anti-myeloma effect. With these properties, UTA2-1 is the most clinically relevant mHag identified so far, next to the well-studied mHag HA-1, and has potential of expanding mHag-based adoptive immunotherapy for a great number of patients. Disclosures: No relevant conflicts of interest to declare.",
       "authors": [
         {
           "name": "Rimke Oostvogels"
