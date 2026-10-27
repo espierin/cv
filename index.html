@@ -4485,7 +4485,9 @@
           <details><summary>Authors &amp; verification</summary>
             <p>${formatAuthors(r.authors, 999)}</p>
             <ul>${evidence.map(e => `<li>${escapeHtml(e)}</li>`).join("")}</ul>
+            ${r.verification?.checkedAt ? `<p>Source review: ${escapeHtml(r.verification.checkedAt)}</p>` : ""}
             <div class="publication-actions">${sources.map((source,i) => safeLink(`Source ${i+1}`,source.url)).join("")}${r.collectionDoi ? safeLink("Abstract book DOI",`https://doi.org/${r.collectionDoi}`) : ""}</div>
+            ${sources.some(s => s.access) ? `<ul>${sources.filter(s => s.access).map(s => `<li>${escapeHtml(s.access)}</li>`).join("")}</ul>` : ""}
             ${related.length ? `<p>Possibly related full publications (title and coauthor overlap; study identity not confirmed):</p><ul>${related.map(p=>`<li>${safeLink(p.title,`https://doi.org/${p.doi}`)}</li>`).join("")}</ul>` : ""}
           </details>
         </article>`;
