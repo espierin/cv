@@ -47,12 +47,7 @@
     }
 
     a {
-      color: var(--umcu-orange);
-    }
-
-    .primary-nav a:hover,
-    .primary-nav a:focus-visible {
-      color: var(--umcu-orange);
+      color: inherit;
     }
 
     button,
@@ -118,7 +113,7 @@
     }
 
     .primary-nav a {
-      color: var(--umcu-orange);
+      color: var(--muted);
       text-decoration: none;
       font-size: 0.92rem;
       font-weight: 700;
@@ -503,17 +498,6 @@
       background: var(--umcu-blue);
       font-size: 1.05rem;
       font-weight: 800;
-      box-shadow: inset 0 0 0 1px rgba(255,255,255,.22), 0 6px 16px rgba(0,59,112,.16);
-    }
-
-    .role-icon svg {
-      width: 36px;
-      height: 36px;
-      fill: none;
-      stroke: currentColor;
-      stroke-width: 2.2;
-      stroke-linecap: round;
-      stroke-linejoin: round;
     }
 
     .role-card h3 {
@@ -552,41 +536,6 @@
       border-color: var(--umcu-blue);
       background: var(--umcu-blue);
     }
-
-    .publication-chart {
-      margin: 0 0 24px;
-      padding: 18px 18px 12px;
-      border: 1px solid var(--line);
-      border-radius: var(--radius-md);
-      background: white;
-    }
-
-    .publication-chart h3 {
-      margin: 0 0 10px;
-      color: var(--umcu-blue-dark);
-      font-size: 1rem;
-    }
-
-    .publication-chart-scroll {
-      overflow-x: auto;
-      overflow-y: hidden;
-      scrollbar-width: thin;
-      scrollbar-color: #a9bfd2 transparent;
-      overscroll-behavior-inline: contain;
-    }
-
-    .publication-chart svg {
-      display: block;
-      height: 210px;
-      max-height: 210px;
-      overflow: hidden;
-    }
-
-    .publication-chart .axis { stroke: #c9d8e6; stroke-width: 1; }
-    .publication-chart .bar { fill: var(--umcu-blue); }
-    .publication-chart .bar:hover { fill: var(--umcu-orange); }
-    .publication-chart .bar-label { fill: var(--muted); font: 12px Arial, Helvetica, sans-serif; }
-    .publication-chart .count-label { fill: var(--umcu-blue-dark); font: 700 11px Arial, Helvetica, sans-serif; }
 
     .publication-list {
       display: grid;
@@ -786,7 +735,7 @@
     }
 
     .publication-link {
-      color: var(--umcu-orange);
+      color: var(--umcu-blue);
       text-decoration: none;
     }
 
@@ -966,12 +915,7 @@
         </span>
       </a>
 
-      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation">
-        <span class="menu-toggle-icon" aria-hidden="true"><span></span><span></span><span></span></span>
-        <span class="menu-toggle-label">Menu</span>
-      </button>
-
-      <nav class="primary-nav" id="primary-navigation" aria-label="Main navigation">
+      <nav class="primary-nav" aria-label="Main navigation">
         <a href="#profile">Profile</a>
         <a href="#focus">Focus</a>
         <a href="#roles">Roles</a>
@@ -1213,7 +1157,7 @@
 
         <div class="roles-grid">
           <article class="role-card">
-            <div class="role-icon" aria-hidden="true"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M8 12h32v25H8z"/><path d="M15 19h18M15 25h18M15 31h10"/><path d="M18 7v5m12-5v5"/></svg></div>
+            <div class="role-icon">CDL</div>
             <div>
               <h3>Director Transplantation Diagnostics</h3>
               <p>I hold scientific and professional responsibility for HLA and transplantation diagnostics within the Central Diagnostic Laboratory at UMC Utrecht.</p>
@@ -1221,7 +1165,7 @@
           </article>
 
           <article class="role-card">
-            <div class="role-icon" aria-hidden="true"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M8 38h32M12 38V18l12-8 12 8v20"/><path d="M18 38V25h12v13M18 20h.1M30 20h.1"/></svg></div>
+            <div class="role-icon">UU</div>
             <div>
               <h3>Associate Professor</h3>
               <p>I conduct research, supervise researchers and students, teach, and contribute to academic development in transplantation immunology and immunogenetics.</p>
@@ -1229,7 +1173,7 @@
           </article>
 
           <article class="role-card">
-            <div class="role-icon" aria-hidden="true"><svg viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="16"/><path d="M16 31V17h10M16 24h9M29 17h6M29 24h6M29 31h6"/></svg></div>
+            <div class="role-icon">EFI</div>
             <div>
               <h3>EFI Scientific Committee and BITCom</h3>
               <p>I am a member of the EFI Scientific Committee and founding chair of the Bioinformatics and Information Technology Committee.</p>
@@ -1237,7 +1181,7 @@
           </article>
 
           <article class="role-card">
-            <div class="role-icon" aria-hidden="true"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M10 38V12h7l7 11 7-11h7v26"/><path d="M17 12v18m14-18v18"/></svg></div>
+            <div class="role-icon">M</div>
             <div>
               <h3>Secondment at Matchis</h3>
               <p>Through my secondment at Matchis, I strengthen the connection between donor registry practice, HLA expertise, research development, and implementation of improved matching strategies.</p>
@@ -1245,7 +1189,7 @@
           </article>
 
           <article class="role-card">
-            <div class="role-icon" aria-hidden="true"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M9 14h30M24 14v23M16 37h16"/><circle cx="24" cy="10" r="3"/><circle cx="13" cy="24" r="3"/><circle cx="35" cy="24" r="3"/><path d="M13 27v7h22v-7"/></svg></div>
+            <div class="role-icon">TCU</div>
             <div>
               <h3>Diagnostics ambassador</h3>
               <p>As diagnostics ambassador within the Transplantation Center Utrecht, I connect laboratory disciplines with care, research, innovation, and education.</p>
@@ -1253,7 +1197,7 @@
           </article>
 
           <article class="role-card">
-            <div class="role-icon" aria-hidden="true"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M24 8v5M24 35v5M8 24h5m22 0h5M13 13l4 4m14 14 4 4m0-22-4 4m-14 14-4 4"/><circle cx="24" cy="24" r="9"/><circle cx="21" cy="22" r="1"/><circle cx="27" cy="22" r="1"/><path d="M21 27h6"/></svg></div>
+            <div class="role-icon">AI</div>
             <div>
               <h3>Data-driven diagnostics and AI</h3>
               <p>I lead CDL-wide development in data-driven working and artificial intelligence, including operational dashboards, workflow analytics, and diagnostic decision support.</p>
@@ -1290,12 +1234,7 @@
           <span class="publication-count" id="publication-count"></span>
         </div>
 
-        <p class="orcid-status" id="orcid-status" role="status" aria-live="polite">Loading publication data…</p>
-        <div class="publication-chart" aria-label="Publications by year">
-          <h3>Publications per year</h3>
-          <div class="publication-chart-scroll" id="publication-chart-scroll" tabindex="0" aria-label="Scroll horizontally to view publication counts by year"></div>
-        </div>
-        <div class="publication-list" id="publication-list">
+        <div class="publication-list">
           <article class="publication key-publication" data-key="true" data-category="matching outcome">
             <div class="publication-year">2025</div>
             <div>
@@ -1547,7 +1486,7 @@
 
     function formatAuthors(authors) {
       if (!Array.isArray(authors) || authors.length === 0) return "";
-      return authors\n        .map((author) => typeof author === "string" ? author : author?.name || "")\n        .filter(Boolean)\n        .map(escapeHtml)\n        .join(", ");
+      return authors.map(escapeHtml).join(", ");
     }
 
     function publicationUrl(publication) {
@@ -1588,39 +1527,8 @@
       );
     }
 
-    function renderPublicationChart() {
-      const chartElement = document.getElementById("publication-chart-scroll");
-      const byYear = new Map();
-      for (const publication of state.publications) {
-        const year = Number(publication.year);
-        if (!Number.isFinite(year) || year < 1800) continue;
-        byYear.set(year, (byYear.get(year) || 0) + 1);
-      }
-      const years = [...byYear.keys()].sort((a, b) => a - b);
-      if (!years.length) {
-        chartElement.innerHTML = '<p class="publication-meta">No year data available.</p>';
-        return;
-      }
-      const width = Math.max(620, years.length * 56 + 48);
-      const height = 210, left = 26, right = width - 12, top = 20, baseline = 160;
-      const maxCount = Math.max(...byYear.values()), slot = (right - left) / years.length;
-      const barWidth = Math.min(30, slot * 0.62);
-      const bars = years.map((year, index) => {
-        const count = byYear.get(year), barHeight = Math.max(2, (count / maxCount) * 112);
-        const x = left + index * slot + (slot - barWidth) / 2, y = baseline - barHeight;
-        return '<g><title>' + year + ': ' + count + (count === 1 ? ' publication' : ' publications') + '</title>' +
-          '<rect class="bar" x="' + x.toFixed(1) + '" y="' + y.toFixed(1) + '" width="' + barWidth.toFixed(1) + '" height="' + barHeight.toFixed(1) + '" rx="4"></rect>' +
-          '<text class="count-label" x="' + (x + barWidth / 2).toFixed(1) + '" y="' + Math.max(top, y - 5).toFixed(1) + '" text-anchor="middle">' + count + '</text>' +
-          '<text class="bar-label" x="' + (x + barWidth / 2).toFixed(1) + '" y="184" text-anchor="middle">' + year + '</text></g>';
-      }).join("");
-      chartElement.innerHTML = '<svg role="img" aria-label="Publication counts by year" viewBox="0 0 ' + width + ' ' + height + '" width="' + width + '" height="' + height + '">' +
-        '<line class="axis" x1="' + left + '" y1="' + baseline + '" x2="' + right + '" y2="' + baseline + '"></line>' + bars + '</svg>';
-      chartElement.scrollLeft = chartElement.scrollWidth;
-    }
-
     function renderPublications() {
       const publications = visiblePublications();
-      renderPublicationChart();
 
       countElement.textContent =
         publications.length +
@@ -1690,7 +1598,7 @@
           : [];
 
         statusElement.innerHTML =
-          `<strong>${state.publications.length} publications loaded.</strong> ` +
+          `<strong>${state.publications.length} ORCID works loaded.</strong> ` +
           `Dataset last refreshed ${escapeHtml(dataset.generatedAt || "at an unknown time")}.`;
         statusElement.classList.remove("error");
 
@@ -1721,22 +1629,6 @@
         filterButtons.forEach((item) => item.classList.remove("active"));
         button.classList.add("active");
         renderPublications();
-      });
-    });
-
-    const menuToggle = document.querySelector(".menu-toggle");
-    const primaryNavigation = document.getElementById("primary-navigation");
-
-    menuToggle.addEventListener("click", () => {
-      const isOpen = menuToggle.getAttribute("aria-expanded") === "true";
-      menuToggle.setAttribute("aria-expanded", String(!isOpen));
-      primaryNavigation.classList.toggle("is-open", !isOpen);
-    });
-
-    primaryNavigation.querySelectorAll("a").forEach((link) => {
-      link.addEventListener("click", () => {
-        menuToggle.setAttribute("aria-expanded", "false");
-        primaryNavigation.classList.remove("is-open");
       });
     });
 
