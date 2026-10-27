@@ -3056,6 +3056,18 @@
       }
     }
 
+    .conference-abstracts { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--line, #ccd7df); }
+    .conference-abstracts > h3 { font-size: 1.6rem; margin-bottom: 12px; }
+    .conference-abstracts > label { display: block; margin-bottom: 8px; }
+    .conference-abstracts > input { width: 100%; }
+    #conference-count { display: block; margin: 14px 0; }
+    #conference-list { max-height: 760px; overflow-y: auto; padding-right: 12px; }
+    .conference-entry { padding: 22px 0; border-bottom: 1px solid var(--line, #ccd7df); }
+    .conference-entry h4 { font-size: 1.08rem; line-height: 1.45; margin: 8px 0; }
+    .conference-entry summary { cursor: pointer; font-weight: 600; margin: 14px 0; }
+    .conference-entry details { font-size: .92rem; overflow-wrap: anywhere; }
+    .conference-entry details li { margin: 8px 0; }
+    @media print { #conference-list { max-height: none; overflow: visible; } }
   </style>
 
   <meta name="author" content="Eric Spierings">
@@ -4024,6 +4036,16 @@
 
         <div class="publication-list" id="publication-list"></div>
 
+        <section id="conference-abstracts" class="conference-abstracts" aria-labelledby="conference-heading">
+          <h3 id="conference-heading">Conference abstracts</h3>
+          <p class="section-intro">Published congress contributions with verified authorship. Listed separately from full scientific publications; the same study may have been presented at different meetings.</p>
+          <label for="conference-search">Search abstracts by title, author, year or meeting</label>
+          <input id="conference-search" class="publication-search" type="search" placeholder="e.g. PIRCHE, Goulmy, EFI or 2017" />
+          <p id="conference-count" class="publication-count" role="status" aria-live="polite"></p>
+          <div id="conference-list"></div>
+          <p><a class="publication-link" href="conference-abstracts-manual.json" target="external" rel="noopener noreferrer">Download verified registry and review candidates</a> · <a class="publication-link" href="https://github.com/espierin/cv/blob/main/research/conference-abstracts/README.md" target="external" rel="noopener noreferrer">Search coverage and evidence policy</a></p>
+        </section>
+
         <p class="section-intro" style="margin-top:24px;">
           Source:
           <a class="publication-link"
@@ -4033,7 +4055,7 @@
             ORCID 0000-0001-9441-1019
           </a>.
           ORCID determines which works are included; DOI metadata are supplemented from Crossref
-          where available.
+          where available. Conference abstracts are supplemented by the curated source registry.
         </p>
 
         <noscript>
@@ -4445,6 +4467,32 @@
       }).join("");
     }
 
+    function renderConferenceAbstracts() {
+      const query = document.getElementById("conference-search").value.trim().toLowerCase();
+      const items = state.conferenceAbstracts.filter(r => [r.title, r.translatedTitle, r.year, r.meeting, r.journal, r.abstractNumber, ...(r.authors || []).map(a => a.name)].join(" ").toLowerCase().includes(query));
+      document.getElementById("conference-count").textContent = `${items.length} of ${state.conferenceAbstracts.length} conference abstracts`;
+      const safeLink = (label, url) => /^https?:\/\//i.test(url || "") ? externalLink(label, url) : "";
+      document.getElementById("conference-list").innerHTML = items.length ? items.map(r => {
+        const evidence = [...(r.verification?.identityEvidence || []), ...(r.verification?.classificationEvidence || r.abstractClassification?.reasons || [])];
+        const sources = r.sources?.length ? r.sources : [{url:r.doi ? `https://doi.org/${r.doi}` : r.url}];
+        const related = (r.relatedPublications || []).filter(p => p.doi);
+        return `<article class="conference-entry">
+          <span class="publication-year">${escapeHtml(r.year || "n.d.")}</span>
+          <h4>${escapeHtml(r.title)}</h4>
+          ${r.translatedTitle ? `<p class="publication-meta">English translation: ${escapeHtml(r.translatedTitle)}</p>` : ""}
+          <p class="publication-meta">${escapeHtml([r.meeting, r.journal, r.volumeIssuePages, r.abstractNumber].filter(Boolean).join(" · "))}</p>
+          <p class="publication-meta">${formatAuthors(r.authors, 5)}</p>
+          <details><summary>Authors &amp; verification</summary>
+            <p>${formatAuthors(r.authors, 999)}</p>
+            <ul>${evidence.map(e => `<li>${escapeHtml(e)}</li>`).join("")}</ul>
+            <div class="publication-actions">${sources.map((source,i) => safeLink(`Source ${i+1}`,source.url)).join("")}${r.collectionDoi ? safeLink("Abstract book DOI",`https://doi.org/${r.collectionDoi}`) : ""}</div>
+            ${related.length ? `<p>Possibly related full publications (title and coauthor overlap; study identity not confirmed):</p><ul>${related.map(p=>`<li>${safeLink(p.title,`https://doi.org/${p.doi}`)}</li>`).join("")}</ul>` : ""}
+          </details>
+        </article>`;
+      }).join("") : '<p>No conference abstracts match this search.</p>';
+    }
+    document.getElementById("conference-search").addEventListener("input", renderConferenceAbstracts);
+
     function detailItem(label, value, isHtml = false) {
       if (value === null || value === undefined || value === "") return "";
       return `<div><dt>${escapeHtml(label)}</dt><dd>${isHtml ? value : escapeHtml(value)}</dd></div>`;
@@ -4809,6 +4857,7 @@
         statusElement.classList.remove("error");
 
         configureFilters();
+        renderConferenceAbstracts();
         renderInsights();
         updatePublicationSchema();
         renderPublications();

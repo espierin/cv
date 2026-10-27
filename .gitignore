@@ -1,0 +1,5 @@
+# Local discovery cache contains publisher HTML/PDFs and unreviewed search results.
+research/conference-abstracts/sources/
+research/conference-abstracts/crossref-eric-candidates.json
+research/conference-abstracts/__pycache__/
+research/conference-abstracts/conference-abstracts-draft.json

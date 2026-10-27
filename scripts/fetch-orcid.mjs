@@ -1,5 +1,6 @@
 import fs from "node:fs/promises";
 import process from "node:process";
+import {mergeConferenceAbstracts, loadConferenceRegistry, conferenceAudit} from './conference-abstracts.mjs';
 
 const config = JSON.parse(
   await fs.readFile(new URL("../publication-config.json", import.meta.url), "utf8")
@@ -715,7 +716,7 @@ const abstractReviewRecords = eligibleWorkTypeRecords.filter(
     record.abstractClassification?.decision === "review"
 );
 
-const publicationOutput = {
+const publicationOutput = mergeConferenceAbstracts({
   orcid: ORCID,
   generatedAt,
   source: "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata",
@@ -728,7 +729,7 @@ const publicationOutput = {
   conferenceAbstracts: conferenceAbstractRecords,
   abstractReviewCount: abstractReviewRecords.length,
   abstractsNeedingReview: abstractReviewRecords
-};
+}, await loadConferenceRegistry());
 
 const activitiesOutput = {
   person: "Eric Spierings",
@@ -752,42 +753,13 @@ await Promise.all([
   ),
   fs.writeFile(
     new URL("../publication-audit.json", import.meta.url),
-    JSON.stringify({
-      generatedAt,
-      source: "ORCID Public API enriched with Crossref, Europe PMC and OpenAlex",
-      policy: "High-confidence conference abstracts are separated from scientific publications. Ambiguous records remain in the publication list and are also marked for review.",
-      counts: {
-        scientificPublications: deduplicated.length,
-        conferenceAbstracts: conferenceAbstractRecords.length,
-        abstractsNeedingReview: abstractReviewRecords.length
-      },
-      abstracts: conferenceAbstractRecords.map((record) => ({
-        title: record.title,
-        year: record.year,
-        journal: record.journal,
-        volumeIssuePages: record.volumeIssuePages,
-        doi: record.doi,
-        pmid: record.pmid,
-        openAlexId: record.openAlexId,
-        orcidPutCode: record.putCode,
-        reasons: record.abstractClassification.reasons
-      })),
-      needsReview: abstractReviewRecords.map((record) => ({
-        title: record.title,
-        year: record.year,
-        journal: record.journal,
-        volumeIssuePages: record.volumeIssuePages,
-        doi: record.doi,
-        orcidPutCode: record.putCode,
-        reasons: record.abstractClassification.reasons
-      }))
-    }, null, 2) + "\n",
+    JSON.stringify(conferenceAudit(publicationOutput), null, 2) + "\n",
     "utf8"
   )
 ]);
 
 console.log(
-  `Wrote ${deduplicated.length} publications to publications.json`
+  `Wrote ${publicationOutput.count} publications and ${publicationOutput.conferenceAbstractCount} conference abstracts to publications.json`
 );
 console.log(
   `Wrote ${mergedActivities.length} activities to activities.json ` +

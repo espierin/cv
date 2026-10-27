@@ -7,6 +7,8 @@ on:
   push:
     paths:
       - "scripts/fetch-orcid.mjs"
+      - "scripts/conference-abstracts.mjs"
+      - "conference-abstracts-manual.json"
       - "publication-config.json"
       - "publication-audit.json"
       - ".github/workflows/update-orcid.yml"
@@ -28,6 +30,9 @@ jobs:
         with:
           node-version: "24"
           package-manager-cache: false
+
+      - name: Validate curated conference abstract merge
+        run: node --test scripts/conference-abstracts.test.mjs
 
       - name: Fetch and enrich complete ORCID works record
         env:
