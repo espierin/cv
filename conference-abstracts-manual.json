@@ -113,7 +113,9 @@
       "webOfScienceId": "WOS:001863721100039",
       "sourceCitations": {
         "webOfScience": "TRANSPLANTATION 110(9S), pp.S885-S886"
-      }
+      },
+      "putCode": 231445783,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Molecular Mismatch Probability is Dominated by Recipient Genotype Rather Than Donor Population",
@@ -179,7 +181,9 @@
       },
       "openAlexId": "https://openalex.org/W7165365350",
       "id": "abstract-025c715ccca41374",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231445788,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-001750677700175",
@@ -241,7 +245,9 @@
         ]
       },
       "webOfScienceId": "WOS:001750677700175",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231445746,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "HLA-B-21M Leader Variant is Associated with Increased Risk of Early Acute Rejection in CMV Seropositive Lung Transplant Recipients",
@@ -331,7 +337,9 @@
       "webOfScienceId": "WOS:001761463200006",
       "sourceCitations": {
         "webOfScience": "JOURNAL OF HEART AND LUNG TRANSPLANTATION 45(5), pp.192-192"
-      }
+      },
+      "putCode": 231445789,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-001750677700268",
@@ -393,7 +401,9 @@
         ]
       },
       "webOfScienceId": "WOS:001750677700268",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231445796,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "HLA Class I Leader Peptides Are Associated with Increased Risk of Acute Rejection in CMV Seropositive Lung Transplant Recipients",
@@ -483,7 +493,9 @@
       "webOfScienceId": "WOS:001761422000017",
       "sourceCitations": {
         "webOfScience": "JOURNAL OF HEART AND LUNG TRANSPLANTATION 45(5), pp.569-569"
-      }
+      },
+      "putCode": 231445798,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-001422987100011",
@@ -545,7 +557,9 @@
         ]
       },
       "webOfScienceId": "WOS:001422987100011",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231445812,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Indirect T Cell Epitope Mismatch Loads Are Correlated with Increased Levels of Panel-Reactive HLA Antibodies After Kidney Transplantation",
@@ -626,7 +640,9 @@
       "webOfScienceId": "WOS:001551680300134",
       "sourceCitations": {
         "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 25(8), pp.S539-S540"
-      }
+      },
+      "putCode": 231445874,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "HLA-B leader peptide dimorphism affects kidney transplant outcome",
@@ -698,7 +714,9 @@
       "webOfScienceId": "WOS:001525853600009",
       "sourceCitations": {
         "webOfScience": "HLA 105"
-      }
+      },
+      "putCode": 231445876,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Detection of Immunogenic T Cell Epitopes (Peptides) Involved in De Novo DSA Production Using Machine Learning Methods",
@@ -809,7 +827,9 @@
       "webOfScienceId": "WOS:001551680300140",
       "sourceCitations": {
         "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 25(8), pp.S542-S542"
-      }
+      },
+      "putCode": 231445877,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-001525853600060",
@@ -871,7 +891,9 @@
         ]
       },
       "webOfScienceId": "WOS:001525853600060",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231445880,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-001525853600059",
@@ -933,7 +955,9 @@
         ]
       },
       "webOfScienceId": "WOS:001525853600059",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231445886,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-001708632700139",
@@ -995,7 +1019,9 @@
         ]
       },
       "webOfScienceId": "WOS:001708632700139",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231445887,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Paternal HLA-Derived Epitopes and Live Birth in Secondary Recurrent Pregnancy Loss: New Insights From a Clinical Trial",
@@ -1071,7 +1097,9 @@
           "basis": "Title overlap and at least two shared coauthors; not a claim of identical study",
           "score": 1.0
         }
-      ]
+      ],
+      "putCode": 231445889,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-001364287301324",
@@ -1133,7 +1161,9 @@
         ]
       },
       "webOfScienceId": "WOS:001364287301324",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231445892,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-001708634200179",
@@ -1195,7 +1225,9 @@
         ]
       },
       "webOfScienceId": "WOS:001708634200179",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446052,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "The number of donor HLA-derived T-cell epitopes available for indirect antigen presentation determines the risk for vascular rejection after kidney transplantation",
@@ -1264,7 +1296,9 @@
       "webOfScienceId": "WOS:001082837700042",
       "sourceCitations": {
         "webOfScience": "HLA 101(4), pp.347-348"
-      }
+      },
+      "putCode": 231446054,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "The 18th International HLA and Immunogenetics Workshop (IHIWS) HLA immunogenic epitope project",
@@ -1366,7 +1400,9 @@
       "webOfScienceId": "WOS:001082837700010",
       "sourceCitations": {
         "webOfScience": "HLA 101(4), pp.331-331"
-      }
+      },
+      "putCode": 231446055,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "P520 Repeated local ellipsoid protrusion supplements human leukocyte antigen surface characterization",
@@ -1444,7 +1480,9 @@
       "webOfScienceId": "WOS:001078560900126",
       "sourceCitations": {
         "webOfScience": "HUMAN IMMUNOLOGY 84, pp.144-144"
-      }
+      },
+      "putCode": 231446056,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "O7 Combining allele-specific solvent-accessible surface-protruding amino acid mismatches and predicted indirect T cell epitopes improves HLA matching in predicting kidney graft survival",
@@ -1513,7 +1551,9 @@
       "webOfScienceId": "WOS:001078560900008",
       "sourceCitations": {
         "webOfScience": "HUMAN IMMUNOLOGY 84, pp.20-21"
-      }
+      },
+      "putCode": 231446058,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Which is More Important for Predicting De Novo DSA Production, B Cell Epitope (EPLET) or T Cell Epitope (PIRCHE) Analysis ?",
@@ -1613,7 +1653,9 @@
       "webOfScienceId": "WOS:000842606302120",
       "sourceCitations": {
         "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 22, pp.386-386"
-      }
+      },
+      "putCode": 231446059,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "The Role of HLA Epitope Mismatches in Antibody Development and Refractoriness to Optimize Allocation in Platelet Transfusion",
@@ -1679,7 +1721,9 @@
       "webOfScienceId": "WOS:000788004300039",
       "sourceCitations": {
         "webOfScience": "HLA 99(5), pp.432-432"
-      }
+      },
+      "putCode": 231446060,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "T-cell epitopes shared between immunizing and donor HLA associate with kidney allograft failure",
@@ -1757,7 +1801,9 @@
       "webOfScienceId": "WOS:000788004300018",
       "sourceCitations": {
         "webOfScience": "HLA 99(5), pp.422-423"
-      }
+      },
+      "putCode": 231446062,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Single-cell sequence analyses of circulating T follicular helper cells during antibody-mediated rejection",
@@ -1820,7 +1866,9 @@
       "webOfScienceId": "WOS:000788004300061",
       "sourceCitations": {
         "webOfScience": "HLA 99(5), pp.443-443"
-      }
+      },
+      "putCode": 231446068,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000893223200368",
@@ -1882,7 +1930,9 @@
         ]
       },
       "webOfScienceId": "WOS:000893223200368",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446069,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000891281900171",
@@ -1944,7 +1994,9 @@
         ]
       },
       "webOfScienceId": "WOS:000891281900171",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446070,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000891281900009",
@@ -2006,7 +2058,9 @@
         ]
       },
       "webOfScienceId": "WOS:000891281900009",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446072,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "腎移植後患者における新規ドナー特異的抗体産生リスク予測のためのT細胞およびB細胞エピトープ解析",
@@ -2083,7 +2137,9 @@
       "id": "abstract-f55da1459f845930",
       "relatedPublications": [],
       "translatedTitle": "T- and B-cell epitope analysis to predict de novo donor-specific antibody production risk after kidney transplantation",
-      "translationNote": "English translation for discovery; Japanese source title retained as the authoritative title."
+      "translationNote": "English translation for discovery; Japanese source title retained as the authoritative title.",
+      "putCode": 231446073,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000697845200009",
@@ -2145,7 +2201,9 @@
         ]
       },
       "webOfScienceId": "WOS:000697845200009",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446076,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Human Leukocyte Antigen mapping of paediatric uveitis",
@@ -2225,7 +2283,9 @@
       "webOfScienceId": "WOS:000690761600719",
       "sourceCitations": {
         "webOfScience": "INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 62(8)"
-      }
+      },
+      "putCode": 231446077,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Compartmentalization, persistence and conserved shared motifs of dominant (regulatory) T cell clones in autoimmune inflammation",
@@ -2317,7 +2377,9 @@
       "webOfScienceId": "WOS:000691812200014",
       "sourceCitations": {
         "webOfScience": "CLINICAL AND EXPERIMENTAL RHEUMATOLOGY 39(5), pp.1153-1154"
-      }
+      },
+      "putCode": 231446080,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000518393300233",
@@ -2379,7 +2441,9 @@
         ]
       },
       "webOfScienceId": "WOS:000518393300233",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446106,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000518393300153",
@@ -2441,7 +2505,9 @@
         ]
       },
       "webOfScienceId": "WOS:000518393300153",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446110,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000578671900091",
@@ -2503,7 +2569,9 @@
         ]
       },
       "webOfScienceId": "WOS:000578671900091",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446112,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Human Leukocyte Antigen mapping of paediatric uveitis",
@@ -2579,7 +2647,9 @@
       "webOfScienceId": "WOS:000562907300110",
       "sourceCitations": {
         "webOfScience": "ACTA OPHTHALMOLOGICA 98, pp.34-34"
-      }
+      },
+      "putCode": 231446113,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000751335600070",
@@ -2641,7 +2711,9 @@
         ]
       },
       "webOfScienceId": "WOS:000751335600070",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446116,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Evaluating Preformed Donor HLA Reactive T Cells Using PIRCHE-II Algorithm",
@@ -2729,7 +2801,9 @@
       "webOfScienceId": "WOS:000546629502251",
       "sourceCitations": {
         "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 20, pp.636-636"
-      }
+      },
+      "putCode": 231446117,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000518393300156",
@@ -2791,7 +2865,9 @@
         ]
       },
       "webOfScienceId": "WOS:000518393300156",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446119,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Clinical Significance of T Cell and B Cell Epitope Prediction as a Risk Factor of De Novo DSA Production after Kidney Transplantation",
@@ -2901,7 +2977,9 @@
       "webOfScienceId": "WOS:000546629501344",
       "sourceCitations": {
         "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 20, pp.403-403"
-      }
+      },
+      "putCode": 231446120,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "21%-51% of a Single-Center, 15-Year Cohort of All Patients with ESKD Prior to the Age of 50 Have Monogenic Kidney Disease",
@@ -2997,7 +3075,9 @@
       },
       "openAlexId": "https://openalex.org/W4396999126",
       "id": "abstract-189f1f6c0cf225ca",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446126,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000464517600082",
@@ -3059,7 +3139,9 @@
         ]
       },
       "webOfScienceId": "WOS:000464517600082",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446127,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000491488701287",
@@ -3121,7 +3203,9 @@
         ]
       },
       "webOfScienceId": "WOS:000491488701287",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446128,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000491488701124",
@@ -3183,7 +3267,9 @@
         ]
       },
       "webOfScienceId": "WOS:000491488701124",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446129,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000464517600210",
@@ -3249,7 +3335,9 @@
         ]
       },
       "webOfScienceId": "WOS:000464517600210",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446130,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000430290800022",
@@ -3311,7 +3399,9 @@
         ]
       },
       "webOfScienceId": "WOS:000430290800022",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446132,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000449666000016",
@@ -3373,7 +3463,9 @@
         ]
       },
       "webOfScienceId": "WOS:000449666000016",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446133,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000430290800046",
@@ -3435,7 +3527,9 @@
         ]
       },
       "webOfScienceId": "WOS:000430290800046",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446135,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Decreased Graft Survival of Retransplants can Largely be Explained By Increased Hla-immunization",
@@ -3621,7 +3715,9 @@
       "webOfScienceId": "WOS:000430290800105",
       "sourceCitations": {
         "webOfScience": "HLA 91(5), pp.372-372"
-      }
+      },
+      "putCode": 231446189,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000449666000049",
@@ -3683,7 +3779,9 @@
         ]
       },
       "webOfScienceId": "WOS:000449666000049",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446190,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000430290800025",
@@ -3745,7 +3843,9 @@
         ]
       },
       "webOfScienceId": "WOS:000430290800025",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446191,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "SO025DONOR RECIPIENT MATCHING BASED ON HLA EPITOPES IMPROVES OUTCOME IN KIDNEY TRANSPLANT RECIPIENTS",
@@ -3832,7 +3932,9 @@
       "webOfScienceId": "WOS:000469797100026",
       "sourceCitations": {
         "webOfScience": "NEPHROLOGY DIALYSIS TRANSPLANTATION 32, pp.16-+"
-      }
+      },
+      "putCode": 231446194,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "SO024DONOR RECIPIENT MATCHING BASED ON INDIRECTLY RECOGNIZABLE HLA EPITOPES INDEPENDENTLY PREDICTS OUTCOME AFTER KIDNEY TRANSPLANTATION",
@@ -3922,7 +4024,9 @@
       "webOfScienceId": "WOS:000469797100025",
       "sourceCitations": {
         "webOfScience": "NEPHROLOGY DIALYSIS TRANSPLANTATION 32, pp.15-+"
-      }
+      },
+      "putCode": 231446196,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Predicted Indirectly Recognizable HLA Epitopes (PIRCHE) and HLA-Specific Immune Responses",
@@ -3965,7 +4069,9 @@
       },
       "collectionDoi": "10.1111/vox.12530",
       "id": "abstract-9bf8c641eaefef42",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446197,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000413348700012",
@@ -4027,7 +4133,9 @@
         ]
       },
       "webOfScienceId": "WOS:000413348700012",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446198,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000400973300019",
@@ -4089,7 +4197,9 @@
         ]
       },
       "webOfScienceId": "WOS:000400973300019",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446200,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000400973300077",
@@ -4151,7 +4261,9 @@
         ]
       },
       "webOfScienceId": "WOS:000400973300077",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446202,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "P220 A previous miscarriage and a previous successful pregnancy have a different impact on HLA antibody formation during a subsequent successful pregnancy",
@@ -4238,7 +4350,9 @@
       "webOfScienceId": "WOS:000411658700274",
       "sourceCitations": {
         "webOfScience": "HUMAN IMMUNOLOGY 78, pp.217-217"
-      }
+      },
+      "putCode": 231446206,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "P120 Predicted indirectly recognizable HLA epitopes presented by HLA-DRB1 are related to HLA antibody formation during pregnancy",
@@ -4331,7 +4445,9 @@
       "webOfScienceId": "WOS:000411658700174",
       "sourceCitations": {
         "webOfScience": "HUMAN IMMUNOLOGY 78, pp.141-141"
-      }
+      },
+      "putCode": 231446216,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "P119 Computational approaches to facilitate epitope-based HLA matching in solid organ transplantation",
@@ -4415,7 +4531,9 @@
       "webOfScienceId": "WOS:000411658700173",
       "sourceCitations": {
         "webOfScience": "HUMAN IMMUNOLOGY 78, pp.140-140"
-      }
+      },
+      "putCode": 231446220,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "P069 Completion of HLA proased nearest-neighbor extrapolation of HLA database sequences",
@@ -4496,7 +4614,9 @@
       "webOfScienceId": "WOS:000411658700123",
       "sourceCitations": {
         "webOfScience": "HUMAN IMMUNOLOGY 78, pp.104-104"
-      }
+      },
+      "putCode": 231446223,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "OR41 PIRCHE-II: A novel tool to identify permissible HLA mismatches in kidney transplantation",
@@ -4685,7 +4805,9 @@
       "webOfScienceId": "WOS:000411658700042",
       "sourceCitations": {
         "webOfScience": "HUMAN IMMUNOLOGY 78, pp.39-39"
-      }
+      },
+      "putCode": 231446224,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000400973300026",
@@ -4748,7 +4870,9 @@
       },
       "webOfScienceId": "WOS:000400973300026",
       "relatedPublications": [],
-      "collectionDoi": "10.1111/tan.13034"
+      "collectionDoi": "10.1111/tan.13034",
+      "putCode": 231446225,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Improved Outcome of Kidney Transplants by Donor Recipient Matching Based on Predicted Indirectly Recognizable HLA Epitopes.",
@@ -4824,7 +4948,9 @@
       "webOfScienceId": "WOS:000404515702433",
       "sourceCitations": {
         "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.359-359"
-      }
+      },
+      "putCode": 231446226,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Identifying Permissible HLA-Mismatches in Unrelated-Donor Hematopoietic Stem-Cell Transplantation Using Predicted Indirectly Recognizable HLA Epitopes",
@@ -4949,7 +5075,9 @@
       "webOfScienceId": "WOS:000540635000087",
       "sourceCitations": {
         "webOfScience": "BIOLOGY OF BLOOD AND MARROW TRANSPLANTATION 23(3), pp.S88-S89"
-      }
+      },
+      "putCode": 231446233,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Donor Recipient Matching Based on HLA Epitopes Improves Outcome in Kidney Transplant Recipients.",
@@ -5025,7 +5153,9 @@
       "webOfScienceId": "WOS:000404515702432",
       "sourceCitations": {
         "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.358-358"
-      }
+      },
+      "putCode": 231446235,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000411688500094",
@@ -5087,7 +5217,9 @@
         ]
       },
       "webOfScienceId": "WOS:000411688500094",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446240,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000400973300022",
@@ -5149,7 +5281,9 @@
         ]
       },
       "webOfScienceId": "WOS:000400973300022",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446243,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000400973300193",
@@ -5211,7 +5345,9 @@
         ]
       },
       "webOfScienceId": "WOS:000400973300193",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446244,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Analysis of Predicted Indirectly Recognizable HLA Epitopes (PIRCHE) in Mismatched Unrelated Donor Hematopoietic Stem Cell Transplants (HCT): A Center for International Blood and Marrow Transplant Research (CIBMTR) Cohort Study",
@@ -5295,7 +5431,9 @@
       "webOfScienceId": "WOS:000540635000197",
       "sourceCitations": {
         "webOfScience": "BIOLOGY OF BLOOD AND MARROW TRANSPLANTATION 23(3), pp.S161-S161"
-      }
+      },
+      "putCode": 231446248,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000400973300043",
@@ -5357,7 +5495,9 @@
         ]
       },
       "webOfScienceId": "WOS:000400973300043",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446281,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000383951500061",
@@ -5419,7 +5559,9 @@
         ]
       },
       "webOfScienceId": "WOS:000383951500061",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446313,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000383951500064",
@@ -5481,7 +5623,9 @@
         ]
       },
       "webOfScienceId": "WOS:000383951500064",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446315,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000379484600244",
@@ -5543,7 +5687,9 @@
         ]
       },
       "webOfScienceId": "WOS:000379484600244",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446318,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000385569800073",
@@ -5605,7 +5751,9 @@
         ]
       },
       "webOfScienceId": "WOS:000385569800073",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446327,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000373357601045",
@@ -5667,7 +5815,9 @@
         ]
       },
       "webOfScienceId": "WOS:000373357601045",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446337,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000383951500031",
@@ -5729,7 +5879,9 @@
         ]
       },
       "webOfScienceId": "WOS:000383951500031",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446381,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000379484601079",
@@ -5791,7 +5943,9 @@
         ]
       },
       "webOfScienceId": "WOS:000379484601079",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446383,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Predicted Indirectly Recognizable Hla Epitopes (PIRCHE) Provide a Novel Strategy to Individualize Donor Selection That Optimizes Survival Chances",
@@ -5869,7 +6023,9 @@
       "webOfScienceId": "WOS:000348633000511",
       "sourceCitations": {
         "webOfScience": "BIOLOGY OF BLOOD AND MARROW TRANSPLANTATION 21(2), pp.S350-S351"
-      }
+      },
+      "putCode": 231446386,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Immune Reconstitution and Clinical Outcome after α/β T-Cell Depleted Allogeneic Stem Cell Transplantation from Matched Related and Unrelated Donors",
@@ -5947,7 +6103,9 @@
       "webOfScienceId": "WOS:000368021801255",
       "sourceCitations": {
         "webOfScience": "BLOOD 126(23)"
-      }
+      },
+      "putCode": 231446389,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000337546000019",
@@ -6009,7 +6167,9 @@
         ]
       },
       "webOfScienceId": "WOS:000337546000019",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446391,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Treatment of steroid resistant grade II to IV acute GVHD by infusion of mesenchymal stromal cells expanded with platelet lysate - a phase I/II study",
@@ -6117,7 +6277,9 @@
       "webOfScienceId": "WOS:000333438100022",
       "sourceCitations": {
         "webOfScience": "CYTOTHERAPY 16(4), pp.S13-S13"
-      }
+      },
+      "putCode": 231446394,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "The PROCARE consortium: Towards an improved allocation strategy for kidney allografts",
@@ -6285,7 +6447,9 @@
           "basis": "Title overlap and at least two shared coauthors; not a claim of identical study",
           "score": 0.875
         }
-      ]
+      ],
+      "putCode": 231446398,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000359941900036",
@@ -6347,7 +6511,9 @@
         ]
       },
       "webOfScienceId": "WOS:000359941900036",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446399,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000342830901163",
@@ -6409,7 +6575,9 @@
         ]
       },
       "webOfScienceId": "WOS:000342830901163",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446400,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Matching of MHC Class I Chain-Related Genes a and B Is Associated with Reduced Incidence of Severe Acute Graft-Versus-Host Disease after Unrelated Hematopoietic Stem Cell Transplantation",
@@ -6601,7 +6769,9 @@
       "webOfScienceId": "WOS:000349233803023",
       "sourceCitations": {
         "webOfScience": "BLOOD 124(21)"
-      }
+      },
+      "putCode": 231446405,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Identification of Minor Histocompatibility Antigens Based on the 1000 Genomes Project for Application in Therapeutic Dendritic Cell Vaccination",
@@ -6694,7 +6864,9 @@
       "webOfScienceId": "WOS:000349242707088",
       "sourceCitations": {
         "webOfScience": "BLOOD 124(21)"
-      }
+      },
+      "putCode": 231446408,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000337546000063",
@@ -6756,7 +6928,9 @@
         ]
       },
       "webOfScienceId": "WOS:000337546000063",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446409,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000337546000009",
@@ -6818,7 +6992,9 @@
         ]
       },
       "webOfScienceId": "WOS:000337546000009",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446410,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000359941901391",
@@ -6880,7 +7056,9 @@
         ]
       },
       "webOfScienceId": "WOS:000359941901391",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446412,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000359941902298",
@@ -6942,7 +7120,9 @@
         ]
       },
       "webOfScienceId": "WOS:000359941902298",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446414,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "A Universal Approach to Identify Permissible HLA-Mismatches in HSCT: Predicted Indirectly Recognizable HLA Epitopes",
@@ -7038,7 +7218,9 @@
       "webOfScienceId": "WOS:000331155400200",
       "sourceCitations": {
         "webOfScience": "BIOLOGY OF BLOOD AND MARROW TRANSPLANTATION 20(2), pp.S141-S142"
-      }
+      },
+      "putCode": 231446419,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000319025200369",
@@ -7100,7 +7282,9 @@
         ]
       },
       "webOfScienceId": "WOS:000319025200369",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446421,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Treatment of Steroid Resistant Grade II to IV Acute GVHD by Infusion of Mesenchymal Stroma Cells Expanded with Platelet Lysate - a Phase I/II Study",
@@ -7208,7 +7392,9 @@
       "webOfScienceId": "WOS:000314441900064",
       "sourceCitations": {
         "webOfScience": "BIOLOGY OF BLOOD AND MARROW TRANSPLANTATION 19(2), pp.S144-S144"
-      }
+      },
+      "putCode": 231446424,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000318523600225",
@@ -7270,7 +7456,9 @@
         ]
       },
       "webOfScienceId": "WOS:000318523600225",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446427,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000318523600237",
@@ -7332,7 +7520,9 @@
         ]
       },
       "webOfScienceId": "WOS:000318523600237",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446429,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000318523600226",
@@ -7394,7 +7584,9 @@
         ]
       },
       "webOfScienceId": "WOS:000318523600226",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446433,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000319025200201",
@@ -7456,7 +7648,9 @@
         ]
       },
       "webOfScienceId": "WOS:000319025200201",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446438,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000318523600040",
@@ -7518,7 +7712,9 @@
         ]
       },
       "webOfScienceId": "WOS:000318523600040",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446440,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host-disease and relapse-related mortality in pediatric patients after cord blood transplantation",
@@ -7601,7 +7797,9 @@
       "webOfScienceId": "WOS:000326060900051",
       "sourceCitations": {
         "webOfScience": "HUMAN IMMUNOLOGY 74, pp.39-39"
-      }
+      },
+      "putCode": 231446441,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host disease and relapse-related mortality in paediatric patients after cord blood transplantation",
@@ -7667,7 +7865,9 @@
       "webOfScienceId": "WOS:000318523600077",
       "sourceCitations": {
         "webOfScience": "TISSUE ANTIGENS 81(5), pp.295-296"
-      }
+      },
+      "putCode": 231446445,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host disease and relapse-related mortality in paediatric patients after cord blood transplantation",
@@ -7733,7 +7933,9 @@
       "webOfScienceId": "WOS:000319025200200",
       "sourceCitations": {
         "webOfScience": "BONE MARROW TRANSPLANTATION 48, pp.S87-S88"
-      }
+      },
+      "putCode": 231446451,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000318523600027",
@@ -7795,7 +7997,9 @@
         ]
       },
       "webOfScienceId": "WOS:000318523600027",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446469,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000318523600064",
@@ -7857,7 +8061,9 @@
         ]
       },
       "webOfScienceId": "WOS:000318523600064",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446475,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Treatment of Steroid Resistant Grade II to IV Acute Gvhd by Infusion of Mesenchymal Stroma Cells Expanded with Human Plasma and Platelet Lysate - a Phase I/II Study",
@@ -7965,7 +8171,9 @@
       "webOfScienceId": "WOS:000313838900223",
       "sourceCitations": {
         "webOfScience": "BLOOD 120(21)"
-      }
+      },
+      "putCode": 231446484,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000306994301393",
@@ -8027,7 +8235,9 @@
         ]
       },
       "webOfScienceId": "WOS:000306994301393",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446494,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000306994301378",
@@ -8089,7 +8299,9 @@
         ]
       },
       "webOfScienceId": "WOS:000306994301378",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446504,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000303499800133",
@@ -8151,7 +8363,9 @@
         ]
       },
       "webOfScienceId": "WOS:000303499800133",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446511,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000303499800115",
@@ -8213,7 +8427,9 @@
         ]
       },
       "webOfScienceId": "WOS:000303499800115",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446517,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Identification of New Hematopoietic Minor Histocompatibility Antigen UTA2-1; Ready for Application in Antitumor Immunotherapy",
@@ -8306,7 +8522,9 @@
       "webOfScienceId": "WOS:000299597104330",
       "sourceCitations": {
         "webOfScience": "BLOOD 118(21), pp.1284-1284"
-      }
+      },
+      "putCode": 231446525,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000289249000032",
@@ -8368,7 +8586,9 @@
         ]
       },
       "webOfScienceId": "WOS:000289249000032",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446534,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "High H-Y antibody responses in secondary recurrent miscarriage patients correlate with low male birth in surviving pregnancies",
@@ -8440,7 +8660,9 @@
       },
       "collectionDoi": "10.1093/humrep/de.25.s1.117",
       "id": "abstract-61ca26cd62e563f2",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446729,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000277611300111",
@@ -8502,7 +8724,9 @@
         ]
       },
       "webOfScienceId": "WOS:000277611300111",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446542,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000276659100061",
@@ -8564,7 +8788,9 @@
         ]
       },
       "webOfScienceId": "WOS:000276659100061",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446550,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000266032200008",
@@ -8626,7 +8852,9 @@
         ]
       },
       "webOfScienceId": "WOS:000266032200008",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446570,
+      "orcidWorkType": "conference-output"
     },
     {
       "title": "Poor-Risk Acute Leukemia Patients with An EBMT Low-Risk Score and An 8/8 Matched Unrelated Donor Show Excellent Survival After Hematopoietic Stem Cell Transplantation.",
@@ -8731,7 +8959,9 @@
       "webOfScienceId": "WOS:000272725801376",
       "sourceCitations": {
         "webOfScience": "BLOOD 114(22), pp.491-492"
-      }
+      },
+      "putCode": 231446580,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000266032200250",
@@ -8793,7 +9023,9 @@
         ]
       },
       "webOfScienceId": "WOS:000266032200250",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446589,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000258444500051",
@@ -8855,7 +9087,9 @@
         ]
       },
       "webOfScienceId": "WOS:000258444500051",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446632,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000258444500050",
@@ -8917,7 +9151,9 @@
         ]
       },
       "webOfScienceId": "WOS:000258444500050",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446637,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000245985000006",
@@ -8979,7 +9215,9 @@
         ]
       },
       "webOfScienceId": "WOS:000245985000006",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446651,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000233542700565",
@@ -9041,7 +9279,9 @@
         ]
       },
       "webOfScienceId": "WOS:000233542700565",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446657,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000233542700564",
@@ -9103,7 +9343,9 @@
         ]
       },
       "webOfScienceId": "WOS:000233542700564",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446668,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000183208800043",
@@ -9165,7 +9407,9 @@
         ]
       },
       "webOfScienceId": "WOS:000183208800043",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446675,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000176311300017",
@@ -9227,7 +9471,9 @@
         ]
       },
       "webOfScienceId": "WOS:000176311300017",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446683,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000176311300403",
@@ -9289,7 +9535,9 @@
         ]
       },
       "webOfScienceId": "WOS:000176311300403",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446692,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000176311300116",
@@ -9351,7 +9599,9 @@
         ]
       },
       "webOfScienceId": "WOS:000176311300116",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446697,
+      "orcidWorkType": "conference-output"
     },
     {
       "id": "abstract-wos-000172134103096",
@@ -9413,7 +9663,9 @@
         ]
       },
       "webOfScienceId": "WOS:000172134103096",
-      "relatedPublications": []
+      "relatedPublications": [],
+      "putCode": 231446703,
+      "orcidWorkType": "conference-output"
     }
   ],
   "needsReview": [
@@ -9632,5 +9884,16 @@
       "reason": "Claimed ORCID-linked WoS profile associates this item, but abbreviated author line does not show Eric and none of the displayed coauthors could be corroborated. Full author list required.",
       "resolution": "Independent coauthor CV index names E. Spierings on the exact title, corroborating the ORCID-linked WoS profile; promoted with an explicitly abbreviated author list."
     }
-  ]
+  ],
+  "orcidSynchronization": {
+    "verifiedAt": "2026-10-27T23:09:36.463310+00:00",
+    "orcid": "0000-0001-9441-1019",
+    "verifiedAbstracts": 126,
+    "existingAbstracts": 119,
+    "newAbstracts": 7,
+    "preferredVersions": 126,
+    "correctedOvergroupedSourceVersions": 7,
+    "workGroupsAfter": 329,
+    "report": "research/conference-abstracts/orcid-sync.json"
+  }
 }

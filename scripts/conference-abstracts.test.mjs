@@ -46,3 +46,12 @@ test('adding a WoS accession to a previously curated record does not create a du
   const out=mergeConferenceAbstracts({...data,conferenceAbstracts:[before]},registry([enriched]));
   assert.equal(out.conferenceAbstractCount,1);
 });
+
+test('a synchronized ORCID put code preserves identity when enrichment changes the title or URL',()=>{
+  const entry=make({doi:null,putCode:123,webOfScienceId:'WOS:000123',url:'https://example.org/verified'});
+  const imported={putCode:123,title:'Publisher variation of title',year:2020,url:'https://example.org/new-location'};
+  const out=mergeConferenceAbstracts({...data,conferenceAbstracts:[imported]},registry([entry]));
+  assert.equal(out.conferenceAbstractCount,1);
+  assert.equal(out.conferenceAbstracts[0].title,entry.title);
+  assert.equal(out.conferenceAbstracts[0].putCode,123);
+});

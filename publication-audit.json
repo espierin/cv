@@ -24,6 +24,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231445746,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 107"
@@ -63,6 +64,7 @@
       "meeting": "46th Annual Meeting and Scientific Sessions of the International-Society-for-Heart-and-Lung-Transplantation (ISHLT)",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W7154593608",
+      "orcidPutCode": 231445798,
       "reasons": [
         "ISHLT 2026 meeting abstract; one-page congress item"
       ],
@@ -108,6 +110,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231445796,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 107"
@@ -147,6 +150,7 @@
       "meeting": "46th Annual Meeting and Scientific Sessions of the International-Society-for-Heart-and-Lung-Transplantation (ISHLT)",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W7154587695",
+      "orcidPutCode": 231445789,
       "reasons": [
         "ISHLT 2026 meeting abstract; one-page congress item"
       ],
@@ -193,6 +197,7 @@
       "meeting": null,
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W7165365350",
+      "orcidPutCode": 231445788,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -234,6 +239,7 @@
       "meeting": "31st International Congress of the Transplantation-Society",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W7204808736",
+      "orcidPutCode": 231445783,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -279,6 +285,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231445886,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 105"
@@ -317,6 +324,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231445880,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 105"
@@ -356,6 +364,7 @@
       "meeting": "World Transplant Congress (WTC)",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W4412851589",
+      "orcidPutCode": 231445877,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -402,6 +411,7 @@
       "collectionDoi": "10.1111/tan.70158",
       "meeting": "EFI 2025",
       "abstractNumber": "O8",
+      "orcidPutCode": 231445876,
       "reasons": [
         "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
       ],
@@ -439,7 +449,7 @@
       "meeting": "World Transplant Congress (WTC)",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W4412851562",
-      "orcidPutCode": 225654275,
+      "orcidPutCode": 231445874,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -485,6 +495,7 @@
       "doi": null,
       "meeting": "15th World Congress of the International-Society-for-Immunology-of-Reproduction (ISIR)",
       "abstractNumber": null,
+      "orcidPutCode": 231445812,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: JOURNAL OF REPRODUCTIVE IMMUNOLOGY 167"
@@ -523,6 +534,7 @@
       "doi": null,
       "meeting": "American Transplant Congress (ATC)",
       "abstractNumber": null,
+      "orcidPutCode": 231446052,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: AMERICAN JOURNAL OF TRANSPLANTATION 24(6), pp.S756-S756"
@@ -561,6 +573,7 @@
       "doi": null,
       "meeting": "7th European Conference of Immunology",
       "abstractNumber": null,
+      "orcidPutCode": 231445892,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: EUROPEAN JOURNAL OF IMMUNOLOGY 54, pp.751-751"
@@ -600,6 +613,7 @@
       "collectionDoi": "10.1111/tan.15480",
       "meeting": "EFI 2024",
       "abstractNumber": "O13",
+      "orcidPutCode": 231445889,
       "reasons": [
         "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
       ],
@@ -629,6 +643,7 @@
       "doi": null,
       "meeting": "Annual Meeting of the American-Society-of-Transplant-Surgeons (ASTS)",
       "abstractNumber": null,
+      "orcidPutCode": 231445887,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: AMERICAN JOURNAL OF TRANSPLANTATION 24(6), pp.S478-S479"
@@ -668,7 +683,7 @@
       "meeting": "43rd Annual Meeting of International-Society-for-Heart-and-Lung-Transplantation (ISHLT)",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W4387007847",
-      "orcidPutCode": 225651303,
+      "orcidPutCode": 231446058,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -715,7 +730,7 @@
       "meeting": "43rd Annual Meeting of International-Society-for-Heart-and-Lung-Transplantation (ISHLT)",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W4387007654",
-      "orcidPutCode": 225651302,
+      "orcidPutCode": 231446056,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -761,6 +776,7 @@
       "doi": null,
       "meeting": "EFI 2023",
       "abstractNumber": "talk:212973",
+      "orcidPutCode": 231446055,
       "reasons": [
         "Official program provides a scientific abstract body for this contribution",
         "Erasmus University repository explicitly classifies this as Meeting Abstract and provides Web of Science accession WOS:001082837700010."
@@ -802,6 +818,7 @@
       "doi": null,
       "meeting": "EFI 2023",
       "abstractNumber": "talk:212989",
+      "orcidPutCode": 231446054,
       "reasons": [
         "Official program provides a scientific abstract body for this contribution"
       ],
@@ -836,6 +853,7 @@
       "doi": null,
       "meeting": "48th Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics (ASHI)",
       "abstractNumber": null,
+      "orcidPutCode": 231446072,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HUMAN IMMUNOLOGY 83, pp.20-20"
@@ -874,6 +892,7 @@
       "doi": null,
       "meeting": "48th Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics (ASHI)",
       "abstractNumber": null,
+      "orcidPutCode": 231446070,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HUMAN IMMUNOLOGY 83, pp.184-184"
@@ -913,7 +932,7 @@
       "meeting": "64th Annual Meeting and Exposition of the American-Society-of-Hematology (ASH)",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W4310107118",
-      "orcidPutCode": 225651310,
+      "orcidPutCode": 231446069,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: BLOOD 140"
@@ -952,6 +971,7 @@
       "doi": null,
       "meeting": "EFI 2022",
       "abstractNumber": "talk:188488",
+      "orcidPutCode": 231446068,
       "reasons": [
         "Official program provides a scientific abstract body for this contribution"
       ],
@@ -986,6 +1006,7 @@
       "doi": null,
       "meeting": "EFI 2022",
       "abstractNumber": "talk:188487",
+      "orcidPutCode": 231446062,
       "reasons": [
         "Official program provides a scientific abstract body for this contribution"
       ],
@@ -1020,6 +1041,7 @@
       "doi": null,
       "meeting": "EFI 2022",
       "abstractNumber": "talk:188474",
+      "orcidPutCode": 231446060,
       "reasons": [
         "Official program provides a scientific abstract body for this contribution"
       ],
@@ -1054,6 +1076,7 @@
       "doi": null,
       "meeting": "2022 American Transplant Congress",
       "abstractNumber": "120",
+      "orcidPutCode": 231446059,
       "reasons": [
         "Official congress abstract page with meeting year and abstract number 120"
       ],
@@ -1089,6 +1112,7 @@
       "doi": null,
       "meeting": "Twelfth International Congress on Spondyloarthritides",
       "abstractNumber": null,
+      "orcidPutCode": 231446080,
       "reasons": [
         "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
       ],
@@ -1128,6 +1152,7 @@
       "doi": null,
       "meeting": "ARVO 2021",
       "abstractNumber": "3480",
+      "orcidPutCode": 231446077,
       "reasons": [
         "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
       ],
@@ -1167,6 +1192,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446076,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HUMAN IMMUNOLOGY 82, pp.15-15"
@@ -1205,6 +1231,7 @@
       "doi": null,
       "meeting": "MHC congress supplement 2021",
       "abstractNumber": null,
+      "orcidPutCode": 231446073,
       "reasons": [
         "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
       ],
@@ -1235,6 +1262,7 @@
       "meeting": null,
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W4396999126",
+      "orcidPutCode": 231446126,
       "reasons": [
         "ASN Kidney Week abstract; volume 31, issue 10S"
       ],
@@ -1275,6 +1303,7 @@
       "doi": null,
       "meeting": "2020 American Transplant Congress",
       "abstractNumber": "243",
+      "orcidPutCode": 231446120,
       "reasons": [
         "Official congress abstract page with meeting year and abstract number 243"
       ],
@@ -1310,6 +1339,7 @@
       "doi": null,
       "meeting": "2020 American Transplant Congress",
       "abstractNumber": "B-365",
+      "orcidPutCode": 231446117,
       "reasons": [
         "Official congress abstract page with meeting year and abstract number B-365"
       ],
@@ -1345,6 +1375,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446119,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 95(4), pp.344-345"
@@ -1383,6 +1414,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446116,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HUMAN IMMUNOLOGY 81, pp.82-82"
@@ -1422,6 +1454,7 @@
       "collectionDoi": "10.1111/aos.14387",
       "meeting": "Acta Ophthalmologica congress abstracts 2020",
       "abstractNumber": null,
+      "orcidPutCode": 231446113,
       "reasons": [
         "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
       ],
@@ -1456,6 +1489,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446112,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TRANSPLANT INTERNATIONAL 33, pp.32-33"
@@ -1494,6 +1528,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446110,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 95(4), pp.343-343"
@@ -1532,6 +1567,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446106,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 95(4), pp.381-382"
@@ -1570,6 +1606,7 @@
       "doi": null,
       "meeting": "EFI 2019",
       "abstractNumber": null,
+      "orcidPutCode": 231446130,
       "reasons": [
         "WoS explicitly classifies this item as Meeting Abstract; HLA 93(5):352–353, May 2019."
       ],
@@ -1611,6 +1648,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446129,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TRANSPLANT INTERNATIONAL 32, pp.42-43"
@@ -1649,6 +1687,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446128,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TRANSPLANT INTERNATIONAL 32, pp.88-88"
@@ -1687,6 +1726,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446127,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 93(5), pp.293-293"
@@ -1725,6 +1765,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446191,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 91(5), pp.333-333"
@@ -1763,6 +1804,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446190,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TRANSPLANT INTERNATIONAL 31, pp.21-22"
@@ -1801,6 +1843,7 @@
       "doi": null,
       "meeting": "EFI 2018",
       "abstractNumber": "P40",
+      "orcidPutCode": 231446189,
       "reasons": [
         "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
       ],
@@ -1846,6 +1889,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446135,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 91(5), pp.343-344"
@@ -1884,6 +1928,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446133,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TRANSPLANT INTERNATIONAL 31, pp.12-12"
@@ -1922,6 +1967,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446132,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 91(5), pp.332-332"
@@ -1960,6 +2006,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446281,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 89(6), pp.358-358"
@@ -1999,6 +2046,7 @@
       "meeting": null,
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2590743714",
+      "orcidPutCode": 231446248,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -2044,6 +2092,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446244,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 89(6), pp.426-426"
@@ -2082,6 +2131,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446243,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 89(6), pp.348-348"
@@ -2120,6 +2170,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446240,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TRANSPLANT INTERNATIONAL 30, pp.35-35"
@@ -2158,6 +2209,7 @@
       "doi": null,
       "meeting": "2017 American Transplant Congress",
       "abstractNumber": "432",
+      "orcidPutCode": 231446235,
       "reasons": [
         "Official congress abstract page with meeting year and abstract number 432"
       ],
@@ -2194,7 +2246,7 @@
       "meeting": null,
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2590104313",
-      "orcidPutCode": 225654286,
+      "orcidPutCode": 231446233,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -2240,6 +2292,7 @@
       "doi": null,
       "meeting": "2017 American Transplant Congress",
       "abstractNumber": "433",
+      "orcidPutCode": 231446226,
       "reasons": [
         "Official congress abstract page with meeting year and abstract number 433"
       ],
@@ -2276,6 +2329,7 @@
       "collectionDoi": "10.1111/tan.13034",
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446225,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 89(6), pp.350-351"
@@ -2315,7 +2369,7 @@
       "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2751990043",
-      "orcidPutCode": 225651199,
+      "orcidPutCode": 231446224,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -2362,7 +2416,7 @@
       "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2752283238",
-      "orcidPutCode": 225651197,
+      "orcidPutCode": 231446223,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -2409,6 +2463,7 @@
       "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2752443213",
+      "orcidPutCode": 231446220,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -2455,6 +2510,7 @@
       "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2751315842",
+      "orcidPutCode": 231446216,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -2501,6 +2557,7 @@
       "meeting": "43rd Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2752893008",
+      "orcidPutCode": 231446206,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -2546,6 +2603,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446202,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 89(6), pp.374-375"
@@ -2585,6 +2643,7 @@
       "collectionDoi": "10.1111/vox.12530",
       "meeting": "ISBT 2017",
       "abstractNumber": "3C-S11-02",
+      "orcidPutCode": 231446197,
       "reasons": [
         "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
       ],
@@ -2614,6 +2673,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446198,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TRANSPLANT INTERNATIONAL 30, pp.10-10"
@@ -2652,6 +2712,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446200,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 89(6), pp.346-347"
@@ -2691,6 +2752,7 @@
       "meeting": null,
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2619672646",
+      "orcidPutCode": 231446196,
       "reasons": [
         "ERA-EDTA 2017 numbered congress abstract SO024 in NDT supplement 3"
       ],
@@ -2737,7 +2799,7 @@
       "meeting": null,
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2618251445",
-      "orcidPutCode": 225653723,
+      "orcidPutCode": 231446194,
       "reasons": [
         "ERA-EDTA 2017 numbered congress abstract SO025 in NDT supplement 3"
       ],
@@ -2783,6 +2845,7 @@
       "doi": null,
       "meeting": "21st Congress of the European-Hematology-Association",
       "abstractNumber": null,
+      "orcidPutCode": 231446383,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HAEMATOLOGICA 101, pp.287-288"
@@ -2821,6 +2884,7 @@
       "doi": null,
       "meeting": "42nd Annual Meeting of the European-Society-for-Blood-and-Marrow-Transplantation",
       "abstractNumber": null,
+      "orcidPutCode": 231446337,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: BONE MARROW TRANSPLANTATION 51, pp.S335-S336"
@@ -2859,6 +2923,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446381,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 87(4), pp.214-214"
@@ -2897,6 +2962,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446327,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TRANSPLANT INTERNATIONAL 29, pp.25-25"
@@ -2935,6 +3001,7 @@
       "doi": null,
       "meeting": "21st Congress of the European-Hematology-Association",
       "abstractNumber": null,
+      "orcidPutCode": 231446318,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HAEMATOLOGICA 101, pp.112-112"
@@ -2973,6 +3040,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446315,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 87(4), pp.227-227"
@@ -3011,6 +3079,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446313,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HLA 87(4), pp.225-226"
@@ -3050,7 +3119,7 @@
       "meeting": "57th Annual Meeting of the American-Society-of-Hematology",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2550019273",
-      "orcidPutCode": 225651216,
+      "orcidPutCode": 231446389,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -3097,7 +3166,7 @@
       "meeting": "BMT Tandem Meetings",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2322632010",
-      "orcidPutCode": 225651221,
+      "orcidPutCode": 231446386,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -3144,7 +3213,7 @@
       "meeting": "BMT Tandem Meetings",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2122221803",
-      "orcidPutCode": 225651238,
+      "orcidPutCode": 231446419,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -3190,6 +3259,7 @@
       "doi": null,
       "meeting": "40th Annual Meeting of the European-Group-for-Blood-and-Marrow-Transplantation",
       "abstractNumber": null,
+      "orcidPutCode": 231446414,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: BONE MARROW TRANSPLANTATION 49, pp.S513-S513"
@@ -3228,6 +3298,7 @@
       "doi": null,
       "meeting": "40th Annual Meeting of the European-Group-for-Blood-and-Marrow-Transplantation",
       "abstractNumber": null,
+      "orcidPutCode": 231446412,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: BONE MARROW TRANSPLANTATION 49, pp.S287-S288"
@@ -3266,6 +3337,7 @@
       "doi": null,
       "meeting": "28th EFI European Immunogenetics and Histocompatibility Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446410,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 84(1), pp.8-8"
@@ -3305,6 +3377,7 @@
       "meeting": null,
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2569589420",
+      "orcidPutCode": 231446408,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -3350,6 +3423,7 @@
       "doi": null,
       "meeting": "28th EFI European Immunogenetics and Histocompatibility Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446409,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 84(1), pp.32-32"
@@ -3389,6 +3463,7 @@
       "meeting": "56th Annual Meeting of the American-Society-of-Hematology",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2553981673",
+      "orcidPutCode": 231446405,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -3435,6 +3510,7 @@
       "meeting": null,
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W4248224126",
+      "orcidPutCode": 231446398,
       "reasons": [
         "Publisher issue explicitly labels this item Conference abstract"
       ],
@@ -3475,6 +3551,7 @@
       "doi": null,
       "meeting": "19th Congress of the European-Hematology-Association",
       "abstractNumber": null,
+      "orcidPutCode": 231446400,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: HAEMATOLOGICA 99, pp.254-254"
@@ -3513,6 +3590,7 @@
       "doi": null,
       "meeting": "40th Annual Meeting of the European-Group-for-Blood-and-Marrow-Transplantation",
       "abstractNumber": null,
+      "orcidPutCode": 231446399,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: BONE MARROW TRANSPLANTATION 49, pp.S19-S20"
@@ -3552,7 +3630,7 @@
       "meeting": null,
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2160478249",
-      "orcidPutCode": 225651234,
+      "orcidPutCode": 231446394,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -3598,6 +3676,7 @@
       "doi": null,
       "meeting": "28th EFI European Immunogenetics and Histocompatibility Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446391,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 84(1), pp.12-12"
@@ -3636,6 +3715,7 @@
       "doi": null,
       "meeting": "27th Annual EFI European Immunogenetics and Histocompatibility Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446475,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.289-290"
@@ -3674,6 +3754,7 @@
       "doi": null,
       "meeting": "EFI 2013",
       "abstractNumber": null,
+      "orcidPutCode": 231446445,
       "reasons": [
         "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
       ],
@@ -3708,6 +3789,7 @@
       "doi": null,
       "meeting": "EBMT 2013",
       "abstractNumber": null,
+      "orcidPutCode": 231446451,
       "reasons": [
         "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
       ],
@@ -3743,6 +3825,7 @@
       "meeting": "39th Annual Meeting of the American-Society-for-Histocompatibility-and-Immunogenetics (ASHI)",
       "abstractNumber": "50-OR",
       "openAlexId": "https://openalex.org/W52139077",
+      "orcidPutCode": 231446441,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -3793,6 +3876,7 @@
       "doi": null,
       "meeting": "27th Annual EFI European Immunogenetics and Histocompatibility Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446469,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.273-274"
@@ -3831,6 +3915,7 @@
       "doi": null,
       "meeting": "39th Annual Meeting of the European-Group-for-Blood-and-Marrow-Transplantation (EBMT)",
       "abstractNumber": null,
+      "orcidPutCode": 231446438,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: BONE MARROW TRANSPLANTATION 48, pp.S88-S88"
@@ -3869,6 +3954,7 @@
       "doi": null,
       "meeting": "27th Annual EFI European Immunogenetics and Histocompatibility Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446440,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.279-279"
@@ -3907,6 +3993,7 @@
       "doi": null,
       "meeting": "27th Annual EFI European Immunogenetics and Histocompatibility Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446433,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.356-356"
@@ -3945,6 +4032,7 @@
       "doi": null,
       "meeting": "27th Annual EFI European Immunogenetics and Histocompatibility Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446429,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.360-360"
@@ -3983,6 +4071,7 @@
       "doi": null,
       "meeting": "27th Annual EFI European Immunogenetics and Histocompatibility Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446427,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 81(5), pp.355-356"
@@ -4022,7 +4111,7 @@
       "meeting": "BMT Tandem Meetings",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W4243572623",
-      "orcidPutCode": 225654287,
+      "orcidPutCode": 231446424,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -4068,6 +4157,7 @@
       "doi": null,
       "meeting": "39th Annual Meeting of the European-Group-for-Blood-and-Marrow-Transplantation (EBMT)",
       "abstractNumber": null,
+      "orcidPutCode": 231446421,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: BONE MARROW TRANSPLANTATION 48, pp.S169-S170"
@@ -4106,6 +4196,7 @@
       "doi": null,
       "meeting": "Joint 16th International HLA and Immunogenetics Workshop/26th European Federation for Immunogenetics Conference/23rd British-Society-of-Histocompatibility-and-Immunogenetics Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446517,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 79(6), pp.449-450"
@@ -4144,6 +4235,7 @@
       "doi": null,
       "meeting": "Joint 16th International HLA and Immunogenetics Workshop/26th European Federation for Immunogenetics Conference/23rd British-Society-of-Histocompatibility-and-Immunogenetics Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446511,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 79(6), pp.457-457"
@@ -4182,6 +4274,7 @@
       "doi": null,
       "meeting": "Digestive Disease Week (DDW)",
       "abstractNumber": null,
+      "orcidPutCode": 231446504,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: GASTROENTEROLOGY 142(5), pp.S273-S273"
@@ -4220,6 +4313,7 @@
       "doi": null,
       "meeting": "Digestive Disease Week (DDW)",
       "abstractNumber": null,
+      "orcidPutCode": 231446494,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: GASTROENTEROLOGY 142(5), pp.S277-S277"
@@ -4259,6 +4353,7 @@
       "meeting": "54th Annual Meeting and Exposition of the American-Society-of-Hematology (ASH)",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W4246078988",
+      "orcidPutCode": 231446484,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -4304,6 +4399,7 @@
       "doi": null,
       "meeting": "25th Conference on European Immunogenetics and Histocompatibility",
       "abstractNumber": null,
+      "orcidPutCode": 231446534,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 77(5), pp.382-382"
@@ -4343,7 +4439,7 @@
       "meeting": "53rd Annual Meeting and Exposition of the American-Society-of-Hematology (ASH)/Symposium on the Basic Science of Hemostasis and Thrombosis",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2530035443",
-      "orcidPutCode": 225654285,
+      "orcidPutCode": 231446525,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -4389,6 +4485,7 @@
       "doi": null,
       "meeting": "36th Annual Meeting of the European-Group-for-Blood-and-Marrow-Transplantat/9th Meeting of the EBMT Data-Management-Group/26th Meeting of the EBMT Nurses Group/2nd EBMT Qual Management Meeting",
       "abstractNumber": null,
+      "orcidPutCode": 231446542,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: BONE MARROW TRANSPLANTATION 45, pp.S45-S46"
@@ -4427,6 +4524,7 @@
       "doi": null,
       "meeting": "24th European Immunogenetics and Histocompatibility Conference/17th Annual Meeting of the Italian-Society-for-Immunogenetics-and-Transplantation-Biology",
       "abstractNumber": null,
+      "orcidPutCode": 231446550,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 75(5), pp.490-490"
@@ -4466,6 +4564,7 @@
       "collectionDoi": "10.1093/humrep/de.25.s1.117",
       "meeting": "ESHRE 2010",
       "abstractNumber": "P-124",
+      "orcidPutCode": 231446729,
       "reasons": [
         "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
       ],
@@ -4500,6 +4599,7 @@
       "doi": null,
       "meeting": "23rd European Immunogenetics and Histocompatibility Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446589,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 73(5), pp.483-483"
@@ -4539,6 +4639,7 @@
       "meeting": "51st Annual Meeting of the American-Society-of-Hematology",
       "abstractNumber": null,
       "openAlexId": "https://openalex.org/W2979622763",
+      "orcidPutCode": 231446580,
       "reasons": [
         "Conference abstract identifier, ASH annual-meeting issue, or supplement pagination in publisher metadata"
       ],
@@ -4584,6 +4685,7 @@
       "doi": null,
       "meeting": "23rd European Immunogenetics and Histocompatibility Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446570,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 73(5), pp.387-387"
@@ -4622,6 +4724,7 @@
       "doi": null,
       "meeting": "15th International Histocompatibility and Immunogenetics Workshop and Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446637,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 72(3), pp.247-248"
@@ -4660,6 +4763,7 @@
       "doi": null,
       "meeting": "15th International Histocompatibility and Immunogenetics Workshop and Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446632,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 72(3), pp.248-248"
@@ -4698,6 +4802,7 @@
       "doi": null,
       "meeting": "21st European Immunogenetics and Histocompatibility Conference",
       "abstractNumber": null,
+      "orcidPutCode": 231446651,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 69(5), pp.374-375"
@@ -4736,6 +4841,7 @@
       "doi": null,
       "meeting": "35th Annual Scientific Meeting of the Australasian-Society-for-Immunology/14th International HLA and Immunogenetics Workshops",
       "abstractNumber": null,
+      "orcidPutCode": 231446668,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 66(5), pp.549-549"
@@ -4774,6 +4880,7 @@
       "doi": null,
       "meeting": "35th Annual Scientific Meeting of the Australasian-Society-for-Immunology/14th International HLA and Immunogenetics Workshops",
       "abstractNumber": null,
+      "orcidPutCode": 231446657,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 66(5), pp.549-550"
@@ -4812,6 +4919,7 @@
       "doi": null,
       "meeting": "17th European Histocompatability Conference/11th Annual Meeting of the German-Society-of-Immunogenetics",
       "abstractNumber": null,
+      "orcidPutCode": 231446675,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: GENES AND IMMUNITY 4, pp.S11-S11"
@@ -4850,6 +4958,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446697,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 59, pp.38-38"
@@ -4888,6 +4997,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446692,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 59, pp.124-124"
@@ -4926,6 +5036,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446683,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: TISSUE ANTIGENS 59, pp.5-5"
@@ -4964,6 +5075,7 @@
       "doi": null,
       "meeting": null,
       "abstractNumber": null,
+      "orcidPutCode": 231446703,
       "reasons": [
         "WoS profile explicitly labels this contribution Meeting Abstract.",
         "Bibliographic citation: BLOOD 98(11), pp.740A-740A"

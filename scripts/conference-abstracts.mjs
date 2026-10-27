@@ -37,6 +37,7 @@ export function mergeConferenceAbstracts(dataset, registry) {
   const byKey = new Map();
   for (const r of [...(dataset.conferenceAbstracts || []), ...moved, ...records]) {
     const canonical = records.find(c => (r.id && c.id === r.id) ||
+      (r.putCode && c.putCode === r.putCode) ||
       (r.putCode && !r.doi && c.url && c.url === r.url && c.year === r.year && normal(c.title) === normal(r.title)));
     const key = abstractKey(canonical || r);
     const previous = byKey.get(key);

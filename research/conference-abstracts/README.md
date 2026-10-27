@@ -8,7 +8,7 @@ The curated registry contains **126 verified conference abstracts (2001–2026)*
 
 The additional Web of Science pass supplied 119 profile records explicitly classified as Meeting Abstract: 44 enriched existing entries, 74 added distinct congress contributions immediately; the remaining Brazilian contribution was subsequently corroborated by an independent coauthor CV and added with its author-list limitation recorded. The claimed profile is tied to the exact ORCID. Direct profile attribution is corroborated against displayed coauthors, explicit E. Spierings author entries and research context. WoS sometimes shows abbreviated author lists; those are explicitly labelled and missing authors/order are not invented.
 
-These are bibliographic congress contributions, not 51 distinct studies or claims that Eric personally presented each contribution. The same study presented at different documented meetings remains separate. A later full article remains a separate publication. Only bibliographic metadata, attribution evidence and source links are published here; publisher abstract books and full texts are not redistributed.
+These are bibliographic congress contributions, not 126 distinct studies or claims that Eric personally presented each contribution. The same study presented at different documented meetings remains separate. A later full article remains a separate publication. Only bibliographic metadata, attribution evidence and source links are published here; publisher abstract books and full texts are not redistributed.
 
 ## Search coverage
 
@@ -64,6 +64,16 @@ These candidates are deliberately excluded from ORCID import and from the verifi
 
 ## ORCID synchronization comparison
 
-The public ORCID record was fetched after user sign-in: 313 work groups. Identifier/title comparison finds **120 of the 126 verified abstracts already represented**, generally under `journal-article`. **Six are absent.** New-to-website discoveries must not be confused with new-to-ORCID works. A synchronization plan is retained locally; source-provided versions must be preserved and new editable versions grouped by their actual DOI/WoS UID. No collective book DOI may serve as an individual-work identifier.
+The public ORCID record was fetched after user sign-in: 313 work groups. The first identifier/title comparison produced 120 candidate matches. Checking the identical-title Krog full article against its separate congress contribution corrects this to **119 of the 126 verified abstracts already represented**, generally under `journal-article`, and **seven absent abstracts**. New-to-website discoveries must not be confused with new-to-ORCID works. A synchronization plan is retained locally; source-provided versions must be preserved and new editable versions grouped by their actual DOI/WoS UID. No collective book DOI may serve as an individual-work identifier.
 
 ORCID replaced the manually selectable Conference abstract type with Conference output: [official type guidance](https://info.orcid.org/ufaqs/what-work-types-does-orcid-support/). Abstract identity remains explicit in the description and website registry. The two unresolved candidates are excluded.
+
+## Completed ORCID synchronization
+
+All **126 verified abstracts** now have an editable, public **Conference output** version, selected as the preferred source. This corrects 119 already represented abstracts and adds seven previously absent abstracts. The same true individual DOI, WoS UID or existing Lens ID links the versions; collective abstract-book DOIs are excluded. Citations retain the available author evidence and explicitly label abbreviated lists. No author order or contribution roles were invented.
+
+The final public-API audit matched all 126 titles, years and identifiers, confirmed all 126 preferred versions, and read all 126 complete work records. Citation, conference and description metadata matched the prepared data exactly for 125 records; the first manually entered record has an equivalent, individually reviewed concise citation. The [synchronization audit](orcid-sync.json) records every registry ID and ORCID put code.
+
+Seven older self-entered source versions incorrectly combined identifiers from different conference years, different congresses, or full articles with abstracts. Their unrelated identifiers were removed while retaining the correct identifiers and all source work records. This restored nine previously merged work groups. Together with the seven new abstracts, the public ORCID record grew from **313 to 329 work groups**. This count includes all ORCID work categories and must not be confused with the website's scientific-publication or abstract counts. The two full articles involved remain separate publications.
+
+The registry now stores each synchronized ORCID put code, so automatic refreshes preserve record identity even if an enrichment provider varies a title or URL. Two unresolved historical candidates remain excluded. No credentials, private profile data or raw publisher documents are included in the public audit.

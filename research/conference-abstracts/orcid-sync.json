@@ -1,0 +1,2091 @@
+{
+  "orcid": "0000-0001-9441-1019",
+  "verifiedAt": "2026-10-27T23:09:36.463310+00:00",
+  "policy": "Only 126 verified abstracts synchronized. Two unresolved candidates excluded. Conference output is the current ORCID work type; abstract identity is explicit in each citation and description. Original source versions retained.",
+  "counts": {
+    "verifiedAbstracts": 126,
+    "existingAbstractsCorrected": 119,
+    "newAbstracts": 7,
+    "preferredConferenceOutputVersions": 126,
+    "workGroupsBefore": 313,
+    "workGroupsAfter": 329,
+    "correctedOvergroupedSourceVersions": 7
+  },
+  "verification": {
+    "identifierAndTitleYearMatches": 126,
+    "preferredVersions": 126,
+    "fullRecordsRead": 126,
+    "exactCitationMetadataMatches": 125,
+    "reviewedManualCitationVariant": {
+      "putCode": 231445746,
+      "result": "Equivalent bibliographic citation and attribution verified; initial manually entered version has a more concise citation and description."
+    },
+    "errors": []
+  },
+  "groupingRepairs": [
+    {
+      "putCode": 225654290,
+      "removed": [
+        "WOS:000562907300110"
+      ]
+    },
+    {
+      "putCode": 225654289,
+      "removed": [
+        "WOS:000491488701124"
+      ]
+    },
+    {
+      "putCode": 60098990,
+      "removed": [
+        "WOS:000400973300193",
+        "10.1016/J.HUMIMM.2017.06.179",
+        "WOS:000411658700173"
+      ],
+      "verifiedPublicApi": true
+    },
+    {
+      "putCode": 225654278,
+      "removed": [
+        "10.1016/J.HUMIMM.2017.06.280",
+        "WOS:000411658700274",
+        "WOS:000400973300043"
+      ]
+    },
+    {
+      "putCode": 225654274,
+      "removed": [
+        "WOS:000404515702432",
+        "WOS:000411688500094"
+      ]
+    },
+    {
+      "putCode": 225654283,
+      "removed": [
+        "WOS:000413348700012"
+      ]
+    },
+    {
+      "putCode": 225654287,
+      "removed": [
+        "10.1016/J.BBMT.2012.11.090",
+        "WOS:000314441900064"
+      ],
+      "verifiedPublicApi": true
+    }
+  ],
+  "records": [
+    {
+      "id": "abstract-ed93278f42cbc94b",
+      "title": "P4.877: Attempt to minimize maintenance immunosuppressive therapy based on T and B cell epitope mismatch: Difference between PIRCHE-II and PIRCHE-T2.",
+      "year": 2026,
+      "putCode": 231445783,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001863721100039",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001863721100039"
+        },
+        {
+          "type": "doi",
+          "value": "10.1097/01.tp.0001254944.35607.69",
+          "url": "https://doi.org/10.1097/01.tp.0001254944.35607.69"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": false
+    },
+    {
+      "id": "abstract-025c715ccca41374",
+      "title": "Molecular Mismatch Probability is Dominated by Recipient Genotype Rather Than Donor Population",
+      "year": 2026,
+      "putCode": 231445788,
+      "identifiers": [
+        {
+          "type": "doi",
+          "value": "10.1016/j.ajt.2026.05.1305",
+          "url": "https://doi.org/10.1016/j.ajt.2026.05.1305"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": false
+    },
+    {
+      "id": "abstract-wos-001750677700175",
+      "title": "Histocompatibility Does not Predict Villitis of Unknown Etiology in Oocyte Donation Pregnancies",
+      "year": 2026,
+      "putCode": 231445746,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001750677700175",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001750677700175"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-02e21ff69df30a3e",
+      "title": "HLA-B-21M Leader Variant is Associated with Increased Risk of Early Acute Rejection in CMV Seropositive Lung Transplant Recipients",
+      "year": 2026,
+      "putCode": 231445789,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001761463200006",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001761463200006"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.healun.2026.02.409",
+          "url": "https://doi.org/10.1016/j.healun.2026.02.409"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-001750677700268",
+      "title": "HLA leader peptides and CMV define a unified mechanism of early rejection after solid organ transplantation",
+      "year": 2026,
+      "putCode": 231445796,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001750677700268",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001750677700268"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-ba73a50a9ccd4312",
+      "title": "HLA Class I Leader Peptides Are Associated with Increased Risk of Acute Rejection in CMV Seropositive Lung Transplant Recipients",
+      "year": 2026,
+      "putCode": 231445798,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001761422000017",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001761422000017"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.healun.2026.02.1237",
+          "url": "https://doi.org/10.1016/j.healun.2026.02.1237"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-001422987100011",
+      "title": "PREDICTION OF HYPERTENSIVE COMPLICATIONS IN OOCYTE DONATION PREGNANCY USING FETAL-MATERNAL HLA-MISMATCHES AND PIRCHE-II SCORES: A MULTICENTER COHORT STUDY IN THE NETHERLANDS",
+      "year": 2025,
+      "putCode": 231445812,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001422987100011",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001422987100011"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-e9bcb3a4fad5ac40",
+      "title": "Indirect T Cell Epitope Mismatch Loads Are Correlated with Increased Levels of Panel-Reactive HLA Antibodies After Kidney Transplantation",
+      "year": 2025,
+      "putCode": 231445874,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001551680300134",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001551680300134"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.ajt.2025.07.1252",
+          "url": "https://doi.org/10.1016/j.ajt.2025.07.1252"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-0db9558c95e61670",
+      "title": "HLA-B leader peptide dimorphism affects kidney transplant outcome",
+      "year": 2025,
+      "putCode": 231445876,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001525853600009",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001525853600009"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-297a163f9b3a0891",
+      "title": "Detection of Immunogenic T Cell Epitopes (Peptides) Involved in De Novo DSA Production Using Machine Learning Methods",
+      "year": 2025,
+      "putCode": 231445877,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001551680300140",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001551680300140"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.ajt.2025.07.1257",
+          "url": "https://doi.org/10.1016/j.ajt.2025.07.1257"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-001525853600060",
+      "title": "Data Type Conversions and Misinterpretations in HLA Typing Data: Impact of Spreadsheet Software Formatting on HLA Genotype Integrity",
+      "year": 2025,
+      "putCode": 231445880,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001525853600060",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001525853600060"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-001525853600059",
+      "title": "Combined Population Based on Ancestry-Specific 2007 NMDP Haplotype Frequencies Facilitates Accurate HLA Genotype Imputation and molecular Matching in Absence of Ancestry Information",
+      "year": 2025,
+      "putCode": 231445886,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001525853600059",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001525853600059"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-001708632700139",
+      "title": "Swine Xenografts Share Few Predicted Indirectly Recognizable SLA-Derived Epitopes with HLA-Derived Epitopes from Human Kidney Grafts",
+      "year": 2024,
+      "putCode": 231445887,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001708632700139",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001708632700139"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-6a9d91ad87a964c5",
+      "title": "Paternal HLA-Derived Epitopes and Live Birth in Secondary Recurrent Pregnancy Loss: New Insights From a Clinical Trial",
+      "year": 2024,
+      "putCode": 231445889,
+      "identifiers": [],
+      "preferred": true,
+      "existingGroup": false
+    },
+    {
+      "id": "abstract-wos-001364287301324",
+      "title": "Assessment of the efficacy of a monoclonal antibody against pancreatic tumour cells by complement-dependent cytotoxicity assay",
+      "year": 2024,
+      "putCode": 231445892,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001364287301324",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001364287301324"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-001708634200179",
+      "title": "Allele-Specific Solvent-Accessible Surface-Protruding Amino Acid Mismatches and Predicted Indirect T-cell Epitopes Improve HLA Matching in Predicting Kidney Graft Survival",
+      "year": 2024,
+      "putCode": 231446052,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001708634200179",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001708634200179"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-5c778174e7a72e58",
+      "title": "The number of donor HLA-derived T-cell epitopes available for indirect antigen presentation determines the risk for vascular rejection after kidney transplantation",
+      "year": 2023,
+      "putCode": 231446054,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001082837700042",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001082837700042"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-20944d9a118642b2",
+      "title": "The 18th International HLA and Immunogenetics Workshop (IHIWS) HLA immunogenic epitope project",
+      "year": 2023,
+      "putCode": 231446055,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001082837700010",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001082837700010"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-b7070c82859fa507",
+      "title": "P520 Repeated local ellipsoid protrusion supplements human leukocyte antigen surface characterization",
+      "year": 2023,
+      "putCode": 231446056,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001078560900126",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001078560900126"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.humimm.2023.08.087",
+          "url": "https://doi.org/10.1016/j.humimm.2023.08.087"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-f43e2a703ef07cad",
+      "title": "O7 Combining allele-specific solvent-accessible surface-protruding amino acid mismatches and predicted indirect T cell epitopes improves HLA matching in predicting kidney graft survival",
+      "year": 2023,
+      "putCode": 231446058,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:001078560900008",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001078560900008"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.humimm.2023.07.016",
+          "url": "https://doi.org/10.1016/j.humimm.2023.07.016"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-deb4876fb804f039",
+      "title": "Which is More Important for Predicting De Novo DSA Production, B Cell Epitope (EPLET) or T Cell Epitope (PIRCHE) Analysis ?",
+      "year": 2022,
+      "putCode": 231446059,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000842606302120",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000842606302120"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-801b9026f6398fff",
+      "title": "The Role of HLA Epitope Mismatches in Antibody Development and Refractoriness to Optimize Allocation in Platelet Transfusion",
+      "year": 2022,
+      "putCode": 231446060,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000788004300039",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000788004300039"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-2d1dedaed8c18651",
+      "title": "T-cell epitopes shared between immunizing and donor HLA associate with kidney allograft failure",
+      "year": 2022,
+      "putCode": 231446062,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000788004300018",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000788004300018"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-1d01a3171014f9ae",
+      "title": "Single-cell sequence analyses of circulating T follicular helper cells during antibody-mediated rejection",
+      "year": 2022,
+      "putCode": 231446068,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000788004300061",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000788004300061"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000893223200368",
+      "title": "Indirectly Recognizable Epitopes Derived from Recipient Mismatched HLA-B Are Associated with Adverse Prognosis in Single-Unit Cord Blood Transplantation",
+      "year": 2022,
+      "putCode": 231446069,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000893223200368",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000893223200368"
+        },
+        {
+          "type": "doi",
+          "value": "10.1182/blood-2022-164913",
+          "url": "https://doi.org/10.1182/blood-2022-164913"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000891281900171",
+      "title": "DEVELOPING A DEEP LEARNING-BASED EPITOPE MATCHING ALGORITHM CONSIDERING ALLELE-SPECIFIC SOLVENT ACCESSIBILITY",
+      "year": 2022,
+      "putCode": 231446070,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000891281900171",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000891281900171"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000891281900009",
+      "title": "ALLELE-SPECIFIC SOLVENT ACCESSIBLE AMINO ACID MISMATCHES ARE CORRELATED WITH IMMUNIZER-SPECIFIC HLA ANTIBODIES AFTER KIDNEY TRANSPLANTATION OR PREGNANCY",
+      "year": 2022,
+      "putCode": 231446072,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000891281900009",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000891281900009"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-f55da1459f845930",
+      "title": "腎移植後患者における新規ドナー特異的抗体産生リスク予測のためのT細胞およびB細胞エピトープ解析",
+      "year": 2021,
+      "putCode": 231446073,
+      "identifiers": [],
+      "preferred": true,
+      "existingGroup": false
+    },
+    {
+      "id": "abstract-wos-000697845200009",
+      "title": "SHARED T-CELL EPITOPES BETWEEN IMMUNIZING AND DONOR HLA ASSOCIATE WITH KIDNEY ALLOGRAFT SURVIVAL",
+      "year": 2021,
+      "putCode": 231446076,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000697845200009",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000697845200009"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-4e411f2ca4efb419",
+      "title": "Human Leukocyte Antigen mapping of paediatric uveitis",
+      "year": 2021,
+      "putCode": 231446077,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000690761600719",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000690761600719"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-59806c64a7d7bfb7",
+      "title": "Compartmentalization, persistence and conserved shared motifs of dominant (regulatory) T cell clones in autoimmune inflammation",
+      "year": 2021,
+      "putCode": 231446080,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000691812200014",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000691812200014"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000518393300233",
+      "title": "UNRAVELING THE CELL SURFACE EXPRESSION OF THE HLA-B*13:123Q ALLELE",
+      "year": 2020,
+      "putCode": 231446106,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000518393300233",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000518393300233"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000518393300153",
+      "title": "THE NUMBER OF PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES PRESENTED BY HLA-DQ AND -DP ARE CORRELATED WITH CHILD-SPECIFIC HLA-ANTIBODIES IN PREGNANCY",
+      "year": 2020,
+      "putCode": 231446110,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000518393300153",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000518393300153"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000578671900091",
+      "title": "IN SILICO SIMULATIONS DEMONSTRATE THE BENEFIT OF HLA EPITOPE MATCHING FOR KIDNEY ALLOCATION",
+      "year": 2020,
+      "putCode": 231446112,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000578671900091",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000578671900091"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-19d84ce27c3fb2f1",
+      "title": "Human Leukocyte Antigen mapping of paediatric uveitis",
+      "year": 2020,
+      "putCode": 231446113,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000562907300110",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000562907300110"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000751335600070",
+      "title": "HLA ANTIBODY MARKUP LANGUAGE (HAML) - A CASE STUDY AND TECHNOLOGY DEMONSTRATION INVOLVING DPB1 EPITOPE ANALYSIS",
+      "year": 2020,
+      "putCode": 231446116,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000751335600070",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000751335600070"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-eed3114c422ddd65",
+      "title": "Evaluating Preformed Donor HLA Reactive T Cells Using PIRCHE-II Algorithm",
+      "year": 2020,
+      "putCode": 231446117,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000546629502251",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000546629502251"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000518393300156",
+      "title": "EVALUATION OF PREFORMED DONOR-HLA-CROSS-REACTIVE T CELLS USING PIRCHE-II ALGORITHM",
+      "year": 2020,
+      "putCode": 231446119,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000518393300156",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000518393300156"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-a6883d1a31870da9",
+      "title": "Clinical Significance of T Cell and B Cell Epitope Prediction as a Risk Factor of De Novo DSA Production after Kidney Transplantation",
+      "year": 2020,
+      "putCode": 231446120,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000546629501344",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000546629501344"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-189f1f6c0cf225ca",
+      "title": "21%-51% of a Single-Center, 15-Year Cohort of All Patients with ESKD Prior to the Age of 50 Have Monogenic Kidney Disease",
+      "year": 2020,
+      "putCode": 231446126,
+      "identifiers": [
+        {
+          "type": "doi",
+          "value": "10.1681/asn.20203110s1522a",
+          "url": "https://doi.org/10.1681/asn.20203110s1522a"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": false
+    },
+    {
+      "id": "abstract-wos-000464517600082",
+      "title": "THE NUMBER OF DONOR-HLA-DERIVED PEPTIDES PRESENTED BY RECIPIENT DRB3/4/5 AND DQA1-DQB1 IN KIDNEY-TRANSPLANTED RECIPIENTS ARE INDEPENDENT FROM THE NUMBER OF DRB1-PRESENTED PEPTIDES",
+      "year": 2019,
+      "putCode": 231446127,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000464517600082",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000464517600082"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000491488701287",
+      "title": "IDENTIFICATION OF IMMUNOGENIC RECIPIENT HLA CLASS II AND DONOR-HLA-DERIVED PEPTIDE COMPLEXES: CLINICAL RELEVANCE TO DE NOVO DONOR-SPECIFIC HLA ANTIBODY FORMATION IN KIDNEY TRANSPLANTATION",
+      "year": 2019,
+      "putCode": 231446128,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000491488701287",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000491488701287"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000491488701124",
+      "title": "COMPUTATIONAL SIMULATIONS DEMONSTRATE THE FEASIBILITY AND BENEFIT OF EPITOPE MATCHING FOR KIDNEY TRANSPLANTATION",
+      "year": 2019,
+      "putCode": 231446129,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000491488701124",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000491488701124"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000464517600210",
+      "title": "A NEW B*35 ALLELE DETECTED IN A POTENTIAL BRAZILIAN BONE MARROW VOLUNTEER DONOR FROM CURITIBA, BRAZIL",
+      "year": 2019,
+      "putCode": 231446130,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000464517600210",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000464517600210"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000430290800022",
+      "title": "SIMULATING THROMBOCYTE TRANSFUSIONS TO INVESTIGATE THE ROLE OF T-HELPER AND B-CELL EPITOPES ON THE RISK FOR PLATELET REFRACTORINESS",
+      "year": 2018,
+      "putCode": 231446132,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000430290800022",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000430290800022"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000449666000016",
+      "title": "PREDICTION OF ANTIBODY- AND CELL-MEDIATED REJECTION OF KIDNEY TRANSPLANTS BY HLA EPITOPE MATCHING",
+      "year": 2018,
+      "putCode": 231446133,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000449666000016",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000449666000016"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000430290800046",
+      "title": "HLA EPITOPE MATCHING OF KIDNEY TRANSPLANTS PREDICTS ANTIBODY- AND CELL-MEDIATED REJECTION",
+      "year": 2018,
+      "putCode": 231446135,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000430290800046",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000430290800046"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-06c353a7fe5f3b91",
+      "title": "Decreased Graft Survival of Retransplants can Largely be Explained By Increased Hla-immunization",
+      "year": 2018,
+      "putCode": 231446189,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000430290800105",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000430290800105"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000449666000049",
+      "title": "COMPUTATIONAL SIMULATIONS DEMONSTRATE THE FEASIBILITY AND BENEFIT OF HLA EPITOPE MATCHING IN DECEASED DONOR KIDNEY ALLOCATION",
+      "year": 2018,
+      "putCode": 231446190,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000449666000049",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000449666000049"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000430290800025",
+      "title": "COMPUTATIONAL SIMULATIONS DEMONSTRATE THE FEASIBILITY AND BENEFIT OF EPITOPE MATCHING FOR KIDNEY TRANSPLANTATION",
+      "year": 2018,
+      "putCode": 231446191,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000430290800025",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000430290800025"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-a8aded8e701f4b6c",
+      "title": "SO025DONOR RECIPIENT MATCHING BASED ON HLA EPITOPES IMPROVES OUTCOME IN KIDNEY TRANSPLANT RECIPIENTS",
+      "year": 2017,
+      "putCode": 231446194,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000469797100026",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000469797100026"
+        },
+        {
+          "type": "doi",
+          "value": "10.1093/ndt/gfx104.so025",
+          "url": "https://doi.org/10.1093/ndt/gfx104.so025"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-e80165805cf4e9bc",
+      "title": "SO024DONOR RECIPIENT MATCHING BASED ON INDIRECTLY RECOGNIZABLE HLA EPITOPES INDEPENDENTLY PREDICTS OUTCOME AFTER KIDNEY TRANSPLANTATION",
+      "year": 2017,
+      "putCode": 231446196,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000469797100025",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000469797100025"
+        },
+        {
+          "type": "doi",
+          "value": "10.1093/ndt/gfx104",
+          "url": "https://doi.org/10.1093/ndt/gfx104"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-9bf8c641eaefef42",
+      "title": "Predicted Indirectly Recognizable HLA Epitopes (PIRCHE) and HLA-Specific Immune Responses",
+      "year": 2017,
+      "putCode": 231446197,
+      "identifiers": [],
+      "preferred": true,
+      "existingGroup": false
+    },
+    {
+      "id": "abstract-wos-000413348700012",
+      "title": "PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES FROM EPLET MISMATCHES CORRELATE WITH DE NOVO DONOR-SPECIFIC HLA ANTIBODIES AFTER KIDNEY TRANSPLANTATION",
+      "year": 2017,
+      "putCode": 231446198,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000413348700012",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000413348700012"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000400973300019",
+      "title": "PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES FROM EPLET MISMATCHES CORRELATE WITH DE NOVO DONOR-SPECIFIC HLA ANTIBODIES AFTER KIDNEY TRANSPLANTATION",
+      "year": 2017,
+      "putCode": 231446200,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000400973300019",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300019"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000400973300077",
+      "title": "PIRCHE-II: A NOVEL TOOL TO IDENTIFY PERMISSIBLE HLA MISMATCHES IN KIDNEY TRANSPLANTATION",
+      "year": 2017,
+      "putCode": 231446202,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000400973300077",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300077"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-16bd0943cccb69b6",
+      "title": "P220 A previous miscarriage and a previous successful pregnancy have a different impact on HLA antibody formation during a subsequent successful pregnancy",
+      "year": 2017,
+      "putCode": 231446206,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000411658700274",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000411658700274"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.humimm.2017.06.280",
+          "url": "https://doi.org/10.1016/j.humimm.2017.06.280"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-3789a782c4a8f075",
+      "title": "P120 Predicted indirectly recognizable HLA epitopes presented by HLA-DRB1 are related to HLA antibody formation during pregnancy",
+      "year": 2017,
+      "putCode": 231446216,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000411658700174",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000411658700174"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.humimm.2017.06.180",
+          "url": "https://doi.org/10.1016/j.humimm.2017.06.180"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-432f24c19ecb428c",
+      "title": "P119 Computational approaches to facilitate epitope-based HLA matching in solid organ transplantation",
+      "year": 2017,
+      "putCode": 231446220,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000411658700173",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000411658700173"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.humimm.2017.06.179",
+          "url": "https://doi.org/10.1016/j.humimm.2017.06.179"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-5cf756e045af48b4",
+      "title": "P069 Completion of HLA proased nearest-neighbor extrapolation of HLA database sequences",
+      "year": 2017,
+      "putCode": 231446223,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000411658700123",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000411658700123"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.humimm.2017.06.129",
+          "url": "https://doi.org/10.1016/j.humimm.2017.06.129"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-da613d9a8fea36d3",
+      "title": "OR41 PIRCHE-II: A novel tool to identify permissible HLA mismatches in kidney transplantation",
+      "year": 2017,
+      "putCode": 231446224,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000411658700042",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000411658700042"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.humimm.2017.06.047",
+          "url": "https://doi.org/10.1016/j.humimm.2017.06.047"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000400973300026",
+      "title": "MATCHING FOR THE NON-CONVENTIONAL MHC-I MICA GENE SIGNIFICANTLY REDUCES THE INCIDENCE OF ACUTE AND CHRONIC GVHD",
+      "year": 2017,
+      "putCode": 231446225,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000400973300026",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300026"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-900db76abbbdd0c7",
+      "title": "Improved Outcome of Kidney Transplants by Donor Recipient Matching Based on Predicted Indirectly Recognizable HLA Epitopes.",
+      "year": 2017,
+      "putCode": 231446226,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000404515702433",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000404515702433"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-5e05e295247a4f01",
+      "title": "Identifying Permissible HLA-Mismatches in Unrelated-Donor Hematopoietic Stem-Cell Transplantation Using Predicted Indirectly Recognizable HLA Epitopes",
+      "year": 2017,
+      "putCode": 231446233,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000540635000087",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000540635000087"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.bbmt.2016.12.064",
+          "url": "https://doi.org/10.1016/j.bbmt.2016.12.064"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-9797340f028fed64",
+      "title": "Donor Recipient Matching Based on HLA Epitopes Improves Outcome in Kidney Transplant Recipients.",
+      "year": 2017,
+      "putCode": 231446235,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000404515702432",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000404515702432"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000411688500094",
+      "title": "DONOR RECIPIENT MATCHING BASED ON HLA EPITOPES IMPROVES OUTCOME IN KIDNEY TRANSPLANT RECIPIENTS",
+      "year": 2017,
+      "putCode": 231446240,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000411688500094",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000411688500094"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000400973300022",
+      "title": "DIFFERENTIAL EFFECT OF DONOR-SPECIFIC HLA ANTIBODIES IN LIVING VERSUS DECEASED DONOR KIDNEY TRANSPLANTATION",
+      "year": 2017,
+      "putCode": 231446243,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000400973300022",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300022"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000400973300193",
+      "title": "COMPUTATIONAL APPROACHES TO FACILITATE EPITOPE-BASED HLA MATCHING IN SOLID ORGAN TRANSPLANTATION",
+      "year": 2017,
+      "putCode": 231446244,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000400973300193",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300193"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-fd9e25ad05879459",
+      "title": "Analysis of Predicted Indirectly Recognizable HLA Epitopes (PIRCHE) in Mismatched Unrelated Donor Hematopoietic Stem Cell Transplants (HCT): A Center for International Blood and Marrow Transplant Research (CIBMTR) Cohort Study",
+      "year": 2017,
+      "putCode": 231446248,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000540635000197",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000540635000197"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.bbmt.2016.12.341",
+          "url": "https://doi.org/10.1016/j.bbmt.2016.12.341"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000400973300043",
+      "title": "A PREVIOUS MISCARRIAGE AND A PREVIOUS SUCCESSFUL PREGNANCY HAVE A DIFFERENT IMPACT ON HLA ANTIBODY FORMATION DURING A SUBSEQUENT SUCCESSFUL PREGNANCY",
+      "year": 2017,
+      "putCode": 231446281,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000400973300043",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300043"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000383951500061",
+      "title": "PRE-TRANSPLANT DONOR SPECIFIC HLA ANTIBODIES IN 4386 RENAL TRANSPLANT RECIPIENTS: A PRELIMINARY ANALYSIS OF THE PROCARE COHORT",
+      "year": 2016,
+      "putCode": 231446313,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000383951500061",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000383951500061"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000383951500064",
+      "title": "IMMUNOGENICITY OF ANTI-HLA ANTIBODIES IN PANCREAS AND ISLET TRANSPLANTATION",
+      "year": 2016,
+      "putCode": 231446315,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000383951500064",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000383951500064"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000379484600244",
+      "title": "EFFICACY OF HOST-DENDRITIC CELL VACCINATIONS WITH AND WITHOUT MINOR HISTOCOMPATIBILITY ANTIGEN LOADING, COMBINED WITH DONOR LYMPHOCYTE INFUSION IN MULTIPLE MYELOMA PATIENTS",
+      "year": 2016,
+      "putCode": 231446318,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000379484600244",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000379484600244"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000385569800073",
+      "title": "DE NOVO DONOR-SPECIFIC HLA ANTIBODIES AFTER KIDNEY TRANSPLANTATION ARE CORRELATED WITH THE NUMBER OF PREDICTED INDIRECTLY RECOGNIZABLE EPITOPES",
+      "year": 2016,
+      "putCode": 231446327,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000385569800073",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000385569800073"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000373357601045",
+      "title": "Clinical Outcome and Immune Reconstitution in αβ T-cell Depleted Allogeneic Stem Cell Transplantation from Matched Related and Unrelated Donors",
+      "year": 2016,
+      "putCode": 231446337,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000373357601045",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000373357601045"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000383951500031",
+      "title": "COMPLETION OF HLA PROTEIN SEQUENCES BY AUTOMATED HOMOLOGY-BASED NEAREST-NEIGHBOR EXTRAPOLATION OF HLA DATABASE SEQUENCES",
+      "year": 2016,
+      "putCode": 231446381,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000383951500031",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000383951500031"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000379484601079",
+      "title": "CLINICAL OUTCOME AND IMMUNE RECONSTITUTION IN α/β T-CELL DEPLETED ALLOGENEIC STEM CELL TRANSPLANTATION FROM MATCHED RELATED AND UNRELATED DONORS",
+      "year": 2016,
+      "putCode": 231446383,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000379484601079",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000379484601079"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-0817cd40e1f62d23",
+      "title": "Predicted Indirectly Recognizable Hla Epitopes (PIRCHE) Provide a Novel Strategy to Individualize Donor Selection That Optimizes Survival Chances",
+      "year": 2015,
+      "putCode": 231446386,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000348633000511",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000348633000511"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.bbmt.2014.11.557",
+          "url": "https://doi.org/10.1016/j.bbmt.2014.11.557"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-2aeb71c29db699da",
+      "title": "Immune Reconstitution and Clinical Outcome after α/β T-Cell Depleted Allogeneic Stem Cell Transplantation from Matched Related and Unrelated Donors",
+      "year": 2015,
+      "putCode": 231446389,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000368021801255",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000368021801255"
+        },
+        {
+          "type": "doi",
+          "value": "10.1182/blood.v126.23.4313.4313",
+          "url": "https://doi.org/10.1182/blood.v126.23.4313.4313"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000337546000019",
+      "title": "VALIDATION AND IMPLEMENTATION OF NEXT GENERATION SEQUENCING-BASED HLA TYPING FOR CLINICAL DIAGNOSTICS",
+      "year": 2014,
+      "putCode": 231446391,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000337546000019",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000337546000019"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-712616b941a7c700",
+      "title": "Treatment of steroid resistant grade II to IV acute GVHD by infusion of mesenchymal stromal cells expanded with platelet lysate - a phase I/II study",
+      "year": 2014,
+      "putCode": 231446394,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000333438100022",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000333438100022"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.jcyt.2014.01.032",
+          "url": "https://doi.org/10.1016/j.jcyt.2014.01.032"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-9da298857f604fa8",
+      "title": "The PROCARE consortium: Towards an improved allocation strategy for kidney allografts",
+      "year": 2014,
+      "putCode": 231446398,
+      "identifiers": [
+        {
+          "type": "doi",
+          "value": "10.1016/j.trim.2014.11.191",
+          "url": "https://doi.org/10.1016/j.trim.2014.11.191"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": false
+    },
+    {
+      "id": "abstract-wos-000359941900036",
+      "title": "TREATMENT OF STEROID RESISTANT GRADE II TO IV ACUTE GVHD BY INFUSION OF MESENCHYMAL STROMA CELLS EXPANDED WITH PLATELET LYSATE - A PHASE I/II STUDY",
+      "year": 2014,
+      "putCode": 231446399,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000359941900036",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000359941900036"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000342830901163",
+      "title": "TREATMENT OF STEROID RESISTANT GRADE II TO IV ACUTE GVHD BY INFUSION OF MESENCHYMAL",
+      "year": 2014,
+      "putCode": 231446400,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000342830901163",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000342830901163"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-f22caa449a6106ed",
+      "title": "Matching of MHC Class I Chain-Related Genes a and B Is Associated with Reduced Incidence of Severe Acute Graft-Versus-Host Disease after Unrelated Hematopoietic Stem Cell Transplantation",
+      "year": 2014,
+      "putCode": 231446405,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000349233803023",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000349233803023"
+        },
+        {
+          "type": "doi",
+          "value": "10.1182/blood.v124.21.664.664",
+          "url": "https://doi.org/10.1182/blood.v124.21.664.664"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-e6fcb71a4a38833f",
+      "title": "Identification of Minor Histocompatibility Antigens Based on the 1000 Genomes Project for Application in Therapeutic Dendritic Cell Vaccination",
+      "year": 2014,
+      "putCode": 231446408,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000349242707088",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000349242707088"
+        },
+        {
+          "type": "doi",
+          "value": "10.1182/blood.v124.21.2418.2418",
+          "url": "https://doi.org/10.1182/blood.v124.21.2418.2418"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000337546000063",
+      "title": "IDENTIFYING PERMISSIBLE HLA-MISMATCHES: PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES",
+      "year": 2014,
+      "putCode": 231446409,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000337546000063",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000337546000063"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000337546000009",
+      "title": "HLA CLASS-II PRESENTED PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES ARE RELATED TO THE FORMATION OF CHILD-SPECIFIC HLA ANTIBODIES DURING PREGNANCY",
+      "year": 2014,
+      "putCode": 231446410,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000337546000009",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000337546000009"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000359941901391",
+      "title": "COMBINED HLA AND SEX-MISMATCHED HSCT IS ASSOCIATED WITH INCREASED CD4+AND CD8+T CELL NUMBERS IN ACUTE GVHD CUTANEOUS INFILTRATES",
+      "year": 2014,
+      "putCode": 231446412,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000359941901391",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000359941901391"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000359941902298",
+      "title": "AN ALTERNATIVE EXPLANATION FOR NON-PERMISSIBLE HLA-DPB1 MISMATCHES IN HEMATOPOIETIC STEM-CELL TRANSPLANTATION: HLA-DPB1-DERIVED PIRCHES CORRELATE TO ACUTE GVHD",
+      "year": 2014,
+      "putCode": 231446414,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000359941902298",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000359941902298"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-8d72e622555d9b9c",
+      "title": "A Universal Approach to Identify Permissible HLA-Mismatches in HSCT: Predicted Indirectly Recognizable HLA Epitopes",
+      "year": 2014,
+      "putCode": 231446419,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000331155400200",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000331155400200"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.bbmt.2013.12.218",
+          "url": "https://doi.org/10.1016/j.bbmt.2013.12.218"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000319025200369",
+      "title": "Treatment of steroid-resistant grade II to IV acute Gvhd by infusion of mesenchymal stromal cells expanded with platelet lysate: a phase I/II study",
+      "year": 2013,
+      "putCode": 231446421,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000319025200369",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000319025200369"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-3cd81207477e5218",
+      "title": "Treatment of Steroid Resistant Grade II to IV Acute GVHD by Infusion of Mesenchymal Stroma Cells Expanded with Platelet Lysate - a Phase I/II Study",
+      "year": 2013,
+      "putCode": 231446424,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000314441900064",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000314441900064"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.bbmt.2012.11.090",
+          "url": "https://doi.org/10.1016/j.bbmt.2012.11.090"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000318523600225",
+      "title": "THE NOVEL HLA-B*44:02:27 ALLELE, IDENTIFIED BY SEQUENCING-BASED TYPING OF A CANDIDATE STEM-CELL DONOR",
+      "year": 2013,
+      "putCode": 231446427,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000318523600225",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600225"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000318523600237",
+      "title": "THE NOVEL HLA-A*29:46 ALLELE, IDENTIFIED BY SEQUENCING-BASED TYPING OF A CORD BLOOD DONOR",
+      "year": 2013,
+      "putCode": 231446429,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000318523600237",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600237"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000318523600226",
+      "title": "THE NOVEL HLA-A*24:215 ALLELE, IDENTIFIED BY SEQUENCING-BASED TYPING OF A HSCT PATIENT AND DONOR",
+      "year": 2013,
+      "putCode": 231446433,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000318523600226",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600226"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000319025200201",
+      "title": "Risk of alloreactivity after single HLA-mismatched haematopoietic stem cell transplantation increases with increasing numbers of predicted indirectly recognized HLA epitopes",
+      "year": 2013,
+      "putCode": 231446438,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000319025200201",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000319025200201"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000318523600040",
+      "title": "RISK OF ALLOREACTIVITY AFTER SINGLE HLA-MISMATCHED HAEMATOPOIETIC STEM-CELL TRANSPLANTATION INCREASES WITH INCREASING NUMBERS OF PREDICTED INDIRECTLY RECOGNIZED HLA EPITOPES",
+      "year": 2013,
+      "putCode": 231446440,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000318523600040",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600040"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-ef9923b4abd2fae0",
+      "title": "Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host-disease and relapse-related mortality in pediatric patients after cord blood transplantation",
+      "year": 2013,
+      "putCode": 231446441,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000326060900051",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000326060900051"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.humimm.2013.08.061",
+          "url": "https://doi.org/10.1016/j.humimm.2013.08.061"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-7282ef24b54781f1",
+      "title": "Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host disease and relapse-related mortality in paediatric patients after cord blood transplantation",
+      "year": 2013,
+      "putCode": 231446445,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000318523600077",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600077"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-72d1ece5125af8bd",
+      "title": "Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host disease and relapse-related mortality in paediatric patients after cord blood transplantation",
+      "year": 2013,
+      "putCode": 231446451,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000319025200200",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000319025200200"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000318523600027",
+      "title": "PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES PRESENTED BY HLA-DR CORRELATE WITH THE DE NOVO DEVELOPMENT OF DONOR-SPECIFIC HLA IGG ANTIBODIES AFTER KIDNEY TRANSPLANTATION",
+      "year": 2013,
+      "putCode": 231446469,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000318523600027",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600027"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000318523600064",
+      "title": "CONFIRMATION OF AND EXPLANATION FOR THE EFFECT OF HLA-DPB1 NON-PERMISSIVE MISMATCHES AFTER 10/10 HLA MATCHED-UNRELATED DONOR STEM-CELL TRANSPLANTATION: A SINGLE CENTER STUDY",
+      "year": 2013,
+      "putCode": 231446475,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000318523600064",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600064"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-9d068773938a82f3",
+      "title": "Treatment of Steroid Resistant Grade II to IV Acute Gvhd by Infusion of Mesenchymal Stroma Cells Expanded with Human Plasma and Platelet Lysate - a Phase I/II Study",
+      "year": 2012,
+      "putCode": 231446484,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000313838900223",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000313838900223"
+        },
+        {
+          "type": "doi",
+          "value": "10.1182/blood.v120.21.736.736",
+          "url": "https://doi.org/10.1182/blood.v120.21.736.736"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000306994301393",
+      "title": "The Human Leukocyte Antigen DQ B1*02 is More Frequent in Patients With Tissue-Transglutaminase Antibody Levels ≥100 U/mL",
+      "year": 2012,
+      "putCode": 231446494,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000306994301393",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000306994301393"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000306994301378",
+      "title": "The Human Leukocyte Antigen DQ 2.2 and Celiac Disease",
+      "year": 2012,
+      "putCode": 231446504,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000306994301378",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000306994301378"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000303499800133",
+      "title": "THE DELETERIOUS EFFECT OF GENDER MISMATCHING DEPENDS ON GRAFT SOURCE CHARACTERISTICS",
+      "year": 2012,
+      "putCode": 231446511,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000303499800133",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000303499800133"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000303499800115",
+      "title": "PREDICTING SUCCES IN MATCHED UNRELATED HEMATOPOIETIC STEM CELL DONOR SEARCH",
+      "year": 2012,
+      "putCode": 231446517,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000303499800115",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000303499800115"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-2d1cbee8e9079b41",
+      "title": "Identification of New Hematopoietic Minor Histocompatibility Antigen UTA2-1; Ready for Application in Antitumor Immunotherapy",
+      "year": 2011,
+      "putCode": 231446525,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000299597104330",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000299597104330"
+        },
+        {
+          "type": "doi",
+          "value": "10.1182/blood.v118.21.2979.2979",
+          "url": "https://doi.org/10.1182/blood.v118.21.2979.2979"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000289249000032",
+      "title": "Gene therapy with IGG-HY fusion proteins to reduce male-specific T-cell reactivity in-vitro",
+      "year": 2011,
+      "putCode": 231446534,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000289249000032",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000289249000032"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-61ca26cd62e563f2",
+      "title": "High H-Y antibody responses in secondary recurrent miscarriage patients correlate with low male birth in surviving pregnancies",
+      "year": 2010,
+      "putCode": 231446729,
+      "identifiers": [
+        {
+          "type": "lensid",
+          "value": "129-343-769-393-038",
+          "url": ""
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000277611300111",
+      "title": "Accumulation of female hy-specific CD8 positive T-cells in male skin during acute graft-versus-host disease",
+      "year": 2010,
+      "putCode": 231446542,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000277611300111",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000277611300111"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000276659100061",
+      "title": "Accumulation of female HY-specific CD8-positive T cells in male skin during acute graft-versus-host disease",
+      "year": 2010,
+      "putCode": 231446550,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000276659100061",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000276659100061"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000266032200008",
+      "title": "Steric hindrance and fast dissociation explain the lack of immunogenicity of the minor histocompatibility HA-1arg NULL allele",
+      "year": 2009,
+      "putCode": 231446570,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000266032200008",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000266032200008"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-2e9d4050079fe570",
+      "title": "Poor-Risk Acute Leukemia Patients with An EBMT Low-Risk Score and An 8/8 Matched Unrelated Donor Show Excellent Survival After Hematopoietic Stem Cell Transplantation.",
+      "year": 2009,
+      "putCode": 231446580,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000272725801376",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000272725801376"
+        },
+        {
+          "type": "doi",
+          "value": "10.1182/blood.v114.22.1196.1196",
+          "url": "https://doi.org/10.1182/blood.v114.22.1196.1196"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000266032200250",
+      "title": "A sequence-based typing methodology for minor histocompatibility antigen HA-1",
+      "year": 2009,
+      "putCode": 231446589,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000266032200250",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000266032200250"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000258444500051",
+      "title": "Strong atomic HLA-peptide interactions explain the immunogenicity of the HA-1 minor H antigen",
+      "year": 2008,
+      "putCode": 231446632,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000258444500051",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000258444500051"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000258444500050",
+      "title": "Are cytotoxic T cells and T regulator cells specific for the same minor H antigen HA-1 using the same or a different TCR for performing their unique function?",
+      "year": 2008,
+      "putCode": 231446637,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000258444500050",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000258444500050"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000245985000006",
+      "title": "Phenotype frequencies of autosomal minor histocompatibility antigens display significant differences among ethnic populations",
+      "year": 2007,
+      "putCode": 231446651,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000245985000006",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000245985000006"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000233542700565",
+      "title": "Identification of new immunotherapeutic candidates encoded by the minor histocompatibility antigen HA-1 gene",
+      "year": 2005,
+      "putCode": 231446657,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000233542700565",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000233542700565"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000233542700564",
+      "title": "A uniform methodology for minor histocompatibility antigen typing",
+      "year": 2005,
+      "putCode": 231446668,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000233542700564",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000233542700564"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000183208800043",
+      "title": "In vitro priming of HLA-identical T cells with allogeneic dendritic cells allows identification of an MHC class II-restricted minor Histocompatibility Ag peptide encoded by DBY",
+      "year": 2003,
+      "putCode": 231446675,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000183208800043",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000183208800043"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000176311300017",
+      "title": "Identification and initial characterization of the human minor histocompatibility antigen HA-3",
+      "year": 2002,
+      "putCode": 231446683,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000176311300017",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000176311300017"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000176311300403",
+      "title": "HLA-B7 can present a variety of minor histocompatibility antigens within a single patient",
+      "year": 2002,
+      "putCode": 231446692,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000176311300403",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000176311300403"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000176311300116",
+      "title": "Complete anti-H-Y immune response clarifies poorer graft outcome of sex-mismatched transplants",
+      "year": 2002,
+      "putCode": 231446697,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000176311300116",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000176311300116"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    },
+    {
+      "id": "abstract-wos-000172134103096",
+      "title": "The DBY gene codes for an HLA-DQ5 restricted human male specific minor histocompatibility antigen involved in graft versus host disease.",
+      "year": 2001,
+      "putCode": 231446703,
+      "identifiers": [
+        {
+          "type": "wosuid",
+          "value": "WOS:000172134103096",
+          "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000172134103096"
+        }
+      ],
+      "preferred": true,
+      "existingGroup": true
+    }
+  ]
+}
