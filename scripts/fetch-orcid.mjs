@@ -332,7 +332,7 @@ function isScientificPublicationWorkType(type = "") {
 }
 
 function isConferenceAbstract(record) {
-  return /\\bS\\d{2,}(?:\\s*[-–]\\s*S?\\d+)?\\b/i.test(
+  return /\bS\d{2,}(?:\s*[-–]\s*S?\d+)?\b/i.test(
     record.volumeIssuePages || ""
   );
 }
@@ -343,7 +343,7 @@ function isVerifiedScientificPublication(record) {
     Array.isArray(record.selfAuthorPositions) &&
     record.selfAuthorPositions.length > 0 &&
     !isConferenceAbstract(record) &&
-    !/^(erratum|corrigendum|retraction)\\b/i.test(record.title || "")
+    !/^(erratum|corrigendum|retraction)\b/i.test(record.title || "")
   );
 }
 
@@ -599,7 +599,7 @@ const excludedRecordCounts = {
   erratumOrRetraction: eligibleWorkTypeRecords.filter(
     (record) => Array.isArray(record.selfAuthorPositions) &&
       record.selfAuthorPositions.length > 0 &&
-      /^(erratum|corrigendum|retraction)\\b/i.test(record.title || "")
+      /^(erratum|corrigendum|retraction)\b/i.test(record.title || "")
   ).length
 };
 
