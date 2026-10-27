@@ -3,13 +3,13 @@
     "section": "hla-diagnostics",
     "source": "02_HLA_peptiden_en_receptoren/basic_098_HLA_I_self_self_peptide_PIRCHE.svg",
     "copy": "assets/basisset/basic_098_HLA_I_self_self_peptide_PIRCHE.svg",
-    "adaptation": "Inline IDs prefixed by section; responsive uniform scaling. Original geometry and colours retained."
+    "adaptation": "Website variant: shortened heavy-chain stalk/tail with matching canvas; molecule otherwise retained. Source copy unchanged."
   },
   {
     "section": "epitope-matching",
-    "source": "02_HLA_peptiden_en_receptoren/basic_232_PIRCHE_II_bound_HLA_derived_peptide.svg",
-    "copy": "assets/basisset/basic_232_PIRCHE_II_bound_HLA_derived_peptide.svg",
-    "adaptation": "Inline IDs prefixed by section; responsive uniform scaling. Original geometry and colours retained."
+    "source": "02_HLA_peptiden_en_receptoren/basic_122_HLA_I_groove_allopeptide_PIRCHE.svg",
+    "copy": "assets/basisset/basic_122_HLA_I_groove_allopeptide_PIRCHE.svg",
+    "adaptation": "Uniform responsive scaling; inline IDs prefixed. Shapes and colours retained."
   },
   {
     "section": "data-standards",
@@ -19,8 +19,8 @@
   },
   {
     "section": "clinical-implementation",
-    "source": "10_Laboratorium_en_context/basic_59_clinician.svg",
-    "copy": "assets/basisset/basic_59_clinician.svg",
-    "adaptation": "Inline IDs prefixed by section; responsive uniform scaling. Original geometry and colours retained."
+    "source": "06_Stamcel_GvHD_GvL/basic_80_HSC_graft_replete.svg",
+    "copy": "assets/basisset/basic_80_HSC_graft_replete.svg",
+    "adaptation": "Uniform responsive scaling; inline IDs prefixed. Shapes and colours retained."
   }
 ]
