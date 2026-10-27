@@ -1568,7 +1568,7 @@
     /* Research insights */
     .insight-grid {
       display: grid;
-      grid-template-columns: repeat(6, minmax(0, 1fr));
+      grid-template-columns: repeat(7, minmax(0, 1fr));
       gap: 12px;
       margin-bottom: 22px;
     }
@@ -3555,6 +3555,10 @@
             <strong id="insight-publications">–</strong>
           </article>
           <article class="insight-card">
+            <span class="insight-label">Conference abstracts</span>
+            <strong id="insight-conference-abstracts">–</strong>
+          </article>
+          <article class="insight-card">
             <span class="insight-label">OpenAlex citations</span>
             <strong id="insight-citations">–</strong>
           </article>
@@ -3868,6 +3872,7 @@
 
     const state = {
       publications: [],
+      conferenceAbstracts: [],
       view: "key",
       category: "all",
       query: "",
@@ -4353,6 +4358,8 @@
       const openCount = publications.filter((p) => p.isOpenAccess || p.pmcid || p.bestOpenAccessUrl).length;
 
       document.getElementById("insight-publications").textContent = formatNumber(publications.length);
+      document.getElementById("insight-conference-abstracts").textContent =
+        formatNumber(state.conferenceAbstracts.length);
       document.getElementById("insight-citations").textContent = formatNumber(totalCitations);
       document.getElementById("insight-h-index").textContent = formatNumber(calculateHIndex(publications));
       document.getElementById("insight-period").textContent =
@@ -4464,6 +4471,9 @@
         const dataset = await response.json();
         state.publications = Array.isArray(dataset.publications)
           ? dataset.publications
+          : [];
+        state.conferenceAbstracts = Array.isArray(dataset.conferenceAbstracts)
+          ? dataset.conferenceAbstracts
           : [];
 
         const metricPublications = document.getElementById("metric-publications");
