@@ -35066,7 +35066,7 @@
       }
     }
   ],
-  "conferenceAbstractCount": 142,
+  "conferenceAbstractCount": 126,
   "conferenceAbstracts": [
     {
       "id": "abstract-wos-001750677700175",
@@ -35850,75 +35850,6 @@
       "typeLabel": "Conference abstract",
       "doi": null,
       "journal": "HLA",
-      "volumeIssuePages": "",
-      "meeting": "EFI 2025",
-      "abstractNumber": "O8",
-      "url": "https://efi-conference.org/fileadmin/Congress_2025/program-overview/EFI2025_Preliminary_Program17-4.pdf",
-      "authors": [
-        {
-          "name": "Emma Peereboom"
-        },
-        {
-          "name": "Jip Jonker"
-        },
-        {
-          "name": "Kirsten Geneugelijk"
-        },
-        {
-          "name": "Arjan van Zuilen"
-        },
-        {
-          "name": "Jan-Stephan Sanders"
-        },
-        {
-          "name": "Stephan Bakker"
-        },
-        {
-          "name": "Eric Spierings"
-        }
-      ],
-      "selfAuthorPositions": [
-        "last"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://efi-conference.org/fileadmin/Congress_2025/program-overview/EFI2025_Preliminary_Program17-4.pdf",
-          "checkedAt": "2026-10-27",
-          "kind": "indexed-official-program-extract",
-          "access": "Original URL now redirects; indexed author list cross-checked with related publication"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "Explicit Eric Spierings / E. Spierings author list in institutional or congress source; corroborated by established coauthors"
-        ],
-        "classificationEvidence": [
-          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
-        ]
-      },
-      "collectionDoi": "10.1111/tan.70158",
-      "id": "abstract-0db9558c95e61670",
-      "relatedPublications": [],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
-        ]
-      }
-    },
-    {
-      "title": "HLA-B leader peptide dimorphism affects kidney transplant outcome",
-      "year": 2025,
-      "sortDate": "2025-00-00",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
-      "journal": "HLA",
       "volumeIssuePages": "HLA 105",
       "meeting": "EFI 2025",
       "abstractNumber": "O8",
@@ -35978,15 +35909,15 @@
       "collectionDoi": "10.1111/tan.70158",
       "id": "abstract-0db9558c95e61670",
       "relatedPublications": [],
-      "webOfScienceId": "WOS:001525853600009",
-      "sourceCitations": {
-        "webOfScience": "HLA 105"
-      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
+      },
+      "webOfScienceId": "WOS:001525853600009",
+      "sourceCitations": {
+        "webOfScience": "HLA 105"
       }
     },
     {
@@ -36856,72 +36787,6 @@
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": null,
-      "journal": "",
-      "volumeIssuePages": "",
-      "meeting": "EFI 2023",
-      "abstractNumber": "talk:212989",
-      "url": "https://easychair.org/smart-program/EFI2023/2023-04-27.html#talk:212989",
-      "authors": [
-        {
-          "name": "Michiel Betjes"
-        },
-        {
-          "name": "Emma Peereboom"
-        },
-        {
-          "name": "Henny Otten"
-        },
-        {
-          "name": "Eric Spierings"
-        }
-      ],
-      "selfAuthorPositions": [
-        "last"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://easychair.org/smart-program/EFI2023/2023-04-27.html#talk:212989",
-          "checkedAt": "2026-10-27"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "Eric Spierings explicitly listed with Utrecht affiliation in official program author list"
-        ],
-        "classificationEvidence": [
-          "Official program provides a scientific abstract body for this contribution"
-        ]
-      },
-      "id": "abstract-5c778174e7a72e58",
-      "relatedPublications": [
-        {
-          "title": "The number of donor HLA-derived T cell epitopes available for indirect antigen presentation determines the risk for vascular rejection after kidney transplantation",
-          "doi": "10.3389/fimmu.2022.973968",
-          "year": 2022,
-          "relationship": "possible-related-full-paper",
-          "basis": "Title overlap and at least two shared coauthors; not a claim of identical study",
-          "score": 1
-        }
-      ],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Official program provides a scientific abstract body for this contribution"
-        ]
-      }
-    },
-    {
-      "title": "The number of donor HLA-derived T-cell epitopes available for indirect antigen presentation determines the risk for vascular rejection after kidney transplantation",
-      "year": 2023,
-      "sortDate": "2023-04-27",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
       "journal": "HLA",
       "volumeIssuePages": "HLA 101(4), pp.347-348",
       "meeting": "EFI 2023",
@@ -36979,15 +36844,15 @@
           "score": 1
         }
       ],
-      "webOfScienceId": "WOS:001082837700042",
-      "sourceCitations": {
-        "webOfScience": "HLA 101(4), pp.347-348"
-      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official program provides a scientific abstract body for this contribution"
         ]
+      },
+      "webOfScienceId": "WOS:001082837700042",
+      "sourceCitations": {
+        "webOfScience": "HLA 101(4), pp.347-348"
       }
     },
     {
@@ -37262,66 +37127,6 @@
       "type": "conference-abstract",
       "typeLabel": "Conference abstract",
       "doi": null,
-      "journal": "",
-      "volumeIssuePages": "",
-      "meeting": "EFI 2022",
-      "abstractNumber": "talk:188488",
-      "url": "https://easychair.org/smart-program/EFI2022/2022-05-19.html#talk:188488",
-      "authors": [
-        {
-          "name": "Emma Peereboom"
-        },
-        {
-          "name": "Kirsten Geneugelijk"
-        },
-        {
-          "name": "Karin Boer"
-        },
-        {
-          "name": "Carla Baan"
-        },
-        {
-          "name": "Eric Spierings"
-        }
-      ],
-      "selfAuthorPositions": [
-        "last"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://easychair.org/smart-program/EFI2022/2022-05-19.html#talk:188488",
-          "checkedAt": "2026-10-27"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "Eric Spierings explicitly listed with Utrecht affiliation in official program author list"
-        ],
-        "classificationEvidence": [
-          "Official program provides a scientific abstract body for this contribution"
-        ]
-      },
-      "id": "abstract-1d01a3171014f9ae",
-      "relatedPublications": [],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Official program provides a scientific abstract body for this contribution"
-        ]
-      }
-    },
-    {
-      "title": "Single-cell sequence analyses of circulating T follicular helper cells during antibody-mediated rejection",
-      "year": 2022,
-      "sortDate": "2022-05-19",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
       "journal": "HLA",
       "volumeIssuePages": "HLA 99(5), pp.443-443",
       "meeting": "EFI 2022",
@@ -37373,90 +37178,15 @@
       },
       "id": "abstract-1d01a3171014f9ae",
       "relatedPublications": [],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Official program provides a scientific abstract body for this contribution"
+        ]
+      },
       "webOfScienceId": "WOS:000788004300061",
       "sourceCitations": {
         "webOfScience": "HLA 99(5), pp.443-443"
-      },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Official program provides a scientific abstract body for this contribution"
-        ]
-      }
-    },
-    {
-      "title": "T-cell epitopes shared between immunizing and donor HLA associate with kidney allograft failure",
-      "year": 2022,
-      "sortDate": "2022-05-18",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
-      "journal": "",
-      "volumeIssuePages": "",
-      "meeting": "EFI 2022",
-      "abstractNumber": "talk:188487",
-      "url": "https://easychair.org/smart-program/EFI2022/2022-05-18.html#talk:188487",
-      "authors": [
-        {
-          "name": "Emma Peereboom"
-        },
-        {
-          "name": "Ben Matern"
-        },
-        {
-          "name": "Toshihide Tomosugi"
-        },
-        {
-          "name": "Takaaki Kobayashi"
-        },
-        {
-          "name": "Arjan van Zuilen"
-        },
-        {
-          "name": "Kirsten Geneugelijk"
-        },
-        {
-          "name": "Eric Spierings"
-        }
-      ],
-      "selfAuthorPositions": [
-        "last"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://easychair.org/smart-program/EFI2022/2022-05-18.html#talk:188487",
-          "checkedAt": "2026-10-27"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "Eric Spierings explicitly listed with Utrecht affiliation in official program author list"
-        ],
-        "classificationEvidence": [
-          "Official program provides a scientific abstract body for this contribution"
-        ]
-      },
-      "id": "abstract-2d1dedaed8c18651",
-      "relatedPublications": [
-        {
-          "title": "T-Cell Epitopes Shared Between Immunizing HLA and Donor HLA Associate With Graft Failure After Kidney Transplantation",
-          "doi": "10.3389/fimmu.2021.784040",
-          "year": 2021,
-          "relationship": "possible-related-full-paper",
-          "basis": "Title overlap and at least two shared coauthors; not a claim of identical study",
-          "score": 0.909
-        }
-      ],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Official program provides a scientific abstract body for this contribution"
-        ]
       }
     },
     {
@@ -37532,78 +37262,15 @@
           "score": 0.909
         }
       ],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Official program provides a scientific abstract body for this contribution"
+        ]
+      },
       "webOfScienceId": "WOS:000788004300018",
       "sourceCitations": {
         "webOfScience": "HLA 99(5), pp.422-423"
-      },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Official program provides a scientific abstract body for this contribution"
-        ]
-      }
-    },
-    {
-      "title": "The Role of HLA Epitope Mismatches in Antibody Development and Refractoriness to Optimize Allocation in Platelet Transfusion",
-      "year": 2022,
-      "sortDate": "2022-05-18",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
-      "journal": "",
-      "volumeIssuePages": "",
-      "meeting": "EFI 2022",
-      "abstractNumber": "talk:188474",
-      "url": "https://easychair.org/smart-program/EFI2022/2022-05-18.html#talk:188474",
-      "authors": [
-        {
-          "name": "Benedict Matern"
-        },
-        {
-          "name": "Johanna Walther"
-        },
-        {
-          "name": "Emma Peereboom"
-        },
-        {
-          "name": "Kirsten Geneugelijk"
-        },
-        {
-          "name": "Can Keşmir"
-        },
-        {
-          "name": "Eric Spierings"
-        }
-      ],
-      "selfAuthorPositions": [
-        "last"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://easychair.org/smart-program/EFI2022/2022-05-18.html#talk:188474",
-          "checkedAt": "2026-10-27"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "Eric Spierings explicitly listed with Utrecht affiliation in official program author list"
-        ],
-        "classificationEvidence": [
-          "Official program provides a scientific abstract body for this contribution"
-        ]
-      },
-      "id": "abstract-801b9026f6398fff",
-      "relatedPublications": [],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Official program provides a scientific abstract body for this contribution"
-        ]
       }
     },
     {
@@ -37667,112 +37334,15 @@
       },
       "id": "abstract-801b9026f6398fff",
       "relatedPublications": [],
-      "webOfScienceId": "WOS:000788004300039",
-      "sourceCitations": {
-        "webOfScience": "HLA 99(5), pp.432-432"
-      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official program provides a scientific abstract body for this contribution"
         ]
-      }
-    },
-    {
-      "title": "Which is More Important for Predicting De Novo DSA Production, B Cell Epitope (EPLET) or T Cell Epitope (PIRCHE) Analysis ?",
-      "year": 2022,
-      "sortDate": "2022-00-00",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
-      "journal": "American Journal of Transplantation",
-      "volumeIssuePages": "",
-      "meeting": "2022 American Transplant Congress",
-      "abstractNumber": "120",
-      "url": "https://atcmeetingabstracts.com/abstract/which-is-more-important-for-predicting-de-novo-dsa-production-b-cell-epitope-eplet-or-t-cell-epitope-pirche-analysis/",
-      "authors": [
-        {
-          "name": "T. Kobayashi"
-        },
-        {
-          "name": "T. Tomosugi"
-        },
-        {
-          "name": "S. Sakamoto"
-        },
-        {
-          "name": "S. Ashimine"
-        },
-        {
-          "name": "K. Iwasaki"
-        },
-        {
-          "name": "M. Niemann"
-        },
-        {
-          "name": "E. Spierings"
-        },
-        {
-          "name": "Y. Miwa"
-        },
-        {
-          "name": "M. Okumura"
-        },
-        {
-          "name": "K. Ishiyama"
-        },
-        {
-          "name": "A. Takeda"
-        },
-        {
-          "name": "N. Goto"
-        },
-        {
-          "name": "S. Narumi"
-        },
-        {
-          "name": "Y. Watarai"
-        }
-      ],
-      "selfAuthorPositions": [
-        "middle"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://atcmeetingabstracts.com/abstract/which-is-more-important-for-predicting-de-novo-dsa-production-b-cell-epitope-eplet-or-t-cell-epitope-pirche-analysis/",
-          "checkedAt": "2026-10-27"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "E. Spierings explicitly listed as author with UMC Utrecht affiliation on official congress page",
-          "Shared PIRCHE/kidney-transplantation coauthors confirmed against publication dataset"
-        ],
-        "classificationEvidence": [
-          "Official congress abstract page with meeting year and abstract number 120"
-        ]
       },
-      "id": "abstract-deb4876fb804f039",
-      "relatedPublications": [
-        {
-          "title": "Which is more important for predicting de novo DSA production in donor-sensitized kidney transplant recipients, B-cell epitope or T-cell epitope analysis?",
-          "doi": "10.1016/j.humimm.2024.111155",
-          "year": 2024,
-          "relationship": "possible-related-full-paper",
-          "basis": "Title overlap and at least two shared coauthors; not a claim of identical study",
-          "score": 0.875
-        }
-      ],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Official congress abstract page with meeting year and abstract number 120"
-        ]
+      "webOfScienceId": "WOS:000788004300039",
+      "sourceCitations": {
+        "webOfScience": "HLA 99(5), pp.432-432"
       }
     },
     {
@@ -37870,104 +37440,15 @@
           "score": 0.875
         }
       ],
-      "webOfScienceId": "WOS:000842606302120",
-      "sourceCitations": {
-        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 22, pp.386-386"
-      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official congress abstract page with meeting year and abstract number 120"
         ]
-      }
-    },
-    {
-      "title": "Compartmentalization, persistence and conserved shared motifs of dominant (regulatory) T cell clones in autoimmune inflammation",
-      "year": 2021,
-      "sortDate": "2021-00-00",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
-      "journal": "Clinical and Experimental Rheumatology",
-      "volumeIssuePages": "vol. 39, no. 5, pp. 1153–1154",
-      "meeting": "Twelfth International Congress on Spondyloarthritides",
-      "abstractNumber": null,
-      "url": "https://researchinformation.umcutrecht.nl/en/publications/compartmentalization-persistence-and-conserved-shared-motifs-of-d/",
-      "authors": [
-        {
-          "name": "G. Mijnheer"
-        },
-        {
-          "name": "N. Servaas"
-        },
-        {
-          "name": "L. Lutter"
-        },
-        {
-          "name": "J. Y. Leong"
-        },
-        {
-          "name": "E. Spierings"
-        },
-        {
-          "name": "P. Chen"
-        },
-        {
-          "name": "A. Petrelli"
-        },
-        {
-          "name": "S. Vastert"
-        },
-        {
-          "name": "R. de Boer"
-        },
-        {
-          "name": "S. Albani"
-        },
-        {
-          "name": "J. van Loosdregt"
-        },
-        {
-          "name": "A. Pandit"
-        },
-        {
-          "name": "F. van Wijk"
-        }
-      ],
-      "selfAuthorPositions": [
-        "middle"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://researchinformation.umcutrecht.nl/en/publications/compartmentalization-persistence-and-conserved-shared-motifs-of-d/",
-          "checkedAt": "2026-10-27"
-        },
-        {
-          "url": "https://www.clinexprheumatol.org/abstract.asp?a=17839",
-          "kind": "publisher-congress-supplement",
-          "checkedAt": "2026-10-27"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "Explicit Eric Spierings / E. Spierings author list in institutional or congress source; corroborated by established coauthors"
-        ],
-        "classificationEvidence": [
-          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
-        ]
       },
-      "id": "abstract-59806c64a7d7bfb7",
-      "relatedPublications": [],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
-        ]
+      "webOfScienceId": "WOS:000842606302120",
+      "sourceCitations": {
+        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 22, pp.386-386"
       }
     },
     {
@@ -38057,92 +37538,15 @@
       },
       "id": "abstract-59806c64a7d7bfb7",
       "relatedPublications": [],
+      "abstractClassification": {
+        "decision": "exclude",
+        "reasons": [
+          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
+        ]
+      },
       "webOfScienceId": "WOS:000691812200014",
       "sourceCitations": {
         "webOfScience": "CLINICAL AND EXPERIMENTAL RHEUMATOLOGY 39(5), pp.1153-1154"
-      },
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
-        ]
-      }
-    },
-    {
-      "title": "Human Leukocyte Antigen mapping of paediatric uveitis",
-      "year": 2021,
-      "sortDate": "2021-00-00",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
-      "journal": "Investigative Ophthalmology & Visual Science",
-      "volumeIssuePages": "vol. 62, no. 8, abstract 3480",
-      "meeting": "ARVO 2021",
-      "abstractNumber": "3480",
-      "url": "https://iovs.arvojournals.org/article.aspx?articleid=2776078",
-      "authors": [
-        {
-          "name": "Roos A.W. Wennink"
-        },
-        {
-          "name": "Sanne Hiddingh"
-        },
-        {
-          "name": "Anne‐Mieke J. W. Haasnoot"
-        },
-        {
-          "name": "Viera Kalinina Ayuso"
-        },
-        {
-          "name": "Talitha de Hoop"
-        },
-        {
-          "name": "Eric Spierings"
-        },
-        {
-          "name": "Jessica van Setten"
-        },
-        {
-          "name": "Jonas J. W. Kuiper"
-        },
-        {
-          "name": "Joke de Boer"
-        }
-      ],
-      "selfAuthorPositions": [
-        "middle"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://iovs.arvojournals.org/article.aspx?articleid=2776078",
-          "checkedAt": "2026-10-27"
-        },
-        {
-          "url": "https://openalex.org/W3181208277",
-          "kind": "author-network-cross-check",
-          "checkedAt": "2026-10-27"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "Explicit Eric Spierings / E. Spierings author list in institutional or congress source; corroborated by established coauthors"
-        ],
-        "classificationEvidence": [
-          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
-        ]
-      },
-      "id": "abstract-4e411f2ca4efb419",
-      "relatedPublications": [],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
-        ]
       }
     },
     {
@@ -38220,15 +37624,15 @@
       },
       "id": "abstract-4e411f2ca4efb419",
       "relatedPublications": [],
-      "webOfScienceId": "WOS:000690761600719",
-      "sourceCitations": {
-        "webOfScience": "INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 62(8)"
-      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
+      },
+      "webOfScienceId": "WOS:000690761600719",
+      "sourceCitations": {
+        "webOfScience": "INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 62(8)"
       }
     },
     {
@@ -38493,113 +37897,6 @@
       "typeLabel": "Conference abstract",
       "doi": null,
       "journal": "American Journal of Transplantation",
-      "volumeIssuePages": "",
-      "meeting": "2020 American Transplant Congress",
-      "abstractNumber": "243",
-      "url": "https://atcmeetingabstracts.com/abstract/clinical-significance-of-t-cell-and-b-cell-epitope-prediction-as-a-risk-factor-of-de-novo-dsa-production-after-kidney-transplantation/",
-      "authors": [
-        {
-          "name": "T. Kobayashi"
-        },
-        {
-          "name": "K. Iwasaki"
-        },
-        {
-          "name": "T. Tomosugi"
-        },
-        {
-          "name": "Y. Miwa"
-        },
-        {
-          "name": "M. Niemann"
-        },
-        {
-          "name": "E. Spierings"
-        },
-        {
-          "name": "K. Horimi"
-        },
-        {
-          "name": "Y. Matsuoka"
-        },
-        {
-          "name": "A. Takeda"
-        },
-        {
-          "name": "N. Goto"
-        },
-        {
-          "name": "S. Narumi"
-        },
-        {
-          "name": "Y. Watarai"
-        }
-      ],
-      "selfAuthorPositions": [
-        "middle"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://atcmeetingabstracts.com/abstract/clinical-significance-of-t-cell-and-b-cell-epitope-prediction-as-a-risk-factor-of-de-novo-dsa-production-after-kidney-transplantation/",
-          "checkedAt": "2026-10-27"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "E. Spierings explicitly listed as author with UMC Utrecht affiliation on official congress page",
-          "Shared PIRCHE/kidney-transplantation coauthors confirmed against publication dataset"
-        ],
-        "classificationEvidence": [
-          "Official congress abstract page with meeting year and abstract number 243"
-        ]
-      },
-      "id": "abstract-a6883d1a31870da9",
-      "relatedPublications": [
-        {
-          "title": "Clinical Significance of Shared T Cell Epitope Analysis in Early De Novo Donor-Specific Anti-HLA Antibody Production After Kidney Transplantation and Comparison With Shared B cell Epitope Analysis",
-          "doi": "10.3389/fimmu.2021.621138",
-          "year": 2021,
-          "relationship": "possible-related-full-paper",
-          "basis": "Title overlap and at least two shared coauthors; not a claim of identical study",
-          "score": 0.714
-        },
-        {
-          "title": "Which is more important for predicting de novo DSA production in donor-sensitized kidney transplant recipients, B-cell epitope or T-cell epitope analysis?",
-          "doi": "10.1016/j.humimm.2024.111155",
-          "year": 2024,
-          "relationship": "possible-related-full-paper",
-          "basis": "Title overlap and at least two shared coauthors; not a claim of identical study",
-          "score": 0.643
-        },
-        {
-          "title": "Analysis of T and B Cell Epitopes to Predict the Risk of de novo Donor-Specific Antibody (DSA) Production After Kidney Transplantation: A Two-Center Retrospective Cohort Study",
-          "doi": "10.3389/fimmu.2020.02000",
-          "year": 2020,
-          "relationship": "possible-related-full-paper",
-          "basis": "Title overlap and at least two shared coauthors; not a claim of identical study",
-          "score": 0.643
-        }
-      ],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Official congress abstract page with meeting year and abstract number 243"
-        ]
-      }
-    },
-    {
-      "title": "Clinical Significance of T Cell and B Cell Epitope Prediction as a Risk Factor of De Novo DSA Production after Kidney Transplantation",
-      "year": 2020,
-      "sortDate": "2020-00-00",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
-      "journal": "American Journal of Transplantation",
       "volumeIssuePages": "AMERICAN JOURNAL OF TRANSPLANTATION 20, pp.403-403",
       "meeting": "2020 American Transplant Congress",
       "abstractNumber": "243",
@@ -38697,100 +37994,15 @@
           "score": 0.643
         }
       ],
-      "webOfScienceId": "WOS:000546629501344",
-      "sourceCitations": {
-        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 20, pp.403-403"
-      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official congress abstract page with meeting year and abstract number 243"
         ]
-      }
-    },
-    {
-      "title": "Evaluating Preformed Donor HLA Reactive T Cells Using PIRCHE-II Algorithm",
-      "year": 2020,
-      "sortDate": "2020-00-00",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
-      "journal": "American Journal of Transplantation",
-      "volumeIssuePages": "",
-      "meeting": "2020 American Transplant Congress",
-      "abstractNumber": "B-365",
-      "url": "https://atcmeetingabstracts.com/abstract/evaluating-preformed-donor-hla-reactive-t-cells-using-pirche-ii-algorithm/",
-      "authors": [
-        {
-          "name": "T. Tomosugi"
-        },
-        {
-          "name": "K. Iwasaki"
-        },
-        {
-          "name": "S. Sakamoto"
-        },
-        {
-          "name": "A. Kanda"
-        },
-        {
-          "name": "K. Futamura"
-        },
-        {
-          "name": "M. Okada"
-        },
-        {
-          "name": "T. Hiramitsu"
-        },
-        {
-          "name": "N. Goto"
-        },
-        {
-          "name": "S. Narumi"
-        },
-        {
-          "name": "Y. Watarai"
-        },
-        {
-          "name": "T. Kobayashi"
-        },
-        {
-          "name": "M. Niemann"
-        },
-        {
-          "name": "E. Spierings"
-        }
-      ],
-      "selfAuthorPositions": [
-        "last"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://atcmeetingabstracts.com/abstract/evaluating-preformed-donor-hla-reactive-t-cells-using-pirche-ii-algorithm/",
-          "checkedAt": "2026-10-27"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "E. Spierings explicitly listed as author with UMC Utrecht affiliation on official congress page",
-          "Shared PIRCHE/kidney-transplantation coauthors confirmed against publication dataset"
-        ],
-        "classificationEvidence": [
-          "Official congress abstract page with meeting year and abstract number B-365"
-        ]
       },
-      "id": "abstract-eed3114c422ddd65",
-      "relatedPublications": [],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Official congress abstract page with meeting year and abstract number B-365"
-        ]
+      "webOfScienceId": "WOS:000546629501344",
+      "sourceCitations": {
+        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 20, pp.403-403"
       }
     },
     {
@@ -38876,15 +38088,15 @@
       },
       "id": "abstract-eed3114c422ddd65",
       "relatedPublications": [],
-      "webOfScienceId": "WOS:000546629502251",
-      "sourceCitations": {
-        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 20, pp.636-636"
-      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official congress abstract page with meeting year and abstract number B-365"
         ]
+      },
+      "webOfScienceId": "WOS:000546629502251",
+      "sourceCitations": {
+        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 20, pp.636-636"
       }
     },
     {
@@ -39076,79 +38288,6 @@
         {
           "url": "https://onlinelibrary.wiley.com/doi/10.1111/aos.14387",
           "checkedAt": "2026-10-27"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "Explicit Eric Spierings / E. Spierings author list in institutional or congress source; corroborated by established coauthors"
-        ],
-        "classificationEvidence": [
-          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
-        ]
-      },
-      "collectionDoi": "10.1111/aos.14387",
-      "id": "abstract-19d84ce27c3fb2f1",
-      "relatedPublications": [],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
-        ]
-      }
-    },
-    {
-      "title": "Human Leukocyte Antigen mapping of paediatric uveitis",
-      "year": 2020,
-      "sortDate": "2020-00-00",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
-      "journal": "Acta Ophthalmologica",
-      "volumeIssuePages": "vol. 98, suppl. 264",
-      "meeting": "Acta Ophthalmologica congress abstracts 2020",
-      "abstractNumber": null,
-      "url": "https://onlinelibrary.wiley.com/doi/10.1111/aos.14387",
-      "authors": [
-        {
-          "name": "R. A. W. Wennink"
-        },
-        {
-          "name": "S. Hiddingh"
-        },
-        {
-          "name": "A. J. W. Haasnoot"
-        },
-        {
-          "name": "V. Kalinina Ayuso"
-        },
-        {
-          "name": "T. de Hoop"
-        },
-        {
-          "name": "E. Spierings"
-        },
-        {
-          "name": "J. van Setten"
-        },
-        {
-          "name": "J. J. W. Kuiper"
-        },
-        {
-          "name": "J. H. de Boer"
-        }
-      ],
-      "selfAuthorPositions": [
-        "middle"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://onlinelibrary.wiley.com/doi/10.1111/aos.14387",
-          "checkedAt": "2026-10-27"
         },
         {
           "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000562907300110",
@@ -39169,15 +38308,15 @@
       "collectionDoi": "10.1111/aos.14387",
       "id": "abstract-19d84ce27c3fb2f1",
       "relatedPublications": [],
-      "webOfScienceId": "WOS:000562907300110",
-      "sourceCitations": {
-        "webOfScience": "ACTA OPHTHALMOLOGICA 98, pp.34-34"
-      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
+      },
+      "webOfScienceId": "WOS:000562907300110",
+      "sourceCitations": {
+        "webOfScience": "ACTA OPHTHALMOLOGICA 98, pp.34-34"
       }
     },
     {
@@ -39812,189 +38951,6 @@
       "typeLabel": "Conference abstract",
       "doi": null,
       "journal": "HLA",
-      "volumeIssuePages": "",
-      "meeting": "EFI 2018",
-      "abstractNumber": "P40",
-      "url": "https://research.rug.nl/en/publications/fa382244-44a3-4360-b4ec-55e08d526cad",
-      "authors": [
-        {
-          "name": "Kamburova, Elena G."
-        },
-        {
-          "name": "Wisse, B. W."
-        },
-        {
-          "name": "Joosten, I."
-        },
-        {
-          "name": "Allebes, W. A."
-        },
-        {
-          "name": "van der Meer, A."
-        },
-        {
-          "name": "Hilbrands, L. B."
-        },
-        {
-          "name": "Baas, M. C."
-        },
-        {
-          "name": "Eric Spierings"
-        },
-        {
-          "name": "Hack, C. E."
-        },
-        {
-          "name": "van Reekum, F."
-        },
-        {
-          "name": "van Zuilen, A. D."
-        },
-        {
-          "name": "Verhaar, M. C."
-        },
-        {
-          "name": "Bots, M. L."
-        },
-        {
-          "name": "Plaisier, L."
-        },
-        {
-          "name": "Seelen, M. A. J."
-        },
-        {
-          "name": "Sanders, J. S. F.",
-          "orcid": "0000-0002-0904-3969"
-        },
-        {
-          "name": "Hepkema, B. G."
-        },
-        {
-          "name": "Lambeck, A. J."
-        },
-        {
-          "name": "Bungener, L. B."
-        },
-        {
-          "name": "Roozendaal, C."
-        },
-        {
-          "name": "Tilanus, M. G. J."
-        },
-        {
-          "name": "Voorter, C. E."
-        },
-        {
-          "name": "Wieten, L."
-        },
-        {
-          "name": "van Duijnhoven, E."
-        },
-        {
-          "name": "Gelens, M."
-        },
-        {
-          "name": "Christiaans, M."
-        },
-        {
-          "name": "van Ittersum, F."
-        },
-        {
-          "name": "Nurmohamed, A."
-        },
-        {
-          "name": "Lardy, N. M."
-        },
-        {
-          "name": "Swelsen, W. T."
-        },
-        {
-          "name": "van der Pant, K. A. M. I."
-        },
-        {
-          "name": "van der Weerd, N. C."
-        },
-        {
-          "name": "ten Berge, I. J. M."
-        },
-        {
-          "name": "Bemelman, F. J."
-        },
-        {
-          "name": "Hoitsma, A. J."
-        },
-        {
-          "name": "van der Boog, P. J. M."
-        },
-        {
-          "name": "de Fijter, J. W."
-        },
-        {
-          "name": "Betjes, M. G. H."
-        },
-        {
-          "name": "Heidt, Sebastiaan"
-        },
-        {
-          "name": "Roelen, D. L."
-        },
-        {
-          "name": "Claas, F. H. J."
-        },
-        {
-          "name": "Otten, H. G."
-        }
-      ],
-      "selfAuthorPositions": [
-        "middle"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://research.rug.nl/en/publications/fa382244-44a3-4360-b4ec-55e08d526cad",
-          "checkedAt": "2026-10-27"
-        },
-        {
-          "url": "https://openalex.org/W2807425322",
-          "kind": "author-network-cross-check",
-          "checkedAt": "2026-10-27"
-        },
-        {
-          "url": "https://cemia.eu/wp-content/uploads/2018/05/R43-Venice-May2018_DEF_82247.pdf",
-          "kind": "indexed-official-program-extract",
-          "checkedAt": "2026-10-27",
-          "access": "Full PDF unavailable at review; indexed author/title/abstract-number extract corroborates repository record"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "Explicit Eric Spierings / E. Spierings author list in institutional or congress source; corroborated by established coauthors"
-        ],
-        "classificationEvidence": [
-          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
-        ]
-      },
-      "id": "abstract-06c353a7fe5f3b91",
-      "relatedPublications": [],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
-        ]
-      }
-    },
-    {
-      "title": "Decreased Graft Survival of Retransplants can Largely be Explained By Increased Hla-immunization",
-      "year": 2018,
-      "sortDate": "2018-00-00",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
-      "journal": "HLA",
       "volumeIssuePages": "HLA 91(5), pp.372-372",
       "meeting": "EFI 2018",
       "abstractNumber": "P40",
@@ -40168,15 +39124,15 @@
       },
       "id": "abstract-06c353a7fe5f3b91",
       "relatedPublications": [],
-      "webOfScienceId": "WOS:000430290800105",
-      "sourceCitations": {
-        "webOfScience": "HLA 91(5), pp.372-372"
-      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
+      },
+      "webOfScienceId": "WOS:000430290800105",
+      "sourceCitations": {
+        "webOfScience": "HLA 91(5), pp.372-372"
       }
     },
     {
@@ -40760,79 +39716,6 @@
       "typeLabel": "Conference abstract",
       "doi": null,
       "journal": "American Journal of Transplantation",
-      "volumeIssuePages": "",
-      "meeting": "2017 American Transplant Congress",
-      "abstractNumber": "432",
-      "url": "https://atcmeetingabstracts.com/abstract/donor-recipient-matching-based-on-hla-epitopes-improves-outcome-in-kidney-transplant-recipients/",
-      "authors": [
-        {
-          "name": "O. Staeck"
-        },
-        {
-          "name": "M. Niemann"
-        },
-        {
-          "name": "F. Halleck"
-        },
-        {
-          "name": "D. Khadzhynov"
-        },
-        {
-          "name": "C. Schönemann"
-        },
-        {
-          "name": "P. Reinke"
-        },
-        {
-          "name": "E. Spierings"
-        },
-        {
-          "name": "K. Budde"
-        },
-        {
-          "name": "N. Lachmann"
-        }
-      ],
-      "selfAuthorPositions": [
-        "middle"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://atcmeetingabstracts.com/abstract/donor-recipient-matching-based-on-hla-epitopes-improves-outcome-in-kidney-transplant-recipients/",
-          "checkedAt": "2026-10-27"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "E. Spierings explicitly listed as author with UMC Utrecht affiliation on official congress page",
-          "Shared PIRCHE/kidney-transplantation coauthors confirmed against publication dataset"
-        ],
-        "classificationEvidence": [
-          "Official congress abstract page with meeting year and abstract number 432"
-        ]
-      },
-      "id": "abstract-9797340f028fed64",
-      "relatedPublications": [],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Official congress abstract page with meeting year and abstract number 432"
-        ]
-      }
-    },
-    {
-      "title": "Donor Recipient Matching Based on HLA Epitopes Improves Outcome in Kidney Transplant Recipients.",
-      "year": 2017,
-      "sortDate": "2017-00-00",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
-      "journal": "American Journal of Transplantation",
       "volumeIssuePages": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.358-358",
       "meeting": "2017 American Transplant Congress",
       "abstractNumber": "432",
@@ -40896,15 +39779,15 @@
       },
       "id": "abstract-9797340f028fed64",
       "relatedPublications": [],
-      "webOfScienceId": "WOS:000404515702432",
-      "sourceCitations": {
-        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.358-358"
-      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official congress abstract page with meeting year and abstract number 432"
         ]
+      },
+      "webOfScienceId": "WOS:000404515702432",
+      "sourceCitations": {
+        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.358-358"
       }
     },
     {
@@ -41099,79 +39982,6 @@
       "typeLabel": "Conference abstract",
       "doi": null,
       "journal": "American Journal of Transplantation",
-      "volumeIssuePages": "",
-      "meeting": "2017 American Transplant Congress",
-      "abstractNumber": "433",
-      "url": "https://atcmeetingabstracts.com/abstract/improved-outcome-of-kidney-transplants-by-donor-recipient-matching-based-on-predicted-indirectly-recognizable-hla-epitopes/",
-      "authors": [
-        {
-          "name": "O. Staeck"
-        },
-        {
-          "name": "M. Niemann"
-        },
-        {
-          "name": "F. Halleck"
-        },
-        {
-          "name": "D. Khadzhynov"
-        },
-        {
-          "name": "C. Schönemann"
-        },
-        {
-          "name": "P. Reinke"
-        },
-        {
-          "name": "E. Spierings"
-        },
-        {
-          "name": "K. Budde"
-        },
-        {
-          "name": "N. Lachmann"
-        }
-      ],
-      "selfAuthorPositions": [
-        "middle"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://atcmeetingabstracts.com/abstract/improved-outcome-of-kidney-transplants-by-donor-recipient-matching-based-on-predicted-indirectly-recognizable-hla-epitopes/",
-          "checkedAt": "2026-10-27"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "E. Spierings explicitly listed as author with UMC Utrecht affiliation on official congress page",
-          "Shared PIRCHE/kidney-transplantation coauthors confirmed against publication dataset"
-        ],
-        "classificationEvidence": [
-          "Official congress abstract page with meeting year and abstract number 433"
-        ]
-      },
-      "id": "abstract-900db76abbbdd0c7",
-      "relatedPublications": [],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Official congress abstract page with meeting year and abstract number 433"
-        ]
-      }
-    },
-    {
-      "title": "Improved Outcome of Kidney Transplants by Donor Recipient Matching Based on Predicted Indirectly Recognizable HLA Epitopes.",
-      "year": 2017,
-      "sortDate": "2017-00-00",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
-      "journal": "American Journal of Transplantation",
       "volumeIssuePages": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.359-359",
       "meeting": "2017 American Transplant Congress",
       "abstractNumber": "433",
@@ -41235,15 +40045,15 @@
       },
       "id": "abstract-900db76abbbdd0c7",
       "relatedPublications": [],
-      "webOfScienceId": "WOS:000404515702433",
-      "sourceCitations": {
-        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.359-359"
-      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Official congress abstract page with meeting year and abstract number 433"
         ]
+      },
+      "webOfScienceId": "WOS:000404515702433",
+      "sourceCitations": {
+        "webOfScience": "AMERICAN JOURNAL OF TRANSPLANTATION 17, pp.359-359"
       }
     },
     {
@@ -44644,132 +43454,6 @@
         {
           "url": "https://researchinformation.umcutrecht.nl/en/publications/predicted-indirectly-recognizable-hla-epitopes-correlate-with-chr/",
           "checkedAt": "2026-10-27"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "Explicit Eric Spierings / E. Spierings author list in institutional or congress source; corroborated by established coauthors"
-        ],
-        "classificationEvidence": [
-          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
-        ]
-      },
-      "id": "abstract-7282ef24b54781f1",
-      "relatedPublications": [],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
-        ]
-      }
-    },
-    {
-      "title": "Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host disease and relapse-related mortality in paediatric patients after cord blood transplantation",
-      "year": 2013,
-      "sortDate": "2013-00-00",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
-      "journal": "Bone Marrow Transplantation",
-      "volumeIssuePages": "vol. 48, pp. S87–S88",
-      "meeting": "EBMT 2013",
-      "abstractNumber": null,
-      "url": "https://researchinformation.umcutrecht.nl/en/publications/predicted-indirectly-recognizable-hla-epitopes-correlate-with-chr-3/",
-      "authors": [
-        {
-          "name": "Kirsten A. Thus"
-        },
-        {
-          "name": "Can Kesmir"
-        },
-        {
-          "name": "Eric Borst"
-        },
-        {
-          "name": "Roel A. de Weger"
-        },
-        {
-          "name": "Jaap Jan Boelens"
-        },
-        {
-          "name": "Eric Spierings"
-        }
-      ],
-      "selfAuthorPositions": [
-        "last"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://researchinformation.umcutrecht.nl/en/publications/predicted-indirectly-recognizable-hla-epitopes-correlate-with-chr-3/",
-          "checkedAt": "2026-10-27"
-        }
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27",
-        "identityEvidence": [
-          "Explicit Eric Spierings / E. Spierings author list in institutional or congress source; corroborated by established coauthors"
-        ],
-        "classificationEvidence": [
-          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
-        ]
-      },
-      "id": "abstract-72d1ece5125af8bd",
-      "relatedPublications": [],
-      "abstractClassification": {
-        "decision": "exclude",
-        "reasons": [
-          "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
-        ]
-      }
-    },
-    {
-      "title": "Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host disease and relapse-related mortality in paediatric patients after cord blood transplantation",
-      "year": 2013,
-      "sortDate": "2013-00-00",
-      "type": "conference-abstract",
-      "typeLabel": "Conference abstract",
-      "doi": null,
-      "journal": "Tissue Antigens",
-      "volumeIssuePages": "vol. 81, no. 5, pp. 295–296",
-      "meeting": "EFI 2013",
-      "abstractNumber": null,
-      "url": "https://researchinformation.umcutrecht.nl/en/publications/predicted-indirectly-recognizable-hla-epitopes-correlate-with-chr/",
-      "authors": [
-        {
-          "name": "Kirsten A. Thus"
-        },
-        {
-          "name": "Can Kesmir"
-        },
-        {
-          "name": "Eric Borst"
-        },
-        {
-          "name": "Roel A. de Weger"
-        },
-        {
-          "name": "Jaap Jan Boelens"
-        },
-        {
-          "name": "Eric Spierings"
-        }
-      ],
-      "selfAuthorPositions": [
-        "last"
-      ],
-      "abstract": null,
-      "categories": [],
-      "key": false,
-      "sources": [
-        {
-          "url": "https://researchinformation.umcutrecht.nl/en/publications/predicted-indirectly-recognizable-hla-epitopes-correlate-with-chr/",
-          "checkedAt": "2026-10-27"
         },
         {
           "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600077",
@@ -44789,15 +43473,15 @@
       },
       "id": "abstract-7282ef24b54781f1",
       "relatedPublications": [],
-      "webOfScienceId": "WOS:000318523600077",
-      "sourceCitations": {
-        "webOfScience": "TISSUE ANTIGENS 81(5), pp.295-296"
-      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
+      },
+      "webOfScienceId": "WOS:000318523600077",
+      "sourceCitations": {
+        "webOfScience": "TISSUE ANTIGENS 81(5), pp.295-296"
       }
     },
     {
@@ -44861,15 +43545,15 @@
       },
       "id": "abstract-72d1ece5125af8bd",
       "relatedPublications": [],
-      "webOfScienceId": "WOS:000319025200200",
-      "sourceCitations": {
-        "webOfScience": "BONE MARROW TRANSPLANTATION 48, pp.S87-S88"
-      },
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
           "Source explicitly identifies meeting/conference abstract or numbered congress contribution"
         ]
+      },
+      "webOfScienceId": "WOS:000319025200200",
+      "sourceCitations": {
+        "webOfScience": "BONE MARROW TRANSPLANTATION 48, pp.S87-S88"
       }
     },
     {

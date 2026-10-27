@@ -36,7 +36,8 @@ export function mergeConferenceAbstracts(dataset, registry) {
   const publications = (dataset.publications || []).filter(r => !curatedDois.has(doi(r.doi)));
   const byKey = new Map();
   for (const r of [...(dataset.conferenceAbstracts || []), ...moved, ...records]) {
-    const canonical = r.putCode && !r.doi ? records.find(c => c.url && c.url === r.url && c.year === r.year && normal(c.title) === normal(r.title)) : null;
+    const canonical = records.find(c => (r.id && c.id === r.id) ||
+      (r.putCode && !r.doi && c.url && c.url === r.url && c.year === r.year && normal(c.title) === normal(r.title)));
     const key = abstractKey(canonical || r);
     const previous = byKey.get(key);
     byKey.set(key, {

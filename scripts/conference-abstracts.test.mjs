@@ -40,3 +40,9 @@ test('ORCID imports with WoS URLs merge into the same abstract and resolved lead
   assert.equal(out.conferenceAbstractCount,1); assert.equal(out.conferenceAbstracts[0].putCode,42);
   assert.ok(!out.abstractsNeedingReview.some(x=>x.openAlexId==='https://openalex.org/resolved'));
 });
+test('adding a WoS accession to a previously curated record does not create a duplicate',()=>{
+  const before=make({doi:null});
+  const enriched={...before,webOfScienceId:'WOS:000123'};
+  const out=mergeConferenceAbstracts({...data,conferenceAbstracts:[before]},registry([enriched]));
+  assert.equal(out.conferenceAbstractCount,1);
+});
