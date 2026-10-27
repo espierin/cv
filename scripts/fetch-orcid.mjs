@@ -331,10 +331,46 @@ function isScientificPublicationWorkType(type = "") {
   return SCIENTIFIC_PUBLICATION_WORK_TYPES.has(String(type).trim().toLowerCase());
 }
 
-function isConferenceAbstract(record) {
-  return /\bS\d{2,}(?:\s*[-–]\s*S?\d+)?\b/i.test(
-    record.volumeIssuePages || ""
-  );
+function classifyConferenceAbstract(record) {
+  const title = cleanText(record.title || "");
+  const venue = cleanText(record.journal || "");
+  const citation = cleanText(record.volumeIssuePages || "");
+  const doi = normalizeDoi(record.doi || "");
+  const strong = [];
+  const review = [];
+
+  if (/\bS\d{2,}(?:\s*[-–]\s*S?\d+)?\b/i.test(citation)) {
+    strong.push("supplement-page-number");
+  }
+  if (/\b(?:conference|meeting)\s+abstract\b|\babstract\s+(?:number|no\.?|#)\s*\d+/i.test(title)) {
+    strong.push("explicit-abstract-title");
+  }
+  if (/\b(?:conference|meeting)\s+abstract\b/i.test(venue)) {
+    strong.push("abstract-venue");
+  }
+  // Blood meeting abstracts use this DOI pattern; OpenAlex often mislabels them as articles.
+  if (/^10\.1182\/blood\.v\d+\.\d+\.(\d+)\.\1$/i.test(doi)) {
+    strong.push("blood-meeting-abstract-doi");
+  }
+  if (/\b(?:conference proceedings|meeting abstracts|abstracts supplement)\b/i.test(venue)) {
+    strong.push("abstracts-proceedings-venue");
+  }
+  if (/\b(?:supplement|supplemental issue)\b/i.test(venue)) {
+    review.push("supplement-venue");
+  }
+  if (/\b(?:conference|meeting)\s+(?:proceedings|supplement)\b/i.test(title)) {
+    review.push("conference-proceedings-title");
+  }
+  if (/\babstract\b/i.test(title) && !strong.length) {
+    review.push("abstract-word-in-title");
+  }
+
+  const decision = strong.length ? "exclude" : review.length ? "review" : "include";
+  return {
+    decision,
+    confidence: strong.length ? "high" : review.length ? "needs-review" : "no-signal",
+    reasons: [...strong, ...review]
+  };
 }
 
 function isVerifiedScientificPublication(record) {
@@ -342,7 +378,7 @@ function isVerifiedScientificPublication(record) {
     isScientificPublicationWorkType(record.type) &&
     Array.isArray(record.selfAuthorPositions) &&
     record.selfAuthorPositions.length > 0 &&
-    !isConferenceAbstract(record) &&
+    record.abstractClassification?.decision !== "exclude" &&
     !/^(erratum|corrigendum|retraction)\b/i.test(record.title || "")
   );
 }
@@ -547,6 +583,8 @@ for (let index = 0; index < groups.length; index += 1) {
     fullTextUrl: fullTextUrl || null,
     bestOpenAccessUrl: bestOpenAccessUrl || null,
     openAlexId: openAlex?.id || null,
+    openAlexType: openAlex?.type_crossref || openAlex?.type || null,
+    crossrefType: crossref?.type || null,
     openAlexUrl: openAlex?.id || null,
     abstract: abstract || null,
     authors,
@@ -566,6 +604,8 @@ for (let index = 0; index < groups.length; index += 1) {
     openAccessStatus: openAccessStatus || null,
     relatedOpenAlexWorks: openAlex?.related_works || []
   });
+  records[records.length - 1].abstractClassification =
+    classifyConferenceAbstract(records[records.length - 1]);
 
   if ((index + 1) % 10 === 0) {
     console.log(`Processed ${index + 1} of ${groups.length} work groups.`);
@@ -594,7 +634,10 @@ const excludedRecordCounts = {
   conferenceAbstract: eligibleWorkTypeRecords.filter(
     (record) => Array.isArray(record.selfAuthorPositions) &&
       record.selfAuthorPositions.length > 0 &&
-      isConferenceAbstract(record)
+      record.abstractClassification?.decision === "exclude"
+  ).length,
+  conferenceAbstractNeedsReview: eligibleWorkTypeRecords.filter(
+    (record) => record.abstractClassification?.decision === "review"
   ).length,
   erratumOrRetraction: eligibleWorkTypeRecords.filter(
     (record) => Array.isArray(record.selfAuthorPositions) &&
@@ -654,15 +697,30 @@ const manualActivities = await loadManualActivities();
 const mergedActivities = mergeActivities(manualActivities, lectureRecords);
 const generatedAt = new Date().toISOString();
 
+const conferenceAbstractRecords = eligibleWorkTypeRecords.filter(
+  (record) =>
+    Array.isArray(record.selfAuthorPositions) &&
+    record.selfAuthorPositions.length > 0 &&
+    record.abstractClassification?.decision === "exclude"
+);
+const abstractReviewRecords = eligibleWorkTypeRecords.filter(
+  (record) =>
+    record.abstractClassification?.decision === "review"
+);
+
 const publicationOutput = {
   orcid: ORCID,
   generatedAt,
-  source: "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts and non-publication work types excluded; enriched with Crossref, Europe PMC and OpenAlex metadata",
+  source: "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata",
   includedWorkTypes: [...SCIENTIFIC_PUBLICATION_WORK_TYPES].sort(),
   excludedWorkTypes: excludedPublicationWorkTypes,
   excludedRecordCounts,
   count: deduplicated.length,
-  publications: deduplicated
+  publications: deduplicated,
+  conferenceAbstractCount: conferenceAbstractRecords.length,
+  conferenceAbstracts: conferenceAbstractRecords,
+  abstractReviewCount: abstractReviewRecords.length,
+  abstractsNeedingReview: abstractReviewRecords
 };
 
 const activitiesOutput = {
@@ -683,6 +741,40 @@ await Promise.all([
   fs.writeFile(
     new URL("../activities.json", import.meta.url),
     JSON.stringify(activitiesOutput, null, 2) + "\n",
+    "utf8"
+  ),
+  fs.writeFile(
+    new URL("../publication-audit.json", import.meta.url),
+    JSON.stringify({
+      generatedAt,
+      source: "ORCID Public API enriched with Crossref, Europe PMC and OpenAlex",
+      policy: "High-confidence conference abstracts are separated from scientific publications. Ambiguous records remain in the publication list and are also marked for review.",
+      counts: {
+        scientificPublications: deduplicated.length,
+        conferenceAbstracts: conferenceAbstractRecords.length,
+        abstractsNeedingReview: abstractReviewRecords.length
+      },
+      abstracts: conferenceAbstractRecords.map((record) => ({
+        title: record.title,
+        year: record.year,
+        journal: record.journal,
+        volumeIssuePages: record.volumeIssuePages,
+        doi: record.doi,
+        pmid: record.pmid,
+        openAlexId: record.openAlexId,
+        orcidPutCode: record.putCode,
+        reasons: record.abstractClassification.reasons
+      })),
+      needsReview: abstractReviewRecords.map((record) => ({
+        title: record.title,
+        year: record.year,
+        journal: record.journal,
+        volumeIssuePages: record.volumeIssuePages,
+        doi: record.doi,
+        orcidPutCode: record.putCode,
+        reasons: record.abstractClassification.reasons
+      }))
+    }, null, 2) + "\n",
     "utf8"
   )
 ]);
