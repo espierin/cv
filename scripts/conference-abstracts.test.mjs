@@ -5,11 +5,12 @@ const make = (extra={}) => ({id:'a',title:'Epitope matching study',year:2020,mee
   authors:[{name:'E. Spierings'}],sources:[{url:'https://example.org/abstract'}],
   verification:{status:'verified',identityEvidence:['Author and affiliation'],classificationEvidence:['Numbered abstract']},...extra});
 const registry = records => ({orcid:'self',records,needsReview:[{title:'Unresolved candidate',year:1998}]});
-const data = {orcid:'self',source:'ORCID',publications:[{title:'Full paper',doi:'10.123/full'},{title:'Previously misclassified abstract',doi:'10.123/a',putCode:1}],conferenceAbstracts:[]};
+const data = {orcid:'self',source:'ORCID',publications:[{title:'Full paper',doi:'10.123/full'},{title:'Previously misclassified abstract',doi:'10.123/a',putCode:1,abstract:'Existing abstract text'}],conferenceAbstracts:[]};
 test('moves confirmed abstracts, preserves full paper and provenance; repeated refresh is idempotent',()=>{
   const first = mergeConferenceAbstracts(data, registry([make()]));
   assert.equal(first.count,1); assert.equal(first.publications[0].doi,'10.123/full');
   assert.equal(first.conferenceAbstracts[0].putCode,1); assert.equal(first.conferenceAbstractCount,1);
+  assert.equal(first.conferenceAbstracts[0].abstract,'Existing abstract text');
   assert.deepEqual(mergeConferenceAbstracts(first,registry([make()])),first);
   assert.equal(first.abstractReviewCount,1);
 });
