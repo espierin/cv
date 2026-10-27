@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-27T21:09:36.348Z",
+  "generatedAt": "2026-10-27T21:11:44.268Z",
   "source": "ORCID Public API enriched with Crossref, Europe PMC and OpenAlex",
   "policy": "High-confidence conference abstracts are separated from scientific publications. Ambiguous records remain in the publication list and are also marked for review.",
   "counts": {
-    "scientificPublications": 140,
-    "conferenceAbstracts": 9,
-    "abstractsNeedingReview": 0
+    "scientificPublications": 141,
+    "conferenceAbstracts": 8,
+    "abstractsNeedingReview": 1
   },
   "abstracts": [
     {
@@ -18,7 +18,7 @@
       "openAlexId": "https://openalex.org/W4412851562",
       "orcidPutCode": 225654275,
       "reasons": [
-        "supplement-page-number"
+        "conference-heavy-journal-supplement-pages"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "openAlexId": "https://openalex.org/W2590104313",
       "orcidPutCode": 225654286,
       "reasons": [
-        "supplement-page-number"
+        "conference-heavy-journal-supplement-pages"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "openAlexId": "https://openalex.org/W2322632010",
       "orcidPutCode": 225651221,
       "reasons": [
-        "supplement-page-number"
+        "conference-heavy-journal-supplement-pages"
       ]
     },
     {
@@ -70,7 +70,7 @@
       "openAlexId": "https://openalex.org/W2122221803",
       "orcidPutCode": 225651238,
       "reasons": [
-        "supplement-page-number"
+        "conference-heavy-journal-supplement-pages"
       ]
     },
     {
@@ -83,7 +83,7 @@
       "openAlexId": "https://openalex.org/W4243572623",
       "orcidPutCode": 225654287,
       "reasons": [
-        "supplement-page-number"
+        "conference-heavy-journal-supplement-pages"
       ]
     },
     {
@@ -96,7 +96,7 @@
       "openAlexId": "https://openalex.org/W2160478249",
       "orcidPutCode": 225651234,
       "reasons": [
-        "supplement-page-number"
+        "conference-heavy-journal-supplement-pages"
       ]
     },
     {
@@ -111,20 +111,19 @@
       "reasons": [
         "blood-meeting-abstract-doi"
       ]
-    },
+    }
+  ],
+  "needsReview": [
     {
       "title": "The role of Schwann cells, T cells and Mycobacterium leprae in the immunopathogenesis of nerve damage in leprosy.",
       "year": 2000,
       "journal": "Leprosy review",
       "volumeIssuePages": "pp. S121-9",
       "doi": null,
-      "pmid": "11201869",
-      "openAlexId": null,
       "orcidPutCode": 189228353,
       "reasons": [
-        "supplement-page-number"
+        "supplement-page-number-needs-source-check"
       ]
     }
-  ],
-  "needsReview": []
+  ]
 }

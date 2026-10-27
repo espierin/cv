@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-27T21:09:36.348Z",
+  "generatedAt": "2026-10-27T21:11:44.268Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata",
   "includedWorkTypes": [
     "book",
@@ -21,11 +21,11 @@
   "excludedRecordCounts": {
     "nonScientificWorkType": 68,
     "authorshipNotVerified": 96,
-    "conferenceAbstract": 9,
-    "conferenceAbstractNeedsReview": 0,
+    "conferenceAbstract": 8,
+    "conferenceAbstractNeedsReview": 1,
     "erratumOrRetraction": 0
   },
-  "count": 140,
+  "count": 141,
   "publications": [
     {
       "putCode": 227329515,
@@ -35200,6 +35200,79 @@
       }
     },
     {
+      "putCode": 189228353,
+      "title": "The role of Schwann cells, T cells and Mycobacterium leprae in the immunopathogenesis of nerve damage in leprosy.",
+      "year": 2000,
+      "sortDate": "2000-12-01",
+      "journal": "Leprosy review",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": null,
+      "pmid": "11201869",
+      "pmcid": null,
+      "url": null,
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": null,
+      "openAlexType": null,
+      "crossrefType": null,
+      "openAlexUrl": null,
+      "abstract": "Damage to peripheral nerves is the major complication of reversal (type I) reactions in leprosy. The underlying mechanism of nerve damage remains largely unresolved; however, an important role for type-1 T cells has been suggested. Mycobacterium leprae has a remarkable tropism for the Schwann cells that surround peripheral axons. Because reversal reactions in leprosy are often accompanied by severe and irreversible nerve destruction, and are associated with increased cellular immune reactivity against M. leprae, a likely immunopathogenic mechanism of damage to Schwann cells and peripheral nerves in leprosy is that infected Schwann cells process and present antigens of M. leprae to antigen-specific, inflammatory, type-1 T cells, and that these T cells subsequently damage and lyse infected Schwann cells. Previous animal studies with CD8+ T cells revealed evidence for the existence of such a mechanism. A similar role has been suggested for CD4+ T cells. These latter cells may be more important in causing nerve damage in vivo, given the predilection of M. leprae for Schwann cells, and the dominant role of CD4+, serine esterase+ Th1 cells in the lesions of leprosy. Antagonism of the molecular interactions among M. leprae, Schwann cells and inflammatory T cells may therefore provide a rational strategy for prevention of damage of Schwann cell and nerves in leprosy.",
+      "authors": [
+        {
+          "name": "Spierings E"
+        },
+        {
+          "name": "De Boer T"
+        },
+        {
+          "name": "Zulianello L"
+        },
+        {
+          "name": "Ottenhoff TH."
+        }
+      ],
+      "selfAuthorPositions": [
+        "first"
+      ],
+      "volumeIssuePages": "pp. S121-9",
+      "categories": [
+        "cellular"
+      ],
+      "primaryCategoryLabel": "Cellular immunology",
+      "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [
+        "Schwann Cells",
+        "T-Lymphocytes",
+        "Humans",
+        "Mycobacterium leprae",
+        "Leprosy",
+        "Peripheral Nervous System Diseases",
+        "Prognosis",
+        "Severity of Illness Index",
+        "Risk Assessment",
+        "Immunity, Cellular",
+        "Female",
+        "Male"
+      ],
+      "keywords": [],
+      "openAlexTopics": [],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": false,
+      "openAccessStatus": null,
+      "relatedOpenAlexWorks": [],
+      "abstractClassification": {
+        "decision": "review",
+        "confidence": "needs-review",
+        "reasons": [
+          "supplement-page-number-needs-source-check"
+        ]
+      }
+    },
+    {
       "putCode": 225651165,
       "title": "Novel mechanisms in the immunopathogenesis of leprosy nerve damage: The role of Schwann cells, T cells and Mycobacterium leprae",
       "year": 2000,
@@ -36165,7 +36238,7 @@
       }
     }
   ],
-  "conferenceAbstractCount": 9,
+  "conferenceAbstractCount": 8,
   "conferenceAbstracts": [
     {
       "putCode": 225654275,
@@ -36303,7 +36376,7 @@
         "decision": "exclude",
         "confidence": "high",
         "reasons": [
-          "supplement-page-number"
+          "conference-heavy-journal-supplement-pages"
         ]
       }
     },
@@ -36528,7 +36601,7 @@
         "decision": "exclude",
         "confidence": "high",
         "reasons": [
-          "supplement-page-number"
+          "conference-heavy-journal-supplement-pages"
         ]
       }
     },
@@ -36822,7 +36895,7 @@
         "decision": "exclude",
         "confidence": "high",
         "reasons": [
-          "supplement-page-number"
+          "conference-heavy-journal-supplement-pages"
         ]
       }
     },
@@ -36983,7 +37056,7 @@
         "decision": "exclude",
         "confidence": "high",
         "reasons": [
-          "supplement-page-number"
+          "conference-heavy-journal-supplement-pages"
         ]
       }
     },
@@ -37179,7 +37252,7 @@
         "decision": "exclude",
         "confidence": "high",
         "reasons": [
-          "supplement-page-number"
+          "conference-heavy-journal-supplement-pages"
         ]
       }
     },
@@ -37385,7 +37458,7 @@
         "decision": "exclude",
         "confidence": "high",
         "reasons": [
-          "supplement-page-number"
+          "conference-heavy-journal-supplement-pages"
         ]
       }
     },
@@ -37541,7 +37614,10 @@
           "blood-meeting-abstract-doi"
         ]
       }
-    },
+    }
+  ],
+  "abstractReviewCount": 1,
+  "abstractsNeedingReview": [
     {
       "putCode": 189228353,
       "title": "The role of Schwann cells, T cells and Mycobacterium leprae in the immunopathogenesis of nerve damage in leprosy.",
@@ -37608,14 +37684,12 @@
       "openAccessStatus": null,
       "relatedOpenAlexWorks": [],
       "abstractClassification": {
-        "decision": "exclude",
-        "confidence": "high",
+        "decision": "review",
+        "confidence": "needs-review",
         "reasons": [
-          "supplement-page-number"
+          "supplement-page-number-needs-source-check"
         ]
       }
     }
-  ],
-  "abstractReviewCount": 0,
-  "abstractsNeedingReview": []
+  ]
 }
