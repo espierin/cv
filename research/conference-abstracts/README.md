@@ -4,7 +4,9 @@ Reviewed 27 October 2026. Identity anchor: [ORCID 0000-0001-9441-1019](https://o
 
 ## Result and interpretation
 
-The curated registry contains **51 verified conference abstracts (2009–2026)**. Eight were already separated in the ORCID dataset; five more were present but misclassified as scientific publications; **38 are newly recovered records**. The final website therefore contains 136 scientific publications and 51 conference abstracts. The abstract category increases by 43. Eight unresolved candidates remain for review (seven from discovery and one pre-existing ORCID classification query).
+The curated registry contains **126 verified conference abstracts (2001–2026)**. Eight were already separated in the original ORCID dataset; six more were present but misclassified as scientific publications; **112 are newly recovered records for the website**. The website therefore contains 135 scientific publications and 126 conference abstracts. The abstract category increases by 118. Two unresolved older candidates remain outside the verified abstract list.
+
+The additional Web of Science pass supplied 119 profile records explicitly classified as Meeting Abstract: 44 enriched existing entries, 74 added distinct congress contributions immediately; the remaining Brazilian contribution was subsequently corroborated by an independent coauthor CV and added with its author-list limitation recorded. The claimed profile is tied to the exact ORCID. Direct profile attribution is corroborated against displayed coauthors, explicit E. Spierings author entries and research context. WoS sometimes shows abbreviated author lists; those are explicitly labelled and missing authors/order are not invented.
 
 These are bibliographic congress contributions, not 51 distinct studies or claims that Eric personally presented each contribution. The same study presented at different documented meetings remains separate. A later full article remains a separate publication. Only bibliographic metadata, attribution evidence and source links are published here; publisher abstract books and full texts are not redistributed.
 
@@ -21,18 +23,18 @@ These are bibliographic congress contributions, not 51 distinct studies or claim
 | Other congresses | ERA-EDTA/NDT, ASN Kidney Week, ISHLT, ISBT/Vox Sanguinis, ARVO/IOVS, Acta Ophthalmologica, ESHRE/Human Reproduction, Clinical and Experimental Rheumatology and Aichi Medical University bibliography checked. | A Japanese title is retained with an explicitly labelled English translation. |
 | ASHI 2018 official programme | Public PDF downloaded and text extracted; Spierings appears as workshop speaker. | A speaker mention alone was not counted as a published scientific abstract. |
 | Institutional repositories | UMC Utrecht, Erasmus, Aalborg, Groningen and Aichi; coauthor bibliography in Istanbul used to recover a 2007 lead. | Some record/list pages return 403; indexed bibliographic extracts were cross-checked where possible and access limitations recorded per source. |
-| Web of Science | Direct access attempted; redirected to Clarivate institutional/profile sign-in. Erasmus repository independently supplies **WOS:001082837700010** for the 2023 IHIWS epitope-project abstract. | **Full WoS search/export remains pending institutional login.** No claim of complete WoS coverage. |
+| Web of Science | User signed in. Claimed profile **AAU-5138-2021**, explicitly linked to the target ORCID, lists 246 records. Profile pages yielded 243 records; the CV JSON export supplied 222 records including the three remaining full articles, so the union covers all 246. All **119 Meeting Abstract** records were reviewed. [Decision log](wos-review.json). | Free View does not expose an unrestricted Core Collection author search/full-record workflow. CV JSON export omits 24 profile records and abbreviates authors; changing document-type selection did not change its JSON contents. These limits were detected by comparing the UI with the export. No claim of complete WoS-wide coverage. |
 
-Web searches included full-name and initial variants, congress names, minor histocompatibility antigens, HA-1/HA-3, PIRCHE, coauthors, and older 1990s/2000s material. Awards and invited lectures are search leads, not substitutes for a recovered abstract. Coverage before 2009 remains especially incomplete. This is a deep public-source search, **not a claim that every historical abstract has been found**.
+Web searches included full-name and initial variants, congress names, minor histocompatibility antigens, HA-1/HA-3, PIRCHE, coauthors, and older 1990s/2000s material. Awards and invited lectures are search leads, not substitutes for a recovered abstract. The WoS pass recovered older minor-H contributions back to 2001. Material before 2001 and records outside the claimed profile may still be missing. This is a deep public-source search, **not a claim that every historical abstract has been found**.
 
 ## Attribution rules
 
-1. An explicit Eric Spierings / E. Spierings author entry must be present in publisher, institutional or official congress metadata. Affiliation and established coauthors corroborate identity.
+1. An explicit Eric Spierings / E. Spierings author entry in publisher, institutional or official congress metadata, or direct work attribution in the claimed WoS profile tied to the exact ORCID, establishes the identity anchor. Affiliation and established coauthors corroborate it. Uncorroborated profile items remain for review.
 2. A numbered abstract, meeting classification, annual-meeting issue or documented supplement establishes the work type. A normal article's abstract text does not turn the article into a conference abstract.
 3. Similar content or a related publication alone never establishes authorship. Suggested related papers are labelled as possible connections, not identical studies.
 4. Eric L. H. Spierings (headache/migraine), Julia Spierings (rheumatology) and other namesakes are excluded. Loose surname overlap was insufficient: the hand-hygiene and headache candidates were explicitly rejected during review.
 5. A DOI for an entire abstract book is stored as `collectionDoi`; it is never treated as an individual abstract DOI. Missing individual DOIs are left blank.
-6. DOI duplicates merge. The same study at different meetings is retained. Duplicate author entries in publisher metadata are collapsed without inventing missing authors. Publisher title errors are retained unless a source supports a correction.
+6. DOI duplicates merge. The same study at different meetings is retained. Duplicate author entries in publisher metadata are collapsed without inventing missing authors. Abbreviated WoS author lists retain their source summary and are marked `authorsComplete: false`; a separate `verifiedProfileAuthor` attributes Eric without assigning an unknown position. Publisher title errors are retained unless a source supports a correction.
 
 ## Files and maintenance
 
@@ -45,8 +47,23 @@ Web searches included full-name and initial variants, congress names, minor hist
 
 Raw HTML/PDF/API caches remain local and are ignored by Git. New verified records belong in the curated registry; uncertain leads belong in `needsReview`. The daily ORCID workflow preserves this distinction.
 
-## Next Web of Science pass
+## Further Web of Science work
 
-After institutional sign-in: search author `Spierings E*` and exact full name `Spierings, Eric`; combine ORCID/ResearcherID where available; filter **Meeting Abstract** and **Proceedings Paper** separately. Review affiliations (Leiden/LUMC, Utrecht/UMCU), coauthors (including Goulmy, Claas, Roelen, Boelens, Kuball, Geneugelijk, Niemann, Otten and Peereboom), and older minor-H/leprosy material. Do not restrict the entire search to Utrecht or PIRCHE because that would omit early career work.
+With full institutional Core Collection access (beyond the signed-in Free View profile), search author `Spierings E*` and exact full name `Spierings, Eric`; combine ORCID/ResearcherID where available; filter **Meeting Abstract** and **Proceedings Paper** separately. Review affiliations (Leiden/LUMC, Utrecht/UMCU), coauthors (including Goulmy, Claas, Roelen, Boelens, Kuball, Geneugelijk, Niemann, Otten and Peereboom), and older minor-H/leprosy material. Do not restrict the entire search to Utrecht or PIRCHE because that would omit early career work.
 
-Export Full Record with all authors, affiliations, document type, meeting details, DOI and WoS accession. Match accession/DOI first; then meeting, year, abstract number and title. Validate identity before promoting any record. An institutional WoS export can extend this registry without changing the website architecture.
+Export Full Record with all authors, affiliations, document type, meeting details, DOI and WoS accession. Match accession/DOI first; then meeting, year, abstract number and title. Validate identity before promoting any record. An institutional Full Record export can extend and enrich this registry without changing the website architecture. The local CV JSON exports and raw profile captures are retained in the ignored source cache; only reviewed bibliographic facts and the decision log are published.
+
+## Outstanding source questions
+
+- 2005 skin-homing CD4 T-cell abstract: old Surrey repository is inaccessible; original congress citation not yet recovered.
+- 1997 Schwann-cell item: two conflicting DOI registrations and uncertain meeting classification; not counted twice and not promoted without the original source.
+- The 2019 Brazilian B*35 contribution was resolved using the exact title in an independent coauthor CV naming E. Spierings; full ordered authors remain unavailable and are not asserted.
+- The pre-existing Leprosy Review supplement question was resolved as a nine-page full proceedings article (WoS Article; Proceedings Paper), so it remains among scientific publications.
+
+These candidates are deliberately excluded from ORCID import and from the verified abstract count. Review decisions are explicit; uncertainty is not silently converted into a positive attribution.
+
+## ORCID synchronization comparison
+
+The public ORCID record was fetched after user sign-in: 313 work groups. Identifier/title comparison finds **120 of the 126 verified abstracts already represented**, generally under `journal-article`. **Six are absent.** New-to-website discoveries must not be confused with new-to-ORCID works. A synchronization plan is retained locally; source-provided versions must be preserved and new editable versions grouped by their actual DOI/WoS UID. No collective book DOI may serve as an individual-work identifier.
+
+ORCID replaced the manually selectable Conference abstract type with Conference output: [official type guidance](https://info.orcid.org/ufaqs/what-work-types-does-orcid-support/). Abstract identity remains explicit in the description and website registry. The two unresolved candidates are excluded.

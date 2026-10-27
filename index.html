@@ -4481,9 +4481,10 @@
           <h4>${escapeHtml(r.title)}</h4>
           ${r.translatedTitle ? `<p class="publication-meta">English translation: ${escapeHtml(r.translatedTitle)}</p>` : ""}
           <p class="publication-meta">${escapeHtml([r.meeting, r.journal, r.volumeIssuePages, r.abstractNumber].filter(Boolean).join(" · "))}</p>
-          <p class="publication-meta">${formatAuthors(r.authors, 5)}</p>
+          <p class="publication-meta">${r.authorSummary ? escapeHtml(r.authorSummary) : formatAuthors(r.authors, 5)}</p>
           <details><summary>Authors &amp; verification</summary>
-            <p>${formatAuthors(r.authors, 999)}</p>
+            <p>${r.authorSummary ? escapeHtml(r.authorSummary) : formatAuthors(r.authors, 999)}</p>
+            ${r.authorsComplete === false ? `<p>The source displays an abbreviated author list. Eric Spierings’ authorship is verified through his ORCID-linked WoS profile; author order is not inferred.</p>` : ""}
             <ul>${evidence.map(e => `<li>${escapeHtml(e)}</li>`).join("")}</ul>
             ${r.verification?.checkedAt ? `<p>Source review: ${escapeHtml(r.verification.checkedAt)}</p>` : ""}
             <div class="publication-actions">${sources.map((source,i) => safeLink(`Source ${i+1}`,source.url)).join("")}${r.collectionDoi ? safeLink("Abstract book DOI",`https://doi.org/${r.collectionDoi}`) : ""}</div>
@@ -5046,22 +5047,31 @@
     const observedSections = navigationLinks
       .map((link) => document.querySelector(link.getAttribute("href")))
       .filter(Boolean);
-    const navigationObserver = new IntersectionObserver(
-      (entries) => {
-        const visible = entries
-          .filter((entry) => entry.isIntersecting)
-          .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
-        if (!visible) return;
-        navigationLinks.forEach((link) => {
-          const active = link.getAttribute("href") === `#${visible.target.id}`;
-          link.classList.toggle("active", active);
-          if (active) link.setAttribute("aria-current", "location");
-          else link.removeAttribute("aria-current");
-        });
-      },
-      { rootMargin: "-28% 0px -60% 0px", threshold: [0.05, 0.2, 0.5] }
-    );
-    observedSections.forEach((section) => navigationObserver.observe(section));
+    function setActiveNavigation(sectionId) {
+      navigationLinks.forEach((link) => {
+        const active = link.getAttribute("href") === `#${sectionId}`;
+        link.classList.toggle("active", active);
+        if (active) link.setAttribute("aria-current", "location");
+        else link.removeAttribute("aria-current");
+      });
+    }
+    // Track section tops: a long publication list may never reach a visibility-ratio threshold.
+    function updateActiveNavigation() {
+      const readingLine = Math.max(100, window.innerHeight * 0.32);
+      const section = observedSections.filter(s => s.getBoundingClientRect().top <= readingLine).at(-1);
+      setActiveNavigation(section?.id || "");
+    }
+    let navigationFrame = null;
+    function scheduleNavigationUpdate() {
+      if (navigationFrame !== null) return;
+      navigationFrame = requestAnimationFrame(() => {
+        navigationFrame = null;
+        updateActiveNavigation();
+      });
+    }
+    window.addEventListener("scroll", scheduleNavigationUpdate, {passive: true});
+    window.addEventListener("resize", scheduleNavigationUpdate);
+    updateActiveNavigation();
 
     const navigationToggle = document.getElementById("nav-toggle");
     const primaryNavigation = document.getElementById("primary-nav");

@@ -32,3 +32,11 @@ test('curated dataset contains sufficient verification and no known false positi
   for (const bad of ['10.1016/j.jpain.2006.01.216','10.1186/2047-2994-2-s1-p141']) assert.ok(!r.records.some(x=>x.doi===bad));
   assert.equal(new Set(r.records.map(abstractKey)).size,r.records.length);
 });
+test('ORCID imports with WoS URLs merge into the same abstract and resolved leads disappear',()=>{
+  const entry=make({doi:null,webOfScienceId:'WOS:000123',url:'https://www.webofscience.com/wos/woscc/full-record/WOS:000123'});
+  const imported={...entry,id:undefined,webOfScienceId:undefined,putCode:42,verification:undefined};
+  const r=registry([entry]); r.resolvedReview=[{openAlexId:'https://openalex.org/resolved'}];
+  const out=mergeConferenceAbstracts({...data,conferenceAbstracts:[imported],abstractsNeedingReview:[{openAlexId:'https://openalex.org/resolved'}]},r);
+  assert.equal(out.conferenceAbstractCount,1); assert.equal(out.conferenceAbstracts[0].putCode,42);
+  assert.ok(!out.abstractsNeedingReview.some(x=>x.openAlexId==='https://openalex.org/resolved'));
+});

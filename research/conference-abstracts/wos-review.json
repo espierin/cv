@@ -1,0 +1,727 @@
+{
+  "reviewedAt": "2026-10-27",
+  "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021",
+  "profileOrcid": "0000-0001-9441-1019",
+  "profileTotal": 246,
+  "classifiedProfileRows": 243,
+  "exportRecords": 222,
+  "decisions": [
+    {
+      "webOfScienceId": "WOS:001863721100039",
+      "title": "Attempt to minimize maintenance immunosuppressive therapy based on T and B cell epitope mismatch: Difference between PIRCHE-II and PIRCHE-T2",
+      "decision": "enriched",
+      "registryId": "abstract-ed93278f42cbc94b"
+    },
+    {
+      "webOfScienceId": "WOS:001761463200006",
+      "title": "HLA-B-21M Leader Variant is Associated with Increased Risk of Early Acute Rejection in CMV Seropositive Lung Transplant Recipients",
+      "decision": "enriched",
+      "registryId": "abstract-02e21ff69df30a3e"
+    },
+    {
+      "webOfScienceId": "WOS:001761422000017",
+      "title": "HLA Class I Leader Peptides Are Associated with Increased Risk of Acute Rejection in CMV Seropositive Lung Transplant Recipients",
+      "decision": "enriched",
+      "registryId": "abstract-ba73a50a9ccd4312"
+    },
+    {
+      "webOfScienceId": "WOS:001750677700175",
+      "title": "Histocompatibility Does not Predict Villitis of Unknown Etiology in Oocyte Donation Pregnancies",
+      "decision": "added",
+      "registryId": "abstract-wos-001750677700175"
+    },
+    {
+      "webOfScienceId": "WOS:001750677700268",
+      "title": "HLA leader peptides and CMV define a unified mechanism of early rejection after solid organ transplantation",
+      "decision": "added",
+      "registryId": "abstract-wos-001750677700268"
+    },
+    {
+      "webOfScienceId": "WOS:001551680300140",
+      "title": "Detection of Immunogenic T Cell Epitopes (Peptides) Involved in De Novo DSA Production Using Machine Learning Methods",
+      "decision": "enriched",
+      "registryId": "abstract-297a163f9b3a0891"
+    },
+    {
+      "webOfScienceId": "WOS:001551680300134",
+      "title": "Indirect T Cell Epitope Mismatch Loads Are Correlated with Increased Levels of Panel-Reactive HLA Antibodies After Kidney Transplantation",
+      "decision": "enriched",
+      "registryId": "abstract-e9bcb3a4fad5ac40"
+    },
+    {
+      "webOfScienceId": "WOS:001525853600060",
+      "title": "Data Type Conversions and Misinterpretations in HLA Typing Data: Impact of Spreadsheet Software Formatting on HLA Genotype Integrity",
+      "decision": "added",
+      "registryId": "abstract-wos-001525853600060"
+    },
+    {
+      "webOfScienceId": "WOS:001525853600059",
+      "title": "Combined Population Based on Ancestry-Specific 2007 NMDP Haplotype Frequencies Facilitates Accurate HLA Genotype Imputation and molecular Matching in Absence of Ancestry Information",
+      "decision": "added",
+      "registryId": "abstract-wos-001525853600059"
+    },
+    {
+      "webOfScienceId": "WOS:001525853600009",
+      "title": "HLA-B Leader Peptide Dimorphism Affects Kidney Transplant Outcome",
+      "decision": "enriched",
+      "registryId": "abstract-0db9558c95e61670"
+    },
+    {
+      "webOfScienceId": "WOS:001422987100011",
+      "title": "PREDICTION OF HYPERTENSIVE COMPLICATIONS IN OOCYTE DONATION PREGNANCY USING FETAL-MATERNAL HLA-MISMATCHES AND PIRCHE-II SCORES: A MULTICENTER COHORT STUDY IN THE NETHERLANDS",
+      "decision": "added",
+      "registryId": "abstract-wos-001422987100011"
+    },
+    {
+      "webOfScienceId": "WOS:001364287301324",
+      "title": "Assessment of the efficacy of a monoclonal antibody against pancreatic tumour cells by complement-dependent cytotoxicity assay",
+      "decision": "added",
+      "registryId": "abstract-wos-001364287301324"
+    },
+    {
+      "webOfScienceId": "WOS:001708632700139",
+      "title": "Swine Xenografts Share Few Predicted Indirectly Recognizable SLA-Derived Epitopes with HLA-Derived Epitopes from Human Kidney Grafts",
+      "decision": "added",
+      "registryId": "abstract-wos-001708632700139"
+    },
+    {
+      "webOfScienceId": "WOS:001708634200179",
+      "title": "Allele-Specific Solvent-Accessible Surface-Protruding Amino Acid Mismatches and Predicted Indirect T-cell Epitopes Improve HLA Matching in Predicting Kidney Graft Survival",
+      "decision": "added",
+      "registryId": "abstract-wos-001708634200179"
+    },
+    {
+      "webOfScienceId": "WOS:001078560900008",
+      "title": "Combining allele-specific solvent-accessible surface-protruding amino acid mismatches and predicted indirect T cell epitopes improves HLA matching in predicting kidney graft survival",
+      "decision": "enriched",
+      "registryId": "abstract-f43e2a703ef07cad"
+    },
+    {
+      "webOfScienceId": "WOS:001078560900126",
+      "title": "Repeated local ellipsoid protrusion supplements human leukocyte antigen surface characterization",
+      "decision": "enriched",
+      "registryId": "abstract-b7070c82859fa507"
+    },
+    {
+      "webOfScienceId": "WOS:001082837700010",
+      "title": "The 18th International HLA and Immunogenetics Workshop (IHIWS) HLA immunogenic epitope project",
+      "decision": "enriched",
+      "registryId": "abstract-20944d9a118642b2"
+    },
+    {
+      "webOfScienceId": "WOS:001082837700042",
+      "title": "The number of donor HLA-derived T-cell epitopes available for indirect antigen presentation determines the risk for vascular rejection after kidney transplantation",
+      "decision": "enriched",
+      "registryId": "abstract-5c778174e7a72e58"
+    },
+    {
+      "webOfScienceId": "WOS:000893223200368",
+      "title": "Indirectly Recognizable Epitopes Derived from Recipient Mismatched HLA-B Are Associated with Adverse Prognosis in Single-Unit Cord Blood Transplantation",
+      "decision": "added",
+      "registryId": "abstract-wos-000893223200368"
+    },
+    {
+      "webOfScienceId": "WOS:000891281900009",
+      "title": "ALLELE-SPECIFIC SOLVENT ACCESSIBLE AMINO ACID MISMATCHES ARE CORRELATED WITH IMMUNIZER-SPECIFIC HLA ANTIBODIES AFTER KIDNEY TRANSPLANTATION OR PREGNANCY",
+      "decision": "added",
+      "registryId": "abstract-wos-000891281900009"
+    },
+    {
+      "webOfScienceId": "WOS:000891281900171",
+      "title": "DEVELOPING A DEEP LEARNING-BASED EPITOPE MATCHING ALGORITHM CONSIDERING ALLELE-SPECIFIC SOLVENT ACCESSIBILITY",
+      "decision": "added",
+      "registryId": "abstract-wos-000891281900171"
+    },
+    {
+      "webOfScienceId": "WOS:000842606302120",
+      "title": "Which is More Important for Predicting De Novo DSA Production, B Cell Epitope (EPLET) or T Cell Epitope (PIRCHE) Analysis ?",
+      "decision": "enriched",
+      "registryId": "abstract-deb4876fb804f039"
+    },
+    {
+      "webOfScienceId": "WOS:000788004300018",
+      "title": "T-cell epitopes shared between immunizing and donor HLA associate with kidney allograft failure",
+      "decision": "enriched",
+      "registryId": "abstract-2d1dedaed8c18651"
+    },
+    {
+      "webOfScienceId": "WOS:000788004300039",
+      "title": "The role of HLA epitope mismatches in antibody development and refractoriness to optimize allocation in platelet transfusion",
+      "decision": "enriched",
+      "registryId": "abstract-801b9026f6398fff"
+    },
+    {
+      "webOfScienceId": "WOS:000788004300061",
+      "title": "Single-cell sequence analyses of circulating T follicular helper cells during antibody-mediated rejection",
+      "decision": "enriched",
+      "registryId": "abstract-1d01a3171014f9ae"
+    },
+    {
+      "webOfScienceId": "WOS:000697845200009",
+      "title": "SHARED T-CELL EPITOPES BETWEEN IMMUNIZING AND DONOR HLA ASSOCIATE WITH KIDNEY ALLOGRAFT SURVIVAL",
+      "decision": "added",
+      "registryId": "abstract-wos-000697845200009"
+    },
+    {
+      "webOfScienceId": "WOS:000691812200014",
+      "title": "COMPARTMENTALIZATION, PERSISTENCE AND CONSERVED SHARED MOTIFS OF DOMINANT (REGULATORY) T CELL CLONES IN AUTOIMMUNE INFLAMMATION",
+      "decision": "enriched",
+      "registryId": "abstract-59806c64a7d7bfb7"
+    },
+    {
+      "webOfScienceId": "WOS:000690761600719",
+      "title": "Human Leukocyte Antigen mapping of paediatric uveitis",
+      "decision": "enriched",
+      "registryId": "abstract-4e411f2ca4efb419"
+    },
+    {
+      "webOfScienceId": "WOS:000751335600070",
+      "title": "HLA ANTIBODY MARKUP LANGUAGE (HAML) - A CASE STUDY AND TECHNOLOGY DEMONSTRATION INVOLVING DPB1 EPITOPE ANALYSIS",
+      "decision": "added",
+      "registryId": "abstract-wos-000751335600070"
+    },
+    {
+      "webOfScienceId": "WOS:000578671900091",
+      "title": "IN SILICO SIMULATIONS DEMONSTRATE THE BENEFIT OF HLA EPITOPE MATCHING FOR KIDNEY ALLOCATION",
+      "decision": "added",
+      "registryId": "abstract-wos-000578671900091"
+    },
+    {
+      "webOfScienceId": "WOS:000562907300110",
+      "title": "Human Leukocyte Antigen mapping of paediatric uveitis",
+      "decision": "enriched",
+      "registryId": "abstract-19d84ce27c3fb2f1"
+    },
+    {
+      "webOfScienceId": "WOS:000546629501344",
+      "title": "Clinical Significance of T Cell and B Cell Epitope Prediction as a Risk Factor of De Novo DSA Production after Kidney Transplantation",
+      "decision": "enriched",
+      "registryId": "abstract-a6883d1a31870da9"
+    },
+    {
+      "webOfScienceId": "WOS:000546629502251",
+      "title": "Evaluating Preformed Donor HLA Reactive T Cells Using PIRCHE-II Algorithm",
+      "decision": "enriched",
+      "registryId": "abstract-eed3114c422ddd65"
+    },
+    {
+      "webOfScienceId": "WOS:000518393300153",
+      "title": "THE NUMBER OF PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES PRESENTED BY HLA-DQ AND -DP ARE CORRELATED WITH CHILD-SPECIFIC HLA-ANTIBODIES IN PREGNANCY",
+      "decision": "added",
+      "registryId": "abstract-wos-000518393300153"
+    },
+    {
+      "webOfScienceId": "WOS:000518393300156",
+      "title": "EVALUATION OF PREFORMED DONOR-HLA-CROSS-REACTIVE T CELLS USING PIRCHE-II ALGORITHM",
+      "decision": "added",
+      "registryId": "abstract-wos-000518393300156"
+    },
+    {
+      "webOfScienceId": "WOS:000518393300233",
+      "title": "UNRAVELING THE CELL SURFACE EXPRESSION OF THE HLA-B*13:123Q ALLELE",
+      "decision": "added",
+      "registryId": "abstract-wos-000518393300233"
+    },
+    {
+      "webOfScienceId": "WOS:000491488701124",
+      "title": "COMPUTATIONAL SIMULATIONS DEMONSTRATE THE FEASIBILITY AND BENEFIT OF EPITOPE MATCHING FOR KIDNEY TRANSPLANTATION",
+      "decision": "added",
+      "registryId": "abstract-wos-000491488701124"
+    },
+    {
+      "webOfScienceId": "WOS:000491488701287",
+      "title": "IDENTIFICATION OF IMMUNOGENIC RECIPIENT HLA CLASS II AND DONOR-HLA-DERIVED PEPTIDE COMPLEXES: CLINICAL RELEVANCE TO DE NOVO DONOR-SPECIFIC HLA ANTIBODY FORMATION IN KIDNEY TRANSPLANTATION",
+      "decision": "added",
+      "registryId": "abstract-wos-000491488701287"
+    },
+    {
+      "webOfScienceId": "WOS:000464517600082",
+      "title": "THE NUMBER OF DONOR-HLA-DERIVED PEPTIDES PRESENTED BY RECIPIENT DRB3/4/5 AND DQA1-DQB1 IN KIDNEY-TRANSPLANTED RECIPIENTS ARE INDEPENDENT FROM THE NUMBER OF DRB1-PRESENTED PEPTIDES",
+      "decision": "added",
+      "registryId": "abstract-wos-000464517600082"
+    },
+    {
+      "webOfScienceId": "WOS:000464517600210",
+      "title": "A NEW B*35 ALLELE DETECTED IN A POTENTIAL BRAZILIAN BONE MARROW VOLUNTEER DONOR FROM CURITIBA, BRAZIL",
+      "decision": "added-after-secondary-corroboration",
+      "reason": "Independent coauthor CV names E. Spierings; complete ordered author list not asserted.",
+      "registryId": "abstract-wos-000464517600210"
+    },
+    {
+      "webOfScienceId": "WOS:000449666000016",
+      "title": "PREDICTION OF ANTIBODY- AND CELL-MEDIATED REJECTION OF KIDNEY TRANSPLANTS BY HLA EPITOPE MATCHING",
+      "decision": "added",
+      "registryId": "abstract-wos-000449666000016"
+    },
+    {
+      "webOfScienceId": "WOS:000449666000049",
+      "title": "COMPUTATIONAL SIMULATIONS DEMONSTRATE THE FEASIBILITY AND BENEFIT OF HLA EPITOPE MATCHING IN DECEASED DONOR KIDNEY ALLOCATION",
+      "decision": "added",
+      "registryId": "abstract-wos-000449666000049"
+    },
+    {
+      "webOfScienceId": "WOS:000430290800022",
+      "title": "SIMULATING THROMBOCYTE TRANSFUSIONS TO INVESTIGATE THE ROLE OF T-HELPER AND B-CELL EPITOPES ON THE RISK FOR PLATELET REFRACTORINESS",
+      "decision": "added",
+      "registryId": "abstract-wos-000430290800022"
+    },
+    {
+      "webOfScienceId": "WOS:000430290800025",
+      "title": "COMPUTATIONAL SIMULATIONS DEMONSTRATE THE FEASIBILITY AND BENEFIT OF EPITOPE MATCHING FOR KIDNEY TRANSPLANTATION",
+      "decision": "added",
+      "registryId": "abstract-wos-000430290800025"
+    },
+    {
+      "webOfScienceId": "WOS:000430290800046",
+      "title": "HLA EPITOPE MATCHING OF KIDNEY TRANSPLANTS PREDICTS ANTIBODY- AND CELL-MEDIATED REJECTION",
+      "decision": "added",
+      "registryId": "abstract-wos-000430290800046"
+    },
+    {
+      "webOfScienceId": "WOS:000430290800105",
+      "title": "DECREASED GRAFT SURVIVAL OF RETRANSPLANTS CAN LARGELY BE EXPLAINED BY INCREASED HLA-IMMUNIZATION",
+      "decision": "enriched",
+      "registryId": "abstract-06c353a7fe5f3b91"
+    },
+    {
+      "webOfScienceId": "WOS:000413348700012",
+      "title": "PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES FROM EPLET MISMATCHES CORRELATE WITH DE NOVO DONOR-SPECIFIC HLA ANTIBODIES AFTER KIDNEY TRANSPLANTATION",
+      "decision": "added",
+      "registryId": "abstract-wos-000413348700012"
+    },
+    {
+      "webOfScienceId": "WOS:000411688500094",
+      "title": "DONOR RECIPIENT MATCHING BASED ON HLA EPITOPES IMPROVES OUTCOME IN KIDNEY TRANSPLANT RECIPIENTS",
+      "decision": "added",
+      "registryId": "abstract-wos-000411688500094"
+    },
+    {
+      "webOfScienceId": "WOS:000400973300022",
+      "title": "DIFFERENTIAL EFFECT OF DONOR-SPECIFIC HLA ANTIBODIES IN LIVING VERSUS DECEASED DONOR KIDNEY TRANSPLANTATION",
+      "decision": "added",
+      "registryId": "abstract-wos-000400973300022"
+    },
+    {
+      "webOfScienceId": "WOS:000400973300019",
+      "title": "PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES FROM EPLET MISMATCHES CORRELATE WITH DE NOVO DONOR-SPECIFIC HLA ANTIBODIES AFTER KIDNEY TRANSPLANTATION",
+      "decision": "added",
+      "registryId": "abstract-wos-000400973300019"
+    },
+    {
+      "webOfScienceId": "WOS:000400973300026",
+      "title": "MATCHING FOR THE NON-CONVENTIONAL MHC-I MICA GENE SIGNIFICANTLY REDUCES THE INCIDENCE OF ACUTE AND CHRONIC GVHD",
+      "decision": "added",
+      "registryId": "abstract-wos-000400973300026"
+    },
+    {
+      "webOfScienceId": "WOS:000400973300043",
+      "title": "A PREVIOUS MISCARRIAGE AND A PREVIOUS SUCCESSFUL PREGNANCY HAVE A DIFFERENT IMPACT ON HLA ANTIBODY FORMATION DURING A SUBSEQUENT SUCCESSFUL PREGNANCY",
+      "decision": "added",
+      "registryId": "abstract-wos-000400973300043"
+    },
+    {
+      "webOfScienceId": "WOS:000400973300077",
+      "title": "PIRCHE-II: A NOVEL TOOL TO IDENTIFY PERMISSIBLE HLA MISMATCHES IN KIDNEY TRANSPLANTATION",
+      "decision": "added",
+      "registryId": "abstract-wos-000400973300077"
+    },
+    {
+      "webOfScienceId": "WOS:000400973300193",
+      "title": "COMPUTATIONAL APPROACHES TO FACILITATE EPITOPE-BASED HLA MATCHING IN SOLID ORGAN TRANSPLANTATION",
+      "decision": "added",
+      "registryId": "abstract-wos-000400973300193"
+    },
+    {
+      "webOfScienceId": "WOS:000469797100025",
+      "title": "DONOR RECIPIENT MATCHING BASED ON INDIRECTLY RECOGNIZABLE HLA EPITOPES INDEPENDENTLY PREDICTS OUTCOME AFTER KIDNEY TRANSPLANTATION",
+      "decision": "enriched",
+      "registryId": "abstract-e80165805cf4e9bc"
+    },
+    {
+      "webOfScienceId": "WOS:000469797100026",
+      "title": "DONOR RECIPIENT MATCHING BASED ON HLA EPITOPES IMPROVES OUTCOME IN KIDNEY TRANSPLANT RECIPIENTS",
+      "decision": "enriched",
+      "registryId": "abstract-a8aded8e701f4b6c"
+    },
+    {
+      "webOfScienceId": "WOS:000404515702432",
+      "title": "Donor Recipient Matching Based on HLA Epitopes Improves Outcome in Kidney Transplant Recipients",
+      "decision": "enriched",
+      "registryId": "abstract-9797340f028fed64"
+    },
+    {
+      "webOfScienceId": "WOS:000404515702433",
+      "title": "Improved Outcome of Kidney Transplants by Donor Recipient Matching Based on Predicted Indirectly Recognizable HLA Epitopes",
+      "decision": "enriched",
+      "registryId": "abstract-900db76abbbdd0c7"
+    },
+    {
+      "webOfScienceId": "WOS:000540635000197",
+      "title": "Analysis of Predicted Indirectly Recognizable HLA Epitopes (PIRCHE) in Mismatched Unrelated Donor Hematopoietic Stem Cell Transplants (HCT): A Center for International Blood and Marrow Transplant Research (CIBMTR) Cohort Study",
+      "decision": "enriched",
+      "registryId": "abstract-fd9e25ad05879459"
+    },
+    {
+      "webOfScienceId": "WOS:000540635000087",
+      "title": "Identifying Permissible HLA-Mismatches in Unrelated-Donor Hematopoietic Stem-Cell Transplantation Using Predicted Indirectly Recognizable HLA Epitopes",
+      "decision": "enriched",
+      "registryId": "abstract-5e05e295247a4f01"
+    },
+    {
+      "webOfScienceId": "WOS:000411658700042",
+      "title": "PIRCHE-II: A NOVEL TOOL TO IDENTIFY PERMISSIBLE HLA MISMATCHES IN KIDNEY TRANSPLANTATION.",
+      "decision": "enriched",
+      "registryId": "abstract-da613d9a8fea36d3"
+    },
+    {
+      "webOfScienceId": "WOS:000411658700123",
+      "title": "COMPLETION OF HLA PROASED NEAREST-NEIGHBOR EXTRAPOLATION OF HLA DATABASE SEQUENCES",
+      "decision": "enriched",
+      "registryId": "abstract-5cf756e045af48b4"
+    },
+    {
+      "webOfScienceId": "WOS:000411658700173",
+      "title": "COMPUTATIONAL APPROACHES TO FACILITATE EPITOPE-BASED HLA MATCHING IN SOLID ORGAN TRANSPLANTATION",
+      "decision": "enriched",
+      "registryId": "abstract-432f24c19ecb428c"
+    },
+    {
+      "webOfScienceId": "WOS:000411658700174",
+      "title": "PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES PRESENTED BY HLA-DRB1 ARE RELATED TO HLA ANTIBODY FORMATION DURING PREGNANCY",
+      "decision": "enriched",
+      "registryId": "abstract-3789a782c4a8f075"
+    },
+    {
+      "webOfScienceId": "WOS:000411658700274",
+      "title": "A PREVIOUS MISCARRIAGE AND A PREVIOUS SUCCESSFUL PREGNANCY HAVE A DIFFERENT IMPACT ON HLA ANTIBODY FORMATION DURING A SUBSEQUENT SUCCESSFUL PREGNANCY",
+      "decision": "enriched",
+      "registryId": "abstract-16bd0943cccb69b6"
+    },
+    {
+      "webOfScienceId": "WOS:000385569800073",
+      "title": "DE NOVO DONOR-SPECIFIC HLA ANTIBODIES AFTER KIDNEY TRANSPLANTATION ARE CORRELATED WITH THE NUMBER OF PREDICTED INDIRECTLY RECOGNIZABLE EPITOPES",
+      "decision": "added",
+      "registryId": "abstract-wos-000385569800073"
+    },
+    {
+      "webOfScienceId": "WOS:000379484600244",
+      "title": "EFFICACY OF HOST-DENDRITIC CELL VACCINATIONS WITH AND WITHOUT MINOR HISTOCOMPATIBILITY ANTIGEN LOADING, COMBINED WITH DONOR LYMPHOCYTE INFUSION IN MULTIPLE MYELOMA PATIENTS",
+      "decision": "added",
+      "registryId": "abstract-wos-000379484600244"
+    },
+    {
+      "webOfScienceId": "WOS:000379484601079",
+      "title": "CLINICAL OUTCOME AND IMMUNE RECONSTITUTION IN α/β T-CELL DEPLETED ALLOGENEIC STEM CELL TRANSPLANTATION FROM MATCHED RELATED AND UNRELATED DONORS",
+      "decision": "added",
+      "registryId": "abstract-wos-000379484601079"
+    },
+    {
+      "webOfScienceId": "WOS:000383951500031",
+      "title": "COMPLETION OF HLA PROTEIN SEQUENCES BY AUTOMATED HOMOLOGY-BASED NEAREST-NEIGHBOR EXTRAPOLATION OF HLA DATABASE SEQUENCES",
+      "decision": "added",
+      "registryId": "abstract-wos-000383951500031"
+    },
+    {
+      "webOfScienceId": "WOS:000383951500064",
+      "title": "IMMUNOGENICITY OF ANTI-HLA ANTIBODIES IN PANCREAS AND ISLET TRANSPLANTATION",
+      "decision": "added",
+      "registryId": "abstract-wos-000383951500064"
+    },
+    {
+      "webOfScienceId": "WOS:000383951500061",
+      "title": "PRE-TRANSPLANT DONOR SPECIFIC HLA ANTIBODIES IN 4386 RENAL TRANSPLANT RECIPIENTS: A PRELIMINARY ANALYSIS OF THE PROCARE COHORT",
+      "decision": "added",
+      "registryId": "abstract-wos-000383951500061"
+    },
+    {
+      "webOfScienceId": "WOS:000373357601045",
+      "title": "Clinical Outcome and Immune Reconstitution in αβ T-cell Depleted Allogeneic Stem Cell Transplantation from Matched Related and Unrelated Donors",
+      "decision": "added",
+      "registryId": "abstract-wos-000373357601045"
+    },
+    {
+      "webOfScienceId": "WOS:000368021801255",
+      "title": "Immune Reconstitution and Clinical Outcome after α/β T-Cell Depleted Allogeneic Stem Cell Transplantation from Matched Related and Unrelated Donors",
+      "decision": "enriched",
+      "registryId": "abstract-2aeb71c29db699da"
+    },
+    {
+      "webOfScienceId": "WOS:000348633000511",
+      "title": "Predicted Indirectly Recognizable Hla Epitopes (PIRCHE) Provide a Novel Strategy to Individualize Donor Selection That Optimizes Survival Chances",
+      "decision": "enriched",
+      "registryId": "abstract-0817cd40e1f62d23"
+    },
+    {
+      "webOfScienceId": "WOS:000349242707088",
+      "title": "Identification of Minor Histocompatibility Antigens Based on the 1000 Genomes Project for Application in Therapeutic Dendritic Cell Vaccination",
+      "decision": "enriched",
+      "registryId": "abstract-e6fcb71a4a38833f"
+    },
+    {
+      "webOfScienceId": "WOS:000349233803023",
+      "title": "Matching of MHC Class I Chain-Related Genes a and B Is Associated with Reduced Incidence of Severe Acute Graft-Versus-Host Disease after Unrelated Hematopoietic Stem Cell Transplantation",
+      "decision": "enriched",
+      "registryId": "abstract-f22caa449a6106ed"
+    },
+    {
+      "webOfScienceId": "WOS:000337546000009",
+      "title": "HLA CLASS-II PRESENTED PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES ARE RELATED TO THE FORMATION OF CHILD-SPECIFIC HLA ANTIBODIES DURING PREGNANCY",
+      "decision": "added",
+      "registryId": "abstract-wos-000337546000009"
+    },
+    {
+      "webOfScienceId": "WOS:000337546000019",
+      "title": "VALIDATION AND IMPLEMENTATION OF NEXT GENERATION SEQUENCING-BASED HLA TYPING FOR CLINICAL DIAGNOSTICS",
+      "decision": "added",
+      "registryId": "abstract-wos-000337546000019"
+    },
+    {
+      "webOfScienceId": "WOS:000337546000063",
+      "title": "IDENTIFYING PERMISSIBLE HLA-MISMATCHES: PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES",
+      "decision": "added",
+      "registryId": "abstract-wos-000337546000063"
+    },
+    {
+      "webOfScienceId": "WOS:000342830901163",
+      "title": "TREATMENT OF STEROID RESISTANT GRADE II TO IV ACUTE GVHD BY INFUSION OF MESENCHYMAL",
+      "decision": "added",
+      "registryId": "abstract-wos-000342830901163"
+    },
+    {
+      "webOfScienceId": "WOS:000333438100022",
+      "title": "TREATMENT OF STEROID RESISTANT GRADE II TO IV ACUTE GVHD BY INFUSION OF MESENCHYMAL STROMAL CELLS EXPANDED WITH PLATELET LYSATE - A PHASE I/II STUDY",
+      "decision": "enriched",
+      "registryId": "abstract-712616b941a7c700"
+    },
+    {
+      "webOfScienceId": "WOS:000359941902298",
+      "title": "AN ALTERNATIVE EXPLANATION FOR NON-PERMISSIBLE HLA-DPB1 MISMATCHES IN HEMATOPOIETIC STEM-CELL TRANSPLANTATION: HLA-DPB1-DERIVED PIRCHES CORRELATE TO ACUTE GVHD",
+      "decision": "added",
+      "registryId": "abstract-wos-000359941902298"
+    },
+    {
+      "webOfScienceId": "WOS:000359941901391",
+      "title": "COMBINED HLA AND SEX-MISMATCHED HSCT IS ASSOCIATED WITH INCREASED CD4+AND CD8+T CELL NUMBERS IN ACUTE GVHD CUTANEOUS INFILTRATES",
+      "decision": "added",
+      "registryId": "abstract-wos-000359941901391"
+    },
+    {
+      "webOfScienceId": "WOS:000359941900036",
+      "title": "TREATMENT OF STEROID RESISTANT GRADE II TO IV ACUTE GVHD BY INFUSION OF MESENCHYMAL STROMA CELLS EXPANDED WITH PLATELET LYSATE - A PHASE I/II STUDY",
+      "decision": "added",
+      "registryId": "abstract-wos-000359941900036"
+    },
+    {
+      "webOfScienceId": "WOS:000331155400200",
+      "title": "A Universal Approach to Identify Permissible HLA-Mismatches in HSCT: Predicted Indirectly Recognizable HLA Epitopes",
+      "decision": "enriched",
+      "registryId": "abstract-8d72e622555d9b9c"
+    },
+    {
+      "webOfScienceId": "WOS:000318523600027",
+      "title": "PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES PRESENTED BY HLA-DR CORRELATE WITH THE DE NOVO DEVELOPMENT OF DONOR-SPECIFIC HLA IGG ANTIBODIES AFTER KIDNEY TRANSPLANTATION",
+      "decision": "added",
+      "registryId": "abstract-wos-000318523600027"
+    },
+    {
+      "webOfScienceId": "WOS:000318523600040",
+      "title": "RISK OF ALLOREACTIVITY AFTER SINGLE HLA-MISMATCHED HAEMATOPOIETIC STEM-CELL TRANSPLANTATION INCREASES WITH INCREASING NUMBERS OF PREDICTED INDIRECTLY RECOGNIZED HLA EPITOPES",
+      "decision": "added",
+      "registryId": "abstract-wos-000318523600040"
+    },
+    {
+      "webOfScienceId": "WOS:000318523600064",
+      "title": "CONFIRMATION OF AND EXPLANATION FOR THE EFFECT OF HLA-DPB1 NON-PERMISSIVE MISMATCHES AFTER 10/10 HLA MATCHED-UNRELATED DONOR STEM-CELL TRANSPLANTATION: A SINGLE CENTER STUDY",
+      "decision": "added",
+      "registryId": "abstract-wos-000318523600064"
+    },
+    {
+      "webOfScienceId": "WOS:000318523600077",
+      "title": "PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES CORRELATE WITH CHRONIC GRAFT-VERSUS-HOST-DISEASE AND RELAPSE-RELATED MORTALITY IN PAEDIATRIC PATIENTS AFTER CORD BLOOD TRANSPLANTATION",
+      "decision": "enriched",
+      "registryId": "abstract-7282ef24b54781f1"
+    },
+    {
+      "webOfScienceId": "WOS:000318523600225",
+      "title": "THE NOVEL HLA-B*44:02:27 ALLELE, IDENTIFIED BY SEQUENCING-BASED TYPING OF A CANDIDATE STEM-CELL DONOR",
+      "decision": "added",
+      "registryId": "abstract-wos-000318523600225"
+    },
+    {
+      "webOfScienceId": "WOS:000318523600226",
+      "title": "THE NOVEL HLA-A*24:215 ALLELE, IDENTIFIED BY SEQUENCING-BASED TYPING OF A HSCT PATIENT AND DONOR",
+      "decision": "added",
+      "registryId": "abstract-wos-000318523600226"
+    },
+    {
+      "webOfScienceId": "WOS:000318523600237",
+      "title": "THE NOVEL HLA-A*29:46 ALLELE, IDENTIFIED BY SEQUENCING-BASED TYPING OF A CORD BLOOD DONOR",
+      "decision": "added",
+      "registryId": "abstract-wos-000318523600237"
+    },
+    {
+      "webOfScienceId": "WOS:000319025200369",
+      "title": "Treatment of steroid-resistant grade II to IV acute Gvhd by infusion of mesenchymal stromal cells expanded with platelet lysate: a phase I/II study",
+      "decision": "added",
+      "registryId": "abstract-wos-000319025200369"
+    },
+    {
+      "webOfScienceId": "WOS:000319025200200",
+      "title": "Predicted indirectly recognizable HLA epitopes correlate with chronic graft-versus-host disease and relapse-related mortality in paediatric patients after cord blood transplantation",
+      "decision": "enriched",
+      "registryId": "abstract-72d1ece5125af8bd"
+    },
+    {
+      "webOfScienceId": "WOS:000319025200201",
+      "title": "Risk of alloreactivity after single HLA-mismatched haematopoietic stem cell transplantation increases with increasing numbers of predicted indirectly recognized HLA epitopes",
+      "decision": "added",
+      "registryId": "abstract-wos-000319025200201"
+    },
+    {
+      "webOfScienceId": "WOS:000314441900064",
+      "title": "Treatment of Steroid Resistant Grade II to IV Acute GVHD by Infusion of Mesenchymal Stroma Cells Expanded with Platelet Lysate - a Phase I/II Study",
+      "decision": "enriched",
+      "registryId": "abstract-3cd81207477e5218"
+    },
+    {
+      "webOfScienceId": "WOS:000326060900051",
+      "title": "PREDICTED INDIRECTLY RECOGNIZABLE HLA EPITOPES CORRELATE WITH CHRONIC GRAFT-VERSUS-HOST-DISEASE AND RELAPSE-RELATED MORTALITY IN PEDIATRIC PATIENTS AFTER CORD BLOOD TRANSPLANTATION",
+      "decision": "enriched",
+      "registryId": "abstract-ef9923b4abd2fae0"
+    },
+    {
+      "webOfScienceId": "WOS:000313838900223",
+      "title": "Treatment of Steroid Resistant Grade II to IV Acute Gvhd by Infusion of Mesenchymal Stroma Cells Expanded with Human Plasma and Platelet Lysate - a Phase I/II Study",
+      "decision": "enriched",
+      "registryId": "abstract-9d068773938a82f3"
+    },
+    {
+      "webOfScienceId": "WOS:000303499800115",
+      "title": "PREDICTING SUCCES IN MATCHED UNRELATED HEMATOPOIETIC STEM CELL DONOR SEARCH",
+      "decision": "added",
+      "registryId": "abstract-wos-000303499800115"
+    },
+    {
+      "webOfScienceId": "WOS:000303499800133",
+      "title": "THE DELETERIOUS EFFECT OF GENDER MISMATCHING DEPENDS ON GRAFT SOURCE CHARACTERISTICS",
+      "decision": "added",
+      "registryId": "abstract-wos-000303499800133"
+    },
+    {
+      "webOfScienceId": "WOS:000306994301393",
+      "title": "The Human Leukocyte Antigen DQ B1*02 is More Frequent in Patients With Tissue-Transglutaminase Antibody Levels ≥100 U/mL",
+      "decision": "added",
+      "registryId": "abstract-wos-000306994301393"
+    },
+    {
+      "webOfScienceId": "WOS:000306994301378",
+      "title": "The Human Leukocyte Antigen DQ 2.2 and Celiac Disease",
+      "decision": "added",
+      "registryId": "abstract-wos-000306994301378"
+    },
+    {
+      "webOfScienceId": "WOS:000299597104330",
+      "title": "Identification of New Hematopoietic Minor Histocompatibility Antigen UTA2-1; Ready for Application in Antitumor Immunotherapy",
+      "decision": "enriched",
+      "registryId": "abstract-2d1cbee8e9079b41"
+    },
+    {
+      "webOfScienceId": "WOS:000289249000032",
+      "title": "Gene therapy with IGG-HY fusion proteins to reduce male-specific T-cell reactivity in-vitro",
+      "decision": "added",
+      "registryId": "abstract-wos-000289249000032"
+    },
+    {
+      "webOfScienceId": "WOS:000276659100061",
+      "title": "Accumulation of female HY-specific CD8-positive T cells in male skin during acute graft-versus-host disease",
+      "decision": "added",
+      "registryId": "abstract-wos-000276659100061"
+    },
+    {
+      "webOfScienceId": "WOS:000277611300111",
+      "title": "Accumulation of female hy-specific CD8 positive T-cells in male skin during acute graft-versus-host disease",
+      "decision": "added",
+      "registryId": "abstract-wos-000277611300111"
+    },
+    {
+      "webOfScienceId": "WOS:000272725801376",
+      "title": "Poor-Risk Acute Leukemia Patients with An EBMT Low-Risk Score and An 8/8 Matched Unrelated Donor Show Excellent Survival After Hematopoietic Stem Cell Transplantation.",
+      "decision": "enriched",
+      "registryId": "abstract-2e9d4050079fe570"
+    },
+    {
+      "webOfScienceId": "WOS:000266032200008",
+      "title": "Steric hindrance and fast dissociation explain the lack of immunogenicity of the minor histocompatibility HA-1arg NULL allele",
+      "decision": "added",
+      "registryId": "abstract-wos-000266032200008"
+    },
+    {
+      "webOfScienceId": "WOS:000266032200250",
+      "title": "A sequence-based typing methodology for minor histocompatibility antigen HA-1",
+      "decision": "added",
+      "registryId": "abstract-wos-000266032200250"
+    },
+    {
+      "webOfScienceId": "WOS:000258444500050",
+      "title": "Are cytotoxic T cells and T regulator cells specific for the same minor H antigen HA-1 using the same or a different TCR for performing their unique function?",
+      "decision": "added",
+      "registryId": "abstract-wos-000258444500050"
+    },
+    {
+      "webOfScienceId": "WOS:000258444500051",
+      "title": "Strong atomic HLA-peptide interactions explain the immunogenicity of the HA-1 minor H antigen",
+      "decision": "added",
+      "registryId": "abstract-wos-000258444500051"
+    },
+    {
+      "webOfScienceId": "WOS:000245985000006",
+      "title": "Phenotype frequencies of autosomal minor histocompatibility antigens display significant differences among ethnic populations",
+      "decision": "added",
+      "registryId": "abstract-wos-000245985000006"
+    },
+    {
+      "webOfScienceId": "WOS:000233542700564",
+      "title": "A uniform methodology for minor histocompatibility antigen typing",
+      "decision": "added",
+      "registryId": "abstract-wos-000233542700564"
+    },
+    {
+      "webOfScienceId": "WOS:000233542700565",
+      "title": "Identification of new immunotherapeutic candidates encoded by the minor histocompatibility antigen HA-1 gene",
+      "decision": "added",
+      "registryId": "abstract-wos-000233542700565"
+    },
+    {
+      "webOfScienceId": "WOS:000183208800043",
+      "title": "In vitro priming of HLA-identical T cells with allogeneic dendritic cells allows identification of an MHC class II-restricted minor Histocompatibility Ag peptide encoded by DBY",
+      "decision": "added",
+      "registryId": "abstract-wos-000183208800043"
+    },
+    {
+      "webOfScienceId": "WOS:000176311300017",
+      "title": "Identification and initial characterization of the human minor histocompatibility antigen HA-3",
+      "decision": "added",
+      "registryId": "abstract-wos-000176311300017"
+    },
+    {
+      "webOfScienceId": "WOS:000176311300116",
+      "title": "Complete anti-H-Y immune response clarifies poorer graft outcome of sex-mismatched transplants",
+      "decision": "added",
+      "registryId": "abstract-wos-000176311300116"
+    },
+    {
+      "webOfScienceId": "WOS:000176311300403",
+      "title": "HLA-B7 can present a variety of minor histocompatibility antigens within a single patient",
+      "decision": "added",
+      "registryId": "abstract-wos-000176311300403"
+    },
+    {
+      "webOfScienceId": "WOS:000172134103096",
+      "title": "The DBY gene codes for an HLA-DQ5 restricted human male specific minor histocompatibility antigen involved in graft versus host disease.",
+      "decision": "added",
+      "registryId": "abstract-wos-000172134103096"
+    }
+  ],
+  "profileRowsRecoveredFromExport": 3,
+  "profileUnionCount": 246
+}

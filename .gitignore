@@ -3,3 +3,4 @@ research/conference-abstracts/sources/
 research/conference-abstracts/crossref-eric-candidates.json
 research/conference-abstracts/__pycache__/
 research/conference-abstracts/conference-abstracts-draft.json
+research/conference-abstracts/*-draft.json

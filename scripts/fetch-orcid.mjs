@@ -5,6 +5,7 @@ import {mergeConferenceAbstracts, loadConferenceRegistry, conferenceAudit} from 
 const config = JSON.parse(
   await fs.readFile(new URL("../publication-config.json", import.meta.url), "utf8")
 );
+const conferenceRegistry = await loadConferenceRegistry();
 
 const ORCID = config.orcid;
 const CLIENT_ID = process.env.ORCID_CLIENT_ID;
@@ -339,6 +340,12 @@ function classifyConferenceAbstract(record) {
   const doi = normalizeDoi(record.doi || "");
   const strong = [];
   const review = [];
+  if (record.type === 'conference-abstract') strong.push('explicit-orcid-conference-abstract-work-type');
+  if (record.type === 'conference-output' && conferenceRegistry.records.some(r =>
+      (record.doi && r.doi === record.doi) ||
+      (record.title === r.title && record.year === r.year))) {
+    strong.push('curated-conference-abstract-with-orcid-conference-output-type');
+  }
 
   const supplementPages = /\bS\d{2,}(?:\s*[-–]\s*S?\d+)?\b/i.test(citation);
   const likelyAbstractVenue =
@@ -622,7 +629,7 @@ for (let index = 0; index < groups.length; index += 1) {
 }
 
 const eligibleWorkTypeRecords = records.filter(
-  (record) => isScientificPublicationWorkType(record.type)
+  (record) => isScientificPublicationWorkType(record.type) || ['conference-abstract', 'conference-output'].includes(record.type)
 );
 const publicationRecords = eligibleWorkTypeRecords.filter(
   isVerifiedScientificPublication
@@ -631,7 +638,7 @@ const publicationRecords = eligibleWorkTypeRecords.filter(
 const excludedPublicationWorkTypes = [...new Set(
   records
     .map((record) => String(record.type || "").trim().toLowerCase())
-    .filter((type) => type && !isScientificPublicationWorkType(type))
+    .filter((type) => type && !isScientificPublicationWorkType(type) && !['conference-abstract','conference-output'].includes(type))
 )].sort();
 
 const excludedRecordCounts = {
@@ -721,6 +728,7 @@ const publicationOutput = mergeConferenceAbstracts({
   generatedAt,
   source: "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata",
   includedWorkTypes: [...SCIENTIFIC_PUBLICATION_WORK_TYPES].sort(),
+  conferenceAbstractWorkTypes: ['conference-abstract', 'conference-output'],
   excludedWorkTypes: excludedPublicationWorkTypes,
   excludedRecordCounts,
   count: deduplicated.length,
@@ -729,7 +737,7 @@ const publicationOutput = mergeConferenceAbstracts({
   conferenceAbstracts: conferenceAbstractRecords,
   abstractReviewCount: abstractReviewRecords.length,
   abstractsNeedingReview: abstractReviewRecords
-}, await loadConferenceRegistry());
+}, conferenceRegistry);
 
 const activitiesOutput = {
   person: "Eric Spierings",
