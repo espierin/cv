@@ -160,15 +160,38 @@ async function getToken() {
   return (await response.json()).access_token;
 }
 
-async function orcidGet(path, token) {
-  const response = await fetch(`https://pub.orcid.org/v3.0/${ORCID}/${path}`, {
-    headers: {
-      Accept: "application/vnd.orcid+json",
-      Authorization: `Bearer ${token}`
+async function orcidGet(path, token, retries = 4) {
+  let lastError;
+
+  for (let attempt = 1; attempt <= retries; attempt += 1) {
+    try {
+      const response = await fetch(`https://pub.orcid.org/v3.0/${ORCID}/${path}`, {
+        headers: {
+          Accept: "application/vnd.orcid+json",
+          Authorization: `Bearer ${token}`
+        }
+      });
+
+      if (response.ok) return response.json();
+      if (response.status === 429 || response.status >= 500) {
+        lastError = new Error(`ORCID request failed for ${path}: ${response.status}`);
+        if (attempt < retries) {
+          await sleep(750 * attempt);
+          continue;
+        }
+      } else {
+        throw new Error(`ORCID request failed for ${path}: ${response.status}`);
+      }
+    } catch (error) {
+      lastError = error;
+      if (attempt < retries) {
+        await sleep(750 * attempt);
+        continue;
+      }
     }
-  });
-  if (!response.ok) throw new Error(`ORCID request failed for ${path}: ${response.status}`);
-  return response.json();
+  }
+
+  throw lastError || new Error(`ORCID request failed for ${path}`);
 }
 
 async function crossrefMetadata(doi) {
