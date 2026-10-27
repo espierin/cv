@@ -308,6 +308,22 @@ function isScientificPublicationWorkType(type = "") {
   return SCIENTIFIC_PUBLICATION_WORK_TYPES.has(String(type).trim().toLowerCase());
 }
 
+function isConferenceAbstract(record) {
+  return /\\bS\\d{2,}(?:\\s*[-–]\\s*S?\\d+)?\\b/i.test(
+    record.volumeIssuePages || ""
+  );
+}
+
+function isVerifiedScientificPublication(record) {
+  return (
+    isScientificPublicationWorkType(record.type) &&
+    Array.isArray(record.selfAuthorPositions) &&
+    record.selfAuthorPositions.length > 0 &&
+    !isConferenceAbstract(record) &&
+    !/^(erratum|corrigendum|retraction)\\b/i.test(record.title || "")
+  );
+}
+
 function isLectureWorkType(type = "") {
   return LECTURE_WORK_TYPES.has(String(type).trim().toLowerCase());
 }
@@ -534,8 +550,11 @@ for (let index = 0; index < groups.length; index += 1) {
   }
 }
 
-const publicationRecords = records.filter(
+const eligibleWorkTypeRecords = records.filter(
   (record) => isScientificPublicationWorkType(record.type)
+);
+const publicationRecords = eligibleWorkTypeRecords.filter(
+  isVerifiedScientificPublication
 );
 
 const excludedPublicationWorkTypes = [...new Set(
@@ -543,6 +562,23 @@ const excludedPublicationWorkTypes = [...new Set(
     .map((record) => String(record.type || "").trim().toLowerCase())
     .filter((type) => type && !isScientificPublicationWorkType(type))
 )].sort();
+
+const excludedRecordCounts = {
+  nonScientificWorkType: records.length - eligibleWorkTypeRecords.length,
+  authorshipNotVerified: eligibleWorkTypeRecords.filter(
+    (record) => !Array.isArray(record.selfAuthorPositions) || record.selfAuthorPositions.length === 0
+  ).length,
+  conferenceAbstract: eligibleWorkTypeRecords.filter(
+    (record) => Array.isArray(record.selfAuthorPositions) &&
+      record.selfAuthorPositions.length > 0 &&
+      isConferenceAbstract(record)
+  ).length,
+  erratumOrRetraction: eligibleWorkTypeRecords.filter(
+    (record) => Array.isArray(record.selfAuthorPositions) &&
+      record.selfAuthorPositions.length > 0 &&
+      /^(erratum|corrigendum|retraction)\\b/i.test(record.title || "")
+  ).length
+};
 
 const lectureRecords = records
   .filter((record) => isLectureWorkType(record.type))
@@ -570,15 +606,20 @@ const lectureRecords = records
   }));
 
 const deduplicated = [];
-const seen = new Set();
+const seenDois = new Set();
+const seenTitles = new Set();
 
 for (const record of publicationRecords) {
-  const key = record.doi
-    ? `doi:${record.doi}`
-    : `title:${normalizeTitle(record.title)}`;
+  const doiKey = record.doi ? normalizeDoi(record.doi) : "";
+  const titleKey = normalizeTitle(record.title);
 
-  if (seen.has(key)) continue;
-  seen.add(key);
+  if (
+    (doiKey && seenDois.has(doiKey)) ||
+    (titleKey && seenTitles.has(titleKey))
+  ) continue;
+
+  if (doiKey) seenDois.add(doiKey);
+  if (titleKey) seenTitles.add(titleKey);
   deduplicated.push(record);
 }
 
@@ -593,9 +634,10 @@ const generatedAt = new Date().toISOString();
 const publicationOutput = {
   orcid: ORCID,
   generatedAt,
-  source: "ORCID works filtered to scholarly publications (journal articles, books and book chapters), enriched with Crossref, Europe PMC and OpenAlex metadata",
+  source: "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts and non-publication work types excluded; enriched with Crossref, Europe PMC and OpenAlex metadata",
   includedWorkTypes: [...SCIENTIFIC_PUBLICATION_WORK_TYPES].sort(),
   excludedWorkTypes: excludedPublicationWorkTypes,
+  excludedRecordCounts,
   count: deduplicated.length,
   publications: deduplicated
 };
