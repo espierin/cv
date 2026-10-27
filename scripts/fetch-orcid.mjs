@@ -295,6 +295,19 @@ const LECTURE_WORK_TYPES = new Set([
   "lecture-speech"
 ]);
 
+const SCIENTIFIC_PUBLICATION_WORK_TYPES = new Set([
+  "journal-article",
+  "book",
+  "book-chapter",
+  "edited-book",
+  "encyclopedia-entry",
+  "scholarly-edition"
+]);
+
+function isScientificPublicationWorkType(type = "") {
+  return SCIENTIFIC_PUBLICATION_WORK_TYPES.has(String(type).trim().toLowerCase());
+}
+
 function isLectureWorkType(type = "") {
   return LECTURE_WORK_TYPES.has(String(type).trim().toLowerCase());
 }
@@ -522,8 +535,14 @@ for (let index = 0; index < groups.length; index += 1) {
 }
 
 const publicationRecords = records.filter(
-  (record) => !isLectureWorkType(record.type)
+  (record) => isScientificPublicationWorkType(record.type)
 );
+
+const excludedPublicationWorkTypes = [...new Set(
+  records
+    .map((record) => String(record.type || "").trim().toLowerCase())
+    .filter((type) => type && !isScientificPublicationWorkType(type))
+)].sort();
 
 const lectureRecords = records
   .filter((record) => isLectureWorkType(record.type))
@@ -574,8 +593,9 @@ const generatedAt = new Date().toISOString();
 const publicationOutput = {
   orcid: ORCID,
   generatedAt,
-  source: "ORCID Public API v3.0, enriched with Crossref, Europe PMC and OpenAlex metadata",
-  excludedWorkTypes: [...LECTURE_WORK_TYPES],
+  source: "ORCID works filtered to scholarly publications (journal articles, books and book chapters), enriched with Crossref, Europe PMC and OpenAlex metadata",
+  includedWorkTypes: [...SCIENTIFIC_PUBLICATION_WORK_TYPES].sort(),
+  excludedWorkTypes: excludedPublicationWorkTypes,
   count: deduplicated.length,
   publications: deduplicated
 };
