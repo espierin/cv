@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-28T10:38:36.085Z",
+  "generatedAt": "2026-10-28T12:13:39.963Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "includedWorkTypes": [
     "book",
@@ -34967,7 +34967,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -35008,6 +35007,7 @@
       "relatedPublications": [],
       "putCode": 231445746,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -35201,7 +35201,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -35242,6 +35241,7 @@
       "relatedPublications": [],
       "putCode": 231445796,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -35687,7 +35687,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -35728,6 +35727,7 @@
       "relatedPublications": [],
       "putCode": 231445886,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -35764,7 +35764,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -35805,6 +35804,7 @@
       "relatedPublications": [],
       "putCode": 231445880,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -36241,7 +36241,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -36287,6 +36286,7 @@
       "relatedPublications": [],
       "putCode": 231445812,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -36332,7 +36332,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -36371,6 +36370,7 @@
       "relatedPublications": [],
       "putCode": 231446052,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -36428,7 +36428,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -36469,6 +36468,7 @@
       "relatedPublications": [],
       "putCode": 231445892,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -36601,7 +36601,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -36640,6 +36639,7 @@
       "relatedPublications": [],
       "putCode": 231445887,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -37150,7 +37150,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -37189,6 +37188,7 @@
       "relatedPublications": [],
       "putCode": 231446072,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -37222,7 +37222,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -37261,6 +37260,7 @@
       "relatedPublications": [],
       "putCode": 231446070,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -37419,7 +37419,6 @@
       "meeting": "64th Annual Meeting and Exposition of the American-Society-of-Hematology (ASH)",
       "abstractNumber": null,
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -37440,7 +37439,8 @@
       },
       "webOfScienceId": "WOS:000893223200368",
       "relatedPublications": [],
-      "orcidWorkType": "conference-output"
+      "orcidWorkType": "conference-output",
+      "authorSummary": null
     },
     {
       "title": "Single-cell sequence analyses of circulating T follicular helper cells during antibody-mediated rejection",
@@ -38006,7 +38006,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -38045,6 +38044,7 @@
       "relatedPublications": [],
       "putCode": 231446076,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -38565,7 +38565,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -38604,6 +38603,7 @@
       "relatedPublications": [],
       "putCode": 231446119,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -38652,7 +38652,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -38693,6 +38692,7 @@
       "relatedPublications": [],
       "putCode": 231446116,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -38822,7 +38822,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -38861,6 +38860,7 @@
       "relatedPublications": [],
       "putCode": 231446112,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -38909,7 +38909,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -38950,6 +38949,7 @@
       "relatedPublications": [],
       "putCode": 231446110,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -38995,7 +38995,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -39036,6 +39035,7 @@
       "relatedPublications": [],
       "putCode": 231446106,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -39075,7 +39075,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -39120,6 +39119,7 @@
       "relatedPublications": [],
       "putCode": 231446130,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -39158,7 +39158,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -39199,6 +39198,7 @@
       "relatedPublications": [],
       "putCode": 231446129,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -39259,7 +39259,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -39300,6 +39299,7 @@
       "relatedPublications": [],
       "putCode": 231446128,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -39339,7 +39339,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -39380,6 +39379,7 @@
       "relatedPublications": [],
       "putCode": 231446127,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -39416,7 +39416,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -39457,6 +39456,7 @@
       "relatedPublications": [],
       "putCode": 231446191,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -39496,7 +39496,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -39535,6 +39534,7 @@
       "relatedPublications": [],
       "putCode": 231446190,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -39771,7 +39771,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -39812,6 +39811,7 @@
       "relatedPublications": [],
       "putCode": 231446135,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -39854,7 +39854,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -39893,6 +39892,7 @@
       "relatedPublications": [],
       "putCode": 231446133,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -39929,7 +39929,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -39970,6 +39969,7 @@
       "relatedPublications": [],
       "putCode": 231446132,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -40012,7 +40012,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -40053,6 +40052,7 @@
       "relatedPublications": [],
       "putCode": 231446281,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -40251,7 +40251,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -40292,6 +40291,7 @@
       "relatedPublications": [],
       "putCode": 231446244,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -40445,7 +40445,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -40486,6 +40485,7 @@
       "relatedPublications": [],
       "putCode": 231446243,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -40534,7 +40534,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -40575,6 +40574,7 @@
       "relatedPublications": [],
       "putCode": 231446240,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -41117,7 +41117,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -41159,6 +41158,7 @@
       "collectionDoi": "10.1111/tan.13034",
       "putCode": 231446225,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -42143,7 +42143,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -42184,6 +42183,7 @@
       "relatedPublications": [],
       "putCode": 231446202,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -42280,7 +42280,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -42319,6 +42318,7 @@
       "relatedPublications": [],
       "putCode": 231446198,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -42364,7 +42364,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -42405,6 +42404,7 @@
       "relatedPublications": [],
       "putCode": 231446200,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -42739,7 +42739,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -42778,6 +42777,7 @@
       "relatedPublications": [],
       "putCode": 231446383,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -42817,7 +42817,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -42856,6 +42855,7 @@
       "relatedPublications": [],
       "putCode": 231446337,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -42892,7 +42892,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -42933,6 +42932,7 @@
       "relatedPublications": [],
       "putCode": 231446381,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -42978,7 +42978,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -43017,6 +43016,7 @@
       "relatedPublications": [],
       "putCode": 231446327,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -43080,7 +43080,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -43119,6 +43118,7 @@
       "relatedPublications": [],
       "putCode": 231446318,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -43176,7 +43176,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -43217,6 +43216,7 @@
       "relatedPublications": [],
       "putCode": 231446315,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -43367,7 +43367,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -43406,6 +43405,7 @@
       "relatedPublications": [],
       "putCode": 231446313,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -43901,7 +43901,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -43940,6 +43939,7 @@
       "relatedPublications": [],
       "putCode": 231446414,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -43988,7 +43988,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -44027,6 +44026,7 @@
       "relatedPublications": [],
       "putCode": 231446412,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -44066,7 +44066,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -44107,6 +44106,7 @@
       "relatedPublications": [],
       "putCode": 231446410,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -44323,7 +44323,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -44364,6 +44363,7 @@
       "relatedPublications": [],
       "putCode": 231446409,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -44926,7 +44926,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -44965,6 +44964,7 @@
       "relatedPublications": [],
       "putCode": 231446400,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -45028,7 +45028,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -45067,6 +45066,7 @@
       "relatedPublications": [],
       "putCode": 231446399,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -45283,7 +45283,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -45324,6 +45323,7 @@
       "relatedPublications": [],
       "putCode": 231446391,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -45372,7 +45372,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -45413,6 +45412,7 @@
       "relatedPublications": [],
       "putCode": 231446475,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -45745,7 +45745,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -45786,6 +45785,7 @@
       "relatedPublications": [],
       "putCode": 231446469,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -45831,7 +45831,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -45870,6 +45869,7 @@
       "relatedPublications": [],
       "putCode": 231446438,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -45915,7 +45915,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -45956,6 +45955,7 @@
       "relatedPublications": [],
       "putCode": 231446440,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -45995,7 +45995,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46036,6 +46035,7 @@
       "relatedPublications": [],
       "putCode": 231446433,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -46075,7 +46075,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46116,6 +46115,7 @@
       "relatedPublications": [],
       "putCode": 231446429,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -46155,7 +46155,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46196,6 +46195,7 @@
       "relatedPublications": [],
       "putCode": 231446427,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -46477,7 +46477,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46518,6 +46517,7 @@
       "relatedPublications": [],
       "putCode": 231446517,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -46560,7 +46560,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46601,6 +46600,7 @@
       "relatedPublications": [],
       "putCode": 231446511,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -46643,7 +46643,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46684,6 +46683,7 @@
       "relatedPublications": [],
       "putCode": 231446504,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -46720,7 +46720,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46761,6 +46760,7 @@
       "relatedPublications": [],
       "putCode": 231446494,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -46966,7 +46966,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -47005,6 +47004,7 @@
       "relatedPublications": [],
       "putCode": 231446534,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -47216,7 +47216,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -47255,6 +47254,7 @@
       "relatedPublications": [],
       "putCode": 231446542,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -47315,7 +47315,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -47356,6 +47355,7 @@
       "relatedPublications": [],
       "putCode": 231446550,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -47478,7 +47478,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -47519,6 +47518,7 @@
       "relatedPublications": [],
       "putCode": 231446589,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -47749,7 +47749,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -47790,6 +47789,7 @@
       "relatedPublications": [],
       "putCode": 231446570,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -47835,7 +47835,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -47874,6 +47873,7 @@
       "relatedPublications": [],
       "putCode": 231446637,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -47934,7 +47934,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -47973,6 +47972,7 @@
       "relatedPublications": [],
       "putCode": 231446632,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -48102,7 +48102,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -48141,6 +48140,7 @@
       "relatedPublications": [],
       "putCode": 231446651,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -48183,7 +48183,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -48222,6 +48221,7 @@
       "relatedPublications": [],
       "putCode": 231446668,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -48264,7 +48264,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -48303,6 +48302,7 @@
       "relatedPublications": [],
       "putCode": 231446657,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -48363,7 +48363,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -48402,6 +48401,7 @@
       "relatedPublications": [],
       "putCode": 231446675,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -48444,7 +48444,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -48483,6 +48482,7 @@
       "relatedPublications": [],
       "putCode": 231446697,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -48522,7 +48522,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -48561,6 +48560,7 @@
       "relatedPublications": [],
       "putCode": 231446692,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -48615,7 +48615,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -48654,6 +48653,7 @@
       "relatedPublications": [],
       "putCode": 231446683,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
@@ -48705,7 +48705,6 @@
         }
       ],
       "authorsComplete": true,
-      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -48744,6 +48743,7 @@
       "relatedPublications": [],
       "putCode": 231446703,
       "orcidWorkType": "conference-output",
+      "authorSummary": null,
       "abstractClassification": {
         "decision": "exclude",
         "reasons": [
