@@ -1,0 +1,236 @@
+{
+  "orcid": "0000-0001-9441-1019",
+  "reviewedAt": "2026-10-28",
+  "records": [
+    {
+      "type": "employment",
+      "organization": "University Medical Center Utrecht: Utrecht, Utrecht, NL",
+      "description": "2022 to present | Associate Professor; Medical Immunologist and HLA Laboratory Director (Central Diagnostics Laboratory / Center for Translational Immunology)"
+    },
+    {
+      "type": "employment",
+      "organization": "Matchis Foundation: Leiden, NL",
+      "description": "2020 to present | Medical Immunologist and Head of Expertise Center (Expertise Center (part-time secondment))"
+    },
+    {
+      "type": "employment",
+      "organization": "University Medical Center Utrecht: Utrecht, Utrecht, NL",
+      "description": "2008-07-01 to 2022 | Assistant Professor (Central Diagnostics Laboratory / Center for Translational Immunology)"
+    },
+    {
+      "type": "employment",
+      "organization": "Leiden University Medical Center: Leiden, South Holland, NL",
+      "description": "2004 to 2008 | Senior Researcher (Immunohematology and Blood Transfusion)"
+    },
+    {
+      "type": "employment",
+      "organization": "Leiden University Medical Center: Leiden, South Holland, NL",
+      "description": "2000 to 2004 | Postdoctoral Researcher (Immunohematology and Blood Transfusion)"
+    },
+    {
+      "type": "employment",
+      "organization": "Leiden University Medical Center: Leiden, South Holland, NL",
+      "description": "1995 to 2000 | PhD Researcher"
+    },
+    {
+      "type": "qualification",
+      "organization": "University Medical Center Utrecht: Utrecht, Utrecht, NL",
+      "description": "2025 | University Teaching Qualification (BKO), jointly awarded with Utrecht University"
+    },
+    {
+      "type": "qualification",
+      "organization": "University Medical Center Utrecht: Utrecht, Utrecht, NL",
+      "description": "2024 | Associate Professor Talent Program"
+    },
+    {
+      "type": "qualification",
+      "organization": "College of Medical Immunologists (CMI): Rotterdam, NL",
+      "description": "2011 to 2015 | Medical Immunologist (Transplantation Immunology; training at University Medical Center Utrecht)"
+    },
+    {
+      "type": "qualification",
+      "organization": "University Medical Center Utrecht: Utrecht, Utrecht, NL",
+      "description": "2010 | Academic Leadership Development Program"
+    },
+    {
+      "type": "qualification",
+      "organization": "SMBWO: Leiden, NL",
+      "description": "2006 | SMBWO registration in Immunology (Immunology; training at Leiden University Medical Center)"
+    },
+    {
+      "type": "education",
+      "organization": "Leiden University: Leiden, South Holland, NL",
+      "description": "1995 to 2000-06-07 | PhD in Immunology: Immunopathogenesis of leprosy neuritis"
+    },
+    {
+      "type": "education",
+      "organization": "Leiden University: Leiden, South Holland, NL",
+      "description": "1989 to 1994 | Master's degree in Biomedical Sciences"
+    },
+    {
+      "type": "editorial service",
+      "organization": "HLA",
+      "description": "Editorial Board Member"
+    },
+    {
+      "type": "editorial service",
+      "organization": "Frontiers in Immunology",
+      "description": "Associate Editor, Alloimmunity and Transplantation"
+    },
+    {
+      "type": "editorial service",
+      "organization": "Cellular Immunology",
+      "description": "Editorial Board Member"
+    },
+    {
+      "type": "service",
+      "organization": "European Federation for Immunogenetics: Leiden, NL",
+      "description": "2024 to present | Scientific Committee Member"
+    },
+    {
+      "type": "service",
+      "organization": "College of Medical Immunologists (CMI): Rotterdam, NL",
+      "description": "2024 to present | Deputy Training Coordinator"
+    },
+    {
+      "type": "service",
+      "organization": "European Federation for Immunogenetics: Leiden, NL",
+      "description": "2018 to present | Founding Chair, Bioinformatics and IT Committee"
+    },
+    {
+      "type": "service",
+      "organization": "Data Standards in HLA (DaSH) working group: Minneapolis, US",
+      "description": "2018 to present | Organizing Member"
+    },
+    {
+      "type": "service",
+      "organization": "International HLA and Immunogenetics Workshop Council: Utrecht, NL",
+      "description": "2017 to present | Councillor"
+    },
+    {
+      "type": "service",
+      "organization": "HOVON: Rotterdam, NL",
+      "description": "2013 to present | Founding Member (HLA subgroup of the Stem Cell Transplantation working group)"
+    },
+    {
+      "type": "service",
+      "organization": "HOVON: Rotterdam, NL",
+      "description": "2012 to present | Working Group Member (Stem Cell Transplantation working group)"
+    },
+    {
+      "type": "membership",
+      "organization": "European Federation For Immunogenetics: Leiden, NL",
+      "description": "2008 to present"
+    },
+    {
+      "type": "service",
+      "organization": "Dutch Transplantation Society: The Hague, NL",
+      "description": "2008 to present | Working Group Member (HLA Working Group Netherlands (HLA-WN))"
+    },
+    {
+      "type": "service",
+      "organization": "International HLA and Immunogenetics Workshop Council: Utrecht, NL",
+      "description": "2022 to 2026 | Co-president"
+    },
+    {
+      "type": "service",
+      "organization": "Data Standards in HLA (DaSH) working group: Minneapolis, US",
+      "description": "2025 to 2025 | Co-organizer (18th Hackathon on Data Standards in HLA (DaSH), Leiden, Netherlands)"
+    },
+    {
+      "type": "invited position",
+      "organization": "Universidade Federal do Paraná: Curitiba, Paraná, BR",
+      "description": "2018 to 2025 | Visiting Professor, Fundamentals of Immunology and Neglected Diseases"
+    },
+    {
+      "type": "service",
+      "organization": "Data Standards in HLA (DaSH) working group: Minneapolis, US",
+      "description": "2024 to 2024 | Co-organizer (15th Hackathon on Data Standards in HLA (DaSH), Utrecht, Netherlands)"
+    },
+    {
+      "type": "service",
+      "organization": "European Federation for Immunogenetics: Leiden, NL",
+      "description": "2022 to 2022 | Co-organizer (35th European Immunogenetics and Histocompatibility Conference, Amsterdam)"
+    },
+    {
+      "type": "service",
+      "organization": "Foundation 18th International HLA and Immunogenetics Workshop: Utrecht, NL",
+      "description": "2017 to 2022 | Founder, President and Treasurer"
+    },
+    {
+      "type": "service",
+      "organization": "Foundation 18th International HLA and Immunogenetics Workshop: Utrecht, NL",
+      "description": "2017 to 2022 | Co-organizer (18th International Histocompatibility & Immunogenetics Workshop)"
+    },
+    {
+      "type": "service",
+      "organization": "Foundation 18th International HLA and Immunogenetics Workshop: Utrecht, NL",
+      "description": "2021 to 2021 | Co-organizer (First International Interim Symposium of the International Histocompatibility & Immunogenetics Workshop (online))"
+    },
+    {
+      "type": "distinction",
+      "organization": "Dutch Society for Immunology: Amsterdam, NL",
+      "description": "2017 | Medical Immunology Science Award"
+    },
+    {
+      "type": "service",
+      "organization": "HOVON: Rotterdam, NL",
+      "description": "2013 to 2017 | Secretary (HLA subgroup of the Stem Cell Transplantation working group)"
+    },
+    {
+      "type": "distinction",
+      "organization": "Dutch Transplantation Society: The Hague, NL",
+      "description": "2016 | Novartis Award for Best Scientific Publication in 2015"
+    },
+    {
+      "type": "service",
+      "organization": "University Medical Center Utrecht: Utrecht, Utrecht, NL",
+      "description": "2015 to 2015 | Co-organizer (Mini-symposium on donor selection in hematopoietic stem cell transplantation: HLA and beyond)"
+    },
+    {
+      "type": "distinction",
+      "organization": "University Medical Center Utrecht: Utrecht, Utrecht, NL",
+      "description": "2013 | First Prize, Ureka Mega Challenge"
+    },
+    {
+      "type": "service",
+      "organization": "European Federation for Immunogenetics: Leiden, NL",
+      "description": "2013 to 2013 | Co-organizer (27th European Immunogenetics and Histocompatibility Conference, Maastricht)"
+    },
+    {
+      "type": "distinction",
+      "organization": "European Federation for Immunogenetics: Leiden, NL",
+      "description": "2009 | Best Abstract Award, EFI Conference, Ulm"
+    },
+    {
+      "type": "service",
+      "organization": "International HLA and Immunogenetics Workshop Council: Utrecht, NL",
+      "description": "2008 to 2008 | Co-organizer (Second Minor Histocompatibility Component of the 15th International Histocompatibility and Immunogenetics Workshop, Búzios, Brazil)"
+    },
+    {
+      "type": "distinction",
+      "organization": "European Federation for Immunogenetics: Leiden, NL",
+      "description": "2007 | Best Abstract Award, EFI Conference, Barcelona"
+    },
+    {
+      "type": "service",
+      "organization": "Leiden University Medical Center: Leiden, South Holland, NL",
+      "description": "2006 to 2006 | Co-organizer (30th Dageraad Symposium on Vaccination, IJsselmeer, Netherlands)"
+    },
+    {
+      "type": "service",
+      "organization": "International HLA and Immunogenetics Workshop Council: Utrecht, NL",
+      "description": "2005 to 2005 | Co-organizer (First Minor Histocompatibility Component of the 14th International Histocompatibility and Immunogenetics Workshop, Melbourne, Australia)"
+    },
+    {
+      "type": "distinction",
+      "organization": "13th International Histocompatibility Workshop Conference: Seattle, US",
+      "description": "2002 | Best Abstract Award, Seattle"
+    },
+    {
+      "type": "distinction",
+      "organization": "Royal Netherlands Academy of Arts and Sciences: Amsterdam, North Holland, NL",
+      "description": "1997 | Van Walree Award (travel award)"
+    }
+  ]
+}

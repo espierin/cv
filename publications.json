@@ -34942,23 +34942,40 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001750677700175",
       "authors": [
         {
-          "name": "E Slaats"
+          "name": "Emiel Slaats"
         },
         {
-          "name": "E Peereboom"
+          "name": "Emma Peereboom"
         },
         {
-          "name": "M Eikmans"
+          "name": "Hanneke Kapsenberg"
+        },
+        {
+          "name": "Marie-Louise van der Hoorn"
+        },
+        {
+          "name": "Eric Spierings"
+        },
+        {
+          "name": "Thomas van den Akker"
+        },
+        {
+          "name": "Thomas Kroneis"
+        },
+        {
+          "name": "Michael Eikmans"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Slaats, E; Peereboom, E; (...); Eikmans, M",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -34976,10 +34993,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: eikmans, peereboom"
+          "Corroborating displayed coauthors in the verified publication network: eikmans, peereboom",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -35152,23 +35170,46 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001750677700268",
       "authors": [
         {
-          "name": "B Zweers"
+          "name": "Berber Zweers"
         },
         {
-          "name": "L Westerholt"
+          "name": "Lieke Westerholt"
         },
         {
-          "name": "E Spierings"
+          "name": "Emma Peereboom"
+        },
+        {
+          "name": "Thijs Hoffman"
+        },
+        {
+          "name": "Elize Berg"
+        },
+        {
+          "name": "Dieuwertje Ruigrok"
+        },
+        {
+          "name": "Susan Braithwaite"
+        },
+        {
+          "name": "Linda de Heer"
+        },
+        {
+          "name": "Bart Luijk"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Zweers, B; Westerholt, L; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -35186,10 +35227,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "E. Spierings explicitly appears in the displayed author line; HLA/transplantation research context corroborates identity."
+          "E. Spierings explicitly appears in the displayed author line; HLA/transplantation research context corroborates identity.",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -35623,23 +35665,37 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001525853600059",
       "authors": [
         {
-          "name": "B Matern"
+          "name": "Benedict Matern"
         },
         {
-          "name": "E Spierings"
+          "name": "Eric Spierings"
         },
         {
-          "name": "M Niemann"
+          "name": "Selle Bandstra"
+        },
+        {
+          "name": "Abeer Madbouly"
+        },
+        {
+          "name": "Stefan Schaub"
+        },
+        {
+          "name": "Eric Weimer"
+        },
+        {
+          "name": "Matthias Niemann"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Matern, B; Spierings, E; (...); Niemann, M",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -35657,10 +35713,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: matern, niemann"
+          "Corroborating displayed coauthors in the verified publication network: matern, niemann",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -35694,23 +35751,28 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001525853600060",
       "authors": [
         {
-          "name": "S Bandstra"
+          "name": "Selle Bandstra"
         },
         {
-          "name": "B Matern"
+          "name": "Benedict Matern"
         },
         {
-          "name": "M Niemann"
+          "name": "Eric Spierings"
+        },
+        {
+          "name": "Matthias Niemann"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Bandstra, S; Matern, B; (...); Niemann, M",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -35728,10 +35790,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: bandstra, matern, niemann"
+          "Corroborating displayed coauthors in the verified publication network: bandstra, matern, niemann",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -36153,23 +36216,40 @@
       "url": "https://doi.org/10.1016/j.jri.2024.104347",
       "authors": [
         {
-          "name": "GCM Lafeber"
+          "name": "Geraldine C. M. Lafeber"
         },
         {
-          "name": "E Peerenboom"
+          "name": "Emma Peerenboom"
         },
         {
-          "name": "EELO Lashley"
+          "name": "Yvonne Louwers"
+        },
+        {
+          "name": "Saskia le Cessie"
+        },
+        {
+          "name": "Eric Spierings"
+        },
+        {
+          "name": "Michael Eikmans"
+        },
+        {
+          "name": "Marie-Louise P. van der Hoorn"
+        },
+        {
+          "name": "Eileen E. L. O. Lashley"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Lafeber, GCM; Peerenboom, E; (...); Lashley, EELO",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -36192,10 +36272,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: lafeber, lashley, peerenboom"
+          "Corroborating displayed coauthors in the verified publication network: lafeber, lashley, peerenboom",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -36229,17 +36310,29 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001708634200179",
       "authors": [
         {
-          "name": "M Niemann"
+          "name": "M. Niemann"
         },
         {
-          "name": "BM Matern"
+          "name": "B. M. Matern"
         },
         {
-          "name": "E Spierings"
+          "name": "K. G. Gupta"
+        },
+        {
+          "name": "B. Tanriover"
+        },
+        {
+          "name": "F. Halleck"
+        },
+        {
+          "name": "K. Budde"
+        },
+        {
+          "name": "E. Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Niemann, M; Matern, BM; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -36263,10 +36356,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: matern, niemann"
+          "Corroborating displayed coauthors in the verified publication network: matern, niemann",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -36300,23 +36394,49 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001364287301324",
       "authors": [
         {
-          "name": "DC Francisco"
+          "name": "Diana Ceballos Francisco"
         },
         {
-          "name": "IR Lorente"
+          "name": "Inmaculada Ruiz Lorente"
         },
         {
-          "name": "AM Puras"
+          "name": "Maria Victoria Martinez Sanchez"
+        },
+        {
+          "name": "Lourdes Gimeno Arias"
+        },
+        {
+          "name": "Marta Pares"
+        },
+        {
+          "name": "Sebastian Heidt"
+        },
+        {
+          "name": "Fran Claas"
+        },
+        {
+          "name": "Matthias Niemann"
+        },
+        {
+          "name": "Eric Spierings"
+        },
+        {
+          "name": "Victor Pallaruelo-Santamaria"
+        },
+        {
+          "name": "Alfredo Minguela Puras"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Francisco, DC; Lorente, IR; (...); Puras, AM",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -36334,10 +36454,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: francisco"
+          "Corroborating displayed coauthors in the verified publication network: francisco",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -36455,17 +36576,32 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:001708632700139",
       "authors": [
         {
-          "name": "BM Matern"
+          "name": "B. M. Matern"
         },
         {
-          "name": "E Spierings"
+          "name": "E. Spierings"
         },
         {
-          "name": "M Niemann"
+          "name": "E. T. Peereboom"
+        },
+        {
+          "name": "M. Tector"
+        },
+        {
+          "name": "J. Tector"
+        },
+        {
+          "name": "M. Mangiola"
+        },
+        {
+          "name": "R. A. Montgomery"
+        },
+        {
+          "name": "M. Niemann"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Matern, BM; Spierings, E; (...); Niemann, M",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -36489,10 +36625,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: matern, niemann"
+          "Corroborating displayed coauthors in the verified publication network: matern, niemann",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -36973,17 +37110,47 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000891281900009",
       "authors": [
         {
-          "name": "M Niemann"
+          "name": "M. Niemann"
         },
         {
-          "name": "Y Strehler"
+          "name": "Y. Strehler"
         },
         {
-          "name": "E Spierings"
+          "name": "N. Lachmann"
+        },
+        {
+          "name": "F. Halleck"
+        },
+        {
+          "name": "K. Budde"
+        },
+        {
+          "name": "G. Hoenger"
+        },
+        {
+          "name": "S. Schaub"
+        },
+        {
+          "name": "G. Hoenger"
+        },
+        {
+          "name": "S. Schaub"
+        },
+        {
+          "name": "G. Hoenger"
+        },
+        {
+          "name": "S. Schaub"
+        },
+        {
+          "name": "B. M. Matern"
+        },
+        {
+          "name": "E. Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Niemann, M; Strehler, Y; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -37007,10 +37174,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: niemann, strehler"
+          "Corroborating displayed coauthors in the verified publication network: niemann, strehler",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -37044,17 +37212,17 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000891281900171",
       "authors": [
         {
-          "name": "M Niemann"
+          "name": "M. Niemann"
         },
         {
-          "name": "BM Matern"
+          "name": "B. M. Matern"
         },
         {
-          "name": "E Spierings"
+          "name": "E. Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Niemann, M; Matern, BM; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -37078,10 +37246,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: matern, niemann"
+          "Corroborating displayed coauthors in the verified publication network: matern, niemann",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -37121,16 +37290,60 @@
       "abstract": "Backgrounds Despite cord blood is an important alternative stem cell source for the patients without HLA matched donors, engraftment failure is the most significant obstacle in cord blood transplantation (CBT). Donor-specific anti-HLA antibody and hemophagocytic syndrome (HPS) after severe pre-engraftment immune reaction are the major causes of engraftment failure. However, the allo-immunity associated with graft rejection has not been fully understood. In HLA-mismatched transplantation, mismatched HLA is an important target for allo-immunity but the immunogenicity is different depending on the mismatched HLA pair of donor and recipient. Therefore, we hypothesized that by evaluating the antigenicity of mismatched HLA, we could improve donor selection criteria for CBT. Methods: We performed a retrospective analysis of clinical data on 4,100 single-unit CBT in Japan between 2001 and 2017 deposited in Transplant Registry Unified Management Program (TRUMP). Using the PIRCHE algorithm (PIRCHE AG, Berlin), the number of mismatched HLA-derived epitopes to be presented by HLA was predicted. PIRCHE was quantified separately for the mismatched recipient loci (HLA-A, -B, -C, -DRB1) and the presenting donor-HLA (ClassI or ClassII, matched or mismatched HLA). Specifically, we evaluated binding affinities of peptides that could be made from recipient mismatched HLA to donor HLA using netMHCpan and netMHCIIpan. Epitopes with IC50 < 500 nM for Class I and < 1000 nM for Class II were defined as PIRCHE-I and PIRCHE-II, respectively. Results: The death-censored median observation period was 2.7 years (0.5-17.1), median age at transplantation was 53 years (16-75), and 96.4% of patients were infused with HLA-mismatched cord blood. The present cohort includes patients with AML (49.6%), ALL (14.0%), Lymphoma (12.9%), MDS (10.8%), CML (2.2%), and other diseases (10.5%). Full-intensity conditioning was performed in 50.4% of patients. All patients received calcineurin inhibitors (CNI) for graft-versus-host disease (GvHD) prophylaxis, 1410 (34.5%) of them received MMF and 2110 (51.5%) received MTX in combination with CNI. The number of PIRCHEs derived from each HLA-loci showed zero-inflated distributions. Patients with PIRCHE-I derived from recipient mismatched HLA-B (rB-PIRCHE-I) had a higher non-relapse mortality (NRM, Hazard ratio [HR] = 1.19, p = 0.004) and lower progression free survival (PFS, HR = 1.12, p = 0.002). They tended to have higher risk for engraftment failure and infection was leading cause of death. rB-PIRCHE-I was not associated with incidence of acute and chronic GvHD. Interestingly, rB-PIRCHE-I on matched HLA (rB-PIRCHE-I on match) was significantly associated with prognosis (PFS, HR = 1.11, p = 0.005), but those presented on mismatched HLA were not (PFS, HR = 1.07, p = 0.1). The numbers of infused nucleated cells and CD34+ cells in the graft were higher in the patients with rB-PIRCHE-I on match, but there was no difference in other patient backgrounds with or without rB-PIRCHE-I on match. In patients transplanted with HLA-B mismatched cord blood, rB-PIRCHE-I on match was prognostic. In patients who received MMF, rB-PIRCHE-I on match was associated with engraftment failure (Figure 1) and poor prognosis (NRM, HR = 1.48, p < 0.001; PFS, HR = 1.26, p < 0.001), whereas there was no prognostic impact in the patients with MTX. In order to elucidate the mechanism by which rB-PIRCHE-I increases engraftment failure in patients with MMF, we performed a detailed analysis of 100 patients who underwent CBT with MMF in the cohort of Kyushu University Hospital. As a result, we found that the frequency of HPS was significantly higher in patients with rB-PIRCHE-I on match (HR = 5.75, p = 0.001) Discussion: In the early period after CBT, donor antigen-presenting cells (APCs) are not reconstituted and donor T-cell is restricted to donor HLA. Therefore, we speculate that recipient APCs are inducing severe allo-immune reaction by presenting rB-PIRCHE-I on matched HLAs which are recognizable to donor T-cells. Furthermore, NK cells in the graft have been reported to prevent GvHD via suppression of recipient APCs, and MMF has the ability to suppress NK cells; it is possible that MMF enhanced the allo-immune response induced by recipient APCs. (Figure 2) Conclusion: HLA-mismatched cord blood without rB-PIRCHE-I is more desirable as a donor; when selecting a donor with rB-PIRCHE-I, it may be better to use MTX instead of MMF. Figure 1View largeDownload PPTFigure 1View largeDownload PPT Close modal",
       "authors": [
         {
-          "name": "T Sugio"
+          "name": "Takeshi Sugio"
         },
         {
-          "name": "K Kato"
+          "name": "Koji Kato"
         },
         {
-          "name": "S Morishima"
+          "name": "Naoyuki Uchida"
+        },
+        {
+          "name": "Kohta Miyawaki"
+        },
+        {
+          "name": "Matthias Niemann"
+        },
+        {
+          "name": "Eric Spierings"
+        },
+        {
+          "name": "Makoto Onizuka"
+        },
+        {
+          "name": "Yasufumi Uehara"
+        },
+        {
+          "name": "Masatsugu Tanaka"
+        },
+        {
+          "name": "Noriko Doki"
+        },
+        {
+          "name": "Tetsuya Eto"
+        },
+        {
+          "name": "Hikaru Kobayashi"
+        },
+        {
+          "name": "Yumiko Maruyama"
+        },
+        {
+          "name": "Tatsuo Ichinohe"
+        },
+        {
+          "name": "Junya Kanda"
+        },
+        {
+          "name": "Yoshiko Atsuta"
+        },
+        {
+          "name": "Satoko Morishima"
         }
       ],
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "volumeIssuePages": "BLOOD 140",
       "categories": [],
       "primaryCategoryLabel": "Epitope matching",
@@ -37205,8 +37418,8 @@
       "id": "abstract-wos-000893223200368",
       "meeting": "64th Annual Meeting and Exposition of the American-Society-of-Hematology (ASH)",
       "abstractNumber": null,
-      "authorsComplete": false,
-      "authorSummary": "Sugio, T; Kato, K; (...); Morishima, S",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -37214,10 +37427,11 @@
       },
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: kato, morishima, sugio"
+          "Corroborating displayed coauthors in the verified publication network: kato, morishima, sugio",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -37770,17 +37984,29 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000697845200009",
       "authors": [
         {
-          "name": "E Peereboom"
+          "name": "E. Peereboom"
         },
         {
-          "name": "B Matern"
+          "name": "B. Matern"
         },
         {
-          "name": "A van Zuilen"
+          "name": "K. Geneugelijk"
+        },
+        {
+          "name": "E. Spierings"
+        },
+        {
+          "name": "T. Tomosugi"
+        },
+        {
+          "name": "T. Kobayashi"
+        },
+        {
+          "name": "A. van Zuilen"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Peereboom, E; Matern, B; (...); van Zuilen, A",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -37804,10 +38030,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: matern, peereboom, zuilen"
+          "Corroborating displayed coauthors in the verified publication network: matern, peereboom, zuilen",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -38298,17 +38525,47 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000518393300156",
       "authors": [
         {
-          "name": "T Tomosugi"
+          "name": "Toshihide Tomosugi"
         },
         {
-          "name": "K Iwasaki"
+          "name": "Kenta Iwasaki"
         },
         {
-          "name": "E Spierings"
+          "name": "Shintaro Sakamoto"
+        },
+        {
+          "name": "Akiko Kanda"
+        },
+        {
+          "name": "Kenta Futamura"
+        },
+        {
+          "name": "Manabu Okada"
+        },
+        {
+          "name": "Takahisa Hiramitsu"
+        },
+        {
+          "name": "Norihiko Goto"
+        },
+        {
+          "name": "Shunji Narumi"
+        },
+        {
+          "name": "Yoshihiko Watarai"
+        },
+        {
+          "name": "Takaaki Kobayashi"
+        },
+        {
+          "name": "Matthias Niemann"
+        },
+        {
+          "name": "E. Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Tomosugi, T; Iwasaki, K; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -38332,10 +38589,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: iwasaki, tomosugi"
+          "Corroborating displayed coauthors in the verified publication network: iwasaki, tomosugi",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -38369,23 +38627,40 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000751335600070",
       "authors": [
         {
-          "name": "LA Gragert"
+          "name": "Loren A. Gragert"
         },
         {
-          "name": "GH Smith"
+          "name": "Geoffrey H. Smith"
         },
         {
-          "name": "RA Bray"
+          "name": "Eric Spierings"
+        },
+        {
+          "name": "Ben M. Matern"
+        },
+        {
+          "name": "Gottfried Fischer"
+        },
+        {
+          "name": "Marian Dribus"
+        },
+        {
+          "name": "Howard M. Gebel"
+        },
+        {
+          "name": "Robert A. Bray"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Gragert, LA; Smith, GH; (...); Bray, RA",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -38403,10 +38678,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: gragert"
+          "Corroborating displayed coauthors in the verified publication network: gragert",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -38524,17 +38800,29 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000578671900091",
       "authors": [
         {
-          "name": "N Lachmann"
+          "name": "N. Lachmann"
         },
         {
-          "name": "M Niemann"
+          "name": "M. Niemann"
         },
         {
-          "name": "K Budde"
+          "name": "I. Tieken"
+        },
+        {
+          "name": "F. Halleck"
+        },
+        {
+          "name": "K. Geneugelijk"
+        },
+        {
+          "name": "E. Spierings"
+        },
+        {
+          "name": "K. Budde"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Lachmann, N; Niemann, M; (...); Budde, K",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -38558,10 +38846,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: budde, lachmann, niemann"
+          "Corroborating displayed coauthors in the verified publication network: budde, lachmann, niemann",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -38595,23 +38884,40 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000518393300153",
       "authors": [
         {
-          "name": "M Niemann"
+          "name": "Matthias Niemann"
         },
         {
-          "name": "E Spierings"
+          "name": "Eric Spierings"
         },
         {
-          "name": "G Hönger"
+          "name": "Michelle R. van Heck"
+        },
+        {
+          "name": "Loes A. L. van de Pasch"
+        },
+        {
+          "name": "Sanne Vendelbosch"
+        },
+        {
+          "name": "Erik H. Rozemuller"
+        },
+        {
+          "name": "Stefan Schaub"
+        },
+        {
+          "name": "Gideon Honger"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Niemann, M; Spierings, E; (...); Hönger, G",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -38629,10 +38935,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: honger, niemann"
+          "Corroborating displayed coauthors in the verified publication network: honger, niemann",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -38666,23 +38973,37 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000518393300233",
       "authors": [
         {
-          "name": "K Geneugelijk"
+          "name": "Kirsten Geneugelijk"
         },
         {
-          "name": "AC de Graaff"
+          "name": "Anna C. de Graaff"
         },
         {
-          "name": "E Spierings"
+          "name": "Walter Gj. van Ginkel"
+        },
+        {
+          "name": "Talitha H. de Hoop"
+        },
+        {
+          "name": "Lotte E. van der Wagen"
+        },
+        {
+          "name": "Dave L. Roelen"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Geneugelijk, K; de Graaff, AC; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -38700,10 +39021,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: geneugelijk, graaff"
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, graaff",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -38737,23 +39059,31 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000464517600210",
       "authors": [
         {
-          "name": "M. D. Bicalho"
+          "name": "Maria da Graca Bicalho"
         },
         {
-          "name": "A. Pirri"
+          "name": "Alessandro Pirri"
         },
         {
-          "name": "J. S. Silva"
+          "name": "Jose Samuel Silva"
+        },
+        {
+          "name": "Eric Spierings"
+        },
+        {
+          "name": "Joandrei S. Silva"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Bicalho, MD; Pirri, A; (...); Silva, JS",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -38776,10 +39106,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Direct work association in Eric Spierings’ claimed WoS profile AAU-5138-2021, linked to ORCID 0000-0001-9441-1019.",
-          "Independent coauthor CV index for Alessandro Pirri explicitly lists E. Spierings with Pirri, Bicalho and Silva for this exact 2019 title. Author order differs between abbreviated sources, so no complete ordered author list is asserted."
+          "Independent coauthor CV index for Alessandro Pirri explicitly lists E. Spierings with Pirri, Bicalho and Silva for this exact 2019 title. Author order differs between abbreviated sources, so no complete ordered author list is asserted.",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS explicitly classifies this item as Meeting Abstract; HLA 93(5):352–353, May 2019."
@@ -38811,23 +39142,31 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000491488701124",
       "authors": [
         {
-          "name": "M Niemann"
+          "name": "Matthias Niemann"
         },
         {
-          "name": "K Geneugelijk"
+          "name": "Kirsten Geneugelijk"
         },
         {
-          "name": "E Spierings"
+          "name": "Nils Lachmann"
+        },
+        {
+          "name": "Oliver Staeck"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Niemann, M; Geneugelijk, K; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -38845,10 +39184,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: geneugelijk, niemann"
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, niemann",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -38882,23 +39222,52 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000491488701287",
       "authors": [
         {
-          "name": "T Tomosugi"
+          "name": "Toshihide Tomosugi"
         },
         {
-          "name": "K Iwasaki"
+          "name": "Kenta Iwasaki"
         },
         {
-          "name": "E Spierings"
+          "name": "Kenta Futamura"
+        },
+        {
+          "name": "Manabu Okada"
+        },
+        {
+          "name": "Takahisa Hiramitsu"
+        },
+        {
+          "name": "Makoto Tsujita"
+        },
+        {
+          "name": "Norihiko Goto"
+        },
+        {
+          "name": "Shunji Narumi"
+        },
+        {
+          "name": "Yoshihiko Watarai"
+        },
+        {
+          "name": "Takaaki Kobayashi"
+        },
+        {
+          "name": "Matthias Niemann"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Tomosugi, T; Iwasaki, K; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -38916,10 +39285,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: iwasaki, tomosugi"
+          "Corroborating displayed coauthors in the verified publication network: iwasaki, tomosugi",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -38953,23 +39323,31 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000464517600082",
       "authors": [
         {
-          "name": "M Niemann"
+          "name": "Matthias Niemann"
         },
         {
-          "name": "K Geneugelijk"
+          "name": "Kirsten Geneugelijk"
         },
         {
-          "name": "T Kobayashi"
+          "name": "Eric Spierings"
+        },
+        {
+          "name": "Toshihide Tomosugi"
+        },
+        {
+          "name": "Takaaki Kobayashi"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Niemann, M; Geneugelijk, K; (...); Kobayashi, T",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -38987,10 +39365,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: geneugelijk, kobayashi, niemann"
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, kobayashi, niemann",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -39024,23 +39403,28 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000430290800025",
       "authors": [
         {
-          "name": "M Niemann"
+          "name": "Matthias Niemann"
         },
         {
-          "name": "N Lachmann"
+          "name": "Nils Lachmann"
         },
         {
-          "name": "E Spierings"
+          "name": "Oliver Staeck"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Niemann, M; Lachmann, N; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -39058,10 +39442,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: lachmann, niemann"
+          "Corroborating displayed coauthors in the verified publication network: lachmann, niemann",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -39095,17 +39480,23 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000449666000049",
       "authors": [
         {
-          "name": "M Niemann"
+          "name": "M. Niemann"
         },
         {
-          "name": "K Geneugelijk"
+          "name": "K. Geneugelijk"
         },
         {
-          "name": "E Spierings"
+          "name": "N. Lachmann"
+        },
+        {
+          "name": "O. Staeck"
+        },
+        {
+          "name": "E. Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Niemann, M; Geneugelijk, K; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -39129,10 +39520,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: geneugelijk, niemann"
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, niemann",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -39360,23 +39752,34 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000430290800046",
       "authors": [
         {
-          "name": "N Lachmann"
+          "name": "Nils Lachmann"
         },
         {
-          "name": "O Staeck"
+          "name": "Oliver Staeck"
         },
         {
-          "name": "C Schönemann"
+          "name": "Matthias Niemann"
+        },
+        {
+          "name": "Klemens Budde"
+        },
+        {
+          "name": "Eric Spierings"
+        },
+        {
+          "name": "Constanze Schoenemann"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Lachmann, N; Staeck, O; (...); Schönemann, C",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -39394,10 +39797,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: lachmann, schonemann, staeck"
+          "Corroborating displayed coauthors in the verified publication network: lachmann, schonemann, staeck",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -39431,17 +39835,26 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000449666000016",
       "authors": [
         {
-          "name": "N Lachmann"
+          "name": "N. Lachmann"
         },
         {
-          "name": "M Niemann"
+          "name": "M. Niemann"
         },
         {
-          "name": "O Staeck"
+          "name": "K. Budde"
+        },
+        {
+          "name": "E. Spierings"
+        },
+        {
+          "name": "C. Schoenemann"
+        },
+        {
+          "name": "O. Staeck"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Lachmann, N; Niemann, M; (...); Staeck, O",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -39465,10 +39878,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: lachmann, niemann, staeck"
+          "Corroborating displayed coauthors in the verified publication network: lachmann, niemann, staeck",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -39502,23 +39916,28 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000430290800022",
       "authors": [
         {
-          "name": "K Geneugelijk"
+          "name": "Kirsten Geneugelijk"
         },
         {
-          "name": "T de Hoop"
+          "name": "Talitha de Hoop"
         },
         {
-          "name": "E Spierings"
+          "name": "Eric Borst"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Geneugelijk, K; de Hoop, T; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -39536,10 +39955,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: geneugelijk, hoop"
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, hoop",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -39573,23 +39993,34 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300043",
       "authors": [
         {
-          "name": "K Geneugelijk"
+          "name": "Kirsten Geneugelijk"
         },
         {
-          "name": "G Hönger"
+          "name": "Gideon Honger"
         },
         {
-          "name": "E Spierings"
+          "name": "Hanneke W. M. van Deutekom"
+        },
+        {
+          "name": "Irene Hosli"
+        },
+        {
+          "name": "Stefan Schaub"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Geneugelijk, K; Hönger, G; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -39607,10 +40038,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: geneugelijk, honger"
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, honger",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -39803,23 +40235,31 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300193",
       "authors": [
         {
-          "name": "K Geneugelijk"
+          "name": "Kirsten Geneugelijk"
         },
         {
-          "name": "M Niemann"
+          "name": "Matthias Niemann"
         },
         {
-          "name": "E Spierings"
+          "name": "Jeroen Wissing"
+        },
+        {
+          "name": "Dirk Koppenaal"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Geneugelijk, K; Niemann, M; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -39837,10 +40277,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: geneugelijk, niemann"
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, niemann",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -39874,23 +40315,145 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300022",
       "authors": [
         {
-          "name": "EG Kamburova"
+          "name": "Elena G. Kamburova"
         },
         {
-          "name": "BW Wisse"
+          "name": "Bram W. Wisse"
         },
         {
-          "name": "HG Otten"
+          "name": "Irma Joosten"
+        },
+        {
+          "name": "Wil A. Allebes"
+        },
+        {
+          "name": "Arnold van der Meer"
+        },
+        {
+          "name": "Luuk B. Hilbrands"
+        },
+        {
+          "name": "Marije C. Baas"
+        },
+        {
+          "name": "Eric Spierings"
+        },
+        {
+          "name": "C. Erik Hack"
+        },
+        {
+          "name": "Franka van Reekum"
+        },
+        {
+          "name": "Arjan van Zuilen"
+        },
+        {
+          "name": "M. C. Verhaar"
+        },
+        {
+          "name": "Michiel L. Bots"
+        },
+        {
+          "name": "A. C. A. D. Drop"
+        },
+        {
+          "name": "L. Plaisier"
+        },
+        {
+          "name": "Marc A. J. Seelen"
+        },
+        {
+          "name": "J. S. F. Sanders"
+        },
+        {
+          "name": "Bouke G. Hepkema"
+        },
+        {
+          "name": "Annechien J. Lambeck"
+        },
+        {
+          "name": "Laura B. Bungener"
+        },
+        {
+          "name": "C. Roozendaal"
+        },
+        {
+          "name": "Marcel G. J. Tilanus"
+        },
+        {
+          "name": "Christina E. M. Voorter"
+        },
+        {
+          "name": "Lotte Wieten"
+        },
+        {
+          "name": "Elly M. van Duijnhoven"
+        },
+        {
+          "name": "Marielle Gelens"
+        },
+        {
+          "name": "Maarten H. L. Christiaans"
+        },
+        {
+          "name": "F. J. van Ittersum"
+        },
+        {
+          "name": "Azam Nurmohamed"
+        },
+        {
+          "name": "Neubury M. Lardy"
+        },
+        {
+          "name": "Wendy Swelsen"
+        },
+        {
+          "name": "K. A. van der Pant"
+        },
+        {
+          "name": "N. C. van der Weerd"
+        },
+        {
+          "name": "I. J. M. ten Berge"
+        },
+        {
+          "name": "Frederike J. Bemelman"
+        },
+        {
+          "name": "Andries Hoitsma"
+        },
+        {
+          "name": "P. J. M. van der Boog"
+        },
+        {
+          "name": "Hans de Fijter"
+        },
+        {
+          "name": "Michiel G. H. Betjes"
+        },
+        {
+          "name": "Sebastiaan Heidt"
+        },
+        {
+          "name": "Dave L. Roelen"
+        },
+        {
+          "name": "Frans H. J. Claas"
+        },
+        {
+          "name": "Henny G. Otten"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Kamburova, EG; Wisse, BW; (...); Otten, HG",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -39908,10 +40471,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: kamburova, otten, wisse"
+          "Corroborating displayed coauthors in the verified publication network: kamburova, otten, wisse",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -39945,23 +40509,40 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000411688500094",
       "authors": [
         {
-          "name": "O Staeck"
+          "name": "Oliver Staeck"
         },
         {
-          "name": "M Niemann"
+          "name": "Matthias Niemann"
         },
         {
-          "name": "N Lachmann"
+          "name": "Eric Spierings"
+        },
+        {
+          "name": "Petra Reinke"
+        },
+        {
+          "name": "Fabian Halleck"
+        },
+        {
+          "name": "Dymtro Khadzhynov"
+        },
+        {
+          "name": "Klemens Budde"
+        },
+        {
+          "name": "Nils Lachmann"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Staeck, O; Niemann, M; (...); Lachmann, N",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -39979,10 +40560,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: lachmann, niemann, staeck"
+          "Corroborating displayed coauthors in the verified publication network: lachmann, niemann, staeck",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -40369,23 +40951,181 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300026",
       "authors": [
         {
-          "name": "R Carapito"
+          "name": "Raphael Carapito"
         },
         {
-          "name": "N Jung"
+          "name": "Nicolas Jung"
         },
         {
-          "name": "S Bahram"
+          "name": "Marius Kwemou"
+        },
+        {
+          "name": "Meiggie Untrau"
+        },
+        {
+          "name": "Sandra Michel"
+        },
+        {
+          "name": "Angelique Pichot"
+        },
+        {
+          "name": "Gaelle Giacometti"
+        },
+        {
+          "name": "Cecile Macquin"
+        },
+        {
+          "name": "Wassila Ilias"
+        },
+        {
+          "name": "Aurore Morlon"
+        },
+        {
+          "name": "Irina Kotovo"
+        },
+        {
+          "name": "Petya Apostolova"
+        },
+        {
+          "name": "Annette Schmitt-Graeff"
+        },
+        {
+          "name": "Anne Cesbron"
+        },
+        {
+          "name": "Katia Gagne"
+        },
+        {
+          "name": "Machteld Oudshoorn"
+        },
+        {
+          "name": "Bronno van der Holt"
+        },
+        {
+          "name": "Myriam Labalette"
+        },
+        {
+          "name": "Eric Spierings"
+        },
+        {
+          "name": "Christophe Picard"
+        },
+        {
+          "name": "Pascale Loiseau"
+        },
+        {
+          "name": "Ryad Tamouza"
+        },
+        {
+          "name": "Antoine Toubert"
+        },
+        {
+          "name": "Anne Parissiadis"
+        },
+        {
+          "name": "Valerie Dubois"
+        },
+        {
+          "name": "Xavier Lafarge"
+        },
+        {
+          "name": "Myriam Maumy-Bertrand"
+        },
+        {
+          "name": "Frederic Bertrand"
+        },
+        {
+          "name": "Luca Vago"
+        },
+        {
+          "name": "Fabio Ciceri"
+        },
+        {
+          "name": "Catherine Paillard"
+        },
+        {
+          "name": "Sergi Querol"
+        },
+        {
+          "name": "Jordi Sierra"
+        },
+        {
+          "name": "Katharina Fleischhauer"
+        },
+        {
+          "name": "Arnon Nagler"
+        },
+        {
+          "name": "Myriam Labopin"
+        },
+        {
+          "name": "Hidetoshi Inoko"
+        },
+        {
+          "name": "Peter A. von dem Borne"
+        },
+        {
+          "name": "Jurgen Kuball"
+        },
+        {
+          "name": "Masao Ota"
+        },
+        {
+          "name": "Yoshihiko Katsuyama"
+        },
+        {
+          "name": "Mauric-Ette Michallet"
+        },
+        {
+          "name": "Bruno Lioure"
+        },
+        {
+          "name": "Regis Peffault de latour"
+        },
+        {
+          "name": "Didier Blaise"
+        },
+        {
+          "name": "Jan J. Cornelissen"
+        },
+        {
+          "name": "Ibrahim Yakoub-Agha"
+        },
+        {
+          "name": "Frans H. J. Claas"
+        },
+        {
+          "name": "Philippe Moreau"
+        },
+        {
+          "name": "Noel Milpied"
+        },
+        {
+          "name": "Dominique Charron"
+        },
+        {
+          "name": "Mohamad Mohty"
+        },
+        {
+          "name": "Robert Zeiser"
+        },
+        {
+          "name": "Gerard Socie"
+        },
+        {
+          "name": "Seiamak Bahram"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Carapito, R; Jung, N; (...); Bahram, S",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -40403,10 +41143,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: bahram, carapito, jung"
+          "Corroborating displayed coauthors in the verified publication network: bahram, carapito, jung",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -41269,23 +42010,148 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300077",
       "authors": [
         {
-          "name": "K Geneugelijk"
+          "name": "Kirsten Geneugelijk"
         },
         {
-          "name": "M Niemann"
+          "name": "Matthias Niemann"
         },
         {
-          "name": "E Spierings"
+          "name": "J. Drylewicz"
+        },
+        {
+          "name": "Arjan D. van Zuilen"
+        },
+        {
+          "name": "Irma Joosten"
+        },
+        {
+          "name": "Wil A. Allebes"
+        },
+        {
+          "name": "Arnold van der Meer"
+        },
+        {
+          "name": "Luuk B. Hilbrands"
+        },
+        {
+          "name": "Marije C. Baas"
+        },
+        {
+          "name": "C. Erik Hack"
+        },
+        {
+          "name": "Franka E. van Reekum"
+        },
+        {
+          "name": "Marianne Verhaar"
+        },
+        {
+          "name": "Elena G. Kamburova"
+        },
+        {
+          "name": "Michiel L. Bots"
+        },
+        {
+          "name": "Marc A. J. Seelen"
+        },
+        {
+          "name": "J. S. -F. Sanders"
+        },
+        {
+          "name": "Bouke G. Hepkema"
+        },
+        {
+          "name": "Annechien J. Lambeck"
+        },
+        {
+          "name": "Laura B. Bungener"
+        },
+        {
+          "name": "C. Roozendaal"
+        },
+        {
+          "name": "Marcel G. J. Tilanus"
+        },
+        {
+          "name": "Joris Vanderlocht"
+        },
+        {
+          "name": "Christina E. M. Voorter"
+        },
+        {
+          "name": "Lotte Wieten"
+        },
+        {
+          "name": "Elly M. van Duijnhoven"
+        },
+        {
+          "name": "Marielle Gelens"
+        },
+        {
+          "name": "Maarten H. -L. Christiaans"
+        },
+        {
+          "name": "Frans J. van Ittersum"
+        },
+        {
+          "name": "Azam Nurmohamed"
+        },
+        {
+          "name": "Neubury M. Lardy"
+        },
+        {
+          "name": "Wendy Swelsen"
+        },
+        {
+          "name": "Karlijn A. van der Pant"
+        },
+        {
+          "name": "Neelke C. van der Weerd"
+        },
+        {
+          "name": "Ineke J. M. ten Berge"
+        },
+        {
+          "name": "Fre-Derike J. Bemelman"
+        },
+        {
+          "name": "Andries Hoitsma"
+        },
+        {
+          "name": "Paul J. M. van der Boog"
+        },
+        {
+          "name": "Johan W. de Fijter"
+        },
+        {
+          "name": "Michiel G. H. Betjes"
+        },
+        {
+          "name": "Sebastiaan Heidt"
+        },
+        {
+          "name": "Dave L. Roelen"
+        },
+        {
+          "name": "Frans H. J. Claas"
+        },
+        {
+          "name": "Henny G. Otten"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Geneugelijk, K; Niemann, M; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -41303,10 +42169,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: geneugelijk, niemann"
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, niemann",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -41391,17 +42258,29 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000413348700012",
       "authors": [
         {
-          "name": "N Lachmann"
+          "name": "N. Lachmann"
         },
         {
-          "name": "M Niemann"
+          "name": "M. Niemann"
         },
         {
-          "name": "O Staeck"
+          "name": "K. Budde"
+        },
+        {
+          "name": "P. Reinke"
+        },
+        {
+          "name": "E. Spierings"
+        },
+        {
+          "name": "C. Schoenemann"
+        },
+        {
+          "name": "O. Staeck"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Lachmann, N; Niemann, M; (...); Staeck, O",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -41425,10 +42304,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: lachmann, niemann, staeck"
+          "Corroborating displayed coauthors in the verified publication network: lachmann, niemann, staeck",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -41462,23 +42342,37 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000400973300019",
       "authors": [
         {
-          "name": "N Lachmann"
+          "name": "Nils Lachmann"
         },
         {
-          "name": "O Staeck"
+          "name": "Oliver Staeck"
         },
         {
-          "name": "C Schönemann"
+          "name": "Matthias Niemann"
+        },
+        {
+          "name": "Klemens Budde"
+        },
+        {
+          "name": "Petra Reinke"
+        },
+        {
+          "name": "Eric Spierings"
+        },
+        {
+          "name": "Constanze Schoenemann"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Lachmann, N; Staeck, O; (...); Schönemann, C",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -41496,10 +42390,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: lachmann, schonemann, staeck"
+          "Corroborating displayed coauthors in the verified publication network: lachmann, schonemann, staeck",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -41822,17 +42717,29 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000379484601079",
       "authors": [
         {
-          "name": "M De Witte"
+          "name": "M. De Witte"
         },
         {
-          "name": "A Janssen"
+          "name": "A. Janssen"
         },
         {
-          "name": "J Kuball"
+          "name": "G. Fleurke"
+        },
+        {
+          "name": "L. Timmerman"
+        },
+        {
+          "name": "E. Spierings"
+        },
+        {
+          "name": "I. Slaper"
+        },
+        {
+          "name": "J. Kuball"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "De Witte, M; Janssen, A; (...); Kuball, J",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -41856,10 +42763,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: janssen, kuball"
+          "Corroborating displayed coauthors in the verified publication network: janssen, kuball",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -41893,17 +42801,23 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000373357601045",
       "authors": [
         {
-          "name": "MD de Witte"
+          "name": "M. D. de Witte"
         },
         {
-          "name": "G Fleurke"
+          "name": "G. Fleurke"
         },
         {
-          "name": "J Kuball"
+          "name": "I. Slaper"
+        },
+        {
+          "name": "E. Spierings"
+        },
+        {
+          "name": "J. Kuball"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "de Witte, MD; Fleurke, G; (...); Kuball, J",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -41927,10 +42841,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: kuball"
+          "Corroborating displayed coauthors in the verified publication network: kuball",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -41964,23 +42879,28 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000383951500031",
       "authors": [
         {
-          "name": "K Geneugelijk"
+          "name": "Kirsten Geneugelijk"
         },
         {
-          "name": "M Niemann"
+          "name": "Matthias Niemann"
         },
         {
-          "name": "E Spierings"
+          "name": "Talitha A. de Hoop"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Geneugelijk, K; Niemann, M; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -41998,10 +42918,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: geneugelijk, niemann"
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, niemann",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -42035,17 +42956,29 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000385569800073",
       "authors": [
         {
-          "name": "N Lachmann"
+          "name": "N. Lachmann"
         },
         {
-          "name": "M Niemann"
+          "name": "M. Niemann"
         },
         {
-          "name": "O Staeck"
+          "name": "K. Budde"
+        },
+        {
+          "name": "P. Reinke"
+        },
+        {
+          "name": "C. Schoenemann"
+        },
+        {
+          "name": "E. Spierings"
+        },
+        {
+          "name": "O. Staeck"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Lachmann, N; Niemann, M; (...); Staeck, O",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -42069,10 +43002,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: lachmann, niemann, staeck"
+          "Corroborating displayed coauthors in the verified publication network: lachmann, niemann, staeck",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -42106,17 +43040,47 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000379484600244",
       "authors": [
         {
-          "name": "R Oostvogels"
+          "name": "R. Oostvogels"
         },
         {
-          "name": "E Kneppers"
+          "name": "E. Kneppers"
         },
         {
-          "name": "T Mutis"
+          "name": "M. Minnema"
+        },
+        {
+          "name": "R. Doorn"
+        },
+        {
+          "name": "L. Franssen"
+        },
+        {
+          "name": "T. Aarts"
+        },
+        {
+          "name": "M. Emmelot"
+        },
+        {
+          "name": "E. Spierings"
+        },
+        {
+          "name": "I. Slaper"
+        },
+        {
+          "name": "K. Westinga"
+        },
+        {
+          "name": "E. Goulmy"
+        },
+        {
+          "name": "H. Lokhorst"
+        },
+        {
+          "name": "T. Mutis"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Oostvogels, R; Kneppers, E; (...); Mutis, T",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -42140,10 +43104,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: kneppers, mutis, oostvogels"
+          "Corroborating displayed coauthors in the verified publication network: kneppers, mutis, oostvogels",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -42177,23 +43142,49 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000383951500064",
       "authors": [
         {
-          "name": "B Chaigne"
+          "name": "Benjamin Chaigne"
         },
         {
-          "name": "K Geneugelijk"
+          "name": "Kirsten Geneugelijk"
         },
         {
-          "name": "J Villard"
+          "name": "Benoit Bedat"
+        },
+        {
+          "name": "Mohamed Alibashe Ahmed"
+        },
+        {
+          "name": "Gideon Honger"
+        },
+        {
+          "name": "Sophie de Seigneux"
+        },
+        {
+          "name": "Sandrine Demuylder-Mischler"
+        },
+        {
+          "name": "Thierry Berney"
+        },
+        {
+          "name": "Eric Spierings"
+        },
+        {
+          "name": "Sylvie Ferrari-Lacraz"
+        },
+        {
+          "name": "Jean Villard"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Chaigne, B; Geneugelijk, K; (...); Villard, J",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -42211,10 +43202,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: chaigne, geneugelijk, villard"
+          "Corroborating displayed coauthors in the verified publication network: chaigne, geneugelijk, villard",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -42248,17 +43240,134 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000383951500061",
       "authors": [
         {
-          "name": "EG Kamburova"
+          "name": "Elena G. Kamburova"
         },
         {
-          "name": "BW Wisse"
+          "name": "B. W. Wisse"
         },
         {
-          "name": "HG Otten"
+          "name": "I. Joosten"
+        },
+        {
+          "name": "W. A. Allebes"
+        },
+        {
+          "name": "A. van der Meer"
+        },
+        {
+          "name": "L. B. Hilbrands"
+        },
+        {
+          "name": "M. C. Baas"
+        },
+        {
+          "name": "E. Spierings"
+        },
+        {
+          "name": "C. E. Hack"
+        },
+        {
+          "name": "F. van Reekum"
+        },
+        {
+          "name": "A. D. van Zuilen"
+        },
+        {
+          "name": "M. C. Verhaar"
+        },
+        {
+          "name": "M. L. Bots"
+        },
+        {
+          "name": "A. C. A. D. Drop"
+        },
+        {
+          "name": "L. Plaisier"
+        },
+        {
+          "name": "M. A. J. Seelen"
+        },
+        {
+          "name": "J. S. F. Sanders"
+        },
+        {
+          "name": "B. G. Hepkema"
+        },
+        {
+          "name": "A. J. Lambeck"
+        },
+        {
+          "name": "L. B. Bungener"
+        },
+        {
+          "name": "C. Roozendaal"
+        },
+        {
+          "name": "M. G. J. Tilanus"
+        },
+        {
+          "name": "J. Vanderlocht"
+        },
+        {
+          "name": "C. E. Voorter"
+        },
+        {
+          "name": "L. Wieten"
+        },
+        {
+          "name": "E. van Duijnhoven"
+        },
+        {
+          "name": "M. Gelens"
+        },
+        {
+          "name": "M. Christiaans"
+        },
+        {
+          "name": "F. van Ittersum"
+        },
+        {
+          "name": "A. Nurmohamed"
+        },
+        {
+          "name": "N. M. Lardy"
+        },
+        {
+          "name": "W. T. Swelsen"
+        },
+        {
+          "name": "K. A. M. I. van der Pant"
+        },
+        {
+          "name": "N. C. van der Weerd"
+        },
+        {
+          "name": "I. J. M. ten Berge"
+        },
+        {
+          "name": "F. J. Bemelman"
+        },
+        {
+          "name": "A. J. Hoitsma"
+        },
+        {
+          "name": "J. W. de Fijter"
+        },
+        {
+          "name": "M. G. H. Betjes"
+        },
+        {
+          "name": "D. L. Roelen"
+        },
+        {
+          "name": "F. H. J. Claas"
+        },
+        {
+          "name": "H. G. Otten"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Kamburova, EG; Wisse, BW; (...); Otten, HG",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -42282,10 +43391,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: kamburova, otten, wisse"
+          "Corroborating displayed coauthors in the verified publication network: kamburova, otten, wisse",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -42766,17 +43876,32 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000359941902298",
       "authors": [
         {
-          "name": "K Thus"
+          "name": "K. Thus"
         },
         {
-          "name": "M Ruizendaal"
+          "name": "M. Ruizendaal"
         },
         {
-          "name": "E Spierings"
+          "name": "T. de Hoop"
+        },
+        {
+          "name": "E. Borst"
+        },
+        {
+          "name": "H. W. M. van Deutekom"
+        },
+        {
+          "name": "L. te Boome"
+        },
+        {
+          "name": "J. Kuball"
+        },
+        {
+          "name": "E. Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Thus, K; Ruizendaal, M; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -42800,10 +43925,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: ruizendaal, thus"
+          "Corroborating displayed coauthors in the verified publication network: ruizendaal, thus",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -42837,17 +43963,32 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000359941901391",
       "authors": [
         {
-          "name": "K Thus"
+          "name": "K. Thus"
         },
         {
-          "name": "AGS van Halteren"
+          "name": "A. G. S. van Halteren"
         },
         {
-          "name": "E Spierings"
+          "name": "T. de Hond"
+        },
+        {
+          "name": "M. van Dijk"
+        },
+        {
+          "name": "R. Q. H. Kloos"
+        },
+        {
+          "name": "A. C. Lankester"
+        },
+        {
+          "name": "M. B. Bierings"
+        },
+        {
+          "name": "E. Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Thus, K; van Halteren, AGS; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -42871,10 +44012,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: halteren, thus"
+          "Corroborating displayed coauthors in the verified publication network: halteren, thus",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -42908,23 +44050,31 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000337546000009",
       "authors": [
         {
-          "name": "K Geneugelijk"
+          "name": "Kirsten Geneugelijk"
         },
         {
-          "name": "G Hönger"
+          "name": "Gideon Honger"
         },
         {
-          "name": "E Spierings"
+          "name": "Hanneke van Deutekom"
+        },
+        {
+          "name": "Stefan Schaub"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Geneugelijk, K; Hönger, G; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -42942,10 +44092,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: geneugelijk, honger"
+          "Corroborating displayed coauthors in the verified publication network: geneugelijk, honger",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -43135,23 +44286,52 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000337546000063",
       "authors": [
         {
-          "name": "KA Thus"
+          "name": "Kirsten A. Thus"
         },
         {
-          "name": "D Fuerst"
+          "name": "Daniel Fuerst"
         },
         {
-          "name": "E Spierings"
+          "name": "Dietger Niederwieser"
+        },
+        {
+          "name": "Donald Bunjes"
+        },
+        {
+          "name": "Ralf G. Meyer"
+        },
+        {
+          "name": "Hanneke van Deutekom"
+        },
+        {
+          "name": "Jorg Calis"
+        },
+        {
+          "name": "Eric Borst"
+        },
+        {
+          "name": "Can Kesmir"
+        },
+        {
+          "name": "Juergen Kuball"
+        },
+        {
+          "name": "Joannis Mytilineos"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Thus, KA; Fuerst, D; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -43169,10 +44349,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: thus"
+          "Corroborating displayed coauthors in the verified publication network: thus",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -43705,17 +44886,47 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000342830901163",
       "authors": [
         {
-          "name": "L Van der Wagen"
+          "name": "L. Van der Wagen"
         },
         {
-          "name": "L te Boome"
+          "name": "L. te Boome"
         },
         {
-          "name": "J Kuball"
+          "name": "C. Mansilla"
+        },
+        {
+          "name": "C. Lindemans"
+        },
+        {
+          "name": "M. Cuijpers"
+        },
+        {
+          "name": "K. Westinga"
+        },
+        {
+          "name": "E. Petersen"
+        },
+        {
+          "name": "E. Spierings"
+        },
+        {
+          "name": "M. Bierings"
+        },
+        {
+          "name": "J. J. Boelens"
+        },
+        {
+          "name": "N. Wulffraat"
+        },
+        {
+          "name": "I. Slaper-Cortenbach"
+        },
+        {
+          "name": "J. Kuball"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Van der Wagen, L; te Boome, L; (...); Kuball, J",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -43739,10 +44950,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: boome, kuball, wagen"
+          "Corroborating displayed coauthors in the verified publication network: boome, kuball, wagen",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -43776,17 +44988,47 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000359941900036",
       "authors": [
         {
-          "name": "L Van der Wagen"
+          "name": "L. Van der Wagen"
         },
         {
-          "name": "L te Boome"
+          "name": "L. te Boome"
         },
         {
-          "name": "J Kuball"
+          "name": "C. Mansilla"
+        },
+        {
+          "name": "C. Lindemans"
+        },
+        {
+          "name": "M. Cuijpers"
+        },
+        {
+          "name": "K. Westinga"
+        },
+        {
+          "name": "E. Petersen"
+        },
+        {
+          "name": "E. Spierings"
+        },
+        {
+          "name": "M. Bierings"
+        },
+        {
+          "name": "J. J. Boelens"
+        },
+        {
+          "name": "N. Wulff Raat"
+        },
+        {
+          "name": "I. Slaper-Cortenbach"
+        },
+        {
+          "name": "J. Kuball"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Van der Wagen, L; te Boome, L; (...); Kuball, J",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -43810,10 +45052,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: boome, kuball, wagen"
+          "Corroborating displayed coauthors in the verified publication network: boome, kuball, wagen",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -44021,23 +45264,34 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000337546000019",
       "authors": [
         {
-          "name": "TA de Hoop"
+          "name": "Talitha A. de Hoop"
         },
         {
-          "name": "R Kooter"
+          "name": "Raul Kooter"
         },
         {
-          "name": "E Spierings"
+          "name": "Anna C. de Graaff"
+        },
+        {
+          "name": "Erik H. Rozemuller"
+        },
+        {
+          "name": "Maarten Penning"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "de Hoop, TA; Kooter, R; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -44055,10 +45309,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: hoop"
+          "Corroborating displayed coauthors in the verified publication network: hoop",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -44092,23 +45347,40 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600064",
       "authors": [
         {
-          "name": "KA Thus"
+          "name": "Kirsten A. Thus"
         },
         {
-          "name": "TA Ruizendaal"
+          "name": "Theodora A. Ruizendaal"
         },
         {
-          "name": "E Spierings"
+          "name": "Talitha de Hoop"
+        },
+        {
+          "name": "Eric Borst"
+        },
+        {
+          "name": "Can Kesmir"
+        },
+        {
+          "name": "Liane te Boome"
+        },
+        {
+          "name": "Jurgen Kuball"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Thus, KA; Ruizendaal, TA; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -44126,10 +45398,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: ruizendaal, thus"
+          "Corroborating displayed coauthors in the verified publication network: ruizendaal, thus",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -44456,23 +45729,31 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600027",
       "authors": [
         {
-          "name": "HG Otten"
+          "name": "Henny G. Otten"
         },
         {
-          "name": "J Calis"
+          "name": "Jorg Calis"
         },
         {
-          "name": "E Spierings"
+          "name": "Can Kesmir"
+        },
+        {
+          "name": "Arjan D. van Zuilen"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Otten, HG; Calis, J; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -44490,10 +45771,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: calis, otten"
+          "Corroborating displayed coauthors in the verified publication network: calis, otten",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -44527,17 +45809,29 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000319025200201",
       "authors": [
         {
-          "name": "KA Thus"
+          "name": "K. A. Thus"
         },
         {
-          "name": "JJ Calis"
+          "name": "J. J. Calis"
         },
         {
-          "name": "E Spierings"
+          "name": "L. te Boome"
+        },
+        {
+          "name": "E. Borst"
+        },
+        {
+          "name": "C. Kesmir"
+        },
+        {
+          "name": "J. Kuball"
+        },
+        {
+          "name": "E. Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Thus, KA; Calis, JJ; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -44561,10 +45855,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: calis, thus"
+          "Corroborating displayed coauthors in the verified publication network: calis, thus",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -44598,23 +45893,37 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600040",
       "authors": [
         {
-          "name": "KA Thus"
+          "name": "Kirsten A. Thus"
         },
         {
-          "name": "J Calis"
+          "name": "Jorg Calis"
         },
         {
-          "name": "E Spierings"
+          "name": "Liane te Boome"
+        },
+        {
+          "name": "Eric Borst"
+        },
+        {
+          "name": "Can Kesmir"
+        },
+        {
+          "name": "Jurgen Kuball"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Thus, KA; Calis, J; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -44632,10 +45941,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: calis, thus"
+          "Corroborating displayed coauthors in the verified publication network: calis, thus",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -44669,23 +45979,31 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600226",
       "authors": [
         {
-          "name": "L Plasier"
+          "name": "Loes Plasier"
         },
         {
-          "name": "N Geerts"
+          "name": "Nora Geerts"
         },
         {
-          "name": "E Spierings"
+          "name": "Walter van Ginkel"
+        },
+        {
+          "name": "Renate van der Weerd"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Plasier, L; Geerts, N; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -44703,10 +46021,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: geerts"
+          "Corroborating displayed coauthors in the verified publication network: geerts",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -44740,23 +46059,31 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600237",
       "authors": [
         {
-          "name": "T de Hoop"
+          "name": "Talitha de Hoop"
         },
         {
-          "name": "S Postma"
+          "name": "Saskia Postma"
         },
         {
-          "name": "E Spierings"
+          "name": "Steve Lake"
+        },
+        {
+          "name": "Cafer Yildiz"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "de Hoop, T; Postma, S; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -44774,10 +46101,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: hoop"
+          "Corroborating displayed coauthors in the verified publication network: hoop",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -44811,23 +46139,31 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000318523600225",
       "authors": [
         {
-          "name": "M van Soest"
+          "name": "Mariska van Soest"
         },
         {
-          "name": "M Rosel"
+          "name": "Maureen Rosel"
         },
         {
-          "name": "E Spierings"
+          "name": "Anna de Graaff"
+        },
+        {
+          "name": "Bianca Zwan"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "van Soest, M; Rosel, M; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -44845,10 +46181,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: rosel, soest"
+          "Corroborating displayed coauthors in the verified publication network: rosel, soest",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -45118,23 +46455,37 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000303499800115",
       "authors": [
         {
-          "name": "KA Thus"
+          "name": "Kirsten A. Thus"
         },
         {
-          "name": "SM van Walraven"
+          "name": "Suzanna M. van Walraven"
         },
         {
-          "name": "M Oudshoorn"
+          "name": "Eric Borst"
+        },
+        {
+          "name": "Can Kesmir"
+        },
+        {
+          "name": "Monique M. Joris"
+        },
+        {
+          "name": "Eric Spierings"
+        },
+        {
+          "name": "Machteld Oudshoorn"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Thus, KA; van Walraven, SM; (...); Oudshoorn, M",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -45152,10 +46503,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: oudshoorn, thus, walraven"
+          "Corroborating displayed coauthors in the verified publication network: oudshoorn, thus, walraven",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -45189,23 +46541,34 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000303499800133",
       "authors": [
         {
-          "name": "E Spierings"
+          "name": "Eric Spierings"
         },
         {
-          "name": "M Stern"
+          "name": "Martin Stern"
         },
         {
-          "name": "EW Petersdorf"
+          "name": "Alois Gratwohl"
+        },
+        {
+          "name": "Mari Malkki"
+        },
+        {
+          "name": "Ted A. Gooley"
+        },
+        {
+          "name": "Effie W. Petersdorf"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Spierings, E; Stern, M; (...); Petersdorf, EW",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "first"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -45223,10 +46586,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: petersdorf, stern"
+          "Corroborating displayed coauthors in the verified publication network: petersdorf, stern",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -45260,23 +46624,34 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000306994301378",
       "authors": [
         {
-          "name": "A Mubarak"
+          "name": "Amani Mubarak"
         },
         {
-          "name": "E Spierings"
+          "name": "Eric Spierings"
         },
         {
-          "name": "R Houwen"
+          "name": "Victorien M. Wolters"
+        },
+        {
+          "name": "Ingrid M. van Hoogstraten"
+        },
+        {
+          "name": "Corneille M. Kneepkens"
+        },
+        {
+          "name": "Roderick Houwen"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Mubarak, A; Spierings, E; (...); Houwen, R",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -45294,10 +46669,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: houwen, mubarak"
+          "Corroborating displayed coauthors in the verified publication network: houwen, mubarak",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -45331,23 +46707,28 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000306994301393",
       "authors": [
         {
-          "name": "A Mubarak"
+          "name": "Amani Mubarak"
         },
         {
-          "name": "E Spierings"
+          "name": "Eric Spierings"
         },
         {
-          "name": "R Houwen"
+          "name": "Victorien M. Wolters"
+        },
+        {
+          "name": "Roderick Houwen"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Mubarak, A; Spierings, E; (...); Houwen, R",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "middle"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -45365,10 +46746,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: houwen, mubarak"
+          "Corroborating displayed coauthors in the verified publication network: houwen, mubarak",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -45571,17 +46953,20 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000289249000032",
       "authors": [
         {
-          "name": "MP Dierselhuis"
+          "name": "M. P. Dierselhuis"
         },
         {
-          "name": "E Schrama"
+          "name": "E. Schrama"
         },
         {
-          "name": "E Spierings"
+          "name": "D. W. Scott"
+        },
+        {
+          "name": "E. Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Dierselhuis, MP; Schrama, E; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -45605,10 +46990,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: dierselhuis, schrama"
+          "Corroborating displayed coauthors in the verified publication network: dierselhuis, schrama",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -45793,17 +47179,44 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000277611300111",
       "authors": [
         {
-          "name": "Y Kim"
+          "name": "Y. Kim"
         },
         {
-          "name": "CMJM Faaij"
+          "name": "C. M. J. M. Faaij"
         },
         {
-          "name": "E Spierings"
+          "name": "A. G. S. van Halteren"
+        },
+        {
+          "name": "E. Schrama"
+        },
+        {
+          "name": "T. A. M. Dellemijn"
+        },
+        {
+          "name": "J. Scholer"
+        },
+        {
+          "name": "S. Pavel"
+        },
+        {
+          "name": "R. M. Egeler"
+        },
+        {
+          "name": "F. A. Vyth-Dreese"
+        },
+        {
+          "name": "M. J. D. van Tol"
+        },
+        {
+          "name": "E. Goulmy"
+        },
+        {
+          "name": "E. Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Kim, Y; Faaij, CMJM; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -45827,10 +47240,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: faaij, kim"
+          "Corroborating displayed coauthors in the verified publication network: faaij, kim",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -45864,23 +47278,52 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000276659100061",
       "authors": [
         {
-          "name": "YH Kim"
+          "name": "Yeung-Hyen Kim"
         },
         {
-          "name": "C Faaij"
+          "name": "Claudia Faaij"
         },
         {
-          "name": "E Spierings"
+          "name": "Astrid van Halteren"
+        },
+        {
+          "name": "Ellen Schrama"
+        },
+        {
+          "name": "Trees Dellemijn"
+        },
+        {
+          "name": "Jorgen Scholler"
+        },
+        {
+          "name": "Stan Pavel"
+        },
+        {
+          "name": "Maarten Egeler"
+        },
+        {
+          "name": "Florry Vyth-Dreese"
+        },
+        {
+          "name": "Maarten van Tol"
+        },
+        {
+          "name": "Els Goulmy"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Kim, YH; Faaij, C; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -45898,10 +47341,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: faaij, kim"
+          "Corroborating displayed coauthors in the verified publication network: faaij, kim",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -46015,23 +47459,34 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000266032200250",
       "authors": [
         {
-          "name": "A van Dijk"
+          "name": "Anette van Dijk"
         },
         {
-          "name": "W van Ginkel"
+          "name": "Walter van Ginkel"
         },
         {
-          "name": "E Spierings"
+          "name": "Daphne B. Gijselaar"
+        },
+        {
+          "name": "Talitha de Hoop"
+        },
+        {
+          "name": "Henny G. Otten"
+        },
+        {
+          "name": "Eric Spierings"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "van Dijk, A; van Ginkel, W; (...); Spierings, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "last"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -46049,10 +47504,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: dijk, ginkel"
+          "Corroborating displayed coauthors in the verified publication network: dijk, ginkel",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -46256,23 +47712,52 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000266032200008",
       "authors": [
         {
-          "name": "E Spierings"
+          "name": "Eric Spierings"
         },
         {
-          "name": "S Gras"
+          "name": "Stephanie Gras"
         },
         {
-          "name": "E Goulmy"
+          "name": "Jean-Baptiste Reiser"
+        },
+        {
+          "name": "Bregje Mommaas"
+        },
+        {
+          "name": "Mathilde Almekinders"
+        },
+        {
+          "name": "Michel Kester"
+        },
+        {
+          "name": "Anne Chouquet"
+        },
+        {
+          "name": "Madalen Le Gorrec"
+        },
+        {
+          "name": "Jan-Wouter Drijfhout"
+        },
+        {
+          "name": "Ferry Ossendorp"
+        },
+        {
+          "name": "Dominique Housset"
+        },
+        {
+          "name": "Els Goulmy"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Spierings, E; Gras, S; (...); Goulmy, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
         "profile": "https://www.webofscience.com/wos/author/record/AAU-5138-2021"
       },
-      "selfAuthorPositions": [],
+      "selfAuthorPositions": [
+        "first"
+      ],
       "abstract": null,
       "categories": [],
       "key": false,
@@ -46290,10 +47775,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: goulmy, gras"
+          "Corroborating displayed coauthors in the verified publication network: goulmy, gras",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -46327,17 +47813,29 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000258444500050",
       "authors": [
         {
-          "name": "M Dierselhuis"
+          "name": "M. Dierselhuis"
         },
         {
-          "name": "J Pool"
+          "name": "J. Pool"
         },
         {
-          "name": "E Goulmy"
+          "name": "A. Joosten"
+        },
+        {
+          "name": "A. van Halteren"
+        },
+        {
+          "name": "E. Spierings"
+        },
+        {
+          "name": "W. Burlingham"
+        },
+        {
+          "name": "E. Goulmy"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Dierselhuis, M; Pool, J; (...); Goulmy, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46361,10 +47859,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: dierselhuis, goulmy, pool"
+          "Corroborating displayed coauthors in the verified publication network: dierselhuis, goulmy, pool",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -46398,17 +47897,44 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000258444500051",
       "authors": [
         {
-          "name": "E Spierings"
+          "name": "E. Spierings"
         },
         {
-          "name": "S Gras"
+          "name": "S. Gras"
         },
         {
-          "name": "E Goulmy"
+          "name": "J. Reiser"
+        },
+        {
+          "name": "B. Mommaas"
+        },
+        {
+          "name": "M. Almekinders"
+        },
+        {
+          "name": "M. Kester"
+        },
+        {
+          "name": "A. Chouquet"
+        },
+        {
+          "name": "M. Le Gorrec"
+        },
+        {
+          "name": "J. Drijfhout"
+        },
+        {
+          "name": "F. Ossendorp"
+        },
+        {
+          "name": "D. Housset"
+        },
+        {
+          "name": "E. Goulmy"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Spierings, E; Gras, S; (...); Goulmy, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46432,10 +47958,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: goulmy, gras"
+          "Corroborating displayed coauthors in the verified publication network: goulmy, gras",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -46469,17 +47996,113 @@
       "url": "https://www.webofscience.com/wos/woscc/full-record/WOS:000245985000006",
       "authors": [
         {
-          "name": "E Spierings"
+          "name": "E. Spierings"
         },
         {
-          "name": "M Hendriks"
+          "name": "M. Hendriks"
         },
         {
-          "name": "E Goulmy"
+          "name": "L. Absi"
+        },
+        {
+          "name": "A. Canossi"
+        },
+        {
+          "name": "S. Chhaya"
+        },
+        {
+          "name": "J. Crowley"
+        },
+        {
+          "name": "H. Dolstra"
+        },
+        {
+          "name": "J. F. Eliaou"
+        },
+        {
+          "name": "T. Ellis"
+        },
+        {
+          "name": "J. Enczmann"
+        },
+        {
+          "name": "M. Fasano"
+        },
+        {
+          "name": "T. Gervais"
+        },
+        {
+          "name": "C. Gorodezky"
+        },
+        {
+          "name": "B. Kircher"
+        },
+        {
+          "name": "D. Laurin"
+        },
+        {
+          "name": "M. Leffell"
+        },
+        {
+          "name": "P. Loiseau"
+        },
+        {
+          "name": "M. Malkki"
+        },
+        {
+          "name": "M. Markiewicz"
+        },
+        {
+          "name": "M. Martinetti"
+        },
+        {
+          "name": "E. Maruya"
+        },
+        {
+          "name": "N. Mehra"
+        },
+        {
+          "name": "F. Oguz"
+        },
+        {
+          "name": "M. Oudshoorn"
+        },
+        {
+          "name": "N. Pereira"
+        },
+        {
+          "name": "R. Rani"
+        },
+        {
+          "name": "R. Sergeant"
+        },
+        {
+          "name": "J. Thomson"
+        },
+        {
+          "name": "T. H. Tran"
+        },
+        {
+          "name": "H. Turpeinen"
+        },
+        {
+          "name": "K. L. Yang"
+        },
+        {
+          "name": "R. Zunec"
+        },
+        {
+          "name": "M. Carrington"
+        },
+        {
+          "name": "P. de Knijff"
+        },
+        {
+          "name": "E. Goulmy"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Spierings, E; Hendriks, M; (...); Goulmy, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46503,10 +48126,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: goulmy, hendriks"
+          "Corroborating displayed coauthors in the verified publication network: goulmy, hendriks",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -46546,11 +48170,20 @@
           "name": "J Drabbels"
         },
         {
+          "name": "J Pool"
+        },
+        {
+          "name": "M Hendriks"
+        },
+        {
+          "name": "F Claas"
+        },
+        {
           "name": "E Goulmy"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Spierings, E; Drabbels, J; (...); Goulmy, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46574,10 +48207,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: drabbels, goulmy"
+          "Corroborating displayed coauthors in the verified publication network: drabbels, goulmy",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -46617,11 +48251,20 @@
           "name": "D Ruigrok"
         },
         {
+          "name": "C Vermeulen"
+        },
+        {
+          "name": "J Enczmann"
+        },
+        {
+          "name": "J Pool"
+        },
+        {
           "name": "E Goulmy"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Spierings, E; Ruigrok, D; (...); Goulmy, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46645,10 +48288,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: goulmy"
+          "Corroborating displayed coauthors in the verified publication network: goulmy",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -46688,11 +48332,38 @@
           "name": "E Spierings"
         },
         {
+          "name": "Y Bertrand"
+        },
+        {
+          "name": "M Vogt"
+        },
+        {
+          "name": "JHF Falkenburg"
+        },
+        {
+          "name": "C Vermeulen"
+        },
+        {
+          "name": "C Galambrun"
+        },
+        {
+          "name": "G Souillet"
+        },
+        {
+          "name": "L Gebuhrer"
+        },
+        {
+          "name": "D Rigal"
+        },
+        {
+          "name": "E Goulmy"
+        },
+        {
           "name": "A Eljaafari"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Laurin, D; Spierings, E; (...); Eljaafari, A",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46716,10 +48387,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: eljaafari, laurin"
+          "Corroborating displayed coauthors in the verified publication network: eljaafari, laurin",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -46759,11 +48431,20 @@
           "name": "CJ Vermeulen"
         },
         {
+          "name": "T Mutis"
+        },
+        {
+          "name": "MH Vogt"
+        },
+        {
+          "name": "JHF Falkenburg"
+        },
+        {
           "name": "E Goulmy"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Spierings, E; Vermeulen, CJ; (...); Goulmy, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46787,10 +48468,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: goulmy, vermeulen"
+          "Corroborating displayed coauthors in the verified publication network: goulmy, vermeulen",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -46830,11 +48512,17 @@
           "name": "E Spierings"
         },
         {
+          "name": "AG Brickner"
+        },
+        {
+          "name": "VH Engelhard"
+        },
+        {
           "name": "E Goulmy"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Vermeulen, CJ; Spierings, E; (...); Goulmy, E",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46858,10 +48546,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: goulmy, vermeulen"
+          "Corroborating displayed coauthors in the verified publication network: goulmy, vermeulen",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -46901,11 +48590,32 @@
           "name": "JA Caldwell"
         },
         {
+          "name": "E Spierings"
+        },
+        {
+          "name": "E Blokland"
+        },
+        {
+          "name": "R Pierce"
+        },
+        {
+          "name": "S Mollah"
+        },
+        {
+          "name": "J Shabanowitz"
+        },
+        {
+          "name": "DF Hunt"
+        },
+        {
+          "name": "E Goulmy"
+        },
+        {
           "name": "VH Engelhard"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Brickner, AG; Caldwell, JA; (...); Engelhard, VH",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -46929,10 +48639,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: brickner, caldwell, engelhard"
+          "Corroborating displayed coauthors in the verified publication network: brickner, caldwell, engelhard",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",
@@ -46972,11 +48683,29 @@
           "name": "JW van den Muijsenberg"
         },
         {
+          "name": "EA Goulmy"
+        },
+        {
+          "name": "E Spierings"
+        },
+        {
+          "name": "P Kluck"
+        },
+        {
+          "name": "MG Kester"
+        },
+        {
+          "name": "JW Drijfhout"
+        },
+        {
+          "name": "R Willemze"
+        },
+        {
           "name": "JHF Falkenburg"
         }
       ],
-      "authorsComplete": false,
-      "authorSummary": "Vogt, MHJ; van den Muijsenberg, JW; (...); Falkenburg, JHF",
+      "authorsComplete": true,
+      "authorSummary": null,
       "verifiedProfileAuthor": {
         "name": "Eric Spierings",
         "orcid": "0000-0001-9441-1019",
@@ -47000,10 +48729,11 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27",
+        "checkedAt": "2026-10-28",
         "identityEvidence": [
           "Work explicitly linked in Eric Spierings’ claimed WoS researcher profile AAU-5138-2021, whose ORCID is 0000-0001-9441-1019.",
-          "Corroborating displayed coauthors in the verified publication network: falkenburg, muijsenberg, vogt"
+          "Corroborating displayed coauthors in the verified publication network: falkenburg, muijsenberg, vogt",
+          "Complete source author order checked against the Web of Science record on 28 October 2026."
         ],
         "classificationEvidence": [
           "WoS profile explicitly labels this contribution Meeting Abstract.",

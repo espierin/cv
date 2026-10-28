@@ -59,3 +59,11 @@ The dark theme has been revised for substantially stronger contrast and readabil
 - readable modal metadata and abstracts;
 - improved badges, filters, charts and contact cards;
 - light mode remains the default unless a visitor explicitly selected dark mode earlier.
+
+## Reviewed profile and publication types (28 October 2026)
+
+The Career section contains the reviewed ORCID affiliations: six employment appointments, seven education and qualification records, and 33 professional activities. `profile-affiliations.json` stores the public reviewed snapshot. Update the snapshot and rendered Career section together when affiliations change.
+
+The publication browser combines `publications` and verified `conferenceAbstracts` from `publications.json`. Its default is **Regular publications** with all regular works shown. Select **Abstract** to browse conference abstracts or **All types (including abstracts)** to combine both. Changing type resets the view to all works so the Key publications view cannot hide the abstracts. Search and the other filters apply to both types. Research metrics continue to use regular publications only.
+
+The separate conference abstract list has been removed. Abstract provenance links are available in the shared details dialog. The curated registry preserves verified complete author lists during scheduled refreshes.
