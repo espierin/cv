@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Eric Spierings | Transplantation Immunology & Immunogenetics</title>
   <meta name="description" content="Professional profile of Eric Spierings, Associate Professor and medical immunologist at UMC Utrecht, working in transplantation immunology, immunogenetics, HLA diagnostics, epitope matching, and clinical implementation.">
   <meta name="theme-color" content="#005eb8">
@@ -3113,6 +3113,7 @@
   </script>
   <script type="application/ld+json" id="publications-schema">{}</script>
 
+  <link rel="stylesheet" href="mobile.css">
 </head>
 
 <body>
@@ -4056,6 +4057,7 @@
         </div>
 
         <div class="publication-list" id="publication-list"></div>
+        <button class="button button-secondary publication-more" id="publication-more" type="button" hidden>Show more publications</button>
 
         <p class="section-intro" style="margin-top:24px;">
           Source:
@@ -4426,10 +4428,25 @@
       return badges.join("");
     }
 
+    const phonePublications = window.matchMedia("(max-width: 620px)");
+    let phonePublicationLimit = 8;
+    let phoneFilterKey = "";
+    const morePublications = document.getElementById("publication-more");
+    morePublications.addEventListener("click", () => { phonePublicationLimit += 8; renderPublications(); });
+    phonePublications.addEventListener("change", renderPublications);
+
     function renderPublications() {
+      const filterKey = JSON.stringify([state.view, state.category, state.query, state.year, state.journal, state.type, state.position, state.access]);
+      if (filterKey !== phoneFilterKey) {
+        phonePublicationLimit = 8;
+        phoneFilterKey = filterKey;
+      }
       const publications = visiblePublications();
+      const shownPublications = phonePublications.matches ? publications.slice(0, phonePublicationLimit) : publications;
+      morePublications.hidden = shownPublications.length >= publications.length;
+      morePublications.textContent = `Show ${Math.min(8, publications.length - shownPublications.length)} more publications`;
       countElement.textContent =
-        `${publications.length} ${publications.length === 1 ? "publication" : "publications"}`;
+        `${shownPublications.length < publications.length ? shownPublications.length + " of " : ""}${publications.length} ${state.type === "Abstract" ? "abstracts" : publications.length === 1 ? "publication" : "publications"}`;
 
       if (publications.length === 0) {
         listElement.innerHTML =
@@ -4437,7 +4454,7 @@
         return;
       }
 
-      listElement.innerHTML = publications.map((publication) => {
+      listElement.innerHTML = shownPublications.map((publication) => {
         const url = publicationUrl(publication);
         const pubmed = pubmedUrl(publication);
         const fullText = fullTextUrl(publication);
