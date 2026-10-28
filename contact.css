@@ -1,0 +1,30 @@
+/* Quiet, aligned contact footer with the same treatment for every profile. */
+#contact.contact-band { background: #082b49; padding: 56px 0 40px; overflow: visible; }
+#contact .contact-pattern { display: none; }
+#contact .contact-layout { display: grid; grid-template-columns: minmax(0, .9fr) minmax(0, 1.3fr); gap: 48px; align-items: start; }
+#contact .contact-intro { margin: 0; max-width: 460px; }
+#contact .contact-label { color: #9dc9e7; font-size: .75rem; margin-bottom: 12px; }
+#contact .contact-intro h2 { font-size: clamp(1.8rem, 3vw, 2.4rem); line-height: 1.15; margin-bottom: 16px; }
+#contact .contact-intro > p:last-child { color: #c9d9e6; font-size: .95rem; line-height: 1.7; }
+#contact .contact-links { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 24px; }
+#contact .contact-card { display: grid; grid-template-columns: 28px minmax(0, 1fr) 16px; grid-template-rows: auto; align-items: center; gap: 12px; min-height: 100px; padding: 20px 0; border: 0; border-bottom: 1px solid #31516b; border-radius: 0; background: transparent; box-shadow: none; transform: none; }
+#contact .contact-icon { width: 28px; height: 28px; color: #a9cce4; border: 0; border-radius: 0; background: none; box-shadow: none; }
+#contact .contact-icon svg { width: 26px; height: 26px; }
+#contact .contact-copy strong { margin-bottom: 5px; font-size: .94rem; font-weight: 650; }
+#contact .contact-copy span { color: #c9d9e6; font-size: .82rem; line-height: 1.5; overflow-wrap: anywhere; }
+#contact .contact-arrow { position: static; grid-column: 3; grid-row: 1; align-self: center; color: #a9cce4; font-size: 1.1rem; transform: none; }
+#contact a.contact-card:hover, #contact a.contact-card:focus-visible { background: #123b59; box-shadow: none; transform: none; }
+#contact a.contact-card:focus-visible { outline: 2px solid #a9cce4; outline-offset: 4px; }
+.site-footer, html[data-theme="dark"] .site-footer { background: #082b49; border-top: 0; color: #b3c9da; }
+.site-footer .footer-inner { padding-top: 20px; padding-bottom: max(24px, env(safe-area-inset-bottom)); border-top: 1px solid #31516b; font-size: .8rem; }
+@media (max-width: 980px) {
+  #contact .contact-layout { grid-template-columns: minmax(0, 1fr); gap: 24px; }
+  #contact .contact-intro { max-width: 650px; }
+}
+@media (max-width: 620px) {
+  #contact.contact-band { padding: 40px 0 28px; }
+  #contact .contact-layout { gap: 20px; }
+  #contact .contact-links { grid-template-columns: minmax(0, 1fr); }
+  #contact .contact-card { min-height: 80px; padding: 16px 0; }
+  #contact .contact-copy span { font-size: .88rem; }
+}

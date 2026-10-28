@@ -3114,6 +3114,7 @@
   <script type="application/ld+json" id="publications-schema">{}</script>
 
   <link rel="stylesheet" href="mobile.css">
+  <link rel="stylesheet" href="contact.css">
 </head>
 
 <body>
@@ -4040,8 +4041,8 @@
           </div>
 
           <div class="output-toolbar" role="group" aria-label="Publication display controls">
-            <button class="view-button" type="button" data-view="key">Key publications</button>
-            <button class="view-button active" type="button" data-view="all">All publications</button>
+            <button class="view-button active" type="button" data-view="key">Key publications</button>
+            <button class="view-button" type="button" data-view="all">All publications</button>
             <button class="view-button" type="button" data-view="highly-cited">Highly cited</button>
 
             <button class="filter-button active" type="button" data-filter="all">All categories</button>
@@ -4107,7 +4108,6 @@
               <strong>Email</strong>
               <span>e.spierings (a) umcutrecht.nl</span>
             </span>
-            <span class="contact-arrow" aria-hidden="true">→</span>
           </div>
 
           <a class="contact-card contact-card-orcid" href="https://orcid.org/0000-0001-9441-1019" target="external" rel="noopener noreferrer" aria-label="Open Eric Spierings' ORCID profile">
@@ -4232,7 +4232,7 @@
     const state = {
       publications: [],
       conferenceAbstracts: [],
-      view: "all",
+      view: "key",
       category: "all",
       query: "",
       year: "all",
