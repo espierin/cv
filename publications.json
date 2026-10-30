@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-10-29T10:56:14.196Z",
+  "generatedAt": "2026-10-30T10:54:26.519Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "includedWorkTypes": [
     "book",
@@ -11685,7 +11685,7 @@
           "score": 0.00019999999494757503
         }
       ],
-      "citedByCount": 96,
+      "citedByCount": 95,
       "countsByYear": [
         {
           "year": 2026,
@@ -19203,7 +19203,7 @@
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1111/ajt.14535",
       "openAlexId": "https://openalex.org/W2761181768",
-      "openAlexType": "article",
+      "openAlexType": "letter",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2761181768",
       "abstract": "To the Editor: We thank Guidicelli et al. for sharing their valuable thoughts on our recent publication1Lachmann N, Niemann M, Reinke P, et al. Donor recipient matching based on predicted indirectly recognizable HLA epitopes independently predicts the incidence of de novo donor-specific HLA antibodies following renal transplantation [published online ahead of print 2017]. Am J Transplant. https://doi.org/10.1111/ajt.14393Google Scholar and appreciate the suggestions and ideas for further improvements of PIRCHE-matching.2Guidicelli G, Taupin JL, Visentin J. Predicted indirectly recognizable HLA epitopes (PIRCHE): only the tip of the iceberg? [published online ahead of print 2017]. Am J Transplant. https://doi.org/10.1111/ajt.14474Google Scholar Missing consideration of some allopeptides is a limitation of the version of PIRCHE used in this study. The latest version takes into account additional HLA allopeptide sources (eg, DQA1, DPA1, and more), which hopefully increases the predictive power of the algorithm. However, this feature could not be applied to our retrospective study, as the present data set is incomplete for DQA and DP typings. We acknowledge that the current lack of high-resolution typing is a limitation, and we hope that in the future, technically improved HLA typing methodologies will allow us to consider more precise data, avoiding imputation of genotypes. Including DQA/DQB and DPA/DPB, as allopeptide presenters may further contribute to the predictive power of PIRCHE. Considering alternatively spliced antigenic peptides may be promising as it might have a significant influence on the set of self- but also allopeptides. However, the incidence and significance of splice variants of HLA are currently unknown. Once limitations of in silico prediction of spliced peptides and binding affinity are overcome, this may explain some current outliers in prediction. PIRCHE derived from allo minor histocompatibility antigens (MHA) are currently under investigation in the context of stem cell transplantation. Whether there is an influence of MHA mismatches on the HLA dnDSA development after kidney transplantation has to be determined. The idea of increasing specificity by neglecting peptides that will not occur in vivo based on predicted cleavage sites of lysosomal proteases might be a promising strategy. In the context of stem cell transplantation, PIRCHE already considers the characteristic cleavage of the proteasome within CD8+ T cells.3Thus KA Ruizendaal MT de Hoop TA et al.Refinement of the definition of permissible HLA-DPB1 mismatches with predicted indirectly recognizable HLA-DPB1 epitopes.Biol Blood Marrow Transplant. 2014; 20: 1705-1710Abstract Full Text Full Text PDF PubMed Scopus (26) Google Scholar For applying PIRCHE in kidney transplantation, corresponding prediction tools are currently under evaluation. It is tempting to consider the human proteome as peptide background to further refine the model of thymic negative selection. However, comparison of HLA-derived peptides with the human proteome (15-mers from IMGT- versus NextProt-database; own analysis) revealed that the set of HLA-derived peptides is very different from the set of peptides derived from other human proteins. There is no overlap between both sets. Thus, there is practically no impact on the calculation of PIRCHE to be expected. Whether this still holds true for alternatively spliced peptides has to be analyzed in the future. A different strategy may be the combination of HLAMatchmaker and PIRCHE, considering only eplet-mismatched HLA as allopeptide source. Preliminary data on this linked recognition approach suggest that it might have both a better discriminative ability and calibration in the prediction of dnDSA than each individual approach.4Lachmann N Staeck O Niemann M et al.Predicted indirectly recognizable HLA epitopes from eplet mismatches correlate with de novo donor-specific HLA antibodies after kidney transplantation [abstract].HLA. 2017; 89: 346-347Google Scholar In conclusion, we agree with the team from Bordeaux that epitope matching may represent the future pathway of alloimmune evaluation, and considering PIRCHE may change how epitope compatibility is being assessed. Even though it certainly involves further improvements, PIRCHE is already a powerful tool for predicting indirect allorecognition. The authors of this manuscript have conflicts of interest to disclose as described by the American Journal of Transplantation. MN is employee of PIRCHE AG that runs the PIRCHE web-portal. Eric Spierings: The UMC Utrecht has filed a patent application on the prediction of an alloimmune response against mismatched HLA. Eric Spierings is listed as inventor on this patent. The other authors have no conflicts of interest to disclose.",
@@ -20552,7 +20552,7 @@
           "score": 0.0868000015616417
         }
       ],
-      "citedByCount": 28,
+      "citedByCount": 27,
       "countsByYear": [
         {
           "year": 2025,
@@ -20589,10 +20589,6 @@
         {
           "year": 2017,
           "cited_by_count": 5
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
         }
       ],
       "isOpenAccess": true,
