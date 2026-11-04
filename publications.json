@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-11-03T11:59:18.964Z",
+  "generatedAt": "2026-11-04T12:15:35.311Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "includedWorkTypes": [
     "book",
@@ -1694,8 +1694,13 @@
           "score": 0.004399999976158142
         }
       ],
-      "citedByCount": 0,
-      "countsByYear": [],
+      "citedByCount": 1,
+      "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
       "isOpenAccess": true,
       "openAccessStatus": "hybrid",
       "relatedOpenAlexWorks": [
@@ -5426,7 +5431,7 @@
           "score": 0.012600000016391277
         }
       ],
-      "citedByCount": 15,
+      "citedByCount": 14,
       "countsByYear": [
         {
           "year": 2026,
@@ -5442,7 +5447,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 2
+          "cited_by_count": 1
         }
       ],
       "isOpenAccess": true,
@@ -10616,11 +10621,11 @@
           "score": 0.031700000166893005
         }
       ],
-      "citedByCount": 100,
+      "citedByCount": 101,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2025,
@@ -12286,7 +12291,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 15
+          "cited_by_count": 16
         },
         {
           "year": 2021,
@@ -12298,7 +12303,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 4
+          "cited_by_count": 3
         }
       ],
       "isOpenAccess": true,
@@ -12849,7 +12854,7 @@
           "score": 0.001500000013038516
         }
       ],
-      "citedByCount": 55,
+      "citedByCount": 54,
       "countsByYear": [
         {
           "year": 2026,
@@ -12881,7 +12886,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 6
+          "cited_by_count": 5
         }
       ],
       "isOpenAccess": true,
@@ -17747,7 +17752,7 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 76,
+      "citedByCount": 75,
       "countsByYear": [
         {
           "year": 2026,
@@ -17783,7 +17788,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 13
+          "cited_by_count": 12
         }
       ],
       "isOpenAccess": true,
@@ -26121,11 +26126,11 @@
           "score": 0.03020000085234642
         }
       ],
-      "citedByCount": 84,
+      "citedByCount": 85,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -27827,11 +27832,11 @@
           "score": 0.00039999998989515007
         }
       ],
-      "citedByCount": 113,
+      "citedByCount": 114,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 10
+          "cited_by_count": 11
         },
         {
           "year": 2025,
@@ -31255,7 +31260,7 @@
           "score": 0.00019999999494757503
         }
       ],
-      "citedByCount": 61,
+      "citedByCount": 62,
       "countsByYear": [
         {
           "year": 2025,
@@ -31291,7 +31296,7 @@
         },
         {
           "year": 2013,
-          "cited_by_count": 5
+          "cited_by_count": 6
         }
       ],
       "isOpenAccess": false,
@@ -31580,7 +31585,7 @@
           "score": 0.0013000000035390258
         }
       ],
-      "citedByCount": 94,
+      "citedByCount": 95,
       "countsByYear": [
         {
           "year": 2022,
@@ -31620,7 +31625,7 @@
         },
         {
           "year": 2013,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2012,
@@ -31837,7 +31842,7 @@
           "score": 0.12269999831914902
         }
       ],
-      "citedByCount": 9,
+      "citedByCount": 10,
       "countsByYear": [
         {
           "year": 2023,
@@ -31849,6 +31854,10 @@
         },
         {
           "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
           "cited_by_count": 1
         },
         {
@@ -32267,7 +32276,7 @@
           "score": 0.0017999999690800905
         }
       ],
-      "citedByCount": 44,
+      "citedByCount": 45,
       "countsByYear": [
         {
           "year": 2025,
@@ -32311,7 +32320,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2013,
@@ -33710,7 +33719,7 @@
           "score": 0.0012000000569969416
         }
       ],
-      "citedByCount": 0,
+      "citedByCount": 1,
       "countsByYear": [],
       "isOpenAccess": false,
       "openAccessStatus": "closed",
@@ -34130,7 +34139,7 @@
           "score": 0
         }
       ],
-      "citedByCount": 63,
+      "citedByCount": 64,
       "countsByYear": [
         {
           "year": 2026,
