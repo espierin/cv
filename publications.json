@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-11-06T12:19:17.673Z",
+  "generatedAt": "2026-11-07T11:07:12.526Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "includedWorkTypes": [
     "book",
@@ -40,10 +40,10 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1002/adhm.71737",
-      "pmid": null,
-      "pmcid": null,
+      "pmid": "42765550",
+      "pmcid": "PMC13691386",
       "url": "https://doi.org/10.1002/adhm.71737",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC13691386",
       "bestOpenAccessUrl": "https://doi.org/10.1002/adhm.71737",
       "openAlexId": "https://openalex.org/W7213878845",
       "openAlexType": "article",
@@ -177,7 +177,16 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Heart Valves",
+        "Leukocytes, Mononuclear",
+        "Killer Cells, Natural",
+        "Humans",
+        "Lentivirus",
+        "Gene Expression Profiling",
+        "Heart Valve Prosthesis",
+        "Immune Evasion"
+      ],
       "keywords": [
         "immune evasion",
         "lentiviral gene delivery",
@@ -233,9 +242,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.70725",
       "pmid": "42007733",
-      "pmcid": null,
+      "pmcid": "PMC13094400",
       "url": "https://doi.org/10.1111/tan.70725",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC13094400",
       "bestOpenAccessUrl": "https://doi.org/10.1111/tan.70725",
       "openAlexId": "https://openalex.org/W7154974896",
       "openAlexType": "review",
@@ -346,7 +355,15 @@
       "key": true,
       "impactFactor": 5,
       "impactFactorSource": "Configured manually",
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "HLA Antigens",
+        "Histocompatibility Testing",
+        "Genotype",
+        "Quality Control",
+        "Genotyping Techniques",
+        "Laboratories, Clinical"
+      ],
       "keywords": [
         "HLA typing",
         "laboratory data management",
@@ -404,10 +421,10 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.70693",
-      "pmid": null,
-      "pmcid": null,
+      "pmid": "42261830",
+      "pmcid": "PMC13060008",
       "url": "https://doi.org/10.1111/tan.70693",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC13060008",
       "bestOpenAccessUrl": "https://doi.org/10.1111/tan.70693",
       "openAlexId": "https://openalex.org/W7151842473",
       "openAlexType": "article",
@@ -521,7 +538,14 @@
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "HLA Antigens",
+        "Histocompatibility Testing",
+        "Immunogenetics",
+        "Genotype",
+        "Phenotype"
+      ],
       "keywords": [
         "HLA phenotyping",
         "HLA antibodies",
@@ -575,10 +599,10 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.3389/ti.2026.15423",
-      "pmid": null,
-      "pmcid": null,
+      "pmid": "41858495",
+      "pmcid": "PMC12995821",
       "url": "https://doi.org/10.3389/ti.2026.15423",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC12995821",
       "bestOpenAccessUrl": "https://doi.org/10.3389/ti.2026.15423",
       "openAlexId": "https://openalex.org/W7133521944",
       "openAlexType": "article",
@@ -805,13 +829,28 @@
       ],
       "volumeIssuePages": "vol. 39, pp. 15423",
       "categories": [
+        "matching",
         "outcome"
       ],
-      "primaryCategoryLabel": "Outcome",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Blood Group Incompatibility",
+        "ABO Blood-Group System",
+        "HLA Antigens",
+        "Histocompatibility Testing",
+        "Kidney Transplantation",
+        "Monte Carlo Method",
+        "Retrospective Studies",
+        "Algorithms",
+        "Living Donors",
+        "Tissue and Organ Procurement",
+        "Netherlands",
+        "Female"
+      ],
       "keywords": [
         "organ allocation algorithms",
         "highly sensitized patients",
@@ -870,9 +909,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.3389/fimmu.2026.1713932",
       "pmid": "41737233",
-      "pmcid": null,
+      "pmcid": "PMC12926155",
       "url": "https://europepmc.org/articles/PMC12926155",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC12926155",
       "bestOpenAccessUrl": "https://doi.org/10.3389/fimmu.2026.1713932",
       "openAlexId": "https://openalex.org/W7128363087",
       "openAlexType": "article",
@@ -981,7 +1020,20 @@
       "key": false,
       "impactFactor": 7,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes",
+        "Humans",
+        "Cytomegalovirus",
+        "Cytomegalovirus Infections",
+        "HLA-B Antigens",
+        "Kidney Transplantation",
+        "Retrospective Studies",
+        "Graft Rejection",
+        "Adult",
+        "Middle Aged",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "CMV serostatus",
         "T cell-mediated rejection",
@@ -1043,7 +1095,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W4412707574",
-      "abstract": "BACKGROUND: Minor histocompatibility antigens play an important role in eliciting an alloimmune response in allogeneic hematopoietic stem cell transplantation (allo-HSCT). HY antigens, minor histocompatibility antigens originating from distinct regions of the Y chromosome, serve as immunogenic targets in female-to-male (FtoM) allo-HSCT, potentially increasing the risk of graft-versus-host disease (GVHD) and the development of allogeneic HY antibodies. Moreover, extensive HLA polymorphism and diverse peptide-binding specificities of HLA molecules can lead to varying alloimmunity and subsequent clinical risks/benefits among patients upon exposure to the HY antigen. OBJECTIVE: In the current study, we investigated the clinical implications of HY molecular disparity using the predicted indirectly recognizable HY epitopes (PIRCHyE) score (PS) in 712 patients undergoing allo-HSCT from an HLA-matched related donor, including 336 gender-mismatched HSCT. RESULTS: In FtoM (N = 194) allo-HSCT, higher PS-I, which theoretically reflects CD8+ T-cell alloreactivity triggered by HY antigens, was associated with a significantly higher rate of grade III-IV acute GVHD (P = .005) and an increased relapse rate (P = .01). In contrast, high PS-II correlated with reduced progression (P = .04) and a higher risk of chronic GVHD (P = .01). To further explore the interplay between CD4 T-helper cell responses (PS-II) and CD8 cytotoxic effects (PS-I), we simultaneously assessed the impact of PS-I and PS-II and found high PS-I/low PS-II was associated with a significantly higher relapse rate (P = .002) and lower progression-free survival (PFS) (P = .02). Conversely, a low PS-I/high PS-II was significantly associated with a higher chronic GVHD rate (P = .02) and a favorable trend in PFS (P = .2) in multivariate analysis. No such effects were observed in the male-to-female allo-HSCT group. CONCLUSION: These findings indicate that molecular assessment of HY antigens enables quantitative prediction of HY alloreactivity, which may enhance donor selection and help mitigate complications in allo-HSCT.",
+      "abstract": "Background Minor histocompatibility antigens play an important role in eliciting an alloimmune response in allogeneic hematopoietic stem cell transplantation (allo-HSCT). HY antigens, minor histocompatibility antigens originating from distinct regions of the Y chromosome, serve as immunogenic targets in female-to-male (FtoM) allo-HSCT, potentially increasing the risk of graft-versus-host disease (GVHD) and the development of allogeneic HY antibodies. Moreover, extensive HLA polymorphism and diverse peptide-binding specificities of HLA molecules can lead to varying alloimmunity and subsequent clinical risks/benefits among patients upon exposure to the HY antigen. Objective In the current study, we investigated the clinical implications of HY molecular disparity using the predicted indirectly recognizable HY epitopes (PIRCHyE) score (PS) in 712 patients undergoing allo-HSCT from an HLA-matched related donor, including 336 gender-mismatched HSCT. Results In FtoM (N = 194) allo-HSCT, higher PS-I, which theoretically reflects CD8+ T-cell alloreactivity triggered by HY antigens, was associated with a significantly higher rate of grade III-IV acute GVHD (P = .005) and an increased relapse rate (P = .01). In contrast, high PS-II correlated with reduced progression (P = .04) and a higher risk of chronic GVHD (P = .01). To further explore the interplay between CD4 T-helper cell responses (PS-II) and CD8 cytotoxic effects (PS-I), we simultaneously assessed the impact of PS-I and PS-II and found high PS-I/low PS-II was associated with a significantly higher relapse rate (P = .002) and lower progression-free survival (PFS) (P = .02). Conversely, a low PS-I/high PS-II was significantly associated with a higher chronic GVHD rate (P = .02) and a favorable trend in PFS (P = .2) in multivariate analysis. No such effects were observed in the male-to-female allo-HSCT group. Conclusion These findings indicate that molecular assessment of HY antigens enables quantitative prediction of HY alloreactivity, which may enhance donor selection and help mitigate complications in allo-HSCT.",
       "authors": [
         {
           "name": "Rima M. Saliba",
@@ -1211,7 +1263,21 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Graft vs Host Disease",
+        "Chronic Disease",
+        "Recurrence",
+        "H-Y Antigen",
+        "Hematopoietic Stem Cell Transplantation",
+        "Transplantation, Homologous",
+        "Adolescent",
+        "Adult",
+        "Middle Aged",
+        "Female",
+        "Male",
+        "Young Adult"
+      ],
       "keywords": [
         "H-Y antigen",
         "minor histocompatibility antigens",
@@ -1273,16 +1339,16 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.70374",
-      "pmid": null,
-      "pmcid": null,
+      "pmid": "40842414",
+      "pmcid": "PMC12371389",
       "url": "https://doi.org/10.1111/tan.70374",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC12371389",
       "bestOpenAccessUrl": "https://doi.org/10.1111/tan.70374",
       "openAlexId": "https://openalex.org/W4413433988",
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W4413433988",
-      "abstract": "ABSTRACT In pregnancy, semi‐allogenic foetal trophoblasts express a specific HLA profile mediating maternal leukocyte contact, crucial for placentation. Paradoxically, maternal immunomodulation requires foetal antigen recognition, especially involving certain HLA molecules. Pre‐eclampsia, a severe hypertensive complication, has been linked to antigenic similarity. Previously, we showed no selection for HLA (in)compatibility in uncomplicated naturally conceived pregnancies. However, pre‐eclamptic pregnancies were associated with increased total maternal–foetal HLA and HLA‐C matching. These associations suggest a role for HLA mismatches in immune regulation leading to an uncomplicated pregnancy. To better understand HLA homozygosity in human reproduction, we aimed to determine if there is a preferential selection for HLA compatibility in a genetically isolated population, and its relation to hypertensive complications. A nested case‐control study, comprising 125 uncomplicated pregnancies and 50 with hypertensive complications (29 with pregnancy‐induced hypertension, 21 with pre‐eclampsia) was conducted in a genetically isolated Dutch population (FROH 1.3–3.1). Maternal and foetal HLA‐A, ‐B, ‐C, ‐DRB1, ‐DQA1, ‐DQB1 and maternal killer‐cell immunoglobulin‐like receptor (KIR) genotyping were performed. Maternal–foetal HLA (mis)match counts were compared to expected values from randomisation of paternal HLA haplotypes over maternal haplotypes of the foetuses. Mismatched CD4+ T cell epitopes presented by maternal HLA class II were predicted using the PIRCHE‐II algorithm. In uncomplicated pregnancies, no difference was found between observed and expected maternal–foetal HLA (mis)matches. However, pregnancies with hypertensive complications showed significantly higher observed HLA‐DQB1 mismatches, reflected in PIRCHE‐II scores. No significant differences were found in KIR/HLA‐C frequencies. Interpretation is limited by the small sample size and the grouping of distinct hypertensive disorders. Nonetheless, maternal–foetal HLA‐DQB1 mismatch seems to play a role in the aetiology of hypertensive complications during pregnancy in this population.",
+      "abstract": "In pregnancy, semi-allogenic foetal trophoblasts express a specific HLA profile mediating maternal leukocyte contact, crucial for placentation. Paradoxically, maternal immunomodulation requires foetal antigen recognition, especially involving certain HLA molecules. Pre-eclampsia, a severe hypertensive complication, has been linked to antigenic similarity. Previously, we showed no selection for HLA (in)compatibility in uncomplicated naturally conceived pregnancies. However, pre-eclamptic pregnancies were associated with increased total maternal-foetal HLA and HLA-C matching. These associations suggest a role for HLA mismatches in immune regulation leading to an uncomplicated pregnancy. To better understand HLA homozygosity in human reproduction, we aimed to determine if there is a preferential selection for HLA compatibility in a genetically isolated population, and its relation to hypertensive complications. A nested case-control study, comprising 125 uncomplicated pregnancies and 50 with hypertensive complications (29 with pregnancy-induced hypertension, 21 with pre-eclampsia) was conducted in a genetically isolated Dutch population (F ROH 1.3-3.1). Maternal and foetal HLA-A, -B, -C, -DRB1, -DQA1, -DQB1 and maternal killer-cell immunoglobulin-like receptor (KIR) genotyping were performed. Maternal-foetal HLA (mis)match counts were compared to expected values from randomisation of paternal HLA haplotypes over maternal haplotypes of the foetuses. Mismatched CD4 + T cell epitopes presented by maternal HLA class II were predicted using the PIRCHE-II algorithm. In uncomplicated pregnancies, no difference was found between observed and expected maternal-foetal HLA (mis)matches. However, pregnancies with hypertensive complications showed significantly higher observed HLA-DQB1 mismatches, reflected in PIRCHE-II scores. No significant differences were found in KIR/HLA-C frequencies. Interpretation is limited by the small sample size and the grouping of distinct hypertensive disorders. Nonetheless, maternal-foetal HLA-DQB1 mismatch seems to play a role in the aetiology of hypertensive complications during pregnancy in this population.",
       "authors": [
         {
           "name": "Liseanne van 't Hof",
@@ -1420,7 +1486,21 @@
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Hypertension, Pregnancy-Induced",
+        "Pre-Eclampsia",
+        "Histocompatibility Testing",
+        "Case-Control Studies",
+        "Pregnancy",
+        "Genotype",
+        "Alleles",
+        "Adult",
+        "Female",
+        "Receptors, KIR",
+        "Histocompatibility, Maternal-Fetal",
+        "HLA-DQ beta-Chains"
+      ],
       "keywords": [
         "HLA-DQB1",
         "gestational hypertension",
@@ -1483,10 +1563,10 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.70291",
-      "pmid": null,
-      "pmcid": null,
+      "pmid": "40543909",
+      "pmcid": "PMC12182435",
       "url": "https://doi.org/10.1111/tan.70291",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC12182435",
       "bestOpenAccessUrl": "https://doi.org/10.1111/tan.70291",
       "openAlexId": "https://openalex.org/W4411511663",
       "openAlexType": "article",
@@ -1580,7 +1660,20 @@
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "CD4-Positive T-Lymphocytes",
+        "Animals",
+        "Swine",
+        "Humans",
+        "Histocompatibility Antigens Class I",
+        "HLA Antigens",
+        "Epitopes, T-Lymphocyte",
+        "Kidney Transplantation",
+        "Transplantation, Heterologous",
+        "Immunologic Memory",
+        "Heterografts",
+        "Memory T Cells"
+      ],
       "keywords": [
         "SLA",
         "memory T cells",
@@ -1638,9 +1731,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1111/bjh.20035",
       "pmid": "40065633",
-      "pmcid": null,
+      "pmcid": "PMC12078882",
       "url": "https://europepmc.org/articles/PMC12078882",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC12078882",
       "bestOpenAccessUrl": "https://doi.org/10.1111/bjh.20035",
       "openAlexId": "https://openalex.org/W4408327553",
       "openAlexType": "article",
@@ -1849,7 +1942,24 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Graft vs Host Disease",
+        "HLA-B Antigens",
+        "Histocompatibility Testing",
+        "Treatment Outcome",
+        "Cord Blood Stem Cell Transplantation",
+        "Retrospective Studies",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Middle Aged",
+        "Child",
+        "Child, Preschool",
+        "Female",
+        "Male",
+        "Young Adult"
+      ],
       "keywords": [
         "cord blood transplantation",
         "HLA mismatch",
@@ -1913,9 +2023,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.70255",
       "pmid": "40404178",
-      "pmcid": null,
+      "pmcid": "PMC12097852",
       "url": "https://europepmc.org/articles/PMC12097852",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC12097852",
       "bestOpenAccessUrl": "https://doi.org/10.1111/tan.70255",
       "openAlexId": "https://openalex.org/W4410594003",
       "openAlexType": "article",
@@ -2083,13 +2193,25 @@
       ],
       "volumeIssuePages": "vol. 105, no. 5, pp. e70255",
       "categories": [
-        "other"
+        "matching"
       ],
-      "primaryCategoryLabel": "Other",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "HLA Antigens",
+        "Histocompatibility Testing",
+        "Hematopoietic Stem Cell Transplantation",
+        "Registries",
+        "Genotype",
+        "Haplotypes",
+        "Adult",
+        "Female",
+        "Male",
+        "Unrelated Donors"
+      ],
       "keywords": [
         "unrelated donor search",
         "HLA-matched unrelated donor",
@@ -2153,15 +2275,15 @@
       "typeLabel": "Journal-Article",
       "doi": "10.3389/fimmu.2025.1548934",
       "pmid": "40007544",
-      "pmcid": null,
+      "pmcid": "PMC11850546",
       "url": "https://europepmc.org/articles/PMC11850546",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC11850546",
       "bestOpenAccessUrl": "https://doi.org/10.3389/fimmu.2025.1548934",
       "openAlexId": "https://openalex.org/W4407382563",
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W4407382563",
-      "abstract": "Introduction: The immune-mediated rejection of transplanted organs is a complex interplay between T cells and B cells, where the recognition of HLA-derived epitopes plays a crucial role. Several algorithms of molecular compatibility have been suggested, each focusing on a specific aspect of epitope immunogenicity. Methods: Considering reported death-censored graft survival in the SRTR dataset, we evaluated four models of molecular compatibility: antibody-verified Eplets, Snow, PIRCHE-II and amino acid matching. We have statistically evaluated their co-dependency and synergistic effects between models systematically on 400,935 kidney transplantations using Cox proportional hazards and XGBoost models. Results: Multivariable models of histocompatibility generally outperformed univariable predictors, with a combined model of HLA-A, -B, -DR matching, Snow and PIRCHE-II yielding highest AUC in XGBoost and lowest BIC in Cox models. Augmentation of a clinical prediction model of pre-transplant parameters by molecular compatibility metrics improved model performance particularly considering long-term outcomes. Discussion: Our study demonstrates that the use of multiple specialized molecular HLA matching predictors improves prediction performance, thereby improving risk classification and supporting informed decision-making in kidney transplantation.",
+      "abstract": "Introduction The immune-mediated rejection of transplanted organs is a complex interplay between T cells and B cells, where the recognition of HLA-derived epitopes plays a crucial role. Several algorithms of molecular compatibility have been suggested, each focusing on a specific aspect of epitope immunogenicity. Methods Considering reported death-censored graft survival in the SRTR dataset, we evaluated four models of molecular compatibility: antibody-verified Eplets, Snow, PIRCHE-II and amino acid matching. We have statistically evaluated their co-dependency and synergistic effects between models systematically on 400,935 kidney transplantations using Cox proportional hazards and XGBoost models. Results Multivariable models of histocompatibility generally outperformed univariable predictors, with a combined model of HLA-A, -B, -DR matching, Snow and PIRCHE-II yielding highest AUC in XGBoost and lowest BIC in Cox models. Augmentation of a clinical prediction model of pre-transplant parameters by molecular compatibility metrics improved model performance particularly considering long-term outcomes. Discussion Our study demonstrates that the use of multiple specialized molecular HLA matching predictors improves prediction performance, thereby improving risk classification and supporting informed decision-making in kidney transplantation.",
       "authors": [
         {
           "name": "Matthias Niemann",
@@ -2241,7 +2363,22 @@
       "key": true,
       "impactFactor": 7,
       "impactFactorSource": "Configured manually",
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "HLA Antigens",
+        "Epitopes, B-Lymphocyte",
+        "Epitopes, T-Lymphocyte",
+        "Histocompatibility Testing",
+        "Kidney Transplantation",
+        "Risk Assessment",
+        "Histocompatibility",
+        "Graft Rejection",
+        "Graft Survival",
+        "Algorithms",
+        "Middle Aged",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "kidney transplantation",
         "HLA matching",
@@ -2318,7 +2455,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W4404336311",
-      "abstract": null,
+      "abstract": "De novo donor-specific antibodies (dnDSA), particularly those against human leukocyte antigen (HLA) class II, can cause kidney allograft rejection, resulting in poor prognosis. Recently, HLA matching at both B-cell and T-cell epitopes, assessed by eplet mismatches and predicted indirectly recognizable HLA epitopes (PIRCHE) score, respectively, has been reported to be associated with dnDSA production. It remains unclear how these epitopes are involved in transplant immunology and how the results of the analysis can be applied in clinical practice. This study aimed to elucidate whether the significance of these analyses differed depending on the presence or absence of donor-specific sensitization history. This retrospective cohort study of 691 living donor kidney transplants without preformed DSA included (A) potentially sensitized recipients due to pregnancy (n = 112) and (B) unsensitized recipients (n = 579). Twelve (10.7 %) and 93 (16.1 %) patients developed class II dnDSA in (A) and (B), respectively. Multivariate analysis revealed PIRCHE-II score, and acute T-cell mediated rejection (ATCMR) history were significant in both cohorts, but number of eplet mismatches was found significant in (B) but not (A). T-cell epitope analysis might be more effective in predicting dnDSA production via memory response in potentially sensitized recipients, although both B- and T-cell epitope analyses are important in the primary immune response of unsensitized patients. Although further analysis including transplant sensitization history is needed, the results may provide useful insights into donor allocation and personalized immunosuppression.",
       "authors": [
         {
           "name": "Satoshi Ashimine",
@@ -2468,7 +2605,23 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Isoantibodies",
+        "HLA Antigens",
+        "Epitopes, B-Lymphocyte",
+        "Epitopes, T-Lymphocyte",
+        "Histocompatibility Testing",
+        "Kidney Transplantation",
+        "Retrospective Studies",
+        "Graft Rejection",
+        "Adult",
+        "Middle Aged",
+        "Tissue Donors",
+        "Female",
+        "Male",
+        "Transplant Recipients"
+      ],
       "keywords": [
         "de novo donor-specific antibodies",
         "HLA class II epitopes",
@@ -2533,7 +2686,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.15723",
-      "pmid": null,
+      "pmid": "39417313",
       "pmcid": null,
       "url": "https://doi.org/10.1111/tan.15723",
       "fullTextUrl": null,
@@ -2649,7 +2802,21 @@
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Abortion, Habitual",
+        "Immunoglobulins, Intravenous",
+        "Histocompatibility Antigens Class II",
+        "HLA Antigens",
+        "Epitopes",
+        "Fathers",
+        "Pregnancy",
+        "Haplotypes",
+        "Adult",
+        "Female",
+        "Male",
+        "Live Birth"
+      ],
       "keywords": [
         "HLA class II",
         "HLA antibodies",
@@ -2708,7 +2875,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.15719",
-      "pmid": null,
+      "pmid": "39435970",
       "pmcid": null,
       "url": "https://doi.org/10.1111/tan.15719",
       "fullTextUrl": null,
@@ -2821,14 +2988,31 @@
       ],
       "volumeIssuePages": "vol. 104, no. 4, pp. e15719",
       "categories": [
+        "matching",
         "outcome",
         "cellular"
       ],
-      "primaryCategoryLabel": "Outcome",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes",
+        "Humans",
+        "Cytomegalovirus",
+        "Cytomegalovirus Infections",
+        "Peptides",
+        "Histocompatibility Testing",
+        "Kidney Transplantation",
+        "Case-Control Studies",
+        "Retrospective Studies",
+        "Graft Rejection",
+        "Alleles",
+        "Adult",
+        "Middle Aged",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "cytomegalovirus",
         "kidney transplantation",
@@ -2892,15 +3076,15 @@
       "typeLabel": "Journal-Article",
       "doi": "10.3389/fgene.2024.1444554",
       "pmid": "39385936",
-      "pmcid": null,
+      "pmcid": "PMC11461215",
       "url": "https://europepmc.org/articles/PMC11461215",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC11461215",
       "bestOpenAccessUrl": "https://doi.org/10.3389/fgene.2024.1444554",
       "openAlexId": "https://openalex.org/W4402815937",
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W4402815937",
-      "abstract": "Introduction: Modern histocompatibility algorithms depend on the comparison and analysis of high-resolution HLA protein sequences and structures, especially when considering epitope-based algorithms, which aim to model the interactions involved in antibody or T cell binding. HLA genotype imputation can be performed in the cases where only low/intermediate-resolution HLA genotype is available or if specific loci are missing, and by providing an individuals' race/ethnicity/ancestry information, imputation results can be more accurate. This study assesses the effect of imputing high-resolution genotypes on molecular mismatch scores under a variety of ancestry assumptions. Methods: We compared molecular matching scores from \"ground-truth\" high-resolution genotypes against scores from genotypes which are imputed from low-resolution genotypes. Analysis was focused on a simulated patient-donor dataset and confirmed using two real-world datasets, and deviations were aggregated based on various ancestry assumptions. Results: We observed that using multiple imputation generally results in lower error in molecular matching scores compared to single imputation, and that using the correct ancestry assumptions can reduce error introduced during imputation. Discussion: We conclude that for epitope analysis, imputation is a valuable and low-risk strategy, as long as care is taken regarding epitope analysis context, ancestry assumptions, and (multiple) imputation strategy.",
+      "abstract": "Introduction Modern histocompatibility algorithms depend on the comparison and analysis of high-resolution HLA protein sequences and structures, especially when considering epitope-based algorithms, which aim to model the interactions involved in antibody or T cell binding. HLA genotype imputation can be performed in the cases where only low/intermediate-resolution HLA genotype is available or if specific loci are missing, and by providing an individuals' race/ethnicity/ancestry information, imputation results can be more accurate. This study assesses the effect of imputing high-resolution genotypes on molecular mismatch scores under a variety of ancestry assumptions. Methods We compared molecular matching scores from \"ground-truth\" high-resolution genotypes against scores from genotypes which are imputed from low-resolution genotypes. Analysis was focused on a simulated patient-donor dataset and confirmed using two real-world datasets, and deviations were aggregated based on various ancestry assumptions. Results We observed that using multiple imputation generally results in lower error in molecular matching scores compared to single imputation, and that using the correct ancestry assumptions can reduce error introduced during imputation. Discussion We conclude that for epitope analysis, imputation is a valuable and low-risk strategy, as long as care is taken regarding epitope analysis context, ancestry assumptions, and (multiple) imputation strategy.",
       "authors": [
         {
           "name": "Benedict M. Matern",
@@ -3040,7 +3224,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.15297",
-      "pmid": null,
+      "pmid": "38226401",
       "pmcid": null,
       "url": "http://dx.doi.org/10.1111/tan.15297",
       "fullTextUrl": null,
@@ -3310,7 +3494,7 @@
           ]
         },
         {
-          "name": "Marielle A. C. J. Gelens",
+          "name": "M. Gelens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -3485,7 +3669,19 @@
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Kidney",
+        "Humans",
+        "Kidney Diseases",
+        "Antibodies",
+        "HLA Antigens",
+        "Epitopes",
+        "Kidney Transplantation",
+        "Graft Rejection",
+        "Graft Survival",
+        "Alleles",
+        "Tissue Donors"
+      ],
       "keywords": [
         "HLA antibodies",
         "kidney transplantation",
@@ -3834,7 +4030,7 @@
           ]
         },
         {
-          "name": "Marielle A. C. J. Gelens",
+          "name": "M. Gelens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -4030,7 +4226,17 @@
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Isoantibodies",
+        "HLA Antigens",
+        "Epitopes",
+        "Kidney Transplantation",
+        "Graft Rejection",
+        "Alleles",
+        "Tissue Donors",
+        "Clinical Relevance"
+      ],
       "keywords": [
         "donor-specific HLA antibodies",
         "kidney transplantation",
@@ -4103,7 +4309,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.15260",
-      "pmid": null,
+      "pmid": "37853578",
       "pmcid": null,
       "url": "https://doi.org/10.1111/tan.15260",
       "fullTextUrl": null,
@@ -4145,13 +4351,22 @@
       ],
       "volumeIssuePages": "vol. 103, no. 1, pp. e15260",
       "categories": [
+        "matching",
         "outcome"
       ],
-      "primaryCategoryLabel": "Outcome",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "HLA Antigens",
+        "Histocompatibility Testing",
+        "Kidney Transplantation",
+        "Amino Acid Sequence",
+        "Alleles",
+        "Tissue Donors"
+      ],
       "keywords": [
         "kidney transplantation",
         "deep neural network inference",
@@ -4224,7 +4439,7 @@
       "openAlexType": "book-chapter",
       "crossrefType": "book-chapter",
       "openAlexUrl": "https://openalex.org/W4399917258",
-      "abstract": null,
+      "abstract": "To optimize outcomes in solid organ transplantation, the HLA genes are regularly compared and matched between the donor and recipient. However, in many cases a transplant cannot be fully matched, due to widespread variation across populations and the hyperpolymorphism of HLA alleles. Mismatches of the HLA molecules in transplanted tissue can be recognized by immune cells of the recipient, leading to immune response and possibly organ rejection. These adverse outcomes are reduced by analysis using epitope-focused models that consider the immune relevance of the mismatched HLA.PIRCHE, an acronym for Predicted Indirectly ReCognizable HLA Epitopes, aims to categorize and quantify HLA mismatches in a patient-donor pair by predicting HLA-derived T cell epitopes. Specifically, the algorithm predicts and counts the HLA-derived peptides that can be presented by the host HLA, known as indirectly-presented T cell epitopes. Looking at the immune-relevant epitopes within HLA allows a more biologically relevant understanding of immune response, and provides an expanded donor pool for a more refined matching strategy compared with allele-level matching. This PIRCHE algorithm is available for analysis of single transplantations, as well as bulk analysis for population studies and statistical analysis for comparison of probability of organ availability and risk profiles.",
       "authors": [
         {
           "name": "Matthias Niemann",
@@ -4264,7 +4479,17 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "HLA Antigens",
+        "Epitopes, T-Lymphocyte",
+        "Histocompatibility Testing",
+        "Organ Transplantation",
+        "Graft Rejection",
+        "Alleles",
+        "Algorithms",
+        "Tissue Donors"
+      ],
       "keywords": [
         "solid organ transplantation",
         "HLA mismatch",
@@ -4330,15 +4555,15 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1159/000537789",
       "pmid": "38867810",
-      "pmcid": null,
+      "pmcid": "PMC11166409",
       "url": "https://doi.org/10.1159/000537789",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC11166409",
       "bestOpenAccessUrl": "https://doi.org/10.1159/000537789",
       "openAlexId": "https://openalex.org/W4393403761",
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W4393403761",
-      "abstract": "Introduction: Human leukocyte antigen (HLA)-DPB1 mismatches during hematopoietic stem cell transplantation (HSCT) with an unrelated donor result in an increased risk for the development of graft-versus-host disease (GvHD). The number of CD8+ T-cell epitopes available for indirect allorecognition as predicted by the PIRCHE algorithm has been shown to be associated with GvHD development. As a proof of principle, PIRCHE-I predictions for HLA-DPB1 mismatches were validated in vitro and in vivo. Methods: PIRCHE-I analysis was performed to identify HLA-DPB1-derived peptides that could theoretically bind to HLA-A*02:01. PIRCHE-I predictions for HLA-DPB1 mismatches were validated in vitro by investigating binding affinities of HLA-DPB1-derived peptides to the HLA-A*02:01 in a competition-based binding assay. To investigate the capacity of HLA-DPB1-derived peptides to elicit a T-cell response in vivo, mice were immunized with these peptides. T-cell alloreactivity was subsequently evaluated using an interferon-gamma ELISpot assay. Results: The PIRCHE-I algorithm identified five HLA-DPB1-derived peptides (RMCRHNYEL, YIYNREEFV, YIYNREELV, YIYNREEYA, and YIYNRQEYA) to be presented by HLA-A*02:01. Binding of these peptides to HLA-A*02:01 was confirmed in a competition-based peptide binding assay, all showing an IC50 value of 21 μm or lower. The peptides elicited an interferon-gamma response in vivo. Conclusion: Our results indicate that the PIRCHE-I algorithm can identify potential immunogenic HLA-DPB1-derived peptides present in recipients of an HLA-DPB1-mismatched donor. These combined in vitro and in vivo observations strengthen the validity of the PIRCHE-I algorithm to identify HLA-DPB1 mismatch-related GvHD development upon HSCT.",
+      "abstract": "Introduction Human leukocyte antigen (HLA)-DPB1 mismatches during hematopoietic stem cell transplantation (HSCT) with an unrelated donor result in an increased risk for the development of graft-versus-host disease (GvHD). The number of CD8 + T-cell epitopes available for indirect allorecognition as predicted by the PIRCHE algorithm has been shown to be associated with GvHD development. As a proof of principle, PIRCHE-I predictions for HLA-DPB1 mismatches were validated in vitro and in vivo. Methods PIRCHE-I analysis was performed to identify HLA-DPB1-derived peptides that could theoretically bind to HLA-A*02:01. PIRCHE-I predictions for HLA-DPB1 mismatches were validated in vitro by investigating binding affinities of HLA-DPB1-derived peptides to the HLA-A*02:01 in a competition-based binding assay. To investigate the capacity of HLA-DPB1-derived peptides to elicit a T-cell response in vivo, mice were immunized with these peptides. T-cell alloreactivity was subsequently evaluated using an interferon-gamma ELISpot assay. Results The PIRCHE-I algorithm identified five HLA-DPB1-derived peptides (RMCRHNYEL, YIYNREEFV, YIYNREELV, YIYNREEYA, and YIYNRQEYA) to be presented by HLA-A*02:01. Binding of these peptides to HLA-A*02:01 was confirmed in a competition-based peptide binding assay, all showing an IC 50 value of 21 μm or lower. The peptides elicited an interferon-gamma response in vivo. Conclusion Our results indicate that the PIRCHE-I algorithm can identify potential immunogenic HLA-DPB1-derived peptides present in recipients of an HLA-DPB1-mismatched donor. These combined in vitro and in vivo observations strengthen the validity of the PIRCHE-I algorithm to identify HLA-DPB1 mismatch-related GvHD development upon HSCT.",
       "authors": [
         {
           "name": "Emma T. M. Peereboom",
@@ -4466,15 +4691,15 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1097/as9.0000000000000334",
       "pmid": "37746594",
-      "pmcid": null,
+      "pmcid": "PMC10513352",
       "url": "https://europepmc.org/articles/PMC10513352",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC10513352",
       "bestOpenAccessUrl": "https://doi.org/10.1097/as9.0000000000000334",
       "openAlexId": "https://openalex.org/W4386769235",
       "openAlexType": "review",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W4386769235",
-      "abstract": "Objective: We aim to investigate the effects of genetically based HLA matching on patient and graft survival, and acute and chronic rejection after liver transplantation Background: Liver transplantation is a common treatment for patients with end-stage liver disease. In contrast to most other solid organ transplantations, there is no conclusive evidence supporting human leukocyte antigen (HLA) matching for liver transplantations. With emerging alternatives such as transplantation of bankable (stem) cells, HLA matching becomes feasible, which may decrease the need for immunosuppressive therapy and improve transplantation outcomes. Methods: We systematically searched the PubMed, Embase, and Cochrane databases and performed a meta-analysis investigating the effect of genetic HLA matching on liver transplantation outcomes (acute/chronic rejection, graft failure, and mortality). Results: We included 14 studies with 2682 patients. HLA-C mismatching significantly increased the risk of acute rejection (full mismatching: risk ratio = 1.90, 95% confidence interval = 1.08 to 3.33, P = 0.03; partial mismatching: risk ratio = 1.33, 95% confidence interval = 1.07 to 1.66, P = 0.01). We did not discern any significant effect of HLA mismatching per locus on acute rejection for HLA-A, -B, -DR, and -DQ, nor on chronic rejection, graft failure, or mortality for HLA-DR, and -DQ. Conclusions: We found evidence that genetic HLA-C matching reduces the risk of acute rejection after liver transplantation while matching for other loci does not reduce the risk of acute rejection, chronic rejection, graft failure, or mortality.",
+      "abstract": "Objective We aim to investigate the effects of genetically based HLA matching on patient and graft survival, and acute and chronic rejection after liver transplantation. Background Liver transplantation is a common treatment for patients with end-stage liver disease. In contrast to most other solid organ transplantations, there is no conclusive evidence supporting human leukocyte antigen (HLA) matching for liver transplantations. With emerging alternatives such as transplantation of bankable (stem) cells, HLA matching becomes feasible, which may decrease the need for immunosuppressive therapy and improve transplantation outcomes. Methods We systematically searched the PubMed, Embase, and Cochrane databases and performed a meta-analysis investigating the effect of genetic HLA matching on liver transplantation outcomes (acute/chronic rejection, graft failure, and mortality). Results We included 14 studies with 2682 patients. HLA-C mismatching significantly increased the risk of acute rejection (full mismatching: risk ratio = 1.90, 95% confidence interval = 1.08 to 3.33, P = 0.03; partial mismatching: risk ratio = 1.33, 95% confidence interval = 1.07 to 1.66, P = 0.01). We did not discern any significant effect of HLA mismatching per locus on acute rejection for HLA-A, -B, -DR, and -DQ, nor on chronic rejection, graft failure, or mortality for HLA-DR, and -DQ. Conclusions We found evidence that genetic HLA-C matching reduces the risk of acute rejection after liver transplantation while matching for other loci does not reduce the risk of acute rejection, chronic rejection, graft failure, or mortality.",
       "authors": [
         {
           "name": "Gautam Kok",
@@ -4632,7 +4857,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.15048",
-      "pmid": null,
+      "pmid": "37038092",
       "pmcid": null,
       "url": "https://doi.org/10.1111/tan.15048",
       "fullTextUrl": null,
@@ -4780,15 +5005,24 @@
       ],
       "volumeIssuePages": "vol. 102, no. 1, pp. 62-64",
       "categories": [
+        "matching",
         "outcome",
         "diagnostics",
         "standards"
       ],
-      "primaryCategoryLabel": "Outcome",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Bone Marrow",
+        "Humans",
+        "HLA Antigens",
+        "Histocompatibility Testing",
+        "Hematopoietic Stem Cell Transplantation",
+        "Alleles",
+        "High-Throughput Nucleotide Sequencing"
+      ],
       "keywords": [
         "HLA nomenclature",
         "novel HLA allele",
@@ -4855,7 +5089,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1111/tan.14989",
-      "pmid": null,
+      "pmid": "36754592",
       "pmcid": null,
       "url": "https://doi.org/10.1111/tan.14989",
       "fullTextUrl": null,
@@ -4945,7 +5179,14 @@
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "HLA Antigens",
+        "Data Collection",
+        "Immunogenetics",
+        "Alleles",
+        "Databases, Factual"
+      ],
       "keywords": [
         "immunogenetics",
         "data curation",
@@ -5005,10 +5246,10 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.7554/elife.79016",
-      "pmid": null,
-      "pmcid": null,
+      "pmid": "36688525",
+      "pmcid": "PMC9995115",
       "url": "https://doi.org/10.7554/elife.79016",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC9995115",
       "bestOpenAccessUrl": "https://doi.org/10.7554/elife.79016",
       "openAlexId": "https://openalex.org/W4317749668",
       "openAlexType": "article",
@@ -5158,7 +5399,14 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Clone Cells",
+        "Humans",
+        "Inflammation",
+        "Receptors, Antigen, T-Cell",
+        "T-Lymphocytes, Regulatory",
+        "Arthritis, Juvenile"
+      ],
       "keywords": [
         "juvenile idiopathic arthritis",
         "regulatory T cells",
@@ -5289,15 +5537,22 @@
       ],
       "volumeIssuePages": "vol. 106, no. 12, pp. 2325-2337",
       "categories": [
+        "matching",
         "outcome",
         "diagnostics",
         "cellular"
       ],
-      "primaryCategoryLabel": "Outcome",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Organ Transplantation",
+        "Transplantation, Homologous",
+        "Immune Tolerance",
+        "Histocompatibility",
+        "Graft Rejection"
+      ],
       "keywords": [
         "solid organ transplantation",
         "single-cell technologies",
@@ -5710,9 +5965,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1002/lt.26431",
       "pmid": "35152544",
-      "pmcid": null,
+      "pmcid": "PMC9544750",
       "url": "https://europepmc.org/articles/PMC9544750",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC9544750",
       "bestOpenAccessUrl": "https://doi.org/10.1002/lt.26431",
       "openAlexId": "https://openalex.org/W4213368127",
       "openAlexType": "article",
@@ -5832,7 +6087,17 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Autoimmune Diseases",
+        "HLA Antigens",
+        "Histocompatibility Testing",
+        "Liver Transplantation",
+        "Retrospective Studies",
+        "Graft Rejection",
+        "Graft Survival",
+        "Algorithms"
+      ],
       "keywords": [
         "HLA matching",
         "HLA mismatch",
@@ -6048,10 +6313,10 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.1182/blood.2022015860",
-      "pmid": null,
-      "pmcid": null,
+      "pmid": "35271697",
+      "pmcid": "PMC9121842",
       "url": "https://doi.org/10.1182/blood.2022015860",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC9121842",
       "bestOpenAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/9121842",
       "openAlexId": "https://openalex.org/W4220807693",
       "openAlexType": "article",
@@ -6151,7 +6416,15 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Recurrence",
+        "HLA-DQ Antigens",
+        "Hematopoietic Stem Cell Transplantation",
+        "Alleles",
+        "Tissue Donors",
+        "HLA-DQ beta-Chains"
+      ],
       "keywords": [
         "HLA-DQA1",
         "HLA-DQB1",
@@ -6904,7 +7177,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W3110946868",
-      "abstract": "BACKGROUND: Often only chronic kidney disease (CKD) patients with high likelihood of genetic disease are offered genetic testing. Early genetic testing could obviate the need for kidney biopsies, allowing for adequate prognostication and treatment. To test the viability of a 'genetics-first' approach for CKD, we performed genetic testing in a group of kidney transplant recipients aged <50 years, irrespective of cause of transplant. METHODS: From a cohort of 273 transplant patients, we selected 110 that were in care in the University Medical Center Utrecht, had DNA available and were without clear-cut non-genetic disease. Forty patients had been diagnosed with a genetic disease prior to enrollment; in 70 patients, we performed a whole-exome sequencing-based 379 gene panel analysis. RESULTS: Genetic analysis yielded a diagnosis in 51%. Extrapolated to the 273 patient cohort, who did not all fit the inclusion criteria, the diagnostic yield was still 21%. Retrospectively, in 43% of biopsied patients, the kidney biopsy would not have had added diagnostic value if genetic testing had been performed as a first-tier diagnostic. CONCLUSIONS: The burden of monogenic disease in transplant patients with end-stage kidney disease (ESKD) of any cause prior to the age of 50 years is between 21% and 51%. Early genetic testing can provide a non-invasive diagnostic, impacting prognostication and treatment, and obviating the need for an invasive biopsy. We conclude that in patients who expect to develop ESKD prior to the age of 50 years, genetic testing should be considered as first mode of diagnostics.",
+      "abstract": "Background Often only chronic kidney disease (CKD) patients with high likelihood of genetic disease are offered genetic testing. Early genetic testing could obviate the need for kidney biopsies, allowing for adequate prognostication and treatment. To test the viability of a 'genetics-first' approach for CKD, we performed genetic testing in a group of kidney transplant recipients aged Methods From a cohort of 273 transplant patients, we selected 110 that were in care in the University Medical Center Utrecht, had DNA available and were without clear-cut non-genetic disease. Forty patients had been diagnosed with a genetic disease prior to enrollment; in 70 patients, we performed a whole-exome sequencing-based 379 gene panel analysis. Results Genetic analysis yielded a diagnosis in 51%. Extrapolated to the 273 patient cohort, who did not all fit the inclusion criteria, the diagnostic yield was still 21%. Retrospectively, in 43% of biopsied patients, the kidney biopsy would not have had added diagnostic value if genetic testing had been performed as a first-tier diagnostic. Conclusions The burden of monogenic disease in transplant patients with end-stage kidney disease (ESKD) of any cause prior to the age of 50 years is between 21% and 51%. Early genetic testing can provide a non-invasive diagnostic, impacting prognostication and treatment, and obviating the need for an invasive biopsy. We conclude that in patients who expect to develop ESKD prior to the age of 50 years, genetic testing should be considered as first mode of diagnostics.",
       "authors": [
         {
           "name": "Rozemarijn Snoek",
@@ -7044,7 +7317,15 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Kidney Failure, Chronic",
+        "Retrospective Studies",
+        "Cohort Studies",
+        "Middle Aged",
+        "Renal Insufficiency, Chronic",
+        "Genetic Testing"
+      ],
       "keywords": [
         "end-stage renal disease",
         "genetic testing",
@@ -7127,7 +7408,7 @@
       "type": "journal-article",
       "typeLabel": "Journal-Article",
       "doi": "10.4049/jimmunol.2001145",
-      "pmid": null,
+      "pmid": "34880106",
       "pmcid": null,
       "url": "https://doi.org/10.4049/jimmunol.2001145",
       "fullTextUrl": null,
@@ -7136,7 +7417,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W4200425677",
-      "abstract": "Abstract CD8+ T cells play an important role in the control of untreated HIV infection. Several studies have suggested a decisive role of TCRs involved in anti-HIV immunity. HLA-B*27 and B*57 are often associated with a delayed HIV disease progression, but the exact correlates that provide superior immunity against HIV are not known. To investigate if the T cell repertoire underlies the protective effect in disease outcome in HLA-B*27 and B*57+ individuals, we analyzed Ag-specific TCR profiles from progressors (n = 13) and slow progressors (n = 11) expressing either B*27 or B*57. Our data showed no differences in TCR diversity between progressors and slow progressors. Both alleles recruit biased T cell repertoires (i.e., TCR populations skewed toward specific TRBV families or CDR3 regions). This bias was unrelated to disease progression and was remarkably profound for HLA-B*57, in which TRBV family usage and CDR3 sequences were shared to some extent even between epitopes. Conclusively, these data suggest that the T cell repertoires recruited by protective HLA alleles are highly similar between progressors and slow progressors in terms of TCR diversity, TCR usage, and cross-reactivity.",
+      "abstract": "CD8 + T cells play an important role in the control of untreated HIV infection. Several studies have suggested a decisive role of TCRs involved in anti-HIV immunity. HLA-B*27 and B*57 are often associated with a delayed HIV disease progression, but the exact correlates that provide superior immunity against HIV are not known. To investigate if the T cell repertoire underlies the protective effect in disease outcome in HLA-B*27 and B*57 + individuals, we analyzed Ag-specific TCR profiles from progressors ( n = 13) and slow progressors ( n = 11) expressing either B*27 or B*57. Our data showed no differences in TCR diversity between progressors and slow progressors. Both alleles recruit biased T cell repertoires (i.e., TCR populations skewed toward specific TRBV families or CDR3 regions). This bias was unrelated to disease progression and was remarkably profound for HLA-B*57, in which TRBV family usage and CDR3 sequences were shared to some extent even between epitopes. Conclusively, these data suggest that the T cell repertoires recruited by protective HLA alleles are highly similar between progressors and slow progressors in terms of TCR diversity, TCR usage, and cross-reactivity.",
       "authors": [
         {
           "name": "Dan Koning",
@@ -7193,13 +7474,33 @@
       "categories": [
         "matching",
         "outcome",
+        "diagnostics",
         "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes",
+        "Cells, Cultured",
+        "Humans",
+        "HIV-1",
+        "HIV Infections",
+        "Disease Progression",
+        "Complementarity Determining Regions",
+        "Receptors, Antigen, T-Cell, alpha-beta",
+        "HLA-B Antigens",
+        "HLA-B27 Antigen",
+        "Antigens, Viral",
+        "Epitopes, T-Lymphocyte",
+        "Lymphocyte Activation",
+        "Cross Reactions",
+        "Antigen Presentation",
+        "Alleles",
+        "Genetic Variation",
+        "Enzyme-Linked Immunospot Assay"
+      ],
       "keywords": [
         "HIV infection",
         "HLA-B27",
@@ -7664,7 +7965,7 @@
           ]
         },
         {
-          "name": "Marielle A. C. J. Gelens",
+          "name": "M. Gelens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -11749,7 +12050,7 @@
           ]
         },
         {
-          "name": "Marielle A. C. J. Gelens",
+          "name": "M. Gelens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -12339,7 +12640,7 @@
           ]
         },
         {
-          "name": "Marielle A. C. J. Gelens",
+          "name": "M. Gelens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -12876,7 +13177,7 @@
           ]
         },
         {
-          "name": "Marielle A. C. J. Gelens",
+          "name": "M. Gelens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -13939,7 +14240,7 @@
           ]
         },
         {
-          "name": "Marielle A. C. J. Gelens",
+          "name": "M. Gelens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -14408,7 +14709,7 @@
           ]
         },
         {
-          "name": "Kirsten Anne Thus",
+          "name": "Kirsten A. Thus",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -14922,7 +15223,7 @@
           ]
         },
         {
-          "name": "Marielle A. C. J. Gelens",
+          "name": "M. Gelens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -16050,7 +16351,7 @@
       "openAlexType": "book-chapter",
       "crossrefType": "book-chapter",
       "openAlexUrl": "https://openalex.org/W4238825989",
-      "abstract": "Immune-mediated rejection of tissue allografts was first described in 1945 by the British immunologist Peter Medawar, followed by the discovery of the major histocompatibility complex (MHC) carrying the histocompatibility genes by Peter Gorer and George Snell in 1948, and of the human leukocyte antigen (HLA) molecules by Jean Dausset, Jon van Rood, and Rose Payne a decade later (Thorsby 2009 ). The importance of these discoveries was recognized by the Nobel Prices in Physiology and Medicine to Medawar, Snell, and Dausset in 1960 and 1980, respectively. Since then, the MHC has emerged as the single most polymorphic gene locus in eukaryotes, with 17,695 HLA alleles reported to date in the IMGT/HLA database, Release 3.31.0, 2018/01/19 (Robinson et al. 2015 ). While the main barrier to successful tissue grafting remain the HLA incompatibilities, also non-HLA polymorphisms have been recognized as important players, in particular minor histocompatibility antigens (mHAg), killer immunoglobulin-like receptors (KIR), and other polymorphic gene systems (Dickinson and Holler 2008 ; Gam et al. 2017 ; Heidenreich and Kröger 2017 ; Spierings 2014 ).",
+      "abstract": "Human leukocyte antigen (HLA) molecules are the most important histocompatibility antigens, due to their genetic polymorphism and their key role in peptide antigen presentation and T-cell alloreactivity. While full matching for the most relevant HLA loci had been regarded as a prerequisite for successful transplantation until recently, the introduction of posttransplant cyclophosphamide (PTCy) as immune prophylaxis has also allowed successful transplantation across multiple HLA mismatches, thus also enabling access to transplantation for patients without a fully compatible donor. The rules governing high-risk/nonpermissive HLA mismatches, identified in the past as immunopeptidome overlaps, expression levels, and predicted indirectly recognized HLA epitopes (PIRCHEs), will have to be redefined in the PTCy area to further improve patient outcomes.",
       "authors": [
         {
           "name": "Eric Spierings",
@@ -16448,7 +16749,7 @@
           ]
         },
         {
-          "name": "Marielle A. C. J. Gelens",
+          "name": "M. Gelens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -16829,7 +17130,7 @@
           ]
         },
         {
-          "name": "Berent Jan Prakken",
+          "name": "Berent J. Prakken",
           "orcid": "https://orcid.org/0000-0001-8488-4816",
           "position": "middle",
           "corresponding": false,
@@ -17236,7 +17537,7 @@
           ]
         },
         {
-          "name": "Marielle A. C. J. Gelens",
+          "name": "M. Gelens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -17738,7 +18039,7 @@
           ]
         },
         {
-          "name": "Marielle A. C. J. Gelens",
+          "name": "M. Gelens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -18607,7 +18908,7 @@
           ]
         },
         {
-          "name": "Marielle A. C. J. Gelens",
+          "name": "M. Gelens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -22329,7 +22630,7 @@
           ]
         },
         {
-          "name": "Marielle A. C. J. Gelens",
+          "name": "M. Gelens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -22716,7 +23017,7 @@
           ]
         },
         {
-          "name": "Berent Jan Prakken",
+          "name": "Berent J. Prakken",
           "orcid": "https://orcid.org/0000-0001-8488-4816",
           "position": "middle",
           "corresponding": false,
@@ -23094,7 +23395,7 @@
       "abstract": "Unrelated cord blood transplantation (UCBT) provides a curative therapy for patients with hematological malignancies. The effect of HLA mismatches in UCBT is currently the subject of debate. HLA-mismatched UCBT may lead to improved leukemia control but also to graft-versus-host disease (GVHD), resulting in nonrelapse mortality (NRM). The aim of this study was to investigate whether indirect recognition of mismatched HLA provides an explanation for the graft-versus-tumor effect and risk of GVHD. The probability of indirect recognition was predicted by the Predicted Indirectly ReCognizable HLA Epitopes (PIRCHE) model. The effect of the numbers of PIRCHE presented on HLA class I and II (PIRCHE-I and -II) was studied in 134 pediatric patients. To study the effects of higher numbers of PIRCHE, patients were divided in 2 equally sized groups, using the median number of PIRCHE as cutoff values. Proportional hazard models and competing risk analyses were performed to study the effect of PIRCHE on the clinical outcomes relapse, acute and chronic GVHD, NRM, and disease-free and overall survival. Above median PIRCHE-I were associated with reduced relapse risk (HR, .26; 95% CI, .07 to .94; P = .04), evaluating the 50 patients transplanted for a malignancy. Both PIRCHE-I and -II were not associated with other clinical outcomes, including GVHD and NRM. These data suggest that high PIRCHE-I may lead to improved graft-versus-tumor effects after UCBT, without an accompanying GVHD risk. Inclusion of PIRCHE in UCB selection criteria may enhance UCBT outcome, which needs to be tested in prospective studies.",
       "authors": [
         {
-          "name": "Kirsten Anne Thus",
+          "name": "Kirsten A. Thus",
           "orcid": "",
           "position": "first",
           "corresponding": false,
@@ -23319,7 +23620,7 @@
           ]
         },
         {
-          "name": "Kirsten Anne Thus",
+          "name": "Kirsten A. Thus",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -23557,7 +23858,7 @@
           ]
         },
         {
-          "name": "Kirsten Anne Thus",
+          "name": "Kirsten A. Thus",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -23853,7 +24154,7 @@
       "abstract": "Risk factors for graft-versus-host disease (GVHD) following allogeneic hematopoietic stem-cell transplantation (HCST) include: HLA mismatches, sex-mismatch, and stem-cell source. We retrospectively analyzed if HLA- and sex-mismatching quantitatively affects the composition of GVHD-induced T-cell infiltrates. We quantified absolute numbers of CD4+ and CD8+ T cells present in tissue sections from skin biopsies of 23 pediatric HSCT-recipients with GVHD. HSCT with a sex-mismatched unrelated donor was associated with an increased number of CD4+ T cells when compared to a sex-matched unrelated donor (p=0.01). The absolute numbers of skin-infiltrating T cells were increased in patients expressing T-cell epitopes derived from the recipient's mismatched HLA, so called predicted indirectly recognizable HLA epitopes (PIRCHE). The combined expression of PIRCHE with a sex-mismatch resulted in the highest number of skin-infiltrating T cells. Our results indicate that an increased number of recipient-specific T-cell epitopes is associated with accumulation of CD4+ and CD8+ T cells in the skin.",
       "authors": [
         {
-          "name": "Kirsten Anne Thus",
+          "name": "Kirsten A. Thus",
           "orcid": "",
           "position": "first",
           "corresponding": true,
@@ -24440,7 +24741,7 @@
       "abstract": "Hematopoietic stem cell transplantation with HLA-DPB1-mismatched donors leads to an increased risk of acute graft-versus-host disease (GVHD). Studies have indicated a prognostic value for classifying HLA-DPB1 mismatches based on T cell-epitope (TCE) groups. The aim of this study was to determine the contribution of indirect recognition of HLA-DP-derived epitopes, as determined with the Predicted Indirectly ReCognizable HLA Epitopes (PIRCHE) method. We therefore conducted a retrospective single-center analysis on 80 patients transplanted with a 10/10 matched unrelated donor that was HLA-DPB1 mismatched. HLA-DPB1 mismatches that were classified as GVH nonpermissive by the TCE algorithm correlated to higher numbers of HLA class I as well as HLA class II presented PIRCHE (PIRCHE-I and -II) compared with permissive or host-versus-graft nonpermissive mismatches. Patients with acute GVHD grades II to IV presented significantly higher numbers of PIRCHE-I compared with patients without acute GVHD (P < .05). Patients were divided into 2 groups based on the presence or absence of PIRCHE. Patients with PIRCHE-I or -II have an increased hazard of acute GVHD when compared with patients without PIRCHE-I or -II (hazard ratio [HR], 3.19; 95% confidence interval [CI], 1.10 to 9.19; P < .05; and HR, 4.07; 95% CI, .97 to 17.19; P = .06, respectively). Patients classified as having an HLA-DPB1 permissive mismatch by the TCE model had an increased risk of acute GVHD when comparing presence of PIRCHE-I with absence of PIRCHE-I (HR, 2.96; 95% CI, .84 to 10.39; P = .09). We therefore conclude that the data presented in this study describe an attractive and feasible possibility to better select permissible HLA-DPB1 mismatches by including both a direct and an indirect recognition model.",
       "authors": [
         {
-          "name": "Kirsten Anne Thus",
+          "name": "Kirsten A. Thus",
           "orcid": "",
           "position": "first",
           "corresponding": false,
@@ -24654,7 +24955,7 @@
       "abstract": "Predicted indirectly recognizable HLA epitopes (PIRCHE) computationally predict donor T-cell recognition of mismatched-HLA derived peptides following allogeneic haematopoietic stem-cell transplantation (allo-HSCT), as is evidenced by the correlation between presence of HLA-DPB1-derived PIRCHE and the occurrence of graft-vs.-host disease (GVHD). Complete donor T-cell chimerism associates with an increased GVHD risk compared to mixed patient and donor chimerism. If the correlation between the presence of PIRCHE and GVHD occurrence is indeed mediated by donor T cells, the presence of donor T cells should be required to observe such a correlation. This study was initiated to investigate whether the effect of PIRCHE is different in patients with complete chimerism compared to those with mixed chimerism. Indeed, the correlation between PIRCHE and GVHD is present in patients with complete chimerism, whereas it is absent in those with mixed chimerism. The data presented here suggest that chimerism status is important for the detection of potential GVHD epitopes.",
       "authors": [
         {
-          "name": "Kirsten Anne Thus",
+          "name": "Kirsten A. Thus",
           "orcid": "",
           "position": "first",
           "corresponding": false,
@@ -25190,7 +25491,7 @@
           ]
         },
         {
-          "name": "Marielle A. C. J. Gelens",
+          "name": "M. Gelens",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -25470,7 +25771,7 @@
       "abstract": "HLA-C mismatches are clearly associated to alloreactivity after hematopoietic stem-cell transplantation; in a number of large cohorts, HLA-C mismatches are correlated to an increased risk of acute graft-versus-host disease (GVHD) or even impaired survival. While for HLA-A and -B, both antigenic as well as allelic mismatches are associated with an increased risk of acute GVHD, such an increased risk is only observed for antigenic HLA-C mismatches and not for allelic mismatches. These observations raise the question what sets HLA-C apart from HLA-A and -B. The difference may well be related to the reduced levels of cell-surface expression of HLA-C as compared to HLA-A and -B, possibly due to, among other factors, a limited peptide-binding capacity. This limited peptide-binding capacity may retain HLA-C in the ER and enhance degradation of the HLA-C protein. Once degraded, HLA-C-derived peptides can be presented to the immune system via other HLA alleles and are thus available for indirect recognition. Indeed, such HLA-C-derived peptides have previously been eluted from other HLA alleles. We have recently developed an approach to predict indirect recognition of HLA molecules, by establishing the numbers of predicted indirectly recognizable HLA epitopes (PIRCHES). The number of PIRCHES presented on HLA class I and II (PIRCHE-I and -II, respectively), are highly correlated to clinical measures of alloreactivity, such as acute GVHD. In the present \"Hypothesis & Theory,\" we reviewed the current knowledge on HLA-C mismatches and alloreactivity. Moreover, we speculate about the role of direct and indirect recognition of HLA-C and the consequences for donor selection in HLA-C mismatched stem-cell transplantation.",
       "authors": [
         {
-          "name": "Kirsten Anne Thus",
+          "name": "Kirsten A. Thus",
           "orcid": "",
           "position": "first",
           "corresponding": false,
@@ -25763,7 +26064,7 @@
           ]
         },
         {
-          "name": "Kirsten Anne Thus",
+          "name": "Kirsten A. Thus",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
