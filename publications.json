@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-11-09T13:06:04.005Z",
+  "generatedAt": "2026-11-10T12:43:05.609Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "includedWorkTypes": [
     "book",
@@ -2839,11 +2839,11 @@
           "score": 0
         }
       ],
-      "citedByCount": 1,
+      "citedByCount": 2,
       "countsByYear": [
         {
           "year": 2025,
-          "cited_by_count": 1
+          "cited_by_count": 2
         }
       ],
       "isOpenAccess": true,
@@ -8734,7 +8734,7 @@
           "score": 0.007699999958276749
         }
       ],
-      "citedByCount": 30,
+      "citedByCount": 31,
       "countsByYear": [
         {
           "year": 2026,
@@ -8742,7 +8742,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2024,
@@ -18587,7 +18587,7 @@
           "score": 0.07280000299215317
         }
       ],
-      "citedByCount": 46,
+      "citedByCount": 47,
       "countsByYear": [
         {
           "year": 2026,
@@ -18595,7 +18595,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2024,
@@ -19138,7 +19138,7 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 102,
+      "citedByCount": 103,
       "countsByYear": [
         {
           "year": 2026,
@@ -19146,7 +19146,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 15
+          "cited_by_count": 16
         },
         {
           "year": 2024,
@@ -19557,7 +19557,7 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 180,
+      "citedByCount": 181,
       "countsByYear": [
         {
           "year": 2026,
@@ -19565,7 +19565,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 28
+          "cited_by_count": 29
         },
         {
           "year": 2024,
@@ -25691,11 +25691,11 @@
           "score": 0.0012000000569969416
         }
       ],
-      "citedByCount": 25,
+      "citedByCount": 26,
       "countsByYear": [
         {
           "year": 2025,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2024,
