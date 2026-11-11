@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-11-10T12:43:05.609Z",
+  "generatedAt": "2026-11-11T12:09:59.572Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "includedWorkTypes": [
     "book",
@@ -1303,11 +1303,15 @@
           "score": 0.0003000000142492354
         }
       ],
-      "citedByCount": 3,
+      "citedByCount": 4,
       "countsByYear": [
         {
           "year": 2026,
           "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
         }
       ],
       "isOpenAccess": true,
@@ -2406,11 +2410,11 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 21,
+      "citedByCount": 22,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 14
+          "cited_by_count": 15
         },
         {
           "year": 2025,
@@ -3705,11 +3709,11 @@
           "score": 0
         }
       ],
-      "citedByCount": 1,
+      "citedByCount": 2,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         }
       ],
       "isOpenAccess": true,
@@ -4265,11 +4269,11 @@
           "score": 0
         }
       ],
-      "citedByCount": 15,
+      "citedByCount": 16,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2025,
@@ -4510,11 +4514,11 @@
           "score": 0.037300001829862595
         }
       ],
-      "citedByCount": 8,
+      "citedByCount": 9,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -4809,11 +4813,11 @@
           "score": 0.0032999999821186066
         }
       ],
-      "citedByCount": 14,
+      "citedByCount": 15,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -6317,7 +6321,7 @@
       "pmcid": "PMC9121842",
       "url": "https://doi.org/10.1182/blood.2022015860",
       "fullTextUrl": "https://europepmc.org/articles/PMC9121842",
-      "bestOpenAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/9121842",
+      "bestOpenAccessUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9121842/",
       "openAlexId": "https://openalex.org/W4220807693",
       "openAlexType": "article",
       "crossrefType": "journal-article",
@@ -6450,11 +6454,11 @@
           "score": 0.0006000000284984708
         }
       ],
-      "citedByCount": 52,
+      "citedByCount": 53,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 13
+          "cited_by_count": 14
         },
         {
           "year": 2025,
@@ -7112,11 +7116,11 @@
           "score": 0.0005000000237487257
         }
       ],
-      "citedByCount": 59,
+      "citedByCount": 60,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2025,
@@ -7352,11 +7356,11 @@
           "score": 0.05460000038146973
         }
       ],
-      "citedByCount": 56,
+      "citedByCount": 58,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 8
         },
         {
           "year": 2025,
@@ -9599,11 +9603,11 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 54,
+      "citedByCount": 55,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2025,
@@ -11694,11 +11698,11 @@
           "score": 0.00019999999494757503
         }
       ],
-      "citedByCount": 98,
+      "citedByCount": 99,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 16
+          "cited_by_count": 17
         },
         {
           "year": 2025,
@@ -13412,8 +13416,12 @@
           "score": 0
         }
       ],
-      "citedByCount": 9,
+      "citedByCount": 10,
       "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2025,
           "cited_by_count": 2
@@ -13464,7 +13472,7 @@
       "pmcid": "PMC6599558",
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6599558",
       "fullTextUrl": "https://europepmc.org/articles/PMC6599558",
-      "bestOpenAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/6599558",
+      "bestOpenAccessUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6599558/",
       "openAlexId": "https://openalex.org/W2918529223",
       "openAlexType": "article",
       "crossrefType": "journal-article",
@@ -13925,8 +13933,12 @@
           "score": 0.11659999936819077
         }
       ],
-      "citedByCount": 21,
+      "citedByCount": 23,
       "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
         {
           "year": 2025,
           "cited_by_count": 2
@@ -16136,7 +16148,7 @@
           ]
         },
         {
-          "name": "Claudia A. Müller",
+          "name": "Claudia A. Müller",
           "orcid": "https://orcid.org/0000-0002-0689-3431",
           "position": "middle",
           "corresponding": false,
@@ -16278,11 +16290,11 @@
           "score": 0.13349999487400055
         }
       ],
-      "citedByCount": 34,
+      "citedByCount": 36,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -19557,11 +19569,11 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 181,
+      "citedByCount": 184,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 18
+          "cited_by_count": 21
         },
         {
           "year": 2025,
@@ -20849,11 +20861,11 @@
           "score": 0.00019999999494757503
         }
       ],
-      "citedByCount": 24,
+      "citedByCount": 25,
       "countsByYear": [
         {
           "year": 2025,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2024,
@@ -21025,7 +21037,7 @@
           "score": 0.06960000097751617
         }
       ],
-      "citedByCount": 49,
+      "citedByCount": 50,
       "countsByYear": [
         {
           "year": 2026,
@@ -21037,7 +21049,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 10
+          "cited_by_count": 11
         },
         {
           "year": 2023,
@@ -22306,11 +22318,11 @@
           "score": 0.002099999925121665
         }
       ],
-      "citedByCount": 83,
+      "citedByCount": 84,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -26142,11 +26154,11 @@
           "score": 0.03020000085234642
         }
       ],
-      "citedByCount": 88,
+      "citedByCount": 89,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -27848,11 +27860,11 @@
           "score": 0.00039999998989515007
         }
       ],
-      "citedByCount": 116,
+      "citedByCount": 117,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 11
+          "cited_by_count": 12
         },
         {
           "year": 2025,
@@ -30091,11 +30103,11 @@
           "score": 0
         }
       ],
-      "citedByCount": 74,
+      "citedByCount": 75,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
