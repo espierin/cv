@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-11-12T12:51:10.338Z",
+  "generatedAt": "2026-11-13T12:18:50.116Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "includedWorkTypes": [
     "book",
@@ -24,12 +24,12 @@
   ],
   "excludedRecordCounts": {
     "nonScientificWorkType": 68,
-    "authorshipNotVerified": 102,
+    "authorshipNotVerified": 101,
     "conferenceAbstract": 31,
     "conferenceAbstractNeedsReview": 1,
     "erratumOrRetraction": 0
   },
-  "count": 134,
+  "count": 135,
   "publications": [
     {
       "putCode": 227329515,
@@ -233,6 +233,133 @@
       }
     },
     {
+      "putCode": 233314049,
+      "title": "Molecular mismatch load distribution in the United States is driven more by recipient genotype than regional donor pool composition",
+      "year": 2026,
+      "sortDate": "2026-10-00",
+      "journal": "Human Immunology",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.1016/j.humimm.2026.112104",
+      "pmid": "42963286",
+      "pmcid": null,
+      "url": "https://doi.org/10.1016/j.humimm.2026.112104",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": "https://doi.org/10.1016/j.humimm.2026.112104",
+      "openAlexId": "https://openalex.org/W7224948171",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W7224948171",
+      "abstract": "Molecular HLA matching has been shown to more precisely predict organ transplantation outcome than antigen matching, which is still in use by major organ allocation programs. Although optimizing allocation for molecular matching promises increased utility of the scarce resource, it may introduce imbalances in access to transplantation, and may thus not be feasible for all patients given their corresponding local donor pool. To understand the impact of donor pool composition in different geographic regions of the United States, a simulation of PIRCHE-T2 and PIRCHE-B molecular mismatch load (MML) distributions has been performed. Although our data indicates regional variation of estimated molecular mismatch load, the effect appears to be more dependent on the patient HLA genotypes rather than the donor pool. Patient-specific differences in empirical cumulative MML distributions indicate a need for adjustment of histocompatibility-based allocation to prevent disadvantages of minorities. Simulations reflective of the entire allocation process are required to confirm allocation equity can be achieved whilst optimizing for MML.",
+      "authors": [
+        {
+          "name": "Matthias Niemann",
+          "orcid": "https://orcid.org/0000-0002-3514-9812",
+          "position": "first",
+          "corresponding": true,
+          "institutions": [
+            "Charité – Universitätsmedizin Berlin"
+          ]
+        },
+        {
+          "name": "Bram Gerritsen",
+          "orcid": "https://orcid.org/0000-0001-7065-3160",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": []
+        },
+        {
+          "name": "Benedict M. Matern",
+          "orcid": "https://orcid.org/0000-0002-9548-732X",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Taya Manion",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": []
+        },
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Matthew Cusick",
+          "orcid": "",
+          "position": "last",
+          "corresponding": false,
+          "institutions": [
+            "University of Michigan"
+          ]
+        }
+      ],
+      "selfAuthorPositions": [
+        "middle"
+      ],
+      "volumeIssuePages": "pp. 112104",
+      "categories": [
+        "matching",
+        "outcome"
+      ],
+      "primaryCategoryLabel": "Epitope matching",
+      "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "organ allocation",
+        "histocompatibility",
+        "allocation equity",
+        "organ transplantation",
+        "regional variation"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.5547000169754028
+        },
+        {
+          "name": "Organ Donation and Transplantation",
+          "score": 0.2053000032901764
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.1738000065088272
+        }
+      ],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": true,
+      "openAccessStatus": "hybrid",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W7221612905",
+        "https://openalex.org/W7165365350",
+        "https://openalex.org/W2417799989",
+        "https://openalex.org/W2050440844",
+        "https://openalex.org/W3048478062",
+        "https://openalex.org/W4220837431",
+        "https://openalex.org/W2015699616",
+        "https://openalex.org/W2055180348",
+        "https://openalex.org/W2076791499",
+        "https://openalex.org/W4412851344"
+      ],
+      "abstractClassification": {
+        "decision": "include",
+        "confidence": "no-signal",
+        "reasons": []
+      }
+    },
+    {
       "putCode": 225654284,
       "title": "Recommendations for HLA Genotyping Data Standards and Clinical Laboratory Staffing Considerations",
       "year": 2026,
@@ -390,8 +517,13 @@
           "score": 0.06589999794960022
         }
       ],
-      "citedByCount": 0,
-      "countsByYear": [],
+      "citedByCount": 1,
+      "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
       "isOpenAccess": true,
       "openAccessStatus": "hybrid",
       "relatedOpenAlexWorks": [
@@ -1726,6 +1858,258 @@
       }
     },
     {
+      "putCode": 189157261,
+      "title": "The Registry of Unmet Need: A World Marrow Donor Association Analysis of Patients Without an HLA Match",
+      "year": 2025,
+      "sortDate": "2025-05-00",
+      "journal": "HLA",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.1111/tan.70255",
+      "pmid": "40404178",
+      "pmcid": "PMC12097852",
+      "url": "https://europepmc.org/articles/PMC12097852",
+      "fullTextUrl": "https://europepmc.org/articles/PMC12097852",
+      "bestOpenAccessUrl": "https://doi.org/10.1111/tan.70255",
+      "openAlexId": "https://openalex.org/W4410594003",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W4410594003",
+      "abstract": "While the World Marrow Donor Association global database currently offers approximately 42.7 million potential donors and cord blood units to patients in need of haematopoietic cell transplant, lack of eight HLA-matched donors remains a significant barrier. The Registry of Unmet Need (RUN) Project seeks to address disparities in transplant access for patients with rare HLA genotypes, particularly those from populations that have been historically underrepresented and underserved by global donor registries. Patients eligible for this study searched for an unrelated donor for transplant between 2015 and 2017 and, at that time, lacked a potential eight-of-eight HLA-matched unrelated donor (MUD). Sixteen donor registries contributed data from 3654 patients using standardised data-collection project templates. To address this unmet need, pooled data were analysed to identify trends and inform global recruitment strategies. Patient genotypes were queried against the global inventory at later timepoints in 2018 and 2023 to determine whether potential matches had been recruited within the years since the initial search. Patient haplotypes were imputed using an open-source method referencing US population frequencies. The imputation process used five continental reference populations and 21 detailed populations derived from the NMDP database. The method provided a Bayesian inference of population membership. A control group consisting of US patients that yielded 1000 or more potential matches was used for comparison. RUN patient haplotype and genotype frequencies were substantially lower compared with controls; both the more frequent and less frequent haplotypes in RUN patients were found to be approximately 100 times less common than those in the control group. We identified 782 potential cases in which a potential MUD was recruited after the initial RUN patient search was performed; while this result is being further investigated, clear patterns of where these new matches can be found have emerged; typically, new matches are found outside the country where the patient search was initiated. Our findings demonstrate that rare haplotypes are the primary barrier to identifying a MUD; the presence of rare alleles or haplotype combinations, as with multi-race ancestry, is rarely the cause. Although strategic donor recruitment efforts will help improve MUD access, patient transplants should not be delayed in pursuit of a MUD when viable alternative options are available.",
+      "authors": [
+        {
+          "name": "Martin J. Maiers",
+          "orcid": "https://orcid.org/0000-0002-0198-2064",
+          "position": "first",
+          "corresponding": true,
+          "institutions": [
+            "National Marrow Donor Program"
+          ]
+        },
+        {
+          "name": "Valerie S. Greco-Stewart",
+          "orcid": "https://orcid.org/0009-0005-6764-1659",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "National Marrow Donor Program"
+          ]
+        },
+        {
+          "name": "Abeer S. Madbouly",
+          "orcid": "https://orcid.org/0000-0003-4199-3435",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "National Marrow Donor Program"
+          ]
+        },
+        {
+          "name": "James Robinson",
+          "orcid": "https://orcid.org/0000-0002-2187-5944",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Anthony Nolan",
+            "The Royal Free Hospital",
+            "University College London"
+          ]
+        },
+        {
+          "name": "Hans‐Peter Eberhard",
+          "orcid": "https://orcid.org/0000-0002-2731-4486",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "German National Bone Marrow Donor Registry"
+          ]
+        },
+        {
+          "name": "Jürgen Sauter",
+          "orcid": "https://orcid.org/0000-0001-8485-2945",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Deutsche Knochenmarkspenderdatei"
+          ]
+        },
+        {
+          "name": "Yoram Louzoun",
+          "orcid": "https://orcid.org/0000-0003-1714-6148",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Bar-Ilan University"
+          ]
+        },
+        {
+          "name": "Sapir Israeli",
+          "orcid": "https://orcid.org/0000-0003-1724-4979",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Bar-Ilan University"
+          ]
+        },
+        {
+          "name": "Yung‐Tsi Bolon",
+          "orcid": "https://orcid.org/0000-0001-9414-6120",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "National Marrow Donor Program"
+          ]
+        },
+        {
+          "name": "Julia Pingel",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Deutsche Knochenmarkspenderdatei"
+          ]
+        },
+        {
+          "name": "Alexander H. Schmidt",
+          "orcid": "https://orcid.org/0000-0003-0979-5914",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Deutsche Knochenmarkspenderdatei"
+          ]
+        },
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": []
+        },
+        {
+          "name": "Christina Leonhard‐Melief",
+          "orcid": "https://orcid.org/0009-0001-7078-5283",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Cleveland Cord Blood Center"
+          ]
+        },
+        {
+          "name": "Lydia Foeken",
+          "orcid": "https://orcid.org/0000-0003-1282-7761",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "World Marrow Donor Association"
+          ]
+        },
+        {
+          "name": "Martine Schuit",
+          "orcid": "https://orcid.org/0009-0006-8029-9226",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "World Marrow Donor Association"
+          ]
+        },
+        {
+          "name": "Alicia Venter",
+          "orcid": "https://orcid.org/0009-0007-1940-5277",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "World Marrow Donor Association"
+          ]
+        },
+        {
+          "name": "Steven G. E. Marsh",
+          "orcid": "https://orcid.org/0000-0003-2855-4120",
+          "position": "last",
+          "corresponding": false,
+          "institutions": [
+            "The Royal Free Hospital",
+            "University College London"
+          ]
+        }
+      ],
+      "selfAuthorPositions": [
+        "middle"
+      ],
+      "volumeIssuePages": "vol. 105, no. 5, pp. e70255",
+      "categories": [
+        "matching"
+      ],
+      "primaryCategoryLabel": "Epitope matching",
+      "key": false,
+      "impactFactor": 5,
+      "impactFactorSource": null,
+      "meshTerms": [
+        "Humans",
+        "HLA Antigens",
+        "Histocompatibility Testing",
+        "Hematopoietic Stem Cell Transplantation",
+        "Registries",
+        "Genotype",
+        "Haplotypes",
+        "Adult",
+        "Female",
+        "Male",
+        "Unrelated Donors"
+      ],
+      "keywords": [
+        "unrelated donor search",
+        "HLA-matched unrelated donor",
+        "haplotype imputation",
+        "underserved populations",
+        "haematopoietic cell transplantation",
+        "rare alleles"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Hematopoietic Stem Cell Transplantation",
+          "score": 0.9961000084877014
+        },
+        {
+          "name": "Organ Donation and Transplantation",
+          "score": 0.0020000000949949026
+        },
+        {
+          "name": "Blood donation and transfusion practices",
+          "score": 0.0003000000142492354
+        }
+      ],
+      "citedByCount": 7,
+      "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "isOpenAccess": true,
+      "openAccessStatus": "hybrid",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W2620697142",
+        "https://openalex.org/W2574063214",
+        "https://openalex.org/W4385814261",
+        "https://openalex.org/W2120755004",
+        "https://openalex.org/W2086705945",
+        "https://openalex.org/W1985925811",
+        "https://openalex.org/W2014556895",
+        "https://openalex.org/W3188159550",
+        "https://openalex.org/W2808424559",
+        "https://openalex.org/W10725316"
+      ],
+      "abstractClassification": {
+        "decision": "include",
+        "confidence": "no-signal",
+        "reasons": []
+      }
+    },
+    {
       "putCode": 189157251,
       "title": "Indirect presentation of mismatched human leukocyte antigen ‐B associates with outcomes of cord blood transplantation",
       "year": 2025,
@@ -2010,258 +2394,6 @@
         "https://openalex.org/W2339331983",
         "https://openalex.org/W3095662705",
         "https://openalex.org/W2176173734"
-      ],
-      "abstractClassification": {
-        "decision": "include",
-        "confidence": "no-signal",
-        "reasons": []
-      }
-    },
-    {
-      "putCode": 189157261,
-      "title": "The Registry of Unmet Need: A World Marrow Donor Association Analysis of Patients Without an HLA Match",
-      "year": 2025,
-      "sortDate": "2025-05-00",
-      "journal": "HLA",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": "10.1111/tan.70255",
-      "pmid": "40404178",
-      "pmcid": "PMC12097852",
-      "url": "https://europepmc.org/articles/PMC12097852",
-      "fullTextUrl": "https://europepmc.org/articles/PMC12097852",
-      "bestOpenAccessUrl": "https://doi.org/10.1111/tan.70255",
-      "openAlexId": "https://openalex.org/W4410594003",
-      "openAlexType": "article",
-      "crossrefType": "journal-article",
-      "openAlexUrl": "https://openalex.org/W4410594003",
-      "abstract": "While the World Marrow Donor Association global database currently offers approximately 42.7 million potential donors and cord blood units to patients in need of haematopoietic cell transplant, lack of eight HLA-matched donors remains a significant barrier. The Registry of Unmet Need (RUN) Project seeks to address disparities in transplant access for patients with rare HLA genotypes, particularly those from populations that have been historically underrepresented and underserved by global donor registries. Patients eligible for this study searched for an unrelated donor for transplant between 2015 and 2017 and, at that time, lacked a potential eight-of-eight HLA-matched unrelated donor (MUD). Sixteen donor registries contributed data from 3654 patients using standardised data-collection project templates. To address this unmet need, pooled data were analysed to identify trends and inform global recruitment strategies. Patient genotypes were queried against the global inventory at later timepoints in 2018 and 2023 to determine whether potential matches had been recruited within the years since the initial search. Patient haplotypes were imputed using an open-source method referencing US population frequencies. The imputation process used five continental reference populations and 21 detailed populations derived from the NMDP database. The method provided a Bayesian inference of population membership. A control group consisting of US patients that yielded 1000 or more potential matches was used for comparison. RUN patient haplotype and genotype frequencies were substantially lower compared with controls; both the more frequent and less frequent haplotypes in RUN patients were found to be approximately 100 times less common than those in the control group. We identified 782 potential cases in which a potential MUD was recruited after the initial RUN patient search was performed; while this result is being further investigated, clear patterns of where these new matches can be found have emerged; typically, new matches are found outside the country where the patient search was initiated. Our findings demonstrate that rare haplotypes are the primary barrier to identifying a MUD; the presence of rare alleles or haplotype combinations, as with multi-race ancestry, is rarely the cause. Although strategic donor recruitment efforts will help improve MUD access, patient transplants should not be delayed in pursuit of a MUD when viable alternative options are available.",
-      "authors": [
-        {
-          "name": "Martin J. Maiers",
-          "orcid": "https://orcid.org/0000-0002-0198-2064",
-          "position": "first",
-          "corresponding": true,
-          "institutions": [
-            "National Marrow Donor Program"
-          ]
-        },
-        {
-          "name": "Valerie S. Greco-Stewart",
-          "orcid": "https://orcid.org/0009-0005-6764-1659",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "National Marrow Donor Program"
-          ]
-        },
-        {
-          "name": "Abeer S. Madbouly",
-          "orcid": "https://orcid.org/0000-0003-4199-3435",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "National Marrow Donor Program"
-          ]
-        },
-        {
-          "name": "James Robinson",
-          "orcid": "https://orcid.org/0000-0002-2187-5944",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Anthony Nolan",
-            "The Royal Free Hospital",
-            "University College London"
-          ]
-        },
-        {
-          "name": "Hans‐Peter Eberhard",
-          "orcid": "https://orcid.org/0000-0002-2731-4486",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "German National Bone Marrow Donor Registry"
-          ]
-        },
-        {
-          "name": "Jürgen Sauter",
-          "orcid": "https://orcid.org/0000-0001-8485-2945",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Deutsche Knochenmarkspenderdatei"
-          ]
-        },
-        {
-          "name": "Yoram Louzoun",
-          "orcid": "https://orcid.org/0000-0003-1714-6148",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Bar-Ilan University"
-          ]
-        },
-        {
-          "name": "Sapir Israeli",
-          "orcid": "https://orcid.org/0000-0003-1724-4979",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Bar-Ilan University"
-          ]
-        },
-        {
-          "name": "Yung‐Tsi Bolon",
-          "orcid": "https://orcid.org/0000-0001-9414-6120",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "National Marrow Donor Program"
-          ]
-        },
-        {
-          "name": "Julia Pingel",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Deutsche Knochenmarkspenderdatei"
-          ]
-        },
-        {
-          "name": "Alexander H. Schmidt",
-          "orcid": "https://orcid.org/0000-0003-0979-5914",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Deutsche Knochenmarkspenderdatei"
-          ]
-        },
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": []
-        },
-        {
-          "name": "Christina Leonhard‐Melief",
-          "orcid": "https://orcid.org/0009-0001-7078-5283",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Cleveland Cord Blood Center"
-          ]
-        },
-        {
-          "name": "Lydia Foeken",
-          "orcid": "https://orcid.org/0000-0003-1282-7761",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "World Marrow Donor Association"
-          ]
-        },
-        {
-          "name": "Martine Schuit",
-          "orcid": "https://orcid.org/0009-0006-8029-9226",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "World Marrow Donor Association"
-          ]
-        },
-        {
-          "name": "Alicia Venter",
-          "orcid": "https://orcid.org/0009-0007-1940-5277",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "World Marrow Donor Association"
-          ]
-        },
-        {
-          "name": "Steven G. E. Marsh",
-          "orcid": "https://orcid.org/0000-0003-2855-4120",
-          "position": "last",
-          "corresponding": false,
-          "institutions": [
-            "The Royal Free Hospital",
-            "University College London"
-          ]
-        }
-      ],
-      "selfAuthorPositions": [
-        "middle"
-      ],
-      "volumeIssuePages": "vol. 105, no. 5, pp. e70255",
-      "categories": [
-        "matching"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": 5,
-      "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "HLA Antigens",
-        "Histocompatibility Testing",
-        "Hematopoietic Stem Cell Transplantation",
-        "Registries",
-        "Genotype",
-        "Haplotypes",
-        "Adult",
-        "Female",
-        "Male",
-        "Unrelated Donors"
-      ],
-      "keywords": [
-        "unrelated donor search",
-        "HLA-matched unrelated donor",
-        "haplotype imputation",
-        "underserved populations",
-        "haematopoietic cell transplantation",
-        "rare alleles"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "Hematopoietic Stem Cell Transplantation",
-          "score": 0.9961000084877014
-        },
-        {
-          "name": "Organ Donation and Transplantation",
-          "score": 0.0020000000949949026
-        },
-        {
-          "name": "Blood donation and transfusion practices",
-          "score": 0.0003000000142492354
-        }
-      ],
-      "citedByCount": 7,
-      "countsByYear": [
-        {
-          "year": 2026,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        }
-      ],
-      "isOpenAccess": true,
-      "openAccessStatus": "hybrid",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W2620697142",
-        "https://openalex.org/W2574063214",
-        "https://openalex.org/W4385814261",
-        "https://openalex.org/W2120755004",
-        "https://openalex.org/W2086705945",
-        "https://openalex.org/W1985925811",
-        "https://openalex.org/W2014556895",
-        "https://openalex.org/W3188159550",
-        "https://openalex.org/W2808424559",
-        "https://openalex.org/W10725316"
       ],
       "abstractClassification": {
         "decision": "include",
@@ -3220,523 +3352,6 @@
       }
     },
     {
-      "putCode": 149814801,
-      "title": "Ellipro scores of donor epitope specific HLA antibodies are not associated with kidney graft survival",
-      "year": 2024,
-      "sortDate": "2024-01-00",
-      "journal": "HLA",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": "10.1111/tan.15297",
-      "pmid": "38226401",
-      "pmcid": null,
-      "url": "http://dx.doi.org/10.1111/tan.15297",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": "https://doi.org/10.1111/tan.15297",
-      "openAlexId": "https://openalex.org/W4390449370",
-      "openAlexType": "article",
-      "crossrefType": "journal-article",
-      "openAlexUrl": "https://openalex.org/W4390449370",
-      "abstract": "In kidney transplantation, donor HLA antibodies are a risk factor for graft loss. Accessibility of donor eplets for HLA antibodies is predicted by the ElliPro score. The clinical usefulness of those scores in relation to transplant outcome is unknown. In a large Dutch kidney transplant cohort, Ellipro scores of pretransplant donor antibodies that can be assigned to known eplets (donor epitope specific HLA antibodies [DESAs]) were compared between early graft failure and long surviving deceased donor transplants. We did not observe a significant Ellipro score difference between the two cohorts, nor significant differences in graft survival between transplants with DESAs having high versus low total Ellipro scores. We conclude that Ellipro scores cannot be used to identify DESAs associated with early versus late kidney graft loss in deceased donor transplants.",
-      "authors": [
-        {
-          "name": "Tineke Kardol‐Hoefnagel",
-          "orcid": "https://orcid.org/0000-0002-8736-4549",
-          "position": "first",
-          "corresponding": true,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Danial Senejohnny",
-          "orcid": "https://orcid.org/0000-0001-9063-8603",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Elena G. Kamburova",
-          "orcid": "https://orcid.org/0000-0003-0252-5153",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Bram W. Wisse",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Maartje L. Gruijters",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Amsterdam University Medical Centers"
-          ]
-        },
-        {
-          "name": "Irma Joosten",
-          "orcid": "https://orcid.org/0000-0003-2950-4977",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Radboud University Medical Center"
-          ]
-        },
-        {
-          "name": "Wil A. Allebes",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Radboud University Medical Center"
-          ]
-        },
-        {
-          "name": "Arnold van der Meer",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Radboud University Medical Center"
-          ]
-        },
-        {
-          "name": "Luuk B. Hilbrands",
-          "orcid": "https://orcid.org/0000-0002-4935-9765",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Radboud University Medical Center",
-            "Radboud Institute for Health Sciences"
-          ]
-        },
-        {
-          "name": "Marije C. Baas",
-          "orcid": "https://orcid.org/0000-0001-8928-3251",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Radboud University Medical Center",
-            "Radboud Institute for Health Sciences"
-          ]
-        },
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "C. Erik Hack",
-          "orcid": "https://orcid.org/0009-0000-7281-8002",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Franka E. van Reekum",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Arjan D. van Zuilen",
-          "orcid": "https://orcid.org/0000-0002-2561-5533",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Marianne Christina Verhaar",
-          "orcid": "https://orcid.org/0000-0002-3276-6428",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Adriaan C.A.D. Drop",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Loes Plaisier",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Rowena C. A. Melchers",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Marc A. Seelen",
-          "orcid": "https://orcid.org/0000-0003-2240-4682",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Groningen"
-          ]
-        },
-        {
-          "name": "Jan‐Stephan Sanders",
-          "orcid": "https://orcid.org/0000-0002-0904-3969",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Groningen"
-          ]
-        },
-        {
-          "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Groningen"
-          ]
-        },
-        {
-          "name": "Bart‐Jan Kroesen",
-          "orcid": "https://orcid.org/0000-0003-2593-2392",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Groningen"
-          ]
-        },
-        {
-          "name": "Laura B Bungener",
-          "orcid": "https://orcid.org/0000-0001-5016-5792",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Groningen"
-          ]
-        },
-        {
-          "name": "Caroline Roozendaal",
-          "orcid": "https://orcid.org/0000-0001-7111-0379",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Groningen"
-          ]
-        },
-        {
-          "name": "Marcel G.J. Tilanus",
-          "orcid": "https://orcid.org/0000-0001-9214-392X",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
-          ]
-        },
-        {
-          "name": "Christina E.M. Voorter",
-          "orcid": "https://orcid.org/0000-0001-5839-7889",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
-          ]
-        },
-        {
-          "name": "Lotte Wieten",
-          "orcid": "https://orcid.org/0000-0002-4503-1623",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
-          ]
-        },
-        {
-          "name": "E.M. van Duijnhoven",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
-          ]
-        },
-        {
-          "name": "M. Gelens",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
-          ]
-        },
-        {
-          "name": "Maarten H. L. Christiaans",
-          "orcid": "https://orcid.org/0000-0003-3558-2277",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Maastricht University Medical Centre",
-            "Maastricht University"
-          ]
-        },
-        {
-          "name": "Frans J. van Ittersum",
-          "orcid": "https://orcid.org/0000-0002-8079-0166",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Amsterdam University Medical Centers"
-          ]
-        },
-        {
-          "name": "Azam S. Nurmohamed",
-          "orcid": "https://orcid.org/0000-0001-7666-643X",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Amsterdam University Medical Centers"
-          ]
-        },
-        {
-          "name": "Neubury M. Lardy",
-          "orcid": "https://orcid.org/0000-0002-5186-9510",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Sanquin"
-          ]
-        },
-        {
-          "name": "Wendy T. N. Swelsen",
-          "orcid": "https://orcid.org/0000-0002-3637-849X",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Sanquin"
-          ]
-        },
-        {
-          "name": "K.A.M.I. van Donselaar–van der Pant",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Amsterdam University Medical Centers"
-          ]
-        },
-        {
-          "name": "Neelke C. van der Weerd",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Amsterdam University Medical Centers"
-          ]
-        },
-        {
-          "name": "Ineke J. M. ten Berge",
-          "orcid": "https://orcid.org/0000-0001-8535-2766",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Amsterdam University Medical Centers"
-          ]
-        },
-        {
-          "name": "Andries J. Hoitsma",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": []
-        },
-        {
-          "name": "Paul J. M. van der Boog",
-          "orcid": "https://orcid.org/0000-0002-8178-1413",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Johan Willem de Fijter",
-          "orcid": "https://orcid.org/0000-0003-3076-5584",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Michiel G.H. Betjes",
-          "orcid": "https://orcid.org/0000-0001-9435-6208",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Erasmus MC"
-          ]
-        },
-        {
-          "name": "Dave L. Roelen",
-          "orcid": "https://orcid.org/0000-0002-1846-1193",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Frans H.J. Claas",
-          "orcid": "https://orcid.org/0000-0003-4157-6201",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Fréderike J. Bemelman",
-          "orcid": "https://orcid.org/0000-0002-4454-6270",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Amsterdam University Medical Centers"
-          ]
-        },
-        {
-          "name": "Sebastiaan Heidt",
-          "orcid": "https://orcid.org/0000-0002-6700-188X",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Henny G. Otten",
-          "orcid": "https://orcid.org/0000-0002-6927-2683",
-          "position": "last",
-          "corresponding": true,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        }
-      ],
-      "selfAuthorPositions": [
-        "middle"
-      ],
-      "volumeIssuePages": "vol. 103, no. 1, pp. e15297",
-      "categories": [
-        "matching",
-        "outcome",
-        "diagnostics"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": 5,
-      "impactFactorSource": null,
-      "meshTerms": [
-        "Kidney",
-        "Humans",
-        "Kidney Diseases",
-        "Antibodies",
-        "HLA Antigens",
-        "Epitopes",
-        "Kidney Transplantation",
-        "Graft Rejection",
-        "Graft Survival",
-        "Alleles",
-        "Tissue Donors"
-      ],
-      "keywords": [
-        "HLA antibodies",
-        "kidney transplantation",
-        "graft survival",
-        "deceased donor transplantation",
-        "early graft failure",
-        "antibody accessibility",
-        "pretransplant antibody screening"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "Renal Transplantation Outcomes and Treatments",
-          "score": 1
-        },
-        {
-          "name": "Transplantation: Methods and Outcomes",
-          "score": 0.00009999999747378752
-        },
-        {
-          "name": "Organ Donation and Transplantation",
-          "score": 0
-        }
-      ],
-      "citedByCount": 2,
-      "countsByYear": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        }
-      ],
-      "isOpenAccess": true,
-      "openAccessStatus": "hybrid",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W4391035939",
-        "https://openalex.org/W2988332685",
-        "https://openalex.org/W2157540124",
-        "https://openalex.org/W3178482364",
-        "https://openalex.org/W4404065485",
-        "https://openalex.org/W2951535233",
-        "https://openalex.org/W2395162969",
-        "https://openalex.org/W2773334742",
-        "https://openalex.org/W2619672646",
-        "https://openalex.org/W2731555778"
-      ],
-      "abstractClassification": {
-        "decision": "include",
-        "confidence": "no-signal",
-        "reasons": []
-      }
-    },
-    {
       "putCode": 166263562,
       "title": "Determination of the clinical relevance of donor epitope‐specific HLA ‐antibodies in kidney transplantation",
       "year": 2024,
@@ -4305,7 +3920,524 @@
       }
     },
     {
-      "putCode": 225651301,
+      "putCode": 149814801,
+      "title": "Ellipro scores of donor epitope specific HLA antibodies are not associated with kidney graft survival",
+      "year": 2024,
+      "sortDate": "2024-01-00",
+      "journal": "HLA",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.1111/tan.15297",
+      "pmid": "38226401",
+      "pmcid": null,
+      "url": "http://dx.doi.org/10.1111/tan.15297",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": "https://doi.org/10.1111/tan.15297",
+      "openAlexId": "https://openalex.org/W4390449370",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W4390449370",
+      "abstract": "In kidney transplantation, donor HLA antibodies are a risk factor for graft loss. Accessibility of donor eplets for HLA antibodies is predicted by the ElliPro score. The clinical usefulness of those scores in relation to transplant outcome is unknown. In a large Dutch kidney transplant cohort, Ellipro scores of pretransplant donor antibodies that can be assigned to known eplets (donor epitope specific HLA antibodies [DESAs]) were compared between early graft failure and long surviving deceased donor transplants. We did not observe a significant Ellipro score difference between the two cohorts, nor significant differences in graft survival between transplants with DESAs having high versus low total Ellipro scores. We conclude that Ellipro scores cannot be used to identify DESAs associated with early versus late kidney graft loss in deceased donor transplants.",
+      "authors": [
+        {
+          "name": "Tineke Kardol‐Hoefnagel",
+          "orcid": "https://orcid.org/0000-0002-8736-4549",
+          "position": "first",
+          "corresponding": true,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Danial Senejohnny",
+          "orcid": "https://orcid.org/0000-0001-9063-8603",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Elena G. Kamburova",
+          "orcid": "https://orcid.org/0000-0003-0252-5153",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Bram W. Wisse",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Maartje L. Gruijters",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Amsterdam University Medical Centers"
+          ]
+        },
+        {
+          "name": "Irma Joosten",
+          "orcid": "https://orcid.org/0000-0003-2950-4977",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Radboud University Medical Center"
+          ]
+        },
+        {
+          "name": "Wil A. Allebes",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Radboud University Medical Center"
+          ]
+        },
+        {
+          "name": "Arnold van der Meer",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Radboud University Medical Center"
+          ]
+        },
+        {
+          "name": "Luuk B. Hilbrands",
+          "orcid": "https://orcid.org/0000-0002-4935-9765",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Radboud University Medical Center",
+            "Radboud Institute for Health Sciences"
+          ]
+        },
+        {
+          "name": "Marije C. Baas",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Radboud University Medical Center",
+            "Radboud Institute for Health Sciences"
+          ]
+        },
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "C. Erik Hack",
+          "orcid": "https://orcid.org/0009-0000-7281-8002",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Franka E. van Reekum",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Arjan D. van Zuilen",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Marianne Christina Verhaar",
+          "orcid": "https://orcid.org/0000-0002-3276-6428",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Adriaan C.A.D. Drop",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Loes Plaisier",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Rowena C. A. Melchers",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Marc A. Seelen",
+          "orcid": "https://orcid.org/0000-0003-2240-4682",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Groningen"
+          ]
+        },
+        {
+          "name": "Jan‐Stephan Sanders",
+          "orcid": "https://orcid.org/0000-0002-0904-3969",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Groningen"
+          ]
+        },
+        {
+          "name": "Bouke G. Hepkema",
+          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Groningen"
+          ]
+        },
+        {
+          "name": "Bart‐Jan Kroesen",
+          "orcid": "https://orcid.org/0000-0003-2593-2392",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Groningen"
+          ]
+        },
+        {
+          "name": "Laura B Bungener",
+          "orcid": "https://orcid.org/0000-0001-5016-5792",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Groningen"
+          ]
+        },
+        {
+          "name": "Caroline Roozendaal",
+          "orcid": "https://orcid.org/0000-0001-7111-0379",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Groningen"
+          ]
+        },
+        {
+          "name": "Marcel G.J. Tilanus",
+          "orcid": "https://orcid.org/0000-0001-9214-392X",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Maastricht University Medical Centre",
+            "Maastricht University"
+          ]
+        },
+        {
+          "name": "Christina E.M. Voorter",
+          "orcid": "https://orcid.org/0000-0001-5839-7889",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Maastricht University Medical Centre",
+            "Maastricht University"
+          ]
+        },
+        {
+          "name": "Lotte Wieten",
+          "orcid": "https://orcid.org/0000-0002-4503-1623",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Maastricht University Medical Centre",
+            "Maastricht University"
+          ]
+        },
+        {
+          "name": "E.M. van Duijnhoven",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Maastricht University Medical Centre",
+            "Maastricht University"
+          ]
+        },
+        {
+          "name": "M. Gelens",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Maastricht University Medical Centre",
+            "Maastricht University"
+          ]
+        },
+        {
+          "name": "Maarten H. L. Christiaans",
+          "orcid": "https://orcid.org/0000-0003-3558-2277",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Maastricht University Medical Centre",
+            "Maastricht University"
+          ]
+        },
+        {
+          "name": "Frans J. van Ittersum",
+          "orcid": "https://orcid.org/0000-0002-8079-0166",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Amsterdam University Medical Centers"
+          ]
+        },
+        {
+          "name": "Azam S. Nurmohamed",
+          "orcid": "https://orcid.org/0000-0001-7666-643X",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Amsterdam University Medical Centers"
+          ]
+        },
+        {
+          "name": "Neubury M. Lardy",
+          "orcid": "https://orcid.org/0000-0002-5186-9510",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Sanquin"
+          ]
+        },
+        {
+          "name": "Wendy T. N. Swelsen",
+          "orcid": "https://orcid.org/0000-0002-3637-849X",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Sanquin"
+          ]
+        },
+        {
+          "name": "K.A.M.I. van Donselaar–van der Pant",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Amsterdam University Medical Centers"
+          ]
+        },
+        {
+          "name": "Neelke C. van der Weerd",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Amsterdam University Medical Centers"
+          ]
+        },
+        {
+          "name": "Ineke J. M. ten Berge",
+          "orcid": "https://orcid.org/0000-0001-8535-2766",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Amsterdam University Medical Centers"
+          ]
+        },
+        {
+          "name": "Andries J. Hoitsma",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": []
+        },
+        {
+          "name": "Paul J. M. van der Boog",
+          "orcid": "https://orcid.org/0000-0002-8178-1413",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Johan Willem de Fijter",
+          "orcid": "https://orcid.org/0000-0003-3076-5584",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Michiel G.H. Betjes",
+          "orcid": "https://orcid.org/0000-0001-9435-6208",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Erasmus MC"
+          ]
+        },
+        {
+          "name": "Dave L. Roelen",
+          "orcid": "https://orcid.org/0000-0002-1846-1193",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Frans H.J. Claas",
+          "orcid": "https://orcid.org/0000-0003-4157-6201",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Fréderike J. Bemelman",
+          "orcid": "https://orcid.org/0000-0002-4454-6270",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Amsterdam University Medical Centers"
+          ]
+        },
+        {
+          "name": "Sebastiaan Heidt",
+          "orcid": "https://orcid.org/0000-0002-6700-188X",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Henny G. Otten",
+          "orcid": "https://orcid.org/0000-0002-6927-2683",
+          "position": "last",
+          "corresponding": true,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        }
+      ],
+      "selfAuthorPositions": [
+        "middle"
+      ],
+      "volumeIssuePages": "vol. 103, no. 1, pp. e15297",
+      "categories": [
+        "matching",
+        "outcome",
+        "diagnostics"
+      ],
+      "primaryCategoryLabel": "Epitope matching",
+      "key": false,
+      "impactFactor": 5,
+      "impactFactorSource": null,
+      "meshTerms": [
+        "Kidney",
+        "Humans",
+        "Kidney Diseases",
+        "Antibodies",
+        "HLA Antigens",
+        "Epitopes",
+        "Kidney Transplantation",
+        "Graft Rejection",
+        "Graft Survival",
+        "Alleles",
+        "Tissue Donors"
+      ],
+      "keywords": [
+        "HLA antibodies",
+        "kidney transplantation",
+        "graft survival",
+        "deceased donor transplantation",
+        "early graft failure",
+        "antibody accessibility",
+        "pretransplant antibody screening"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 1
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.00009999999747378752
+        },
+        {
+          "name": "Organ Donation and Transplantation",
+          "score": 0
+        }
+      ],
+      "citedByCount": 2,
+      "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        }
+      ],
+      "isOpenAccess": true,
+      "openAccessStatus": "hybrid",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W4391035939",
+        "https://openalex.org/W2988332685",
+        "https://openalex.org/W2157540124",
+        "https://openalex.org/W3178482364",
+        "https://openalex.org/W4404065485",
+        "https://openalex.org/W2951535233",
+        "https://openalex.org/W2395162969",
+        "https://openalex.org/W2773334742",
+        "https://openalex.org/W2619672646",
+        "https://openalex.org/W2731555778"
+      ],
+      "abstractClassification": {
+        "decision": "include",
+        "confidence": "no-signal",
+        "reasons": []
+      }
+    },
+    {
+      "putCode": 144788419,
       "title": "Repeated local ellipsoid protrusion supplements HLA surface characterization",
       "year": 2024,
       "sortDate": "2024-01-00",
@@ -4390,7 +4522,7 @@
           "score": 0.03909999877214432
         }
       ],
-      "citedByCount": 15,
+      "citedByCount": 16,
       "countsByYear": [
         {
           "year": 2026,
@@ -4398,7 +4530,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2024,
@@ -4418,130 +4550,6 @@
         "https://openalex.org/W4405296669",
         "https://openalex.org/W2158560413",
         "https://openalex.org/W2919614012"
-      ],
-      "abstractClassification": {
-        "decision": "include",
-        "confidence": "no-signal",
-        "reasons": []
-      }
-    },
-    {
-      "putCode": 166263624,
-      "title": "PIRCHE-II Risk and Acceptable Mismatch Profile Analysis in Solid Organ Transplantation",
-      "year": 2024,
-      "sortDate": "2024-00-00",
-      "journal": "Methods in Molecular Biology",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": "10.1007/978-1-0716-3874-3_12",
-      "pmid": "38907898",
-      "pmcid": null,
-      "url": "https://doi.org/10.1007/978-1-0716-3874-3_12",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": "https://dspace.library.uu.nl/handle/1874/453453",
-      "openAlexId": "https://openalex.org/W4399917258",
-      "openAlexType": "book-chapter",
-      "crossrefType": "book-chapter",
-      "openAlexUrl": "https://openalex.org/W4399917258",
-      "abstract": "To optimize outcomes in solid organ transplantation, the HLA genes are regularly compared and matched between the donor and recipient. However, in many cases a transplant cannot be fully matched, due to widespread variation across populations and the hyperpolymorphism of HLA alleles. Mismatches of the HLA molecules in transplanted tissue can be recognized by immune cells of the recipient, leading to immune response and possibly organ rejection. These adverse outcomes are reduced by analysis using epitope-focused models that consider the immune relevance of the mismatched HLA.PIRCHE, an acronym for Predicted Indirectly ReCognizable HLA Epitopes, aims to categorize and quantify HLA mismatches in a patient-donor pair by predicting HLA-derived T cell epitopes. Specifically, the algorithm predicts and counts the HLA-derived peptides that can be presented by the host HLA, known as indirectly-presented T cell epitopes. Looking at the immune-relevant epitopes within HLA allows a more biologically relevant understanding of immune response, and provides an expanded donor pool for a more refined matching strategy compared with allele-level matching. This PIRCHE algorithm is available for analysis of single transplantations, as well as bulk analysis for population studies and statistical analysis for comparison of probability of organ availability and risk profiles.",
-      "authors": [
-        {
-          "name": "Matthias Niemann",
-          "orcid": "https://orcid.org/0000-0002-3514-9812",
-          "position": "first",
-          "corresponding": true,
-          "institutions": []
-        },
-        {
-          "name": "Benedict M. Matern",
-          "orcid": "https://orcid.org/0000-0002-9548-732X",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "last",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        }
-      ],
-      "selfAuthorPositions": [
-        "last"
-      ],
-      "volumeIssuePages": "vol. 2809, pp. 171-192",
-      "categories": [
-        "matching",
-        "outcome"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "HLA Antigens",
-        "Epitopes, T-Lymphocyte",
-        "Histocompatibility Testing",
-        "Organ Transplantation",
-        "Graft Rejection",
-        "Alleles",
-        "Algorithms",
-        "Tissue Donors"
-      ],
-      "keywords": [
-        "solid organ transplantation",
-        "HLA mismatch",
-        "donor-recipient matching",
-        "organ availability"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "vaccines and immunoinformatics approaches",
-          "score": 0.8281000256538391
-        },
-        {
-          "name": "Renal Transplantation Outcomes and Treatments",
-          "score": 0.11680000275373459
-        },
-        {
-          "name": "Transplantation: Methods and Outcomes",
-          "score": 0.037300001829862595
-        }
-      ],
-      "citedByCount": 9,
-      "countsByYear": [
-        {
-          "year": 2026,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
-        }
-      ],
-      "isOpenAccess": true,
-      "openAccessStatus": "green",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W2739203108",
-        "https://openalex.org/W2983017701",
-        "https://openalex.org/W2790933825",
-        "https://openalex.org/W2942046843",
-        "https://openalex.org/W656892924",
-        "https://openalex.org/W2752443213",
-        "https://openalex.org/W2586488339",
-        "https://openalex.org/W2590104313",
-        "https://openalex.org/W4396906807",
-        "https://openalex.org/W3135582850"
       ],
       "abstractClassification": {
         "decision": "include",
@@ -4678,6 +4686,130 @@
         "https://openalex.org/W2114041730",
         "https://openalex.org/W2071570336",
         "https://openalex.org/W2268537810"
+      ],
+      "abstractClassification": {
+        "decision": "include",
+        "confidence": "no-signal",
+        "reasons": []
+      }
+    },
+    {
+      "putCode": 166263624,
+      "title": "PIRCHE-II Risk and Acceptable Mismatch Profile Analysis in Solid Organ Transplantation",
+      "year": 2024,
+      "sortDate": "2024-00-00",
+      "journal": "Methods in Molecular Biology",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.1007/978-1-0716-3874-3_12",
+      "pmid": "38907898",
+      "pmcid": null,
+      "url": "https://doi.org/10.1007/978-1-0716-3874-3_12",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": "https://dspace.library.uu.nl/handle/1874/453453",
+      "openAlexId": "https://openalex.org/W4399917258",
+      "openAlexType": "book-chapter",
+      "crossrefType": "book-chapter",
+      "openAlexUrl": "https://openalex.org/W4399917258",
+      "abstract": "To optimize outcomes in solid organ transplantation, the HLA genes are regularly compared and matched between the donor and recipient. However, in many cases a transplant cannot be fully matched, due to widespread variation across populations and the hyperpolymorphism of HLA alleles. Mismatches of the HLA molecules in transplanted tissue can be recognized by immune cells of the recipient, leading to immune response and possibly organ rejection. These adverse outcomes are reduced by analysis using epitope-focused models that consider the immune relevance of the mismatched HLA.PIRCHE, an acronym for Predicted Indirectly ReCognizable HLA Epitopes, aims to categorize and quantify HLA mismatches in a patient-donor pair by predicting HLA-derived T cell epitopes. Specifically, the algorithm predicts and counts the HLA-derived peptides that can be presented by the host HLA, known as indirectly-presented T cell epitopes. Looking at the immune-relevant epitopes within HLA allows a more biologically relevant understanding of immune response, and provides an expanded donor pool for a more refined matching strategy compared with allele-level matching. This PIRCHE algorithm is available for analysis of single transplantations, as well as bulk analysis for population studies and statistical analysis for comparison of probability of organ availability and risk profiles.",
+      "authors": [
+        {
+          "name": "Matthias Niemann",
+          "orcid": "https://orcid.org/0000-0002-3514-9812",
+          "position": "first",
+          "corresponding": true,
+          "institutions": []
+        },
+        {
+          "name": "Benedict M. Matern",
+          "orcid": "https://orcid.org/0000-0002-9548-732X",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "last",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        }
+      ],
+      "selfAuthorPositions": [
+        "last"
+      ],
+      "volumeIssuePages": "vol. 2809, pp. 171-192",
+      "categories": [
+        "matching",
+        "outcome"
+      ],
+      "primaryCategoryLabel": "Epitope matching",
+      "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [
+        "Humans",
+        "HLA Antigens",
+        "Epitopes, T-Lymphocyte",
+        "Histocompatibility Testing",
+        "Organ Transplantation",
+        "Graft Rejection",
+        "Alleles",
+        "Algorithms",
+        "Tissue Donors"
+      ],
+      "keywords": [
+        "solid organ transplantation",
+        "HLA mismatch",
+        "donor-recipient matching",
+        "organ availability"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "vaccines and immunoinformatics approaches",
+          "score": 0.8281000256538391
+        },
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.11680000275373459
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.037300001829862595
+        }
+      ],
+      "citedByCount": 9,
+      "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        }
+      ],
+      "isOpenAccess": true,
+      "openAccessStatus": "green",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W2739203108",
+        "https://openalex.org/W2983017701",
+        "https://openalex.org/W2790933825",
+        "https://openalex.org/W2942046843",
+        "https://openalex.org/W656892924",
+        "https://openalex.org/W2752443213",
+        "https://openalex.org/W2586488339",
+        "https://openalex.org/W2590104313",
+        "https://openalex.org/W4396906807",
+        "https://openalex.org/W3135582850"
       ],
       "abstractClassification": {
         "decision": "include",
@@ -4853,7 +4985,7 @@
       }
     },
     {
-      "putCode": 225651304,
+      "putCode": 132858989,
       "title": "World Marrow Donor Association guidelines for the reporting of novel HLA alleles",
       "year": 2023,
       "sortDate": "2023-07-00",
@@ -5085,7 +5217,7 @@
       }
     },
     {
-      "putCode": 225651307,
+      "putCode": 129565936,
       "title": "Using cloud infrastructure to facilitate data collection and conversion of HLA diagnostic data for the 18th International HLA and Immunogenetics Workshop",
       "year": 2023,
       "sortDate": "2023-05-00",
@@ -5242,7 +5374,7 @@
       }
     },
     {
-      "putCode": 225651308,
+      "putCode": 225653732,
       "title": "Compartmentalization and persistence of dominant (regulatory) T cell clones indicates antigen skewing in juvenile idiopathic arthritis",
       "year": 2023,
       "sortDate": "2023-01-23",
@@ -5252,7 +5384,7 @@
       "doi": "10.7554/elife.79016",
       "pmid": "36688525",
       "pmcid": "PMC9995115",
-      "url": "https://doi.org/10.7554/elife.79016",
+      "url": "https://www.lens.org/114-800-237-500-628",
       "fullTextUrl": "https://europepmc.org/articles/PMC9995115",
       "bestOpenAccessUrl": "https://doi.org/10.7554/elife.79016",
       "openAlexId": "https://openalex.org/W4317749668",
@@ -5631,7 +5763,7 @@
       }
     },
     {
-      "putCode": 225651313,
+      "putCode": 233321235,
       "title": "Snowflake epitope matching correlates with child-specific antibodies during pregnancy and donor-specific antibodies after kidney transplantation",
       "year": 2022,
       "sortDate": "2022-10-28",
@@ -6127,11 +6259,11 @@
           "score": 0.006399999838322401
         }
       ],
-      "citedByCount": 12,
+      "citedByCount": 14,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -6265,11 +6397,11 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 27,
+      "citedByCount": 28,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 10
+          "cited_by_count": 11
         },
         {
           "year": 2025,
@@ -6309,7 +6441,7 @@
       }
     },
     {
-      "putCode": 225651318,
+      "putCode": 109655385,
       "title": "HLA-DQ heterodimers in hematopoietic cell transplantation",
       "year": 2022,
       "sortDate": "2022-05-19",
@@ -6490,90 +6622,6 @@
         "https://openalex.org/W7212373260",
         "https://openalex.org/W1981422003",
         "https://openalex.org/W2091844260"
-      ],
-      "abstractClassification": {
-        "decision": "include",
-        "confidence": "no-signal",
-        "reasons": []
-      }
-    },
-    {
-      "putCode": 225651322,
-      "title": "Foreword from the Local Organizing Committee",
-      "year": 2022,
-      "sortDate": "2022-05-00",
-      "journal": "HLA",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": "10.1111/tan.14605",
-      "pmid": null,
-      "pmcid": null,
-      "url": "https://doi.org/10.1111/tan.14605",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": "https://doi.org/10.1111/tan.14605",
-      "openAlexId": "https://openalex.org/W4224981600",
-      "openAlexType": "article",
-      "crossrefType": "journal-article",
-      "openAlexUrl": "https://openalex.org/W4224981600",
-      "abstract": "It is our pleasure to welcome you to Amsterdam for the 35 th European Immunogenetics and Histocompatibility Conference. It has been three years since our last in-person EFI conference held in Lisbon, so we are looking forward to meeting you again. This EFI conference will be the first ever hybrid EFI conference, so we hope this will allow everybody to be able to join, regardless of local travel restrictions. In the challenging times we live in, our conference motto ‘acceptance, tolerance and permissiveness’ seems more relevant than ever. Together with the EFI Scientific Committee and Education Committee, we have put together a program that will encompass this motto. This year, 293 abstracts were submitted to the Scientific Committee for review with authors from 52 countries. We sincerely hope that everyone will enjoy the possibility for an in-person meeting, and will learn from the plenary, teaching, oral abstract and poster sessions that we have put together. We are very appreciative of all our great line-up of speakers, as well as the chairs of the different sessions for their time and contribution to this conference. We are especially grateful to our corporate sponsors, who have continued to support us in difficult times, and without whom this conference would not be possible. We would also like to thank the EFI Executive Committee for helping us to create the best possible meeting, regardless of possible Covid-19 related restrictions. We look forward to a fruitful conference that will update us on the most recent research in our field of Histocompatibility and Immunogenetics. We are confident that you will enjoy your visit to Amsterdam, the most tolerogenic city in the world, and that EFI2022 will bring you lots of new knowledge and friendship.",
-      "authors": [
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "first",
-          "corresponding": false,
-          "institutions": []
-        },
-        {
-          "name": "Sebastiaan Heidt",
-          "orcid": "https://orcid.org/0000-0002-6700-188X",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": []
-        },
-        {
-          "name": "Local Organizing Comm",
-          "orcid": "",
-          "position": "last",
-          "corresponding": false,
-          "institutions": []
-        }
-      ],
-      "selfAuthorPositions": [
-        "first"
-      ],
-      "volumeIssuePages": "vol. 99, no. 5, pp. 415-415",
-      "categories": [
-        "matching",
-        "diagnostics"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": 5,
-      "impactFactorSource": null,
-      "meshTerms": [],
-      "keywords": [
-        "immunogenetics",
-        "histocompatibility",
-        "hybrid conference",
-        "COVID-19 restrictions"
-      ],
-      "openAlexTopics": [],
-      "citedByCount": 0,
-      "countsByYear": [],
-      "isOpenAccess": true,
-      "openAccessStatus": "bronze",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W7147516870",
-        "https://openalex.org/W2805046545",
-        "https://openalex.org/W4238352083",
-        "https://openalex.org/W4250172887",
-        "https://openalex.org/W2885212640",
-        "https://openalex.org/W2738479231",
-        "https://openalex.org/W4238990506",
-        "https://openalex.org/W4239661572",
-        "https://openalex.org/W4253055029",
-        "https://openalex.org/W4384928846"
       ],
       "abstractClassification": {
         "decision": "include",
@@ -7164,6 +7212,90 @@
       }
     },
     {
+      "putCode": 233321234,
+      "title": "Foreword from the Local Organizing Committee",
+      "year": 2022,
+      "sortDate": "2022-05-00",
+      "journal": "HLA",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.1111/tan.14605",
+      "pmid": null,
+      "pmcid": null,
+      "url": "https://doi.org/10.1111/tan.14605",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": "https://doi.org/10.1111/tan.14605",
+      "openAlexId": "https://openalex.org/W4224981600",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W4224981600",
+      "abstract": "It is our pleasure to welcome you to Amsterdam for the 35 th European Immunogenetics and Histocompatibility Conference. It has been three years since our last in-person EFI conference held in Lisbon, so we are looking forward to meeting you again. This EFI conference will be the first ever hybrid EFI conference, so we hope this will allow everybody to be able to join, regardless of local travel restrictions. In the challenging times we live in, our conference motto ‘acceptance, tolerance and permissiveness’ seems more relevant than ever. Together with the EFI Scientific Committee and Education Committee, we have put together a program that will encompass this motto. This year, 293 abstracts were submitted to the Scientific Committee for review with authors from 52 countries. We sincerely hope that everyone will enjoy the possibility for an in-person meeting, and will learn from the plenary, teaching, oral abstract and poster sessions that we have put together. We are very appreciative of all our great line-up of speakers, as well as the chairs of the different sessions for their time and contribution to this conference. We are especially grateful to our corporate sponsors, who have continued to support us in difficult times, and without whom this conference would not be possible. We would also like to thank the EFI Executive Committee for helping us to create the best possible meeting, regardless of possible Covid-19 related restrictions. We look forward to a fruitful conference that will update us on the most recent research in our field of Histocompatibility and Immunogenetics. We are confident that you will enjoy your visit to Amsterdam, the most tolerogenic city in the world, and that EFI2022 will bring you lots of new knowledge and friendship.",
+      "authors": [
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "first",
+          "corresponding": false,
+          "institutions": []
+        },
+        {
+          "name": "Sebastiaan Heidt",
+          "orcid": "https://orcid.org/0000-0002-6700-188X",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": []
+        },
+        {
+          "name": "Local Organizing Comm",
+          "orcid": "",
+          "position": "last",
+          "corresponding": false,
+          "institutions": []
+        }
+      ],
+      "selfAuthorPositions": [
+        "first"
+      ],
+      "volumeIssuePages": "vol. 99, no. 5, pp. 415-415",
+      "categories": [
+        "matching",
+        "diagnostics"
+      ],
+      "primaryCategoryLabel": "Epitope matching",
+      "key": false,
+      "impactFactor": 5,
+      "impactFactorSource": null,
+      "meshTerms": [],
+      "keywords": [
+        "immunogenetics",
+        "histocompatibility",
+        "hybrid conference",
+        "COVID-19 restrictions"
+      ],
+      "openAlexTopics": [],
+      "citedByCount": 0,
+      "countsByYear": [],
+      "isOpenAccess": true,
+      "openAccessStatus": "bronze",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W7147516870",
+        "https://openalex.org/W2805046545",
+        "https://openalex.org/W4238352083",
+        "https://openalex.org/W4250172887",
+        "https://openalex.org/W2885212640",
+        "https://openalex.org/W2738479231",
+        "https://openalex.org/W4238990506",
+        "https://openalex.org/W4239661572",
+        "https://openalex.org/W4253055029",
+        "https://openalex.org/W4384928846"
+      ],
+      "abstractClassification": {
+        "decision": "include",
+        "confidence": "no-signal",
+        "reasons": []
+      }
+    },
+    {
       "putCode": 189157729,
       "title": "Genetics-first approach improves diagnostics of ESKD patients &lt;50 years old",
       "year": 2022,
@@ -7356,11 +7488,11 @@
           "score": 0.05460000038146973
         }
       ],
-      "citedByCount": 58,
+      "citedByCount": 59,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2025,
@@ -10489,15 +10621,15 @@
           "score": 0.11349999904632568
         }
       ],
-      "citedByCount": 58,
+      "citedByCount": 60,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2025,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2024,
@@ -10541,7 +10673,7 @@
       }
     },
     {
-      "putCode": 225651349,
+      "putCode": 64720353,
       "title": "PIRCHE-II: an algorithm to predict indirectly recognizable HLA epitopes in solid organ transplantation",
       "year": 2020,
       "sortDate": "2020-02-00",
@@ -10629,11 +10761,11 @@
           "score": 0.031700000166893005
         }
       ],
-      "citedByCount": 106,
+      "citedByCount": 107,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2025,
@@ -11698,7 +11830,7 @@
           "score": 0.00019999999494757503
         }
       ],
-      "citedByCount": 99,
+      "citedByCount": 100,
       "countsByYear": [
         {
           "year": 2026,
@@ -11706,7 +11838,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 14
+          "cited_by_count": 15
         },
         {
           "year": 2024,
@@ -12918,7 +13050,7 @@
       }
     },
     {
-      "putCode": 59062193,
+      "putCode": 189158838,
       "title": "Effect of initial immunosuppression on long-term kidney transplant outcome in immunological low-risk patients",
       "year": 2019,
       "sortDate": "2019-08-01",
@@ -12928,7 +13060,7 @@
       "doi": "10.1093/ndt/gfy377",
       "pmid": "30561730",
       "pmcid": null,
-      "url": "http://dx.doi.org/10.1093/ndt/gfy377",
+      "url": "https://doi.org/10.1093/ndt/gfy377",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1093/ndt/gfy377",
       "openAlexId": "https://openalex.org/W2804222395",
@@ -13989,7 +14121,7 @@
       }
     },
     {
-      "putCode": 225651357,
+      "putCode": 233321239,
       "title": "A paired kidney analysis on the impact of pre-transplant anti-HLA antibodies on graft survival",
       "year": 2019,
       "sortDate": "2019-06-01",
@@ -14976,539 +15108,6 @@
       }
     },
     {
-      "putCode": 60098777,
-      "title": "Toward a Sensible Single-antigen Bead Cutoff Based on Kidney Graft Survival",
-      "year": 2019,
-      "sortDate": "2019-04-00",
-      "journal": "Transplantation",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": "10.1097/tp.0000000000002357",
-      "pmid": "30106794",
-      "pmcid": "PMC6430591",
-      "url": "http://europepmc.org/articles/PMC6430591",
-      "fullTextUrl": "https://europepmc.org/articles/PMC6430591",
-      "bestOpenAccessUrl": "https://doi.org/10.1097/tp.0000000000002357",
-      "openAlexId": "https://openalex.org/W2887206724",
-      "openAlexType": "article",
-      "crossrefType": "journal-article",
-      "openAlexUrl": "https://openalex.org/W2887206724",
-      "abstract": "Background There is no consensus in the literature on the interpretation of single-antigen bead positive for a specific HLA antibody. Methods To inform the debate, we studied the relationship between various single-antigen bead positivity algorithms and the impact of resulting donor-specific HLA antibody (DSA) positivity on long-term kidney graft survival in 3237 deceased-donor transplants. Results First, we showed that the interassay variability can be greatly reduced when working with signal-to-background ratios instead of absolute median fluorescence intensities (MFIs). Next, we determined pretransplant DSA using various MFI cutoffs, signal-to-background ratios, and combinations thereof. The impact of the various cutoffs was studied by comparing the graft survival between the DSA-positive and DSA-negative groups. We did not observe a strong impact of various cutoff levels on 10-year graft survival. A stronger relationship between the cutoff level and 1-year graft survival for DSA-positive transplants was found when using signal-to-background ratios, most pronounced for the bead of the same HLA locus with lowest MFI taken as background. Conclusions With respect to pretransplant risk stratification, we propose a signal-to-background ratio-6 (using the bead of the same HLA-locus with lowest MFI as background) cutoff of 15 combined with an MFI cutoff of 500, resulting in 8% and 21% lower 1- and 10-year graft survivals, respectively, for 8% DSA-positive transplants.",
-      "authors": [
-        {
-          "name": "Bram W. Wisse",
-          "orcid": "",
-          "position": "first",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Elena G. Kamburova",
-          "orcid": "https://orcid.org/0000-0003-0252-5153",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Irma Joosten",
-          "orcid": "https://orcid.org/0000-0003-2950-4977",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Radboud University Nijmegen",
-            "Radboud University Medical Center",
-            "Radboud Institute for Molecular Life Sciences"
-          ]
-        },
-        {
-          "name": "Wil A. Allebes",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Radboud University Nijmegen",
-            "Radboud University Medical Center",
-            "Radboud Institute for Molecular Life Sciences"
-          ]
-        },
-        {
-          "name": "Arnold van der Meer",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Radboud University Nijmegen",
-            "Radboud University Medical Center",
-            "Radboud Institute for Molecular Life Sciences"
-          ]
-        },
-        {
-          "name": "Luuk B. Hilbrands",
-          "orcid": "https://orcid.org/0000-0002-4935-9765",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Radboud University Medical Center",
-            "Radboud Institute for Health Sciences"
-          ]
-        },
-        {
-          "name": "Marije C. Baas",
-          "orcid": "https://orcid.org/0000-0001-8928-3251",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Radboud University Medical Center",
-            "Radboud Institute for Health Sciences"
-          ]
-        },
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "C. Erik Hack",
-          "orcid": "https://orcid.org/0009-0000-7281-8002",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Franka E. van Reekum",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Arjan D. van Zuilen",
-          "orcid": "https://orcid.org/0000-0002-2561-5533",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Marianne Christina Verhaar",
-          "orcid": "https://orcid.org/0000-0002-3276-6428",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Michiel L. Bots",
-          "orcid": "https://orcid.org/0000-0003-2871-9810",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Adriaan C.A.D. Drop",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Loes Plaisier",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        },
-        {
-          "name": "Marc A. Seelen",
-          "orcid": "https://orcid.org/0000-0003-2240-4682",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Groningen",
-            "University of Groningen"
-          ]
-        },
-        {
-          "name": "Jan‐Stephan Sanders",
-          "orcid": "https://orcid.org/0000-0002-0904-3969",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Groningen",
-            "University of Groningen"
-          ]
-        },
-        {
-          "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Groningen",
-            "University of Groningen"
-          ]
-        },
-        {
-          "name": "Annechien J.A. Lambeck",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Groningen",
-            "University of Groningen"
-          ]
-        },
-        {
-          "name": "Laura B Bungener",
-          "orcid": "https://orcid.org/0000-0001-5016-5792",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Groningen",
-            "University of Groningen"
-          ]
-        },
-        {
-          "name": "Caroline Roozendaal",
-          "orcid": "https://orcid.org/0000-0001-7111-0379",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "University Medical Center Groningen",
-            "University of Groningen"
-          ]
-        },
-        {
-          "name": "Marcel G.J. Tilanus",
-          "orcid": "https://orcid.org/0000-0001-9214-392X",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Maastricht University Medical Centre"
-          ]
-        },
-        {
-          "name": "Christina E.M. Voorter",
-          "orcid": "https://orcid.org/0000-0001-5839-7889",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Maastricht University Medical Centre"
-          ]
-        },
-        {
-          "name": "Lotte Wieten",
-          "orcid": "https://orcid.org/0000-0002-4503-1623",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Maastricht University Medical Centre"
-          ]
-        },
-        {
-          "name": "E.M. van Duijnhoven",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Maastricht University Medical Centre"
-          ]
-        },
-        {
-          "name": "M. Gelens",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Maastricht University Medical Centre"
-          ]
-        },
-        {
-          "name": "Maarten H. L. Christiaans",
-          "orcid": "https://orcid.org/0000-0003-3558-2277",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Maastricht University Medical Centre"
-          ]
-        },
-        {
-          "name": "Frans J. van Ittersum",
-          "orcid": "https://orcid.org/0000-0002-8079-0166",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Amsterdam University Medical Centers",
-            "Amsterdam Cardiovascular Sciences",
-            "Vrije Universiteit Amsterdam",
-            "Amsterdam UMC Location Vrije Universiteit Amsterdam"
-          ]
-        },
-        {
-          "name": "Azam S. Nurmohamed",
-          "orcid": "https://orcid.org/0000-0001-7666-643X",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Amsterdam University Medical Centers",
-            "Amsterdam Cardiovascular Sciences",
-            "Vrije Universiteit Amsterdam",
-            "Amsterdam UMC Location Vrije Universiteit Amsterdam"
-          ]
-        },
-        {
-          "name": "Neubury M. Lardy",
-          "orcid": "https://orcid.org/0000-0002-5186-9510",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Sanquin"
-          ]
-        },
-        {
-          "name": "Wendy T. N. Swelsen",
-          "orcid": "https://orcid.org/0000-0002-3637-849X",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Sanquin"
-          ]
-        },
-        {
-          "name": "K.A.M.I. van Donselaar–van der Pant",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Amsterdam University Medical Centers",
-            "University of Amsterdam"
-          ]
-        },
-        {
-          "name": "Neelke C. van der Weerd",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Amsterdam University Medical Centers",
-            "University of Amsterdam"
-          ]
-        },
-        {
-          "name": "Ineke J. M. ten Berge",
-          "orcid": "https://orcid.org/0000-0001-8535-2766",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Amsterdam University Medical Centers",
-            "University of Amsterdam"
-          ]
-        },
-        {
-          "name": "Fréderike J. Bemelman",
-          "orcid": "https://orcid.org/0000-0002-4454-6270",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Amsterdam University Medical Centers",
-            "University of Amsterdam"
-          ]
-        },
-        {
-          "name": "Andries J. Hoitsma",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": []
-        },
-        {
-          "name": "Paul J. M. van der Boog",
-          "orcid": "https://orcid.org/0000-0002-8178-1413",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Johan Willem de Fijter",
-          "orcid": "https://orcid.org/0000-0003-3076-5584",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Michiel G.H. Betjes",
-          "orcid": "https://orcid.org/0000-0001-9435-6208",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Erasmus MC"
-          ]
-        },
-        {
-          "name": "Sebastiaan Heidt",
-          "orcid": "https://orcid.org/0000-0002-6700-188X",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Dave L. Roelen",
-          "orcid": "https://orcid.org/0000-0002-1846-1193",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Frans H.J. Claas",
-          "orcid": "https://orcid.org/0000-0003-4157-6201",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": [
-            "Leiden University Medical Center"
-          ]
-        },
-        {
-          "name": "Henny G. Otten",
-          "orcid": "https://orcid.org/0000-0002-6927-2683",
-          "position": "last",
-          "corresponding": true,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        }
-      ],
-      "selfAuthorPositions": [
-        "middle"
-      ],
-      "volumeIssuePages": "vol. 103, no. 4, pp. 789-797",
-      "categories": [
-        "outcome",
-        "diagnostics"
-      ],
-      "primaryCategoryLabel": "Outcome",
-      "key": false,
-      "impactFactor": 5,
-      "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Isoantibodies",
-        "HLA Antigens",
-        "Kidney Transplantation",
-        "Graft Survival",
-        "Fluorescence",
-        "Tissue Donors"
-      ],
-      "keywords": [
-        "single antigen bead assay",
-        "donor-specific HLA antibodies",
-        "signal-to-background ratio",
-        "renal allograft survival",
-        "deceased donor kidney transplantation",
-        "inter-assay variability",
-        "HLA antibodies"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "Renal Transplantation Outcomes and Treatments",
-          "score": 0.9994999766349792
-        },
-        {
-          "name": "Transplantation: Methods and Outcomes",
-          "score": 0.00009999999747378752
-        },
-        {
-          "name": "Organ Donation and Transplantation",
-          "score": 0.00009999999747378752
-        }
-      ],
-      "citedByCount": 40,
-      "countsByYear": [
-        {
-          "year": 2026,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 11
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        }
-      ],
-      "isOpenAccess": true,
-      "openAccessStatus": "hybrid",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W2514536589",
-        "https://openalex.org/W2120149311",
-        "https://openalex.org/W3033659696",
-        "https://openalex.org/W2951535233",
-        "https://openalex.org/W1769601246",
-        "https://openalex.org/W1896368768",
-        "https://openalex.org/W2313533636",
-        "https://openalex.org/W237138008",
-        "https://openalex.org/W27646122",
-        "https://openalex.org/W2804553007"
-      ],
-      "abstractClassification": {
-        "decision": "include",
-        "confidence": "no-signal",
-        "reasons": []
-      }
-    },
-    {
       "putCode": 189159412,
       "title": "Quality control project of NGS HLA genotyping for the 17th International HLA and Immunogenetics Workshop",
       "year": 2019,
@@ -16346,6 +15945,539 @@
       }
     },
     {
+      "putCode": 233321236,
+      "title": "Toward a Sensible Single-antigen Bead Cutoff Based on Kidney Graft Survival",
+      "year": 2019,
+      "sortDate": "2019-04-00",
+      "journal": "Transplantation",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.1097/tp.0000000000002357",
+      "pmid": "30106794",
+      "pmcid": "PMC6430591",
+      "url": "https://doi.org/10.1097/tp.0000000000002357",
+      "fullTextUrl": "https://europepmc.org/articles/PMC6430591",
+      "bestOpenAccessUrl": "https://doi.org/10.1097/tp.0000000000002357",
+      "openAlexId": "https://openalex.org/W2887206724",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W2887206724",
+      "abstract": "Background There is no consensus in the literature on the interpretation of single-antigen bead positive for a specific HLA antibody. Methods To inform the debate, we studied the relationship between various single-antigen bead positivity algorithms and the impact of resulting donor-specific HLA antibody (DSA) positivity on long-term kidney graft survival in 3237 deceased-donor transplants. Results First, we showed that the interassay variability can be greatly reduced when working with signal-to-background ratios instead of absolute median fluorescence intensities (MFIs). Next, we determined pretransplant DSA using various MFI cutoffs, signal-to-background ratios, and combinations thereof. The impact of the various cutoffs was studied by comparing the graft survival between the DSA-positive and DSA-negative groups. We did not observe a strong impact of various cutoff levels on 10-year graft survival. A stronger relationship between the cutoff level and 1-year graft survival for DSA-positive transplants was found when using signal-to-background ratios, most pronounced for the bead of the same HLA locus with lowest MFI taken as background. Conclusions With respect to pretransplant risk stratification, we propose a signal-to-background ratio-6 (using the bead of the same HLA-locus with lowest MFI as background) cutoff of 15 combined with an MFI cutoff of 500, resulting in 8% and 21% lower 1- and 10-year graft survivals, respectively, for 8% DSA-positive transplants.",
+      "authors": [
+        {
+          "name": "Bram W. Wisse",
+          "orcid": "",
+          "position": "first",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Elena G. Kamburova",
+          "orcid": "https://orcid.org/0000-0003-0252-5153",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Irma Joosten",
+          "orcid": "https://orcid.org/0000-0003-2950-4977",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Radboud University Nijmegen",
+            "Radboud University Medical Center",
+            "Radboud Institute for Molecular Life Sciences"
+          ]
+        },
+        {
+          "name": "Wil A. Allebes",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Radboud University Nijmegen",
+            "Radboud University Medical Center",
+            "Radboud Institute for Molecular Life Sciences"
+          ]
+        },
+        {
+          "name": "Arnold van der Meer",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Radboud University Nijmegen",
+            "Radboud University Medical Center",
+            "Radboud Institute for Molecular Life Sciences"
+          ]
+        },
+        {
+          "name": "Luuk B. Hilbrands",
+          "orcid": "https://orcid.org/0000-0002-4935-9765",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Radboud University Medical Center",
+            "Radboud Institute for Health Sciences"
+          ]
+        },
+        {
+          "name": "Marije C. Baas",
+          "orcid": "https://orcid.org/0000-0001-8928-3251",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Radboud University Medical Center",
+            "Radboud Institute for Health Sciences"
+          ]
+        },
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "C. Erik Hack",
+          "orcid": "https://orcid.org/0009-0000-7281-8002",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Franka E. van Reekum",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Arjan D. van Zuilen",
+          "orcid": "https://orcid.org/0000-0002-2561-5533",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Marianne Christina Verhaar",
+          "orcid": "https://orcid.org/0000-0002-3276-6428",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Michiel L. Bots",
+          "orcid": "https://orcid.org/0000-0003-2871-9810",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Adriaan C.A.D. Drop",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Loes Plaisier",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        },
+        {
+          "name": "Marc A. Seelen",
+          "orcid": "https://orcid.org/0000-0003-2240-4682",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Groningen",
+            "University of Groningen"
+          ]
+        },
+        {
+          "name": "Jan‐Stephan Sanders",
+          "orcid": "https://orcid.org/0000-0002-0904-3969",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Groningen",
+            "University of Groningen"
+          ]
+        },
+        {
+          "name": "Bouke G. Hepkema",
+          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Groningen",
+            "University of Groningen"
+          ]
+        },
+        {
+          "name": "Annechien J.A. Lambeck",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Groningen",
+            "University of Groningen"
+          ]
+        },
+        {
+          "name": "Laura B Bungener",
+          "orcid": "https://orcid.org/0000-0001-5016-5792",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Groningen",
+            "University of Groningen"
+          ]
+        },
+        {
+          "name": "Caroline Roozendaal",
+          "orcid": "https://orcid.org/0000-0001-7111-0379",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "University Medical Center Groningen",
+            "University of Groningen"
+          ]
+        },
+        {
+          "name": "Marcel G.J. Tilanus",
+          "orcid": "https://orcid.org/0000-0001-9214-392X",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Maastricht University Medical Centre"
+          ]
+        },
+        {
+          "name": "Christina E.M. Voorter",
+          "orcid": "https://orcid.org/0000-0001-5839-7889",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Maastricht University Medical Centre"
+          ]
+        },
+        {
+          "name": "Lotte Wieten",
+          "orcid": "https://orcid.org/0000-0002-4503-1623",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Maastricht University Medical Centre"
+          ]
+        },
+        {
+          "name": "E.M. van Duijnhoven",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Maastricht University Medical Centre"
+          ]
+        },
+        {
+          "name": "M. Gelens",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Maastricht University Medical Centre"
+          ]
+        },
+        {
+          "name": "Maarten H. L. Christiaans",
+          "orcid": "https://orcid.org/0000-0003-3558-2277",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Maastricht University Medical Centre"
+          ]
+        },
+        {
+          "name": "Frans J. van Ittersum",
+          "orcid": "https://orcid.org/0000-0002-8079-0166",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Amsterdam University Medical Centers",
+            "Amsterdam Cardiovascular Sciences",
+            "Vrije Universiteit Amsterdam",
+            "Amsterdam UMC Location Vrije Universiteit Amsterdam"
+          ]
+        },
+        {
+          "name": "Azam S. Nurmohamed",
+          "orcid": "https://orcid.org/0000-0001-7666-643X",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Amsterdam University Medical Centers",
+            "Amsterdam Cardiovascular Sciences",
+            "Vrije Universiteit Amsterdam",
+            "Amsterdam UMC Location Vrije Universiteit Amsterdam"
+          ]
+        },
+        {
+          "name": "Neubury M. Lardy",
+          "orcid": "https://orcid.org/0000-0002-5186-9510",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Sanquin"
+          ]
+        },
+        {
+          "name": "Wendy T. N. Swelsen",
+          "orcid": "https://orcid.org/0000-0002-3637-849X",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Sanquin"
+          ]
+        },
+        {
+          "name": "K.A.M.I. van Donselaar–van der Pant",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Amsterdam University Medical Centers",
+            "University of Amsterdam"
+          ]
+        },
+        {
+          "name": "Neelke C. van der Weerd",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Amsterdam University Medical Centers",
+            "University of Amsterdam"
+          ]
+        },
+        {
+          "name": "Ineke J. M. ten Berge",
+          "orcid": "https://orcid.org/0000-0001-8535-2766",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Amsterdam University Medical Centers",
+            "University of Amsterdam"
+          ]
+        },
+        {
+          "name": "Fréderike J. Bemelman",
+          "orcid": "https://orcid.org/0000-0002-4454-6270",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Amsterdam University Medical Centers",
+            "University of Amsterdam"
+          ]
+        },
+        {
+          "name": "Andries J. Hoitsma",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": []
+        },
+        {
+          "name": "Paul J. M. van der Boog",
+          "orcid": "https://orcid.org/0000-0002-8178-1413",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Johan Willem de Fijter",
+          "orcid": "https://orcid.org/0000-0003-3076-5584",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Michiel G.H. Betjes",
+          "orcid": "https://orcid.org/0000-0001-9435-6208",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Erasmus MC"
+          ]
+        },
+        {
+          "name": "Sebastiaan Heidt",
+          "orcid": "https://orcid.org/0000-0002-6700-188X",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Dave L. Roelen",
+          "orcid": "https://orcid.org/0000-0002-1846-1193",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Frans H.J. Claas",
+          "orcid": "https://orcid.org/0000-0003-4157-6201",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": [
+            "Leiden University Medical Center"
+          ]
+        },
+        {
+          "name": "Henny G. Otten",
+          "orcid": "https://orcid.org/0000-0002-6927-2683",
+          "position": "last",
+          "corresponding": true,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        }
+      ],
+      "selfAuthorPositions": [
+        "middle"
+      ],
+      "volumeIssuePages": "vol. 103, no. 4, pp. 789-797",
+      "categories": [
+        "outcome",
+        "diagnostics"
+      ],
+      "primaryCategoryLabel": "Outcome",
+      "key": false,
+      "impactFactor": 5,
+      "impactFactorSource": null,
+      "meshTerms": [
+        "Humans",
+        "Isoantibodies",
+        "HLA Antigens",
+        "Kidney Transplantation",
+        "Graft Survival",
+        "Fluorescence",
+        "Tissue Donors"
+      ],
+      "keywords": [
+        "single antigen bead assay",
+        "donor-specific HLA antibodies",
+        "signal-to-background ratio",
+        "renal allograft survival",
+        "deceased donor kidney transplantation",
+        "inter-assay variability",
+        "HLA antibodies"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.9994999766349792
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.00009999999747378752
+        },
+        {
+          "name": "Organ Donation and Transplantation",
+          "score": 0.00009999999747378752
+        }
+      ],
+      "citedByCount": 40,
+      "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        }
+      ],
+      "isOpenAccess": true,
+      "openAccessStatus": "hybrid",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W2514536589",
+        "https://openalex.org/W2120149311",
+        "https://openalex.org/W3033659696",
+        "https://openalex.org/W2951535233",
+        "https://openalex.org/W1769601246",
+        "https://openalex.org/W1896368768",
+        "https://openalex.org/W2313533636",
+        "https://openalex.org/W237138008",
+        "https://openalex.org/W27646122",
+        "https://openalex.org/W2804553007"
+      ],
+      "abstractClassification": {
+        "decision": "include",
+        "confidence": "no-signal",
+        "reasons": []
+      }
+    },
+    {
       "putCode": 189227473,
       "title": "Histocompatibility",
       "year": 2019,
@@ -16475,7 +16607,7 @@
       }
     },
     {
-      "putCode": 59062132,
+      "putCode": 233321241,
       "title": "Development and Validation of a Multiplex Non-HLA Antibody Assay for the Screening of Kidney Transplant Recipients",
       "year": 2018,
       "sortDate": "2018-12-19",
@@ -16485,7 +16617,7 @@
       "doi": "10.3389/fimmu.2018.03002",
       "pmid": "30631326",
       "pmcid": "PMC6315148",
-      "url": "http://dx.doi.org/10.3389/fimmu.2018.03002",
+      "url": "https://doi.org/10.3389/fimmu.2018.03002",
       "fullTextUrl": "https://europepmc.org/articles/PMC6315148",
       "bestOpenAccessUrl": "https://doi.org/10.3389/fimmu.2018.03002",
       "openAlexId": "https://openalex.org/W2905286764",
@@ -17027,7 +17159,7 @@
       }
     },
     {
-      "putCode": 59062190,
+      "putCode": 233321238,
       "title": "PD-1+CD8+ T cells are clonally expanding effectors in human chronic inflammation",
       "year": 2018,
       "sortDate": "2018-09-10",
@@ -17037,7 +17169,7 @@
       "doi": "10.1172/jci96107",
       "pmid": "30198907",
       "pmcid": "PMC6159979",
-      "url": "http://dx.doi.org/10.1172/jci96107",
+      "url": "https://doi.org/10.1172/jci96107",
       "fullTextUrl": "https://europepmc.org/articles/PMC6159979",
       "bestOpenAccessUrl": "http://europepmc.org/pmc/articles/PMC6159979",
       "openAlexId": "https://openalex.org/W2892128713",
@@ -17238,7 +17370,7 @@
           "score": 0.0010999999940395355
         }
       ],
-      "citedByCount": 125,
+      "citedByCount": 126,
       "countsByYear": [
         {
           "year": 2026,
@@ -17246,7 +17378,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 14
+          "cited_by_count": 15
         },
         {
           "year": 2024,
@@ -17828,7 +17960,7 @@
       }
     },
     {
-      "putCode": 60098830,
+      "putCode": 233321242,
       "title": "Pretransplant C3d-Fixing Donor-Specific Anti-HLA Antibodies Are Not Associated with Increased Risk for Kidney Graft Failure",
       "year": 2018,
       "sortDate": "2018-09-00",
@@ -17838,7 +17970,7 @@
       "doi": "10.1681/asn.2018020205",
       "pmid": "30049681",
       "pmcid": "PMC6115667",
-      "url": "https://doi.org/10.1681/ASN.2018020205",
+      "url": "https://doi.org/10.1681/asn.2018020205",
       "fullTextUrl": "https://europepmc.org/articles/PMC6115667",
       "bestOpenAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/6115667",
       "openAlexId": "https://openalex.org/W2884800739",
@@ -18328,7 +18460,7 @@
       }
     },
     {
-      "putCode": 59062073,
+      "putCode": 233321240,
       "title": "Rejection Prophylaxis in Corneal Transplant",
       "year": 2018,
       "sortDate": "2018-04-13",
@@ -18338,7 +18470,7 @@
       "doi": "10.3238/arztebl.2018.0259",
       "pmid": "29735006",
       "pmcid": "PMC5949374",
-      "url": "http://doi.org/10.3238/arztebl.2018.0259",
+      "url": "https://doi.org/10.3238/arztebl.2018.0259",
       "fullTextUrl": "https://europepmc.org/articles/PMC5949374",
       "bestOpenAccessUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/5949374",
       "openAlexId": "https://openalex.org/W2797660590",
@@ -18514,7 +18646,7 @@
       }
     },
     {
-      "putCode": 59062029,
+      "putCode": 233321237,
       "title": "Matching donor and recipient based on predicted indirectly recognizable human leucocyte antigen epitopes",
       "year": 2018,
       "sortDate": "2018-04-00",
@@ -18524,7 +18656,7 @@
       "doi": "10.1111/iji.12359",
       "pmid": "29464898",
       "pmcid": null,
-      "url": "http://dx.doi.org/10.1111/iji.12359",
+      "url": "https://doi.org/10.1111/iji.12359",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1111/iji.12359",
       "openAlexId": "https://openalex.org/W2790933825",
@@ -18599,7 +18731,7 @@
           "score": 0.07280000299215317
         }
       ],
-      "citedByCount": 47,
+      "citedByCount": 48,
       "countsByYear": [
         {
           "year": 2026,
@@ -18607,7 +18739,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2024,
@@ -18663,7 +18795,7 @@
       }
     },
     {
-      "putCode": 59062009,
+      "putCode": 233321244,
       "title": "PIRCHE-II Is Related to Graft Failure after Kidney Transplantation",
       "year": 2018,
       "sortDate": "2018-03-05",
@@ -18673,7 +18805,7 @@
       "doi": "10.3389/fimmu.2018.00321",
       "pmid": "29556227",
       "pmcid": "PMC5844930",
-      "url": "http://dx.doi.org/10.3389/fimmu.2018.00321",
+      "url": "https://doi.org/10.3389/fimmu.2018.00321",
       "fullTextUrl": "https://europepmc.org/articles/PMC5844930",
       "bestOpenAccessUrl": "https://doi.org/10.3389/fimmu.2018.00321",
       "openAlexId": "https://openalex.org/W2792653202",
@@ -19402,7 +19534,7 @@
       }
     },
     {
-      "putCode": 225651176,
+      "putCode": 41791178,
       "title": "Donor–Recipient Matching Based on Predicted Indirectly Recognizable HLA Epitopes Independently Predicts the Incidence of De Novo Donor-Specific HLA Antibodies Following Renal Transplantation",
       "year": 2017,
       "sortDate": "2017-12-00",
@@ -19412,7 +19544,7 @@
       "doi": "10.1111/ajt.14393",
       "pmid": "28613392",
       "pmcid": null,
-      "url": "https://doi.org/10.1111/ajt.14393",
+      "url": "http://europepmc.org/abstract/med/28613392",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1111/ajt.14393",
       "openAlexId": "https://openalex.org/W2740183634",
@@ -19569,11 +19701,11 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 185,
+      "citedByCount": 186,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 22
+          "cited_by_count": 23
         },
         {
           "year": 2025,
@@ -20108,7 +20240,7 @@
       }
     },
     {
-      "putCode": 225651180,
+      "putCode": 41791180,
       "title": "Noninvasive Imaging of Human Immune Responses in a Human Xenograft Model of Graft-Versus-Host Disease",
       "year": 2017,
       "sortDate": "2017-06-00",
@@ -20118,7 +20250,7 @@
       "doi": "10.2967/jnumed.116.186007",
       "pmid": "28209904",
       "pmcid": "PMC5450362",
-      "url": "https://doi.org/10.2967/jnumed.116.186007",
+      "url": "http://europepmc.org/abstract/med/28209904",
       "fullTextUrl": "https://europepmc.org/articles/PMC5450362",
       "bestOpenAccessUrl": "https://doi.org/10.2967/jnumed.116.186007",
       "openAlexId": "https://openalex.org/W2588012190",
@@ -20386,7 +20518,7 @@
       }
     },
     {
-      "putCode": 225651193,
+      "putCode": 41791182,
       "title": "Efficacy of host-dendritic cell vaccinations with or without minor histocompatibility antigen loading, combined with donor lymphocyte infusion in multiple myeloma patients",
       "year": 2017,
       "sortDate": "2017-02-00",
@@ -20396,7 +20528,7 @@
       "doi": "10.1038/bmt.2016.250",
       "pmid": "27841858",
       "pmcid": null,
-      "url": "https://doi.org/10.1038/bmt.2016.250",
+      "url": "http://europepmc.org/abstract/med/27841858",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://pure.amsterdamumc.nl/en/publications/fb31c212-380e-4bea-84d7-ff718ad6f94d",
       "openAlexId": "https://openalex.org/W2555998070",
@@ -21037,11 +21169,11 @@
           "score": 0.06960000097751617
         }
       ],
-      "citedByCount": 50,
+      "citedByCount": 51,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -21428,7 +21560,7 @@
       }
     },
     {
-      "putCode": 225651214,
+      "putCode": 41791186,
       "title": "Immunogenicity of Anti-HLA Antibodies in Pancreas and Islet Transplantation",
       "year": 2016,
       "sortDate": "2016-11-00",
@@ -21438,7 +21570,7 @@
       "doi": "10.3727/096368916x691673",
       "pmid": "27196533",
       "pmcid": null,
-      "url": "https://doi.org/10.3727/096368916x691673",
+      "url": "http://europepmc.org/abstract/med/27196533",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.3727/096368916x691673",
       "openAlexId": "https://openalex.org/W2396644448",
@@ -21607,7 +21739,7 @@
           "score": 0.08730000257492065
         }
       ],
-      "citedByCount": 48,
+      "citedByCount": 49,
       "countsByYear": [
         {
           "year": 2026,
@@ -21639,7 +21771,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2018,
@@ -22390,7 +22522,7 @@
       }
     },
     {
-      "putCode": 225651206,
+      "putCode": 41791185,
       "title": "How can we reduce costs of solid‐phase multiplex‐bead assays used to determine anti‐ HLA antibodies?",
       "year": 2016,
       "sortDate": "2016-09-00",
@@ -22400,7 +22532,7 @@
       "doi": "10.1111/tan.12860",
       "pmid": "27534609",
       "pmcid": null,
-      "url": "https://doi.org/10.1111/tan.12860",
+      "url": "http://europepmc.org/abstract/med/27534609",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://pure.amsterdamumc.nl/en/publications/b0fb9028-1800-4221-b28b-e71be985957f",
       "openAlexId": "https://openalex.org/W2520913131",
@@ -23126,11 +23258,11 @@
           "score": 0.0008999999845400453
         }
       ],
-      "citedByCount": 110,
+      "citedByCount": 111,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -23395,7 +23527,7 @@
       }
     },
     {
-      "putCode": 225651215,
+      "putCode": 19827809,
       "title": "Predicted Indirectly ReCognizable HLA Epitopes Class I Promote Antileukemia Responses after Cord Blood Transplantation: Indications for a Potential Novel Donor Selection Tool",
       "year": 2016,
       "sortDate": "2016-01-00",
@@ -23804,7 +23936,7 @@
       }
     },
     {
-      "putCode": 225651218,
+      "putCode": 19827808,
       "title": "Biomarker profiling of steroid-resistant acute GVHD in patients after infusion of mesenchymal stromal cells",
       "year": 2015,
       "sortDate": "2015-09-00",
@@ -24154,7 +24286,7 @@
       }
     },
     {
-      "putCode": 225651219,
+      "putCode": 20029038,
       "title": "The number of T cell allo-epitopes associates with CD4+ and CD8+ T-cell infiltration in pediatric cutaneous GVHD",
       "year": 2015,
       "sortDate": "2015-06-00",
@@ -24164,7 +24296,7 @@
       "doi": "10.1016/j.cellimm.2015.03.001",
       "pmid": "25880102",
       "pmcid": null,
-      "url": "https://doi.org/10.1016/j.cellimm.2015.03.001",
+      "url": "http://europepmc.org/abstract/med/25880102",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://dspace.library.uu.nl/handle/1874/331294",
       "openAlexId": "https://openalex.org/W2009539002",
@@ -24352,7 +24484,7 @@
       }
     },
     {
-      "putCode": 225651225,
+      "putCode": 20029043,
       "title": "Identification of minor histocompatibility antigens based on the 1000 Genomes Project",
       "year": 2014,
       "sortDate": "2014-12-01",
@@ -24362,7 +24494,7 @@
       "doi": "10.3324/haematol.2014.109801",
       "pmid": "25150256",
       "pmcid": "PMC4258743",
-      "url": "https://doi.org/10.3324/haematol.2014.109801",
+      "url": "http://europepmc.org/abstract/med/25150256",
       "fullTextUrl": "https://europepmc.org/articles/PMC4258743",
       "bestOpenAccessUrl": "https://doi.org/10.3324/haematol.2014.109801",
       "openAlexId": "https://openalex.org/W1974164935",
@@ -24498,7 +24630,7 @@
           "score": 0.017400000244379044
         }
       ],
-      "citedByCount": 26,
+      "citedByCount": 27,
       "countsByYear": [
         {
           "year": 2025,
@@ -24506,6 +24638,10 @@
         },
         {
           "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
           "cited_by_count": 1
         },
         {
@@ -24558,7 +24694,7 @@
       }
     },
     {
-      "putCode": 225651222,
+      "putCode": 20029040,
       "title": "Functional antigen matching in corneal transplantation: matching for the HLA-A, -B and -DRB1 antigens (FANCY) – study protocol",
       "year": 2014,
       "sortDate": "2014-12-00",
@@ -24568,7 +24704,7 @@
       "doi": "10.1186/1471-2415-14-156",
       "pmid": "25496165",
       "pmcid": "PMC4292991",
-      "url": "https://doi.org/10.1186/1471-2415-14-156",
+      "url": "http://europepmc.org/abstract/med/25496165",
       "fullTextUrl": "https://europepmc.org/articles/PMC4292991",
       "bestOpenAccessUrl": "https://doi.org/10.1186/1471-2415-14-156",
       "openAlexId": "https://openalex.org/W2001056064",
@@ -24741,7 +24877,7 @@
       }
     },
     {
-      "putCode": 225651226,
+      "putCode": 20029044,
       "title": "Refinement of the Definition of Permissible HLA-DPB1 Mismatches with Predicted Indirectly ReCognizable HLA-DPB1 Epitopes",
       "year": 2014,
       "sortDate": "2014-11-00",
@@ -24751,7 +24887,7 @@
       "doi": "10.1016/j.bbmt.2014.06.026",
       "pmid": "24980111",
       "pmcid": null,
-      "url": "https://doi.org/10.1016/j.bbmt.2014.06.026",
+      "url": "http://europepmc.org/abstract/med/24980111",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1016/j.bbmt.2014.06.026",
       "openAlexId": "https://openalex.org/W2002408102",
@@ -25131,160 +25267,7 @@
       }
     },
     {
-      "putCode": 225651228,
-      "title": "Minor histocompatibility antigens: past, present, and future",
-      "year": 2014,
-      "sortDate": "2014-10-00",
-      "journal": "Tissue Antigens",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": "10.1111/tan.12445",
-      "pmid": "25262921",
-      "pmcid": null,
-      "url": "https://doi.org/10.1111/tan.12445",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": null,
-      "openAlexId": "https://openalex.org/W2057158152",
-      "openAlexType": "review",
-      "crossrefType": "journal-article",
-      "openAlexUrl": "https://openalex.org/W2057158152",
-      "abstract": "Minor histocompatibility (H) antigens are key molecules driving allo-immune responses in both graft-versus-host-disease (GvHD) and in graft-versus-leukemia (GvL) reactivity in human leukocyte antigen (HLA)-matched hematopoietic stem-cell transplantation (HSCT). Dissection of the dual function of minor H antigens became evident through their different modes of tissue and cell expression, i.e. hematopoietic system-restricted or broad. Broadly expressed minor H antigens can cause both GvHD and GvL effects, while hematopoietic system-restricted minor H antigens are more prone to induce GvL responses. This phenomenon renders the latter group of minor H antigens as curative tools for HSCT-based immunotherapy of hematological malignancies and disorders, in which minor H antigen-specific responses are enhanced in order to eradicate the malignant cells. This article describes the immunogenetics of minor H antigens and methods that have been developed to identify them. Moreover, it summarizes the clinical relevance of minor H antigens in transplantation, with special regards to allogeneic HSCT and solid-organ transplantation.",
-      "authors": [
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "first",
-          "corresponding": true,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        }
-      ],
-      "selfAuthorPositions": [
-        "first",
-        "corresponding"
-      ],
-      "volumeIssuePages": "vol. 84, no. 4, pp. 374-360",
-      "categories": [
-        "matching",
-        "outcome",
-        "diagnostics",
-        "cellular"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Graft vs Host Disease",
-        "Minor Histocompatibility Antigens",
-        "Histocompatibility Testing",
-        "Hematopoietic Stem Cell Transplantation",
-        "Organ Transplantation",
-        "Graft vs Leukemia Effect",
-        "Allografts"
-      ],
-      "keywords": [
-        "minor histocompatibility antigens",
-        "alloimmunity",
-        "graft-versus-host disease",
-        "graft-versus-leukemia effect",
-        "hematopoietic stem cell transplantation",
-        "HLA matching",
-        "immunogenetics",
-        "solid organ transplantation",
-        "allogeneic transplantation",
-        "hematologic malignancies",
-        "immunotherapy"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "Hematopoietic Stem Cell Transplantation",
-          "score": 0.9740999937057495
-        },
-        {
-          "name": "Immunotherapy and Immune Responses",
-          "score": 0.006800000090152025
-        },
-        {
-          "name": "Renal Transplantation Outcomes and Treatments",
-          "score": 0.006599999964237213
-        }
-      ],
-      "citedByCount": 105,
-      "countsByYear": [
-        {
-          "year": 2026,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 12
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 13
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 13
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 19
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 4
-        }
-      ],
-      "isOpenAccess": false,
-      "openAccessStatus": "closed",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W2021123807",
-        "https://openalex.org/W27939087",
-        "https://openalex.org/W4232323077",
-        "https://openalex.org/W2116673465",
-        "https://openalex.org/W2101056299",
-        "https://openalex.org/W2094400037",
-        "https://openalex.org/W1982843125",
-        "https://openalex.org/W2791708982",
-        "https://openalex.org/W2005795437",
-        "https://openalex.org/W316508253"
-      ],
-      "abstractClassification": {
-        "decision": "include",
-        "confidence": "no-signal",
-        "reasons": []
-      }
-    },
-    {
-      "putCode": 225651227,
+      "putCode": 20029042,
       "title": "The PROCARE consortium: Toward an improved allocation strategy for kidney allografts",
       "year": 2014,
       "sortDate": "2014-10-00",
@@ -25294,7 +25277,7 @@
       "doi": "10.1016/j.trim.2014.09.008",
       "pmid": "25258025",
       "pmcid": null,
-      "url": "https://doi.org/10.1016/j.trim.2014.09.008",
+      "url": "http://europepmc.org/abstract/med/25258025",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1016/j.trim.2014.09.008",
       "openAlexId": "https://openalex.org/W2076248193",
@@ -25771,7 +25754,160 @@
       }
     },
     {
-      "putCode": 225651233,
+      "putCode": 225653711,
+      "title": "Minor histocompatibility antigens: past, present, and future",
+      "year": 2014,
+      "sortDate": "2014-10-00",
+      "journal": "Tissue Antigens",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.1111/tan.12445",
+      "pmid": "25262921",
+      "pmcid": null,
+      "url": "https://www.lens.org/010-709-204-826-156",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W2057158152",
+      "openAlexType": "review",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W2057158152",
+      "abstract": "Minor histocompatibility (H) antigens are key molecules driving allo-immune responses in both graft-versus-host-disease (GvHD) and in graft-versus-leukemia (GvL) reactivity in human leukocyte antigen (HLA)-matched hematopoietic stem-cell transplantation (HSCT). Dissection of the dual function of minor H antigens became evident through their different modes of tissue and cell expression, i.e. hematopoietic system-restricted or broad. Broadly expressed minor H antigens can cause both GvHD and GvL effects, while hematopoietic system-restricted minor H antigens are more prone to induce GvL responses. This phenomenon renders the latter group of minor H antigens as curative tools for HSCT-based immunotherapy of hematological malignancies and disorders, in which minor H antigen-specific responses are enhanced in order to eradicate the malignant cells. This article describes the immunogenetics of minor H antigens and methods that have been developed to identify them. Moreover, it summarizes the clinical relevance of minor H antigens in transplantation, with special regards to allogeneic HSCT and solid-organ transplantation.",
+      "authors": [
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "first",
+          "corresponding": true,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        }
+      ],
+      "selfAuthorPositions": [
+        "first",
+        "corresponding"
+      ],
+      "volumeIssuePages": "vol. 84, no. 4, pp. 374-360",
+      "categories": [
+        "matching",
+        "outcome",
+        "diagnostics",
+        "cellular"
+      ],
+      "primaryCategoryLabel": "Epitope matching",
+      "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [
+        "Humans",
+        "Graft vs Host Disease",
+        "Minor Histocompatibility Antigens",
+        "Histocompatibility Testing",
+        "Hematopoietic Stem Cell Transplantation",
+        "Organ Transplantation",
+        "Graft vs Leukemia Effect",
+        "Allografts"
+      ],
+      "keywords": [
+        "minor histocompatibility antigens",
+        "alloimmunity",
+        "graft-versus-host disease",
+        "graft-versus-leukemia effect",
+        "hematopoietic stem cell transplantation",
+        "HLA matching",
+        "immunogenetics",
+        "solid organ transplantation",
+        "allogeneic transplantation",
+        "hematologic malignancies",
+        "immunotherapy"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Hematopoietic Stem Cell Transplantation",
+          "score": 0.9740999937057495
+        },
+        {
+          "name": "Immunotherapy and Immune Responses",
+          "score": 0.006800000090152025
+        },
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.006599999964237213
+        }
+      ],
+      "citedByCount": 107,
+      "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 13
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 14
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 19
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 4
+        }
+      ],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W2021123807",
+        "https://openalex.org/W27939087",
+        "https://openalex.org/W4232323077",
+        "https://openalex.org/W2116673465",
+        "https://openalex.org/W2101056299",
+        "https://openalex.org/W2094400037",
+        "https://openalex.org/W1982843125",
+        "https://openalex.org/W2791708982",
+        "https://openalex.org/W2005795437",
+        "https://openalex.org/W316508253"
+      ],
+      "abstractClassification": {
+        "decision": "include",
+        "confidence": "no-signal",
+        "reasons": []
+      }
+    },
+    {
+      "putCode": 225653712,
       "title": "Indirectly Recognized HLA-C Mismatches and Their Potential Role in Transplant Outcome",
       "year": 2014,
       "sortDate": "2014-05-12",
@@ -25781,7 +25917,7 @@
       "doi": "10.3389/fimmu.2014.00210",
       "pmid": "24860572",
       "pmcid": "PMC4026718",
-      "url": "https://doi.org/10.3389/fimmu.2014.00210",
+      "url": "https://www.lens.org/011-190-456-815-38X",
       "fullTextUrl": "https://europepmc.org/articles/PMC4026718",
       "bestOpenAccessUrl": "https://doi.org/10.3389/fimmu.2014.00210",
       "openAlexId": "https://openalex.org/W2026218142",
@@ -25863,11 +25999,11 @@
           "score": 0.057999998331069946
         }
       ],
-      "citedByCount": 26,
+      "citedByCount": 27,
       "countsByYear": [
         {
           "year": 2025,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2024,
@@ -25931,131 +26067,7 @@
       }
     },
     {
-      "putCode": 172019953,
-      "title": "Molecular Typing Methods for Minor Histocompatibility Antigens",
-      "year": 2014,
-      "sortDate": "2014-00-00",
-      "journal": "Methods in Molecular Biology",
-      "type": "journal-article",
-      "typeLabel": "Journal-Article",
-      "doi": "10.1007/978-1-4614-9437-9_8",
-      "pmid": "17666745",
-      "pmcid": null,
-      "url": "http://europepmc.org/abstract/med/17666745",
-      "fullTextUrl": null,
-      "bestOpenAccessUrl": null,
-      "openAlexId": "https://openalex.org/W3025667196",
-      "openAlexType": "book-chapter",
-      "crossrefType": "book-chapter",
-      "openAlexUrl": "https://openalex.org/W3025667196",
-      "abstract": "Minor histocompatibility (H) antigens crucially affect the outcome of human leukocyte antigen-matched allogeneic stem cell transplantation. The number of molecularly identified minor H antigens is rapidly increasing. In parallel, clinical implementation of minor H antigens for immunotherapy has gained significant interest. It is therefore timely to type stem cell transplant recipients and their donors for minor H antigens. Here, we summarize all the currently known methodologies for minor H antigen typing on the genomic and on the RNA level.",
-      "authors": [
-        {
-          "name": "Eric Spierings",
-          "orcid": "https://orcid.org/0000-0001-9441-1019",
-          "position": "first",
-          "corresponding": true,
-          "institutions": [
-            "University Medical Center Utrecht"
-          ]
-        }
-      ],
-      "selfAuthorPositions": [
-        "first",
-        "corresponding"
-      ],
-      "volumeIssuePages": "vol. 1109, pp. 115-138",
-      "categories": [
-        "matching",
-        "outcome",
-        "diagnostics",
-        "cellular"
-      ],
-      "primaryCategoryLabel": "Epitope matching",
-      "key": false,
-      "impactFactor": null,
-      "impactFactorSource": null,
-      "meshTerms": [
-        "Chromosomes, Human",
-        "Humans",
-        "DNA",
-        "Minor Histocompatibility Antigens",
-        "Blood Grouping and Crossmatching",
-        "Nucleic Acid Amplification Techniques",
-        "Polymerase Chain Reaction",
-        "Polymorphism, Restriction Fragment Length",
-        "Polymorphism, Single-Stranded Conformational",
-        "Transition Temperature"
-      ],
-      "keywords": [
-        "minor histocompatibility antigens",
-        "molecular typing",
-        "HLA mismatch",
-        "graft-versus-host disease",
-        "graft-versus-tumor effect",
-        "graft-versus-leukemia effect",
-        "donor-recipient matching",
-        "transplantation immunology"
-      ],
-      "openAlexTopics": [
-        {
-          "name": "Hematopoietic Stem Cell Transplantation",
-          "score": 0.9154999852180481
-        },
-        {
-          "name": "Renal Transplantation Outcomes and Treatments",
-          "score": 0.025699999183416367
-        },
-        {
-          "name": "Transplantation: Methods and Outcomes",
-          "score": 0.009399999864399433
-        }
-      ],
-      "citedByCount": 5,
-      "countsByYear": [
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        }
-      ],
-      "isOpenAccess": false,
-      "openAccessStatus": "closed",
-      "relatedOpenAlexWorks": [
-        "https://openalex.org/W27939087",
-        "https://openalex.org/W2085353239",
-        "https://openalex.org/W1978421185",
-        "https://openalex.org/W2057158152",
-        "https://openalex.org/W2005795437",
-        "https://openalex.org/W2116673465",
-        "https://openalex.org/W316508253",
-        "https://openalex.org/W2026715330",
-        "https://openalex.org/W2048879791",
-        "https://openalex.org/W1982843125"
-      ],
-      "abstractClassification": {
-        "decision": "include",
-        "confidence": "no-signal",
-        "reasons": []
-      }
-    },
-    {
-      "putCode": 225651240,
+      "putCode": 20029046,
       "title": "Predicting Alloreactivity in Transplantation",
       "year": 2014,
       "sortDate": "2014-00-00",
@@ -26065,7 +26077,7 @@
       "doi": "10.1155/2014/159479",
       "pmid": "24868561",
       "pmcid": "PMC4020392",
-      "url": "https://doi.org/10.1155/2014/159479",
+      "url": "http://europepmc.org/abstract/med/24868561",
       "fullTextUrl": "https://europepmc.org/articles/PMC4020392",
       "bestOpenAccessUrl": "https://doi.org/10.1155/2014/159479",
       "openAlexId": "https://openalex.org/W2131650904",
@@ -26230,7 +26242,131 @@
       }
     },
     {
-      "putCode": 225651242,
+      "putCode": 172019953,
+      "title": "Molecular Typing Methods for Minor Histocompatibility Antigens",
+      "year": 2014,
+      "sortDate": "2014-00-00",
+      "journal": "Methods in Molecular Biology",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.1007/978-1-4614-9437-9_8",
+      "pmid": "17666745",
+      "pmcid": null,
+      "url": "http://europepmc.org/abstract/med/17666745",
+      "fullTextUrl": null,
+      "bestOpenAccessUrl": null,
+      "openAlexId": "https://openalex.org/W3025667196",
+      "openAlexType": "book-chapter",
+      "crossrefType": "book-chapter",
+      "openAlexUrl": "https://openalex.org/W3025667196",
+      "abstract": "Minor histocompatibility (H) antigens crucially affect the outcome of human leukocyte antigen-matched allogeneic stem cell transplantation. The number of molecularly identified minor H antigens is rapidly increasing. In parallel, clinical implementation of minor H antigens for immunotherapy has gained significant interest. It is therefore timely to type stem cell transplant recipients and their donors for minor H antigens. Here, we summarize all the currently known methodologies for minor H antigen typing on the genomic and on the RNA level.",
+      "authors": [
+        {
+          "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "first",
+          "corresponding": true,
+          "institutions": [
+            "University Medical Center Utrecht"
+          ]
+        }
+      ],
+      "selfAuthorPositions": [
+        "first",
+        "corresponding"
+      ],
+      "volumeIssuePages": "vol. 1109, pp. 115-138",
+      "categories": [
+        "matching",
+        "outcome",
+        "diagnostics",
+        "cellular"
+      ],
+      "primaryCategoryLabel": "Epitope matching",
+      "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [
+        "Chromosomes, Human",
+        "Humans",
+        "DNA",
+        "Minor Histocompatibility Antigens",
+        "Blood Grouping and Crossmatching",
+        "Nucleic Acid Amplification Techniques",
+        "Polymerase Chain Reaction",
+        "Polymorphism, Restriction Fragment Length",
+        "Polymorphism, Single-Stranded Conformational",
+        "Transition Temperature"
+      ],
+      "keywords": [
+        "minor histocompatibility antigens",
+        "molecular typing",
+        "HLA mismatch",
+        "graft-versus-host disease",
+        "graft-versus-tumor effect",
+        "graft-versus-leukemia effect",
+        "donor-recipient matching",
+        "transplantation immunology"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Hematopoietic Stem Cell Transplantation",
+          "score": 0.9154999852180481
+        },
+        {
+          "name": "Renal Transplantation Outcomes and Treatments",
+          "score": 0.025699999183416367
+        },
+        {
+          "name": "Transplantation: Methods and Outcomes",
+          "score": 0.009399999864399433
+        }
+      ],
+      "citedByCount": 5,
+      "countsByYear": [
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        }
+      ],
+      "isOpenAccess": false,
+      "openAccessStatus": "closed",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W27939087",
+        "https://openalex.org/W2085353239",
+        "https://openalex.org/W1978421185",
+        "https://openalex.org/W2057158152",
+        "https://openalex.org/W2005795437",
+        "https://openalex.org/W2116673465",
+        "https://openalex.org/W316508253",
+        "https://openalex.org/W2026715330",
+        "https://openalex.org/W2048879791",
+        "https://openalex.org/W1982843125"
+      ],
+      "abstractClassification": {
+        "decision": "include",
+        "confidence": "no-signal",
+        "reasons": []
+      }
+    },
+    {
+      "putCode": 20029049,
       "title": "Minor H antigen matches and mismatches are equally distributed among recipients with or without complications after HLA identical sibling renal transplantation",
       "year": 2013,
       "sortDate": "2013-11-00",
@@ -26240,7 +26376,7 @@
       "doi": "10.1111/tan.12209",
       "pmid": "24116658",
       "pmcid": null,
-      "url": "https://doi.org/10.1111/tan.12209",
+      "url": "http://europepmc.org/abstract/med/24116658",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W1766646095",
@@ -26615,7 +26751,7 @@
       }
     },
     {
-      "putCode": 225651243,
+      "putCode": 20029051,
       "title": "Multicenter Analyses Demonstrate Significant Clinical Effects of Minor Histocompatibility Antigens on GvHD and GvL after HLA-Matched Related and Unrelated Hematopoietic Stem Cell Transplantation",
       "year": 2013,
       "sortDate": "2013-08-00",
@@ -26625,7 +26761,7 @@
       "doi": "10.1016/j.bbmt.2013.06.001",
       "pmid": "23756210",
       "pmcid": null,
-      "url": "https://doi.org/10.1016/j.bbmt.2013.06.001",
+      "url": "http://europepmc.org/abstract/med/23756210",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1016/j.bbmt.2013.06.001",
       "openAlexId": "https://openalex.org/W1985199447",
@@ -27024,7 +27160,7 @@
       }
     },
     {
-      "putCode": 225651244,
+      "putCode": 20029050,
       "title": "The novel HLA ‐A*24:215 allele, identified by sequencing‐based typing of a stem cell transplant patient and the sibling donor",
       "year": 2013,
       "sortDate": "2013-08-00",
@@ -27034,7 +27170,7 @@
       "doi": "10.1111/tan.12161",
       "pmid": "23849071",
       "pmcid": null,
-      "url": "https://doi.org/10.1111/tan.12161",
+      "url": "http://europepmc.org/abstract/med/23849071",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2077304505",
@@ -27173,7 +27309,7 @@
       }
     },
     {
-      "putCode": 225651245,
+      "putCode": 20029052,
       "title": "Gender influences the birth order effect in HLA-identical stem cell transplantation",
       "year": 2013,
       "sortDate": "2013-06-06",
@@ -27183,7 +27319,7 @@
       "doi": "10.1182/blood-2013-02-485722",
       "pmid": "23744495",
       "pmcid": null,
-      "url": "https://doi.org/10.1182/blood-2013-02-485722",
+      "url": "http://europepmc.org/abstract/med/23744495",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2076642172",
@@ -27400,7 +27536,7 @@
       }
     },
     {
-      "putCode": 225651256,
+      "putCode": 20029054,
       "title": "Human Leukocyte Antigen DQ2.2 and Celiac Disease",
       "year": 2013,
       "sortDate": "2013-04-00",
@@ -27410,7 +27546,7 @@
       "doi": "10.1097/mpg.0b013e31827913f9",
       "pmid": "23085892",
       "pmcid": null,
-      "url": "https://doi.org/10.1097/mpg.0b013e31827913f9",
+      "url": "http://europepmc.org/abstract/med/23085892",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2085316529",
@@ -27616,7 +27752,7 @@
       "pmcid": null,
       "url": "https://doi.org/10.1111/tan.12065",
       "fullTextUrl": null,
-      "bestOpenAccessUrl": null,
+      "bestOpenAccessUrl": "https://dspace.library.uu.nl/handle/1874/492515",
       "openAlexId": "https://openalex.org/W1592903110",
       "openAlexType": "article",
       "crossrefType": "journal-article",
@@ -27722,8 +27858,8 @@
           "cited_by_count": 5
         }
       ],
-      "isOpenAccess": false,
-      "openAccessStatus": "closed",
+      "isOpenAccess": true,
+      "openAccessStatus": "green",
       "relatedOpenAlexWorks": [
         "https://openalex.org/W2083804622",
         "https://openalex.org/W2062046167",
@@ -27743,7 +27879,7 @@
       }
     },
     {
-      "putCode": 225651259,
+      "putCode": 20029056,
       "title": "Predicted indirectly recognizable HLA epitopes presented by HLA-DR correlate with the de novo development of donor-specific HLA IgG antibodies after kidney transplantation",
       "year": 2013,
       "sortDate": "2013-03-00",
@@ -27753,7 +27889,7 @@
       "doi": "10.1016/j.humimm.2012.12.004",
       "pmid": "23232063",
       "pmcid": null,
-      "url": "https://doi.org/10.1016/j.humimm.2012.12.004",
+      "url": "http://europepmc.org/abstract/med/23232063",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2018766522",
@@ -27936,7 +28072,7 @@
       }
     },
     {
-      "putCode": 225651258,
+      "putCode": 20029057,
       "title": "Towards effective and safe immunotherapy after allogeneic stem cell transplantation: identification of hematopoietic-specific minor histocompatibility antigen UTA2-1",
       "year": 2013,
       "sortDate": "2013-03-00",
@@ -27946,7 +28082,7 @@
       "doi": "10.1038/leu.2012.277",
       "pmid": "23079962",
       "pmcid": "PMC3593180",
-      "url": "https://doi.org/10.1038/leu.2012.277",
+      "url": "http://europepmc.org/abstract/med/23079962",
       "fullTextUrl": "https://europepmc.org/articles/PMC3593180",
       "bestOpenAccessUrl": "https://doi.org/10.1038/leu.2012.277",
       "openAlexId": "https://openalex.org/W1987057189",
@@ -28211,7 +28347,7 @@
       }
     },
     {
-      "putCode": 225651261,
+      "putCode": 20029055,
       "title": "16th IHIW: International Histocompatibility Working Group in Hematopoietic Cell Transplantation",
       "year": 2013,
       "sortDate": "2013-02-00",
@@ -28221,7 +28357,7 @@
       "doi": "10.1111/iji.12022",
       "pmid": "23279968",
       "pmcid": "PMC3887040",
-      "url": "https://doi.org/10.1111/iji.12022",
+      "url": "http://europepmc.org/abstract/med/23279968",
       "fullTextUrl": "https://europepmc.org/articles/PMC3887040",
       "bestOpenAccessUrl": "https://doi.org/10.1111/iji.12022",
       "openAlexId": "https://openalex.org/W1966911627",
@@ -28635,7 +28771,7 @@
       }
     },
     {
-      "putCode": 225651268,
+      "putCode": 20029060,
       "title": "In Situ Detection of HY-Specific T Cells in Acute Graft-versus-Host Disease–Affected Male Skin after Sex-Mismatched Stem Cell Transplantation",
       "year": 2012,
       "sortDate": "2012-03-00",
@@ -28645,7 +28781,7 @@
       "doi": "10.1016/j.bbmt.2011.10.038",
       "pmid": "22062805",
       "pmcid": null,
-      "url": "https://doi.org/10.1016/j.bbmt.2011.10.038",
+      "url": "http://europepmc.org/abstract/med/22062805",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1016/j.bbmt.2011.10.038",
       "openAlexId": "https://openalex.org/W2077314597",
@@ -28992,7 +29128,7 @@
       }
     },
     {
-      "putCode": 225651270,
+      "putCode": 20029061,
       "title": "Predictive impact of allele-matching and EBMT risk score for outcome after T-cell depleted unrelated donor transplantation in poor-risk acute leukemia and myelodysplasia",
       "year": 2011,
       "sortDate": "2011-10-00",
@@ -29002,7 +29138,7 @@
       "doi": "10.1038/leu.2011.123",
       "pmid": "21606965",
       "pmcid": null,
-      "url": "https://doi.org/10.1038/leu.2011.123",
+      "url": "http://europepmc.org/abstract/med/21606965",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2011714325",
@@ -29260,7 +29396,7 @@
       }
     },
     {
-      "putCode": 225651126,
+      "putCode": 20029064,
       "title": "Exogenous Addition of Minor H Antigen HA-1+ Dendritic Cells to Skin Tissues Ex Vivo Causes Infiltration and Activation of HA-1-Specific Cytotoxic T Cells",
       "year": 2011,
       "sortDate": "2011-01-00",
@@ -29270,7 +29406,7 @@
       "doi": "10.1016/j.bbmt.2010.08.006",
       "pmid": "20708701",
       "pmcid": null,
-      "url": "https://doi.org/10.1016/j.bbmt.2010.08.006",
+      "url": "http://europepmc.org/abstract/med/20708701",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1016/j.bbmt.2010.08.006",
       "openAlexId": "https://openalex.org/W2062362682",
@@ -29435,7 +29571,7 @@
       }
     },
     {
-      "putCode": 225651124,
+      "putCode": 20029062,
       "title": "Gene Therapy with IgG-HY Fusion Proteins to Reduce Male-Specific T-Cell Reactivity In Vitro",
       "year": 2011,
       "sortDate": "2011-01-00",
@@ -29445,7 +29581,7 @@
       "doi": "10.1089/hum.2010.070",
       "pmid": "20649484",
       "pmcid": null,
-      "url": "https://doi.org/10.1089/hum.2010.070",
+      "url": "http://europepmc.org/abstract/med/20649484",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2025574606",
@@ -29584,7 +29720,7 @@
       }
     },
     {
-      "putCode": 225651127,
+      "putCode": 20029063,
       "title": "H-Y antibody titers are increased in unexplained secondary recurrent miscarriage patients and associated with low male : female ratio in subsequent live births",
       "year": 2010,
       "sortDate": "2010-11-01",
@@ -29594,7 +29730,7 @@
       "doi": "10.1093/humrep/deq242",
       "pmid": "20823116",
       "pmcid": "PMC2955557",
-      "url": "https://doi.org/10.1093/humrep/deq242",
+      "url": "http://europepmc.org/abstract/med/20823116",
       "fullTextUrl": "https://europepmc.org/articles/PMC2955557",
       "bestOpenAccessUrl": "https://doi.org/10.1093/humrep/deq242",
       "openAlexId": "https://openalex.org/W2148563151",
@@ -29958,7 +30094,7 @@
       }
     },
     {
-      "putCode": 225651133,
+      "putCode": 20029066,
       "title": "Association of HY-restricting HLA class II alleles with pregnancy outcome in patients with recurrent miscarriage subsequent to a firstborn boy",
       "year": 2009,
       "sortDate": "2009-05-01",
@@ -29968,7 +30104,7 @@
       "doi": "10.1093/hmg/ddp077",
       "pmid": "19223392",
       "pmcid": null,
-      "url": "https://doi.org/10.1093/hmg/ddp077",
+      "url": "http://europepmc.org/abstract/med/19223392",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2145074785",
@@ -30465,7 +30601,7 @@
       }
     },
     {
-      "putCode": 225651136,
+      "putCode": 225653736,
       "title": "Natural T-cell responses against minor histocompatibility antigen (mHag) HY following HLA-matched hematopoietic cell transplantation: what are the requirements for a ‘good’ mHag?",
       "year": 2008,
       "sortDate": "2008-10-00",
@@ -30475,7 +30611,7 @@
       "doi": "10.1038/leu.2008.75",
       "pmid": "18401420",
       "pmcid": null,
-      "url": "https://doi.org/10.1038/leu.2008.75",
+      "url": "https://www.lens.org/119-680-215-412-334",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2032701425",
@@ -30629,7 +30765,7 @@
       }
     },
     {
-      "putCode": 225651139,
+      "putCode": 20029067,
       "title": "Minor histocompatibility antigens: targets for tumour therapy and transplant tolerance",
       "year": 2008,
       "sortDate": "2008-08-00",
@@ -30639,7 +30775,7 @@
       "doi": "10.1111/j.1744-313x.2008.00794.x",
       "pmid": "18976439",
       "pmcid": null,
-      "url": "https://doi.org/10.1111/j.1744-313x.2008.00794.x",
+      "url": "http://europepmc.org/abstract/med/18976439",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2021123807",
@@ -30742,7 +30878,7 @@
       }
     },
     {
-      "putCode": 225651141,
+      "putCode": 20029070,
       "title": "Phenotype Frequencies of Autosomal Minor Histocompatibility Antigens Display Significant Differences among Populations",
       "year": 2007,
       "sortDate": "2007-06-29",
@@ -30752,7 +30888,7 @@
       "doi": "10.1371/journal.pgen.0030103",
       "pmid": "17604453",
       "pmcid": "PMC1904367",
-      "url": "https://doi.org/10.1371/journal.pgen.0030103",
+      "url": "http://europepmc.org/abstract/med/17604453",
       "fullTextUrl": "https://europepmc.org/articles/PMC1904367",
       "bestOpenAccessUrl": "https://doi.org/10.1371/journal.pgen.0030103",
       "openAlexId": "https://openalex.org/W2166042162",
@@ -31195,7 +31331,7 @@
       }
     },
     {
-      "putCode": 225651143,
+      "putCode": 20029069,
       "title": "Risk assessment in haematopoietic stem cell transplantation: Minor histocompatibility antigens",
       "year": 2007,
       "sortDate": "2007-06-00",
@@ -31205,7 +31341,7 @@
       "doi": "10.1016/j.beha.2006.09.002",
       "pmid": "17448955",
       "pmcid": null,
-      "url": "https://doi.org/10.1016/j.beha.2006.09.002",
+      "url": "http://europepmc.org/abstract/med/17448955",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2116673465",
@@ -31348,7 +31484,7 @@
       }
     },
     {
-      "putCode": 225651145,
+      "putCode": 20029071,
       "title": "Matching von Minor-Transplantationsantigenen in der perforierenden Keratoplastik",
       "year": 2007,
       "sortDate": "2007-03-00",
@@ -31358,7 +31494,7 @@
       "doi": "10.1007/s00347-006-1474-9",
       "pmid": "17294157",
       "pmcid": null,
-      "url": "https://doi.org/10.1007/s00347-006-1474-9",
+      "url": "http://europepmc.org/abstract/med/17294157",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "10.1007/s00347-006-1474-9",
       "openAlexId": "https://openalex.org/W187617301",
@@ -31480,7 +31616,7 @@
       }
     },
     {
-      "putCode": 225651146,
+      "putCode": 225653720,
       "title": "A Uniform Genomic Minor Histocompatibility Antigen Typing Methodology and Database Designed to Facilitate Clinical Applications",
       "year": 2006,
       "sortDate": "2006-12-20",
@@ -31490,7 +31626,7 @@
       "doi": "10.1371/journal.pone.0000042",
       "pmid": "17183671",
       "pmcid": "PMC1762400",
-      "url": "https://doi.org/10.1371/journal.pone.0000042",
+      "url": "https://www.lens.org/014-311-158-293-760",
       "fullTextUrl": "https://europepmc.org/articles/PMC1762400",
       "bestOpenAccessUrl": "https://doi.org/10.1371/journal.pone.0000042",
       "openAlexId": "https://openalex.org/W2085353239",
@@ -31681,7 +31817,7 @@
       }
     },
     {
-      "putCode": 225651147,
+      "putCode": 20029074,
       "title": "Minor Histocompatibility Antigen DDX3Y Induces HLA-DQ5-Restricted T Cell Responses with Limited TCR-Vβ Usage Both In Vivo and In Vitro",
       "year": 2006,
       "sortDate": "2006-11-00",
@@ -31691,7 +31827,7 @@
       "doi": "10.1016/j.bbmt.2006.07.012",
       "pmid": "17085304",
       "pmcid": null,
-      "url": "https://doi.org/10.1016/j.bbmt.2006.07.012",
+      "url": "http://europepmc.org/abstract/med/17085304",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1016/j.bbmt.2006.07.012",
       "openAlexId": "https://openalex.org/W1970803003",
@@ -31918,7 +32054,7 @@
       }
     },
     {
-      "putCode": 225651148,
+      "putCode": 20029075,
       "title": "Matching of the Minor Histocompatibility Antigen HLA-A1/H-Y May Improve Prognosis in Corneal Transplantation",
       "year": 2006,
       "sortDate": "2006-10-27",
@@ -31928,7 +32064,7 @@
       "doi": "10.1097/01.tp.0000235908.54766.44",
       "pmid": "17060851",
       "pmcid": null,
-      "url": "https://doi.org/10.1097/01.tp.0000235908.54766.44",
+      "url": "http://europepmc.org/abstract/med/17060851",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W1971300129",
@@ -32133,7 +32269,7 @@
       }
     },
     {
-      "putCode": 225651149,
+      "putCode": 20029076,
       "title": "A possible role for CCL27/CTACK‐CCR10 interaction in recruiting CD4 + T cells to skin in human graft‐ versus ‐host disease",
       "year": 2006,
       "sortDate": "2006-06-00",
@@ -32143,7 +32279,7 @@
       "doi": "10.1111/j.1365-2141.2006.06058.x",
       "pmid": "16681643",
       "pmcid": null,
-      "url": "https://doi.org/10.1111/j.1365-2141.2006.06058.x",
+      "url": "http://europepmc.org/abstract/med/16681643",
       "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1111/j.1365-2141.2006.06058.x",
       "openAlexId": "https://openalex.org/W2063233683",
@@ -32384,7 +32520,7 @@
       }
     },
     {
-      "putCode": 225651150,
+      "putCode": 20029077,
       "title": "In situ visualization of antigen-specific T cells in cryopreserved human tissues",
       "year": 2006,
       "sortDate": "2006-03-00",
@@ -32394,7 +32530,7 @@
       "doi": "10.1016/j.jim.2005.12.011",
       "pmid": "16487538",
       "pmcid": null,
-      "url": "https://doi.org/10.1016/j.jim.2005.12.011",
+      "url": "http://europepmc.org/abstract/med/16487538",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2077337570",
@@ -32554,7 +32690,7 @@
       }
     },
     {
-      "putCode": 225651151,
+      "putCode": 225653713,
       "title": "Expanding the immunotherapeutic potential of minor histocompatibility antigens",
       "year": 2005,
       "sortDate": "2005-12-01",
@@ -32564,7 +32700,7 @@
       "doi": "10.1172/jci27094",
       "pmid": "16322786",
       "pmcid": "PMC1297265",
-      "url": "https://doi.org/10.1172/jci27094",
+      "url": "https://www.lens.org/011-662-276-873-198",
       "fullTextUrl": "https://europepmc.org/articles/PMC1297265",
       "bestOpenAccessUrl": "https://doi.org/10.1172/jci27094",
       "openAlexId": "https://openalex.org/W2070159616",
@@ -32678,7 +32814,7 @@
       }
     },
     {
-      "putCode": 225651154,
+      "putCode": 20029079,
       "title": "Minor histocompatibility antigens – big in tumour therapy",
       "year": 2004,
       "sortDate": "2004-02-00",
@@ -32688,7 +32824,7 @@
       "doi": "10.1016/j.it.2003.12.002",
       "pmid": "15102363",
       "pmcid": null,
-      "url": "https://doi.org/10.1016/j.it.2003.12.002",
+      "url": "http://europepmc.org/abstract/med/15102363",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2056891047",
@@ -32846,7 +32982,7 @@
       }
     },
     {
-      "putCode": 225651155,
+      "putCode": 20029080,
       "title": "Identification of HLA class II-restricted H-Y-specific T-helper epitope evoking CD4+ T-helper cells in H-Y-mismatched transplantation",
       "year": 2003,
       "sortDate": "2003-08-00",
@@ -32856,7 +32992,7 @@
       "doi": "10.1016/s0140-6736(03)14191-8",
       "pmid": "12944060",
       "pmcid": null,
-      "url": "https://doi.org/10.1016/s0140-6736(03)14191-8",
+      "url": "http://europepmc.org/abstract/med/12944060",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2136948594",
@@ -32989,7 +33125,7 @@
           "score": 0.07509999722242355
         }
       ],
-      "citedByCount": 129,
+      "citedByCount": 130,
       "countsByYear": [
         {
           "year": 2026,
@@ -33029,7 +33165,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2016,
@@ -33073,7 +33209,7 @@
       }
     },
     {
-      "putCode": 225651156,
+      "putCode": 20029081,
       "title": "The minor histocompatibility antigen HA-3 arises from differential proteasome–mediated cleavage of the lymphoid blast crisis (Lbc) oncoprotein",
       "year": 2003,
       "sortDate": "2003-07-15",
@@ -33083,7 +33219,7 @@
       "doi": "10.1182/blood-2003-01-0260",
       "pmid": "12663445",
       "pmcid": null,
-      "url": "https://doi.org/10.1182/blood-2003-01-0260",
+      "url": "http://europepmc.org/abstract/med/12663445",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2156618732",
@@ -33406,7 +33542,7 @@
       }
     },
     {
-      "putCode": 225651158,
+      "putCode": 20029082,
       "title": "The DBY gene codes for an HLA-DQ5–restricted human male-specific minor histocompatibility antigen involved in graft-versus-host disease",
       "year": 2002,
       "sortDate": "2002-04-15",
@@ -33416,7 +33552,7 @@
       "doi": "10.1182/blood.v99.8.3027",
       "pmid": "11929796",
       "pmcid": null,
-      "url": "https://doi.org/10.1182/blood.v99.8.3027",
+      "url": "http://europepmc.org/abstract/med/11929796",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W1999637787",
@@ -33782,7 +33918,7 @@
       }
     },
     {
-      "putCode": 225651163,
+      "putCode": 20029083,
       "title": "Mycobacterium leprae -Specific, HLA Class II-Restricted Killing of Human Schwann Cells by CD4+ Th1 Cells: A Novel Immunopathogenic Mechanism of Nerve Damage in Leprosy",
       "year": 2001,
       "sortDate": "2001-05-15",
@@ -33792,7 +33928,7 @@
       "doi": "10.4049/jimmunol.166.10.5883",
       "pmid": "11342602",
       "pmcid": null,
-      "url": "https://doi.org/10.4049/jimmunol.166.10.5883",
+      "url": "http://europepmc.org/abstract/med/11342602",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2140293901",
@@ -34064,7 +34200,7 @@
       }
     },
     {
-      "putCode": 225651165,
+      "putCode": 20029085,
       "title": "Novel mechanisms in the immunopathogenesis of leprosy nerve damage: The role of Schwann cells, T cells and Mycobacterium leprae",
       "year": 2000,
       "sortDate": "2000-08-00",
@@ -34074,7 +34210,7 @@
       "doi": "10.1046/j.1440-1711.2000.00939.x",
       "pmid": "10947859",
       "pmcid": null,
-      "url": "https://doi.org/10.1046/j.1440-1711.2000.00939.x",
+      "url": "http://europepmc.org/abstract/med/10947859",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2026311711",
@@ -34259,7 +34395,7 @@
       }
     },
     {
-      "putCode": 225651166,
+      "putCode": 20029086,
       "title": "ALLORECOGNITION OF ARTIFICIAL NERVE GUIDES FILLED WITH HUMAN SCHWANN CELLS : An In Vitro Pilot Study",
       "year": 2000,
       "sortDate": "2000-02-00",
@@ -34269,7 +34405,7 @@
       "doi": "10.1097/00007890-200002150-00029",
       "pmid": "10706063",
       "pmcid": null,
-      "url": "https://doi.org/10.1097/00007890-200002150-00029",
+      "url": "http://europepmc.org/abstract/med/10706063",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W1982336560",
@@ -34539,7 +34675,7 @@
       }
     },
     {
-      "putCode": 225651167,
+      "putCode": 20029087,
       "title": "The mammalian cell entry operon 1 (mce1) of Mycobacterium leprae and Mycobacterium tuberculosis",
       "year": 1999,
       "sortDate": "1999-09-00",
@@ -34549,7 +34685,7 @@
       "doi": "10.1006/mpat.1999.0298",
       "pmid": "10455007",
       "pmcid": null,
-      "url": "https://doi.org/10.1006/mpat.1999.0298",
+      "url": "http://europepmc.org/abstract/med/10455007",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2012724138",
@@ -34697,7 +34833,7 @@
       }
     },
     {
-      "putCode": 225651168,
+      "putCode": 20029089,
       "title": "Cloning, expression and significance of MPT53 for identification of secreted proteins ofMycobacterium tuberculosis",
       "year": 1999,
       "sortDate": "1999-04-00",
@@ -34707,7 +34843,7 @@
       "doi": "10.1006/mpat.1998.0267",
       "pmid": "10089161",
       "pmcid": null,
-      "url": "https://doi.org/10.1006/mpat.1998.0267",
+      "url": "http://europepmc.org/abstract/med/10089161",
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W2038612421",
