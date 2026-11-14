@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-11-13T12:18:50.116Z",
+  "generatedAt": "2026-11-14T11:33:08.684Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "includedWorkTypes": [
     "book",
@@ -24,12 +24,12 @@
   ],
   "excludedRecordCounts": {
     "nonScientificWorkType": 68,
-    "authorshipNotVerified": 101,
+    "authorshipNotVerified": 100,
     "conferenceAbstract": 31,
     "conferenceAbstractNeedsReview": 1,
     "erratumOrRetraction": 0
   },
-  "count": 135,
+  "count": 136,
   "publications": [
     {
       "putCode": 227329515,
@@ -8874,11 +8874,11 @@
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2025,
-          "cited_by_count": 5
+          "cited_by_count": 4
         },
         {
           "year": 2024,
@@ -21739,11 +21739,11 @@
           "score": 0.08730000257492065
         }
       ],
-      "citedByCount": 49,
+      "citedByCount": 50,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -28649,6 +28649,196 @@
       }
     },
     {
+      "putCode": 189229488,
+      "title": "Children with celiac disease and high tTGA are genetically and phenotypically different",
+      "year": 2013,
+      "sortDate": "2013-00-00",
+      "journal": "World Journal of Gastroenterology",
+      "type": "journal-article",
+      "typeLabel": "Journal-Article",
+      "doi": "10.3748/wjg.v19.i41.7114",
+      "pmid": "24222955",
+      "pmcid": "PMC3819547",
+      "url": "https://europepmc.org/articles/PMC3819547",
+      "fullTextUrl": "https://europepmc.org/articles/PMC3819547",
+      "bestOpenAccessUrl": "https://doi.org/10.3748/wjg.v19.i41.7114",
+      "openAlexId": "https://openalex.org/W2122782236",
+      "openAlexType": "article",
+      "crossrefType": "journal-article",
+      "openAlexUrl": "https://openalex.org/W2122782236",
+      "abstract": "Aim To investigate whether celiac disease (CD) patients with tissue-transglutaminase antibody (tTGA) ≥ 100 U/mL are different from patients with lower tTGA levels. Methods Biopsy-proven (Marsh III) pediatric CD patients (n = 116) were prospectively included between March 2009 and October 2012. The biopsies were evaluated by a single pathologist who was blinded to all of the patients' clinical data. The patients were distributed into 2 groups according to their tTGA level, which was measured using enzyme-linked immunoassay: tTGA ≥ 100 U/mL and tTGA Results A total of 34 (29.3%) children had tTGA values Conclusion Patients with tTGA ≥ 100 U/mL show several signs of more advanced disease. They also carry a larger number of CD associated HLA-DQ heterodimers.",
+      "authors": [
+        {
+          "name": "Amani Mubarak",
+          "orcid": "",
+          "position": "first",
+          "corresponding": true,
+          "institutions": [
+            "University Medical Center Utrecht",
+            "Wilhelmina Children's Hospital"
+          ]
+        },
+        {
+          "name": "Eric Spierings",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": []
+        },
+        {
+          "name": "Victorien M Wolters",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": []
+        },
+        {
+          "name": "Henny G Otten",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": []
+        },
+        {
+          "name": "Fiebo J W ten Kate",
+          "orcid": "",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": []
+        },
+        {
+          "name": "Roderick H J Houwen",
+          "orcid": "",
+          "position": "last",
+          "corresponding": false,
+          "institutions": []
+        }
+      ],
+      "selfAuthorPositions": [
+        "middle"
+      ],
+      "volumeIssuePages": "vol. 19, no. 41, pp. 7114",
+      "categories": [
+        "diagnostics"
+      ],
+      "primaryCategoryLabel": "Diagnostics",
+      "key": false,
+      "impactFactor": null,
+      "impactFactorSource": null,
+      "meshTerms": [
+        "Duodenum",
+        "Humans",
+        "Celiac Disease",
+        "Genetic Predisposition to Disease",
+        "GTP-Binding Proteins",
+        "Transglutaminases",
+        "Immunoglobulin A",
+        "Autoantibodies",
+        "HLA-DQ Antigens",
+        "HLA Antigens",
+        "Biopsy",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Severity of Illness Index",
+        "Chi-Square Distribution",
+        "Prospective Studies",
+        "Age Factors",
+        "Phenotype",
+        "Adolescent",
+        "Child",
+        "Child, Preschool",
+        "Infant",
+        "Infant, Newborn",
+        "Female",
+        "Male",
+        "Asymptomatic Diseases",
+        "Protein Glutamine gamma Glutamyltransferase 2"
+      ],
+      "keywords": [
+        "celiac disease",
+        "pediatric celiac disease",
+        "anti-tissue transglutaminase antibodies",
+        "HLA-DQ2.5",
+        "HLA-DQ2.2",
+        "HLA-DQ8",
+        "extraintestinal manifestations",
+        "gastrointestinal symptoms",
+        "anemia",
+        "aphthous stomatitis"
+      ],
+      "openAlexTopics": [
+        {
+          "name": "Celiac Disease Research and Management",
+          "score": 1
+        },
+        {
+          "name": "Wheat and Barley Genetics and Pathology",
+          "score": 0
+        },
+        {
+          "name": "Eosinophilic Esophagitis",
+          "score": 0
+        }
+      ],
+      "citedByCount": 17,
+      "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 3
+        }
+      ],
+      "isOpenAccess": true,
+      "openAccessStatus": "hybrid",
+      "relatedOpenAlexWorks": [
+        "https://openalex.org/W2141623389",
+        "https://openalex.org/W2126851878",
+        "https://openalex.org/W2922480872",
+        "https://openalex.org/W2139182748",
+        "https://openalex.org/W4327556917",
+        "https://openalex.org/W3029163084",
+        "https://openalex.org/W4296781226",
+        "https://openalex.org/W2884773181",
+        "https://openalex.org/W3008639934",
+        "https://openalex.org/W4390500336"
+      ],
+      "abstractClassification": {
+        "decision": "include",
+        "confidence": "no-signal",
+        "reasons": []
+      }
+    },
+    {
       "putCode": 225653741,
       "title": "Sa1325 The Human Leukocyte Antigen DQ 2.2 and Celiac Disease",
       "year": 2012,
@@ -32717,6 +32907,13 @@
           "institutions": [
             "Leiden University Medical Center"
           ]
+        },
+        {
+          "name": "Els Goulmy",
+          "orcid": "",
+          "position": "last",
+          "corresponding": false,
+          "institutions": []
         }
       ],
       "selfAuthorPositions": [
