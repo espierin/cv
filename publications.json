@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-11-14T11:33:08.684Z",
+  "generatedAt": "2026-11-15T12:02:09.345Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "includedWorkTypes": [
     "book",
@@ -1843,7 +1843,7 @@
         "https://openalex.org/W7125937053",
         "https://openalex.org/W1968614352",
         "https://openalex.org/W4313356658",
-        "https://openalex.org/W1521968854",
+        "https://openalex.org/W2366211154",
         "https://openalex.org/W4412850444",
         "https://openalex.org/W1582028001",
         "https://openalex.org/W2374604317",
@@ -7695,7 +7695,7 @@
         "https://openalex.org/W2133919033",
         "https://openalex.org/W1974872064",
         "https://openalex.org/W6944188615",
-        "https://openalex.org/W7095072073",
+        "https://openalex.org/W2162246041",
         "https://openalex.org/W4308057179"
       ],
       "abstractClassification": {
@@ -9105,10 +9105,8 @@
         "https://openalex.org/W2094636591",
         "https://openalex.org/W2126250899",
         "https://openalex.org/W2805511529",
-        "https://openalex.org/W2617833888",
         "https://openalex.org/W2781751904",
         "https://openalex.org/W3164956626",
-        "https://openalex.org/W7112034102",
         "https://openalex.org/W2091312554"
       ],
       "abstractClassification": {
@@ -10655,7 +10653,6 @@
       "isOpenAccess": true,
       "openAccessStatus": "green",
       "relatedOpenAlexWorks": [
-        "https://openalex.org/W7047426188",
         "https://openalex.org/W4404174925",
         "https://openalex.org/W7221427648",
         "https://openalex.org/W3025483133",
@@ -10809,7 +10806,6 @@
         "https://openalex.org/W656892924",
         "https://openalex.org/W2131650904",
         "https://openalex.org/W2590743714",
-        "https://openalex.org/W7099297408",
         "https://openalex.org/W2942046843",
         "https://openalex.org/W2749941235",
         "https://openalex.org/W2761181768"
@@ -13575,7 +13571,7 @@
       "openAccessStatus": "bronze",
       "relatedOpenAlexWorks": [
         "https://openalex.org/W2803448495",
-        "https://openalex.org/W7099962846",
+        "https://openalex.org/W2165791027",
         "https://openalex.org/W2029340370",
         "https://openalex.org/W2096201134",
         "https://openalex.org/W2083883108",
@@ -14814,7 +14810,7 @@
         "https://openalex.org/W2269979953",
         "https://openalex.org/W7044908556",
         "https://openalex.org/W598922469",
-        "https://openalex.org/W4319347812",
+        "https://openalex.org/W4319265082",
         "https://openalex.org/W3138376759"
       ],
       "abstractClassification": {
@@ -17145,10 +17141,9 @@
         "https://openalex.org/W2791448126",
         "https://openalex.org/W2949893993",
         "https://openalex.org/W3216523954",
-        "https://openalex.org/W7095195499",
+        "https://openalex.org/W2112844454",
         "https://openalex.org/W7131254725",
         "https://openalex.org/W2596751284",
-        "https://openalex.org/W2112844454",
         "https://openalex.org/W2884223252",
         "https://openalex.org/W4398233182"
       ],
@@ -17415,11 +17410,10 @@
         "https://openalex.org/W2893489826",
         "https://openalex.org/W4366742991",
         "https://openalex.org/W2940581194",
-        "https://openalex.org/W2997701818",
+        "https://openalex.org/W3113043187",
         "https://openalex.org/W7167636580",
         "https://openalex.org/W2404290847",
-        "https://openalex.org/W7099055454",
-        "https://openalex.org/W7097933671",
+        "https://openalex.org/W2097841396",
         "https://openalex.org/W2799425646",
         "https://openalex.org/W2506616866"
       ],
@@ -18631,8 +18625,7 @@
         "https://openalex.org/W2001056064",
         "https://openalex.org/W1967515564",
         "https://openalex.org/W4220822176",
-        "https://openalex.org/W7214270796",
-        "https://openalex.org/W7057299187",
+        "https://openalex.org/W2113201718",
         "https://openalex.org/W2069221343",
         "https://openalex.org/W1983762562",
         "https://openalex.org/W2326597173",
@@ -19936,7 +19929,6 @@
         "https://openalex.org/W4394849805",
         "https://openalex.org/W4285096844",
         "https://openalex.org/W2089422685",
-        "https://openalex.org/W7096132081",
         "https://openalex.org/W4321602154",
         "https://openalex.org/W4309925710",
         "https://openalex.org/W2801409516",
@@ -23033,7 +23025,6 @@
         "https://openalex.org/W2771253215",
         "https://openalex.org/W2277387870",
         "https://openalex.org/W4414000139",
-        "https://openalex.org/W6992594294",
         "https://openalex.org/W2150444704",
         "https://openalex.org/W4402284192"
       ],
@@ -23517,7 +23508,7 @@
         "https://openalex.org/W2209186915",
         "https://openalex.org/W958464617",
         "https://openalex.org/W2017114491",
-        "https://openalex.org/W7097303493",
+        "https://openalex.org/W2166883229",
         "https://openalex.org/W1988707875"
       ],
       "abstractClassification": {
@@ -23661,8 +23652,12 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 21,
+      "citedByCount": 22,
       "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2025,
           "cited_by_count": 2
@@ -24868,7 +24863,7 @@
         "https://openalex.org/W2141636927",
         "https://openalex.org/W3128005070",
         "https://openalex.org/W4243592586",
-        "https://openalex.org/W4300438091"
+        "https://openalex.org/W4255053507"
       ],
       "abstractClassification": {
         "decision": "include",
@@ -26224,7 +26219,6 @@
       "isOpenAccess": true,
       "openAccessStatus": "gold",
       "relatedOpenAlexWorks": [
-        "https://openalex.org/W7099297408",
         "https://openalex.org/W1981342408",
         "https://openalex.org/W2983017701",
         "https://openalex.org/W2122221803",
@@ -28333,7 +28327,6 @@
         "https://openalex.org/W7098583599",
         "https://openalex.org/W2276388229",
         "https://openalex.org/W2197221415",
-        "https://openalex.org/W7006385659",
         "https://openalex.org/W100720535",
         "https://openalex.org/W1896667978",
         "https://openalex.org/W2161348393",
@@ -28680,21 +28673,21 @@
         },
         {
           "name": "Eric Spierings",
+          "orcid": "https://orcid.org/0000-0001-9441-1019",
+          "position": "middle",
+          "corresponding": false,
+          "institutions": []
+        },
+        {
+          "name": "Victorien M. Wolters",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": []
         },
         {
-          "name": "Victorien M Wolters",
-          "orcid": "",
-          "position": "middle",
-          "corresponding": false,
-          "institutions": []
-        },
-        {
-          "name": "Henny G Otten",
-          "orcid": "",
+          "name": "Henny G. Otten",
+          "orcid": "https://orcid.org/0000-0002-6927-2683",
           "position": "middle",
           "corresponding": false,
           "institutions": []
@@ -28948,7 +28941,7 @@
         "https://openalex.org/W2438674335",
         "https://openalex.org/W2084261083",
         "https://openalex.org/W4402507081",
-        "https://openalex.org/W6982207993",
+        "https://openalex.org/W2123344694",
         "https://openalex.org/W1982640616",
         "https://openalex.org/W2090423113",
         "https://openalex.org/W2085316529",
@@ -29187,7 +29180,6 @@
         "https://openalex.org/W2753430714",
         "https://openalex.org/W2141025729",
         "https://openalex.org/W2021160514",
-        "https://openalex.org/W7096472177",
         "https://openalex.org/W2136948594",
         "https://openalex.org/W1986369764",
         "https://openalex.org/W2009539002",
@@ -30503,8 +30495,7 @@
         "https://openalex.org/W2015286701",
         "https://openalex.org/W2103637598",
         "https://openalex.org/W4386275185",
-        "https://openalex.org/W4317931821",
-        "https://openalex.org/W7096186617"
+        "https://openalex.org/W4317931821"
       ],
       "abstractClassification": {
         "decision": "include",
@@ -30944,7 +30935,7 @@
         "https://openalex.org/W100720535",
         "https://openalex.org/W2338342971",
         "https://openalex.org/W2197221415",
-        "https://openalex.org/W4304693343",
+        "https://openalex.org/W2049086606",
         "https://openalex.org/W2312402087",
         "https://openalex.org/W1516017450"
       ],
@@ -31796,8 +31787,7 @@
         "https://openalex.org/W1986861113",
         "https://openalex.org/W1967139162",
         "https://openalex.org/W1146136045",
-        "https://openalex.org/W2320133257",
-        "https://openalex.org/W7067444931"
+        "https://openalex.org/W2320133257"
       ],
       "abstractClassification": {
         "decision": "include",
@@ -32226,14 +32216,12 @@
       "isOpenAccess": true,
       "openAccessStatus": "hybrid",
       "relatedOpenAlexWorks": [
-        "https://openalex.org/W4304693343",
-        "https://openalex.org/W2006820974",
         "https://openalex.org/W2049086606",
+        "https://openalex.org/W2006820974",
         "https://openalex.org/W2136948594",
         "https://openalex.org/W34242648",
         "https://openalex.org/W2050205499",
         "https://openalex.org/W2106495043",
-        "https://openalex.org/W7098940413",
         "https://openalex.org/W4282929086",
         "https://openalex.org/W1999637787"
       ],
@@ -32441,7 +32429,6 @@
       "isOpenAccess": false,
       "openAccessStatus": "closed",
       "relatedOpenAlexWorks": [
-        "https://openalex.org/W7067444931",
         "https://openalex.org/W2765593978",
         "https://openalex.org/W2066746193",
         "https://openalex.org/W187617301",
@@ -32870,8 +32857,7 @@
         "https://openalex.org/W102042143",
         "https://openalex.org/W2127813689",
         "https://openalex.org/W2088582702",
-        "https://openalex.org/W7100149893",
-        "https://openalex.org/W4286855748"
+        "https://openalex.org/W2754788361"
       ],
       "abstractClassification": {
         "decision": "include",
@@ -33971,10 +33957,9 @@
       "isOpenAccess": false,
       "openAccessStatus": "closed",
       "relatedOpenAlexWorks": [
-        "https://openalex.org/W7098940413",
         "https://openalex.org/W2106495043",
         "https://openalex.org/W2164199065",
-        "https://openalex.org/W7095249573",
+        "https://openalex.org/W1973162815",
         "https://openalex.org/W1523409611",
         "https://openalex.org/W2423054555",
         "https://openalex.org/W2136948594",
@@ -34731,7 +34716,6 @@
         "https://openalex.org/W2010503211",
         "https://openalex.org/W2417719820",
         "https://openalex.org/W2089296321",
-        "https://openalex.org/W7095620503",
         "https://openalex.org/W2071949681",
         "https://openalex.org/W2393760687",
         "https://openalex.org/W2049110630"
@@ -35016,7 +35000,7 @@
         "https://openalex.org/W2114690275",
         "https://openalex.org/W2052547168",
         "https://openalex.org/W2020149617",
-        "https://openalex.org/W7100844036",
+        "https://openalex.org/W2147484621",
         "https://openalex.org/W2000225849",
         "https://openalex.org/W4417311709",
         "https://openalex.org/W2073347639",
@@ -35193,7 +35177,7 @@
       "isOpenAccess": false,
       "openAccessStatus": "closed",
       "relatedOpenAlexWorks": [
-        "https://openalex.org/W2374612694",
+        "https://openalex.org/W194547508",
         "https://openalex.org/W2373422157",
         "https://openalex.org/W1987604445",
         "https://openalex.org/W2136919736",
@@ -35547,7 +35531,6 @@
         "https://openalex.org/W4403646905",
         "https://openalex.org/W7154587695",
         "https://openalex.org/W7128363087",
-        "https://openalex.org/W7095707488",
         "https://openalex.org/W1838943366",
         "https://openalex.org/W7221635421",
         "https://openalex.org/W3014537733",
