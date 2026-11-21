@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-11-18T13:18:03.069Z",
+  "generatedAt": "2026-11-21T12:53:31.123Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "includedWorkTypes": [
     "book",
@@ -1652,15 +1652,15 @@
       "openAlexTopics": [
         {
           "name": "Reproductive System and Pregnancy",
-          "score": 0.600600004196167
+          "score": 0.6074000000953674
         },
         {
           "name": "Pregnancy and preeclampsia studies",
-          "score": 0.39329999685287476
+          "score": 0.3878999948501587
         },
         {
           "name": "Blood groups and transfusion",
-          "score": 0.0008999999845400453
+          "score": 0.000699999975040555
         }
       ],
       "citedByCount": 2,
@@ -2542,11 +2542,11 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 23,
+      "citedByCount": 24,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 16
+          "cited_by_count": 17
         },
         {
           "year": 2025,
@@ -2975,11 +2975,11 @@
           "score": 0
         }
       ],
-      "citedByCount": 3,
+      "citedByCount": 4,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -5735,11 +5735,11 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2023,
-          "cited_by_count": 3
+          "cited_by_count": 2
         },
         {
           "year": 2022,
@@ -6972,7 +6972,8 @@
             "Centre Hospitalier Universitaire de Montpellier",
             "Hôpital Lapeyronie",
             "Center for Research in Transplantation and Translational Immunology",
-            "Université de Strasbourg"
+            "Université de Strasbourg",
+            "Nantes Université"
           ]
         },
         {
@@ -7411,7 +7412,7 @@
         },
         {
           "name": "Nine V.A.M. Knoers",
-          "orcid": "https://orcid.org/0009-0001-2916-1524",
+          "orcid": "https://orcid.org/0000-0001-7454-7795",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -10770,11 +10771,11 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 25
+          "cited_by_count": 26
         },
         {
           "year": 2024,
-          "cited_by_count": 25
+          "cited_by_count": 24
         },
         {
           "year": 2023,
@@ -11854,11 +11855,11 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 12
+          "cited_by_count": 14
         },
         {
           "year": 2020,
-          "cited_by_count": 9
+          "cited_by_count": 7
         },
         {
           "year": 2019,
@@ -12435,11 +12436,11 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 11
+          "cited_by_count": 12
         },
         {
           "year": 2020,
-          "cited_by_count": 10
+          "cited_by_count": 9
         },
         {
           "year": 2019,
@@ -14630,11 +14631,11 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2021,
-          "cited_by_count": 5
+          "cited_by_count": 4
         },
         {
           "year": 2020,
@@ -15072,11 +15073,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
+          "cited_by_count": 7
         },
         {
           "year": 2019,
@@ -16430,19 +16427,19 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2023,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2022,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2021,
-          "cited_by_count": 12
+          "cited_by_count": 11
         },
         {
           "year": 2020,
@@ -17397,15 +17394,15 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 30
+          "cited_by_count": 33
         },
         {
           "year": 2020,
-          "cited_by_count": 20
+          "cited_by_count": 19
         },
         {
           "year": 2019,
-          "cited_by_count": 13
+          "cited_by_count": 11
         },
         {
           "year": 2018,
@@ -17922,11 +17919,11 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 10
+          "cited_by_count": 11
         },
         {
           "year": 2021,
-          "cited_by_count": 10
+          "cited_by_count": 9
         },
         {
           "year": 2020,
@@ -18426,11 +18423,11 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2021,
-          "cited_by_count": 7
+          "cited_by_count": 6
         },
         {
           "year": 2020,
@@ -18732,11 +18729,11 @@
           "score": 0.07280000299215317
         }
       ],
-      "citedByCount": 51,
+      "citedByCount": 52,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -18756,11 +18753,11 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2020,
-          "cited_by_count": 10
+          "cited_by_count": 9
         },
         {
           "year": 2019,
@@ -19702,7 +19699,7 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 205,
+      "citedByCount": 206,
       "countsByYear": [
         {
           "year": 2026,
@@ -19710,35 +19707,35 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 30
+          "cited_by_count": 32
         },
         {
           "year": 2024,
-          "cited_by_count": 28
+          "cited_by_count": 27
         },
         {
           "year": 2023,
-          "cited_by_count": 13
+          "cited_by_count": 14
         },
         {
           "year": 2022,
-          "cited_by_count": 29
+          "cited_by_count": 28
         },
         {
           "year": 2021,
-          "cited_by_count": 23
+          "cited_by_count": 24
         },
         {
           "year": 2020,
-          "cited_by_count": 18
+          "cited_by_count": 17
         },
         {
           "year": 2019,
-          "cited_by_count": 19
+          "cited_by_count": 20
         },
         {
           "year": 2018,
-          "cited_by_count": 19
+          "cited_by_count": 18
         },
         {
           "year": 2017,
@@ -20482,11 +20479,11 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2020,
-          "cited_by_count": 10
+          "cited_by_count": 9
         },
         {
           "year": 2019,
@@ -20745,11 +20742,11 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2017,
-          "cited_by_count": 5
+          "cited_by_count": 4
         }
       ],
       "isOpenAccess": true,
@@ -20796,7 +20793,7 @@
           "name": "Suzanna M. van Walraven",
           "orcid": "https://orcid.org/0000-0003-2082-6531",
           "position": "first",
-          "corresponding": false,
+          "corresponding": true,
           "institutions": [
             "Sanquin",
             "Europdonor Foundation"
@@ -21743,7 +21740,7 @@
           "score": 0.08730000257492065
         }
       ],
-      "citedByCount": 53,
+      "citedByCount": 54,
       "countsByYear": [
         {
           "year": 2026,
@@ -21755,7 +21752,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2023,
@@ -22478,11 +22475,11 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2020,
-          "cited_by_count": 10
+          "cited_by_count": 9
         },
         {
           "year": 2019,
@@ -23297,11 +23294,11 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 19
+          "cited_by_count": 20
         },
         {
           "year": 2017,
-          "cited_by_count": 7
+          "cited_by_count": 6
         },
         {
           "year": 2016,
@@ -23501,8 +23498,12 @@
           "cited_by_count": 1
         },
         {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
           "year": 2021,
-          "cited_by_count": 2
+          "cited_by_count": 1
         },
         {
           "year": 2018,
@@ -23875,7 +23876,7 @@
           "score": 0.07090000063180923
         }
       ],
-      "citedByCount": 58,
+      "citedByCount": 59,
       "countsByYear": [
         {
           "year": 2026,
@@ -23907,7 +23908,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2017,
@@ -24569,7 +24570,7 @@
           "name": "Tuna Mutis",
           "orcid": "https://orcid.org/0000-0002-5557-7187",
           "position": "middle",
-          "corresponding": false,
+          "corresponding": true,
           "institutions": [
             "University Medical Center Utrecht",
             "Amsterdam UMC Location Vrije Universiteit Amsterdam"
@@ -24637,7 +24638,7 @@
           "score": 0.017400000244379044
         }
       ],
-      "citedByCount": 30,
+      "citedByCount": 33,
       "countsByYear": [
         {
           "year": 2025,
@@ -24653,7 +24654,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2020,
@@ -24665,19 +24666,19 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2017,
-          "cited_by_count": 2
+          "cited_by_count": 1
         },
         {
           "year": 2016,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2015,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2014,
@@ -25050,11 +25051,11 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2020,
-          "cited_by_count": 2
+          "cited_by_count": 1
         },
         {
           "year": 2019,
@@ -25846,7 +25847,7 @@
           "score": 0.006599999964237213
         }
       ],
-      "citedByCount": 123,
+      "citedByCount": 124,
       "countsByYear": [
         {
           "year": 2026,
@@ -25866,7 +25867,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2021,
@@ -25878,7 +25879,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2018,
@@ -25886,7 +25887,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 16
+          "cited_by_count": 15
         },
         {
           "year": 2016,
@@ -26010,8 +26011,12 @@
           "score": 0.057999998331069946
         }
       ],
-      "citedByCount": 29,
+      "citedByCount": 30,
       "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2025,
           "cited_by_count": 2
@@ -26201,19 +26206,19 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 11
+          "cited_by_count": 13
         },
         {
           "year": 2020,
-          "cited_by_count": 12
+          "cited_by_count": 10
         },
         {
           "year": 2019,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2018,
-          "cited_by_count": 8
+          "cited_by_count": 7
         },
         {
           "year": 2017,
@@ -26225,11 +26230,11 @@
         },
         {
           "year": 2015,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2014,
-          "cited_by_count": 3
+          "cited_by_count": 2
         }
       ],
       "isOpenAccess": true,
@@ -26269,7 +26274,7 @@
       "openAlexType": "book-chapter",
       "crossrefType": "book-chapter",
       "openAlexUrl": "https://openalex.org/W3025667196",
-      "abstract": null,
+      "abstract": "Minor histocompatibility (H) antigens crucially affect the outcome of human leukocyte antigen-matched allogeneic stem cell transplantation. The number of molecularly identified minor H antigens is rapidly increasing. In parallel, clinical implementation of minor H antigens for immunotherapy has gained significant interest. It is therefore timely to type stem cell transplant recipients and their donors for minor H antigens. Here, we summarize all the currently known methodologies for minor H antigen typing on the genomic and on the RNA level.",
       "authors": [
         {
           "name": "Eric Spierings",
@@ -26296,7 +26301,18 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Chromosomes, Human",
+        "Humans",
+        "DNA",
+        "Minor Histocompatibility Antigens",
+        "Blood Grouping and Crossmatching",
+        "Nucleic Acid Amplification Techniques",
+        "Polymerase Chain Reaction",
+        "Polymorphism, Restriction Fragment Length",
+        "Polymorphism, Single-Stranded Conformational",
+        "Transition Temperature"
+      ],
       "keywords": [
         "minor histocompatibility antigens",
         "molecular typing",
@@ -27079,7 +27095,7 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 106,
+      "citedByCount": 109,
       "countsByYear": [
         {
           "year": 2026,
@@ -27115,11 +27131,11 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2017,
-          "cited_by_count": 12
+          "cited_by_count": 14
         },
         {
           "year": 2016,
@@ -27320,12 +27336,12 @@
       "pmcid": null,
       "url": "http://europepmc.org/abstract/med/23744495",
       "fullTextUrl": null,
-      "bestOpenAccessUrl": "https://zenodo.org/records/14360120",
+      "bestOpenAccessUrl": "https://hdl.handle.net/2066/185092",
       "openAlexId": "https://openalex.org/W2076642172",
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2076642172",
-      "abstract": "Contains fulltext : 185092.pdf (Publisher’s version ) (Open Access)",
+      "abstract": null,
       "authors": [
         {
           "name": "Miranda P. Dierselhuis",
@@ -27663,7 +27679,7 @@
           "score": 0
         }
       ],
-      "citedByCount": 50,
+      "citedByCount": 49,
       "countsByYear": [
         {
           "year": 2025,
@@ -27711,7 +27727,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 8
+          "cited_by_count": 7
         },
         {
           "year": 2012,
@@ -28019,11 +28035,11 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2020,
-          "cited_by_count": 7
+          "cited_by_count": 6
         },
         {
           "year": 2019,
@@ -28274,7 +28290,7 @@
           "score": 0.04349999874830246
         }
       ],
-      "citedByCount": 32,
+      "citedByCount": 35,
       "countsByYear": [
         {
           "year": 2024,
@@ -28294,7 +28310,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2019,
@@ -28314,11 +28330,11 @@
         },
         {
           "year": 2015,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2014,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2013,
@@ -28575,7 +28591,7 @@
           "score": 0.002400000113993883
         }
       ],
-      "citedByCount": 35,
+      "citedByCount": 36,
       "countsByYear": [
         {
           "year": 2026,
@@ -28607,7 +28623,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2016,
@@ -28777,7 +28793,7 @@
           "score": 0
         }
       ],
-      "citedByCount": 23,
+      "citedByCount": 22,
       "countsByYear": [
         {
           "year": 2026,
@@ -28818,10 +28834,6 @@
         {
           "year": 2015,
           "cited_by_count": 3
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
         }
       ],
       "isOpenAccess": true,
@@ -29340,7 +29352,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2011714325",
-      "abstract": null,
+      "abstract": "Many parameters predict for outcome after unrelated donor (URD) allogeneic hematopoietic stem cell transplantation (alloSCT). High-resolution HLA-matching significantly impacts outcome and also the European Group of Blood and Marrow Transplantation (EBMT) risk score, based on patient age, disease stage, donor type, time from diagnosis to SCT and gender combination, may predict for non-relapse mortality and overall survival (OS). We evaluated the individual and combined effects of allele-matching and the EBMT risk score in 327 patients with poor-risk acute leukemia or myelodysplasia, who received a T-cell depleted URD alloSCT. Matching for HLA-A, -B, -C and -DRB1 alleles (8/8 match) was associated with a 5-year OS of 40% compared with 30% for mismatched (≤7/8) pairs (P=0.02). Patients with EBMT risk scores of 1-2, 3, 4 and 5-7 had 5-year OS estimates of 53, 43, 30 and 20%, respectively (P<0.001). The favorable prognostic impact of an 8/8 donor was most pronounced if the EBMT risk score was low (1-2). Five-year OS was 74±8% vs 39±11% for fully matched patients with a low-risk EBMT score as compared with EBMT low-risk patients with ≤7/8 donors. These data underscore the importance of incorporating both the EBMT risk score and the degree of high-resolution HLA-matching in the risk assessment prior to URD alloSCT.",
       "authors": [
         {
           "name": "Tom Lodewyck",
@@ -29487,14 +29499,29 @@
       ],
       "volumeIssuePages": "vol. 25, no. 10, pp. 1548-1554",
       "categories": [
+        "matching",
         "outcome",
         "cellular"
       ],
-      "primaryCategoryLabel": "Outcome",
+      "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes",
+        "Humans",
+        "Leukemia",
+        "Myelodysplastic Syndromes",
+        "Acute Disease",
+        "Recurrence",
+        "Histocompatibility Testing",
+        "Bone Marrow Transplantation",
+        "Risk",
+        "Alleles",
+        "Adult",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "unrelated donor transplantation",
         "allogeneic hematopoietic stem cell transplantation",
@@ -29674,7 +29701,21 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Dendritic Cells",
+        "T-Lymphocytes, Cytotoxic",
+        "Skin",
+        "Humans",
+        "Skin Diseases",
+        "Graft vs Host Disease",
+        "Oligopeptides",
+        "Minor Histocompatibility Antigens",
+        "Immunotherapy",
+        "Lymphocyte Activation",
+        "Cell Movement",
+        "Models, Biological",
+        "In Vitro Techniques"
+      ],
       "keywords": [
         "minor histocompatibility antigens",
         "graft-versus-host disease",
@@ -29754,7 +29795,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2025574606",
-      "abstract": "Graft-versus-host disease is still a major complication in stem-cell transplantation. In HLA-identical stem-cell transplantation, mismatches in minor histocompatibility antigens contribute to the development of graft-versus-host disease. As treatment of graft-versus-host disease with immunosuppressive drugs potentially also reduces the graft-versus-leukemia responses, antigen-specific tolerance induction may be used to reduce graft-versus-host disease while leaving the graft-versus-leukemia responses intact. In mouse models, induction of antigen-specific tolerance using IgG-antigen-transduced B cells can prevent and ameliorate autoimmunity. In this study, the principle of the in vivo animal model has been applied to a human in vitro model wherein induction of tolerance against the HLA class II-restricted male-specific minor histocompatibility antigen RPS4Y1 has been analyzed. T cells precultured in the presence of B cells expressing the IgG-coupled HY antigen showed reduced responsiveness selectively against the minor HY antigen RPS4Y1 in different in vitro protocols. These first observations serve as a basis for further studying and understanding the tolerizing potential of IgG constructs with human T cells. In this study, Dierselhuis et al. investigate the potential of using gene therapy to induce antigen-specific tolerance in humans. They use an in vitro culture system and demonstrate that transduction of female lymphocytes with a retroviral vector encoding an IgG-coupled HY antigen leads to tolerance against the minor HY antigen in different in vitro protocols.",
+      "abstract": "Graft-versus-host disease is still a major complication in stem-cell transplantation. In HLA-identical stem-cell transplantation, mismatches in minor histocompatibility antigens contribute to the development of graft-versus-host disease. As treatment of graft-versus-host disease with immunosuppressive drugs potentially also reduces the graft-versus-leukemia responses, antigen-specific tolerance induction may be used to reduce graft-versus-host disease while leaving the graft-versus-leukemia responses intact. In mouse models, induction of antigen-specific tolerance using IgG-antigen-transduced B cells can prevent and ameliorate autoimmunity. In this study, the principle of the in vivo animal model has been applied to a human in vitro model wherein induction of tolerance against the HLA class II-restricted male-specific minor histocompatibility antigen RPS4Y1 has been analyzed. T cells precultured in the presence of B cells expressing the IgG-coupled HY antigen showed reduced responsiveness selectively against the minor HY antigen RPS4Y1 in different in vitro protocols. These first observations serve as a basis for further studying and understanding the tolerizing potential of IgG constructs with human T cells.",
       "authors": [
         {
           "name": "Miranda P. Dierselhuis",
@@ -29802,13 +29843,32 @@
       "categories": [
         "matching",
         "outcome",
+        "diagnostics",
         "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "B-Lymphocytes",
+        "T-Lymphocytes",
+        "Cell Line",
+        "Animals",
+        "Humans",
+        "Mice",
+        "Graft vs Host Disease",
+        "Immunoglobulin G",
+        "Recombinant Fusion Proteins",
+        "Histocompatibility Antigens Class II",
+        "Minor Histocompatibility Antigens",
+        "H-Y Antigen",
+        "Stem Cell Transplantation",
+        "Immune Tolerance",
+        "Female",
+        "Male",
+        "Genetic Therapy"
+      ],
       "keywords": [
         "graft-versus-host disease",
         "minor histocompatibility antigens",
@@ -29876,15 +29936,15 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1093/humrep/deq242",
       "pmid": "20823116",
-      "pmcid": null,
+      "pmcid": "PMC2955557",
       "url": "http://europepmc.org/abstract/med/20823116",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC2955557",
       "bestOpenAccessUrl": "https://doi.org/10.1093/humrep/deq242",
       "openAlexId": "https://openalex.org/W2148563151",
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2148563151",
-      "abstract": "BACKGROUND: The birth of a boy is significantly more common than a girl prior to secondary recurrent miscarriage (SRM) and is associated with a poorer chance of a subsequent live birth. Children born after SRM are more likely to be girls. High-titer antisera specific for male antigens (H-Y) have been shown to arrest development of male bovine embryos efficiently. We consequently questioned the role of H-Y antibodies in women with SRM. METHODS: Serum samples from patients with unexplained SRM (n = 84), unexplained primary recurrent miscarriage (PRM) (n = 12) and healthy women (n = 37) were obtained. The samples were taken during pregnancy (gestational weeks 4-5) for 77 (80%) of the patients. Enzyme-linked immunosorbent assay was used to detect immunoglobulin G antibodies that specifically recognized any of the five recombinant H-Y proteins (EIF1AY, RPS4Y1, ZFY, DDX3Y and UTY) and their H-X homologs. RESULTS: H-Y-specific antibodies were more frequent in SRM patients (46%) compared with female controls (19%, P = 0.004) and PRM patients (8%, P = 0.01). The presence of H-Y antibodies in early pregnancy was associated with a low male: female birth ratio among the subsequent live births, as only 12% of children born to H-Y antibody-positive patients were boys compared with 44% boys born to H-Y antibody negative patients (P = 0.03). CONCLUSIONS: The high frequency of H-Y antibody-positive SRM patients and the association between the presence of these antibodies in early pregnancy and the low number of male offspring, suggest that maternal immune responses against H-Y antigens can cause pregnancy losses. Further exploring these mechanisms may increase our understanding of unexplained SRM.",
+      "abstract": "Background The birth of a boy is significantly more common than a girl prior to secondary recurrent miscarriage (SRM) and is associated with a poorer chance of a subsequent live birth. Children born after SRM are more likely to be girls. High-titer antisera specific for male antigens (H-Y) have been shown to arrest development of male bovine embryos efficiently. We consequently questioned the role of H-Y antibodies in women with SRM. Methods Serum samples from patients with unexplained SRM (n = 84), unexplained primary recurrent miscarriage (PRM) (n = 12) and healthy women (n = 37) were obtained. The samples were taken during pregnancy (gestational weeks 4-5) for 77 (80%) of the patients. Enzyme-linked immunosorbent assay was used to detect immunoglobulin G antibodies that specifically recognized any of the five recombinant H-Y proteins (EIF1AY, RPS4Y1, ZFY, DDX3Y and UTY) and their H-X homologs. Results H-Y-specific antibodies were more frequent in SRM patients (46%) compared with female controls (19%, P = 0.004) and PRM patients (8%, P = 0.01). The presence of H-Y antibodies in early pregnancy was associated with a low male: female birth ratio among the subsequent live births, as only 12% of children born to H-Y antibody-positive patients were boys compared with 44% boys born to H-Y antibody negative patients (P = 0.03). Conclusions The high frequency of H-Y antibody-positive SRM patients and the association between the presence of these antibodies in early pregnancy and the low number of male offspring, suggest that maternal immune responses against H-Y antigens can cause pregnancy losses. Further exploring these mechanisms may increase our understanding of unexplained SRM.",
       "authors": [
         {
           "name": "Henriette Svarre Nielsen",
@@ -29978,13 +30038,29 @@
       ],
       "volumeIssuePages": "vol. 25, no. 11, pp. 2745-2752",
       "categories": [
+        "outcome",
         "diagnostics"
       ],
-      "primaryCategoryLabel": "Diagnostics",
+      "primaryCategoryLabel": "Outcome",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Abortion, Habitual",
+        "Immunoglobulins, Intravenous",
+        "Isoantibodies",
+        "H-Y Antigen",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Pregnancy Outcome",
+        "Sex Ratio",
+        "Pregnancy",
+        "Pregnancy Trimester, First",
+        "Adolescent",
+        "Adult",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "unexplained recurrent spontaneous abortion",
         "maternal immune response",
@@ -30193,7 +30269,7 @@
           "score": 0.005200000014156103
         }
       ],
-      "citedByCount": 11,
+      "citedByCount": 12,
       "countsByYear": [
         {
           "year": 2025,
@@ -30340,7 +30416,19 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Abortion, Habitual",
+        "Histocompatibility Antigens Class II",
+        "H-Y Antigen",
+        "Pregnancy Outcome",
+        "Pregnancy",
+        "Sex Characteristics",
+        "Female",
+        "Male",
+        "Live Birth",
+        "Histocompatibility, Maternal-Fetal"
+      ],
       "keywords": [
         "H-Y antigen",
         "minor histocompatibility antigens",
@@ -30604,7 +30692,21 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Hela Cells",
+        "Humans",
+        "Proteasome Endopeptidase Complex",
+        "Histocompatibility Antigens Class I",
+        "Crystallography, X-Ray",
+        "Amino Acid Sequence",
+        "Protein Structure, Tertiary",
+        "Protein Binding",
+        "Protein Transport",
+        "Alleles",
+        "Models, Molecular",
+        "Time Factors",
+        "Molecular Sequence Data"
+      ],
       "keywords": [
         "minor histocompatibility antigens",
         "HLA-A2",
@@ -30628,7 +30730,7 @@
           "score": 0.006800000090152025
         }
       ],
-      "citedByCount": 34,
+      "citedByCount": 35,
       "countsByYear": [
         {
           "year": 2026,
@@ -30660,11 +30762,11 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2017,
-          "cited_by_count": 2
+          "cited_by_count": 1
         },
         {
           "year": 2016,
@@ -30672,7 +30774,7 @@
         },
         {
           "year": 2015,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2014,
@@ -30813,7 +30915,15 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes",
+        "CD8-Positive T-Lymphocytes",
+        "Humans",
+        "Minor Histocompatibility Antigens",
+        "Histocompatibility Testing",
+        "Hematopoietic Stem Cell Transplantation",
+        "Leukemia, Lymphocytic, Chronic, B-Cell"
+      ],
       "keywords": [
         "minor histocompatibility antigens",
         "H-Y antigen",
@@ -30908,7 +31018,19 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Chromosomes, Human",
+        "Chromosomes, Human, Y",
+        "Humans",
+        "Neoplasms",
+        "Graft vs Host Disease",
+        "Minor Histocompatibility Antigens",
+        "Immunotherapy",
+        "Hematopoietic Stem Cell Transplantation",
+        "Transplantation Tolerance",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "minor histocompatibility antigens",
         "graft-versus-host disease",
@@ -30974,9 +31096,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1371/journal.pgen.0030103",
       "pmid": "17604453",
-      "pmcid": null,
+      "pmcid": "PMC1904367",
       "url": "http://europepmc.org/abstract/med/17604453",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC1904367",
       "bestOpenAccessUrl": "https://doi.org/10.1371/journal.pgen.0030103",
       "openAlexId": "https://openalex.org/W2166042162",
       "openAlexType": "article",
@@ -31314,7 +31436,15 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Minor Histocompatibility Antigens",
+        "Immunophenotyping",
+        "Genetics, Population",
+        "Gene Frequency",
+        "Female",
+        "Racial Groups"
+      ],
       "keywords": [
         "minor histocompatibility antigens",
         "phenotype frequency",
@@ -31427,7 +31557,7 @@
       "openAlexType": "review",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2116673465",
-      "abstract": null,
+      "abstract": "Minor histocompatibility (H) antigens are key molecules in graft-versus-host disease (GvHD) and the graft-versus-tumour effect after allogeneic stem-cell transplantation (SCT). Today, molecular typing methods allow an easy assessment of differences in minor H antigens between patient and donors, so that the GvHD risk in individual patients can be estimated. However, the large number of minor H antigens prevents matching for them to avoid GvHD. Interestingly, mismatching for minor H antigens might improve the outcome of allogeneic SCT. Some minor H antigens are expressed mainly by malignant cells and can therefore serve as excellent targets for cancer immunotherapy. Thus, mismatching for tumour-expressed minor H antigens allows boosting of the curative effect of allogeneic SCT. Current research is elucidating the impact of e.g. donor immunization, immunodominance, or functional expression of minor H antigens on the extent of the GvH response.",
       "authors": [
         {
           "name": "Lothar Hambach",
@@ -31470,7 +31600,20 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Neoplasms",
+        "Graft vs Host Disease",
+        "Cancer Vaccines",
+        "Minor Histocompatibility Antigens",
+        "Hematopoietic Stem Cell Transplantation",
+        "Transplantation, Homologous",
+        "Risk Assessment",
+        "Graft vs Tumor Effect",
+        "Pregnancy",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "minor histocompatibility antigens",
         "allogeneic stem cell transplantation",
@@ -31522,11 +31665,11 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2013,
-          "cited_by_count": 8
+          "cited_by_count": 7
         }
       ],
       "isOpenAccess": false,
@@ -31619,7 +31762,18 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Corneal Diseases",
+        "ABO Blood-Group System",
+        "HLA Antigens",
+        "Autoantigens",
+        "Histocompatibility Testing",
+        "Corneal Transplantation",
+        "Keratoplasty, Penetrating",
+        "Graft Rejection",
+        "Graft Survival"
+      ],
       "keywords": [
         "minor histocompatibility antigens",
         "penetrating keratoplasty",
@@ -31679,15 +31833,15 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1371/journal.pone.0000042",
       "pmid": "17183671",
-      "pmcid": null,
+      "pmcid": "PMC1762400",
       "url": "https://www.lens.org/014-311-158-293-760",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC1762400",
       "bestOpenAccessUrl": "https://doi.org/10.1371/journal.pone.0000042",
       "openAlexId": "https://openalex.org/W2085353239",
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2085353239",
-      "abstract": "BACKGROUND: Minor Histocompatibility (H) antigen mismatches significantly influence the outcome of HLA-matched allogeneic stem cell transplantation. The molecular identification of human H antigens is increasing rapidly. In parallel, clinical application of minor H antigen typing has gained interest. So far, relevant and simple tools to analyze the minor H antigens in a quick and reliable way are lacking. METHODOLOGY AND FINDINGS: We developed a uniform PCR with sequence-specific primers (PCR-SSP) for 10 different autosomal minor H antigens and H-Y. This genomic minor H antigen typing methodology allows easy incorporation in the routine HLA typing procedures. DNA from previously typed EBV-LCL was used to validate the methodology. To facilitate easy interpretation for clinical purposes, a minor H database named dbMinor (http://www.lumc.nl/dbminor) was developed. Input of the minor H antigen typing results subsequently provides all relevant information for a given patient/donor pair and additional information on the putative graft-versus-host, graft-versus-tumor and host-versus-graft reactivities. SIGNIFICANCE: A simple, uniform and rapid methodology was developed enabling determination of minor H antigen genotypes of all currently identified minor H antigens. A dbMinor database was developed to interpret the genomic typing for its potential clinical relevance. The combination of the minor H antigen genomic typing methodology with the online dbMinor database and applications facilitates the clinical application of minor H antigens anti-tumor targets after stem cell transplantation.",
+      "abstract": "Background Minor Histocompatibility (H) antigen mismatches significantly influence the outcome of HLA-matched allogeneic stem cell transplantation. The molecular identification of human H antigens is increasing rapidly. In parallel, clinical application of minor H antigen typing has gained interest. So far, relevant and simple tools to analyze the minor H antigens in a quick and reliable way are lacking. Methodology and findings We developed a uniform PCR with sequence-specific primers (PCR-SSP) for 10 different autosomal minor H antigens and H-Y. This genomic minor H antigen typing methodology allows easy incorporation in the routine HLA typing procedures. DNA from previously typed EBV-LCL was used to validate the methodology. To facilitate easy interpretation for clinical purposes, a minor H database named dbMinor (http://www.lumc.nl/dbminor) was developed. Input of the minor H antigen typing results subsequently provides all relevant information for a given patient/donor pair and additional information on the putative graft-versus-host, graft-versus-tumor and host-versus-graft reactivities. Significance A simple, uniform and rapid methodology was developed enabling determination of minor H antigen genotypes of all currently identified minor H antigens. A dbMinor database was developed to interpret the genomic typing for its potential clinical relevance. The combination of the minor H antigen genomic typing methodology with the online dbMinor database and applications facilitates the clinical application of minor H antigens anti-tumor targets after stem cell transplantation.",
       "authors": [
         {
           "name": "Eric Spierings",
@@ -31768,7 +31922,20 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "DNA Primers",
+        "HLA Antigens",
+        "Minor Histocompatibility Antigens",
+        "H-Y Antigen",
+        "Histocompatibility Testing",
+        "Stem Cell Transplantation",
+        "Polymerase Chain Reaction",
+        "Minor Histocompatibility Loci",
+        "Base Sequence",
+        "Alleles",
+        "Databases, Genetic"
+      ],
       "keywords": [
         "minor histocompatibility antigens",
         "allogeneic stem cell transplantation",
@@ -32005,7 +32172,23 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Dendritic Cells",
+        "CD4-Positive T-Lymphocytes",
+        "Humans",
+        "Graft vs Host Disease",
+        "HLA-DQ Antigens",
+        "Minor Histocompatibility Antigens",
+        "H-Y Antigen",
+        "Epitopes, T-Lymphocyte",
+        "Lymphocyte Culture Test, Mixed",
+        "Transplantation, Homologous",
+        "Genes, MHC Class II",
+        "Genes, T-Cell Receptor beta",
+        "Female",
+        "Male",
+        "DEAD-box RNA Helicases"
+      ],
       "keywords": [
         "minor histocompatibility antigens",
         "DDX3Y",
@@ -32031,7 +32214,7 @@
           "score": 0.12269999831914902
         }
       ],
-      "citedByCount": 12,
+      "citedByCount": 15,
       "countsByYear": [
         {
           "year": 2025,
@@ -32050,16 +32233,16 @@
           "cited_by_count": 1
         },
         {
-          "year": 2015,
+          "year": 2019,
           "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
         },
         {
           "year": 2013,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
+          "cited_by_count": 2
         }
       ],
       "isOpenAccess": true,
@@ -32098,7 +32281,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W1971300129",
-      "abstract": "BACKGROUND: Minor histocompatibility (H) antigens are peptides of allelic intracellular proteins that play an important role in human leukocyte antigen (HLA) matched transplantations. In an animal model of keratoplasty, minor H antigens have even been reported to exceed the immunogenicity of major H antigens (MHC). This investigation is to assess any benefit of matching the broadly expressed gender (H-Y) and HA-3 antigens in HLA-A1 donor positive human keratoplasty. METHODS: A total of 229 HLA-A1 donor positive keratoplasties were analyzed. A Cox proportional hazards model and Kaplan-Meier analysis were applied to estimate the effect of H-Y or HA-3 mismatches on rejection-free graft survival. RESULTS: Eighty-one cases were mismatched for H-Y (male donor to female recipient). A mean follow up of two years showed graft survival as high as 88% in the H-Y compatible group compared to only 77% in the H-Y mismatched group (P = 0.02). Eight out of 62 cases were mismatched for HA-3. No statistically significant influence of HA-3 matching on rejection-free graft survival was observed (85% vs. 73%, P=0.52). CONCLUSION: HLA-A1/H-Y matching and matching for other broadly expressed minor H antigens may further improve prognosis in keratoplasty.",
+      "abstract": "Background Minor histocompatibility (H) antigens are peptides of allelic intracellular proteins that play an important role in human leukocyte antigen (HLA) matched transplantations. In an animal model of keratoplasty, minor H antigens have even been reported to exceed the immunogenicity of major H antigens (MHC). This investigation is to assess any benefit of matching the broadly expressed gender (H-Y) and HA-3 antigens in HLA-A1 donor positive human keratoplasty. Methods A total of 229 HLA-A1 donor positive keratoplasties were analyzed. A Cox proportional hazards model and Kaplan-Meier analysis were applied to estimate the effect of H-Y or HA-3 mismatches on rejection-free graft survival. Results Eighty-one cases were mismatched for H-Y (male donor to female recipient). A mean follow up of two years showed graft survival as high as 88% in the H-Y compatible group compared to only 77% in the H-Y mismatched group (P = 0.02). Eight out of 62 cases were mismatched for HA-3. No statistically significant influence of HA-3 matching on rejection-free graft survival was observed (85% vs. 73%, P=0.52). Conclusion HLA-A1/H-Y matching and matching for other broadly expressed minor H antigens may further improve prognosis in keratoplasty.",
       "authors": [
         {
           "name": "Daniel Böhringer",
@@ -32178,7 +32361,24 @@
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Humans",
+        "Corneal Diseases",
+        "HLA-A1 Antigen",
+        "H-Y Antigen",
+        "Histocompatibility Testing",
+        "Prognosis",
+        "Disease-Free Survival",
+        "Treatment Outcome",
+        "Corneal Transplantation",
+        "Proportional Hazards Models",
+        "Graft Survival",
+        "Alleles",
+        "Aged",
+        "Middle Aged",
+        "Female",
+        "Male"
+      ],
       "keywords": [
         "minor histocompatibility antigens",
         "HLA-A1",
@@ -32203,7 +32403,7 @@
           "score": 0.00139999995008111
         }
       ],
-      "citedByCount": 65,
+      "citedByCount": 68,
       "countsByYear": [
         {
           "year": 2026,
@@ -32211,6 +32411,10 @@
         },
         {
           "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
           "cited_by_count": 1
         },
         {
@@ -32231,11 +32435,11 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2018,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2017,
@@ -32392,13 +32596,37 @@
       "volumeIssuePages": "vol. 133, no. 5, pp. 538-549",
       "categories": [
         "outcome",
+        "diagnostics",
         "cellular"
       ],
       "primaryCategoryLabel": "Outcome",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Gastrointestinal Tract",
+        "CD4-Positive T-Lymphocytes",
+        "Skin",
+        "Humans",
+        "Graft vs Host Disease",
+        "Tumor Necrosis Factor-alpha",
+        "Receptors, Chemokine",
+        "Chemokines, CC",
+        "Interleukin-2",
+        "CD4 Lymphocyte Count",
+        "Stem Cell Transplantation",
+        "Immunohistochemistry",
+        "Immunophenotyping",
+        "Adolescent",
+        "Child",
+        "Child, Preschool",
+        "Infant",
+        "Chemokine CCL27",
+        "Receptors, CCR10",
+        "Protein Tyrosine Phosphatase, Non-Receptor Type 1",
+        "Interferon-gamma",
+        "Leukocyte Common Antigens"
+      ],
       "keywords": [
         "graft-versus-host disease",
         "cutaneous graft-versus-host disease",
@@ -32522,7 +32750,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2077337570",
-      "abstract": null,
+      "abstract": "Tetrameric MHC/peptide complexes are important tools for analyzing antigen-specific T cells. The in situ use of tetrameric MHC/peptide complexes in viable tissue sections has several shortcomings: it does not allow the execution of multiple analyses on one single biopsy, the storage of the biopsies, and the co-staining of the tetramer-positive cells for various intracellular molecules. We have developed a novel approach using overnight pre-labeling of viable human tissues with MHC/peptide tetramers, followed by cryopreservation and labeling of the cryosections. The visualization of antigen-specific T cells, combined with detection of other membrane, cytoplasmic, or nuclear markers is now feasible.",
       "authors": [
         {
           "name": "Florry A. Vyth‐Dreese",
@@ -32599,7 +32827,20 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes",
+        "Skin",
+        "Humans",
+        "HLA-A2 Antigen",
+        "H-Y Antigen",
+        "Fluorescent Dyes",
+        "Biopsy",
+        "Cryopreservation",
+        "Immunohistochemistry",
+        "Female",
+        "Male",
+        "In Vitro Techniques"
+      ],
       "keywords": [
         "antigen-specific T cells",
         "peptide-MHC tetramers",
@@ -32670,9 +32911,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1172/jci27094",
       "pmid": "16322786",
-      "pmcid": null,
+      "pmcid": "PMC1297265",
       "url": "https://www.lens.org/011-662-276-873-198",
-      "fullTextUrl": null,
+      "fullTextUrl": "https://europepmc.org/articles/PMC1297265",
       "bestOpenAccessUrl": "https://doi.org/10.1172/jci27094",
       "openAlexId": "https://openalex.org/W2070159616",
       "openAlexType": "article",
@@ -32710,7 +32951,22 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes, Cytotoxic",
+        "Hematopoietic Stem Cells",
+        "Humans",
+        "HLA-B7 Antigen",
+        "Minor Histocompatibility Antigens",
+        "Immunotherapy",
+        "Bone Marrow Transplantation",
+        "Hematopoietic Stem Cell Transplantation",
+        "Transplantation, Homologous",
+        "Graft vs Leukemia Effect",
+        "Tissue Distribution",
+        "Cell Lineage",
+        "Phenotype",
+        "Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+      ],
       "keywords": [
         "minor histocompatibility antigens",
         "graft-versus-leukemia effect",
@@ -32798,7 +33054,7 @@
       "openAlexType": "review",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2056891047",
-      "abstract": null,
+      "abstract": "Technical advances combined with the deciphering of the human genome have facilitated the identification of the molecular nature of human minor histocompatibility (H) antigens. To date, it is believed that minor H antigens result from just any polymorphic protein, regardless of their functional properties. A closer look at the first series of autosomally encoded human minor H proteins reveals a striking functional relationship. Here, we propose that T cells generated after HLA-identical stem cell transplantation (SCT) for malignancies are likely to be directed towards peptides derived from minor H proteins involved in tumourigenesis. This novel insight has important consequences in the search for, and the use of, minor H antigens as immunotherapeutics in stem-cell-based immunotherapy of haematological malignancies and solid tumours.",
       "authors": [
         {
           "name": "Eric Spierings",
@@ -32840,7 +33096,25 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes",
+        "Humans",
+        "Neoplasms",
+        "rho GTP-Binding Proteins",
+        "Adaptor Proteins, Signal Transducing",
+        "GTPase-Activating Proteins",
+        "Guanine Nucleotide Exchange Factors",
+        "Oligopeptides",
+        "Neoplasm Proteins",
+        "Proto-Oncogene Proteins",
+        "Proto-Oncogene Proteins c-bcl-2",
+        "HLA-B Antigens",
+        "Minor Histocompatibility Antigens",
+        "Stem Cell Transplantation",
+        "Transplantation Immunology",
+        "Models, Biological",
+        "A Kinase Anchor Proteins"
+      ],
       "keywords": [
         "minor histocompatibility antigens",
         "cancer immunotherapy",
@@ -32952,7 +33226,7 @@
       "openAlexType": "article",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2136948594",
-      "abstract": null,
+      "abstract": "Background Stem-cell grafts between HLA-identical siblings are less likely to succeed when there is a sex mismatch. This lack of success can be interpreted as enhanced activity directed against minor histocompatibility antigens encoded by the Y chromosome (H-Y). So far, in man, only cytotoxic T lymphocytes (CTLs) specific for several minor histocompatibility antigens have been reported. We aimed to identify and clarify the role of MHC class II-restricted H-Y-specific T-helper cells in these transplant settings. Methods H-Y-specific MHC class II-restricted CD4+ T cells were isolated from blood of a female patient who rejected an HLA-identical male stem-cell transplant. By molecular cloning of H-Y genes and functional T-helper experiments, we elucidated antigen specificity and the functional properties of these H-Y-specific T-helper cells. Findings CD4+ T-helper cells recognise the Y gene-encoded peptide VIKVNDTVQI presented by HLA-DRbeta3*0301. These T-helper cells mature dendritic cells and enhance expansion of minor histocompatibility antigen-specific MHC class I-restricted CD8+ CTLs. Interpretation Characterisation of an MHC class II-restricted H-Y epitope that evoked CD4+ T-helper responses adds a novel cellular component to the alloimmune response against Y chromosome-encoded minor histocompatibility antigens. This component completes the H-Y-directed alloimmune response and aids understanding of the poorer outcome of sex-mismatched transplants.",
       "authors": [
         {
           "name": "Eric Spierings",
@@ -33032,7 +33306,27 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "T-Lymphocytes, Helper-Inducer",
+        "Chromosomes, Human, Y",
+        "Humans",
+        "Anemia, Aplastic",
+        "Histocompatibility Antigens Class II",
+        "H-Y Antigen",
+        "Epitopes, T-Lymphocyte",
+        "Stem Cell Transplantation",
+        "Epitope Mapping",
+        "Sex Factors",
+        "Transplantation Immunology",
+        "Graft Rejection",
+        "Minor Histocompatibility Loci",
+        "Genes, sry",
+        "Adult",
+        "Female",
+        "Male",
+        "Sex Determination Processes",
+        "CD4 Antigens"
+      ],
       "keywords": [
         "H-Y antigen",
         "minor histocompatibility antigens",
@@ -33114,11 +33408,11 @@
         },
         {
           "year": 2013,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2012,
-          "cited_by_count": 9
+          "cited_by_count": 8
         }
       ],
       "isOpenAccess": false,
@@ -33344,13 +33638,46 @@
       "volumeIssuePages": "vol. 102, no. 2, pp. 621-629",
       "categories": [
         "matching",
+        "diagnostics",
         "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "CD8-Positive T-Lymphocytes",
+        "Clone Cells",
+        "Humans",
+        "Leukemia, Myeloid",
+        "Acute Disease",
+        "Multienzyme Complexes",
+        "Proteasome Endopeptidase Complex",
+        "Cysteine Endopeptidases",
+        "Adaptor Proteins, Signal Transducing",
+        "ATP-Binding Cassette Transporters",
+        "Proto-Oncogene Proteins",
+        "Protein Isoforms",
+        "HLA-A1 Antigen",
+        "Minor Histocompatibility Antigens",
+        "Epitopes, T-Lymphocyte",
+        "Peripheral Blood Stem Cell Transplantation",
+        "Amino Acid Substitution",
+        "Pedigree",
+        "Sequence Alignment",
+        "Antigen Presentation",
+        "Protein Processing, Post-Translational",
+        "Amino Acid Sequence",
+        "Sequence Homology, Amino Acid",
+        "Genotype",
+        "Polymorphism, Genetic",
+        "Alleles",
+        "Molecular Sequence Data",
+        "Female",
+        "Male",
+        "A Kinase Anchor Proteins",
+        "ATP Binding Cassette Transporter, Subfamily B, Member 2"
+      ],
       "keywords": [
         "T cell epitopes",
         "allelic variation",
@@ -33397,7 +33724,7 @@
           "cited_by_count": 2
         },
         {
-          "year": 2017,
+          "year": 2018,
           "cited_by_count": 1
         },
         {
@@ -33559,13 +33886,33 @@
       "categories": [
         "matching",
         "outcome",
+        "diagnostics",
         "cellular"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "CD4-Positive T-Lymphocytes",
+        "T-Lymphocytes, Cytotoxic",
+        "Y Chromosome",
+        "Humans",
+        "Graft vs Host Disease",
+        "Oligopeptides",
+        "Proteins",
+        "Histocompatibility Antigens Class II",
+        "HLA-DQ Antigens",
+        "Minor Histocompatibility Antigens",
+        "Epitopes",
+        "Hematopoietic Stem Cell Transplantation",
+        "Epitope Mapping",
+        "Amino Acid Sequence",
+        "Female",
+        "Male",
+        "DEAD-box RNA Helicases",
+        "Genetic Linkage"
+      ],
       "keywords": [
         "minor histocompatibility antigens",
         "H-Y antigen",
@@ -33592,7 +33939,7 @@
           "score": 0.002300000051036477
         }
       ],
-      "citedByCount": 164,
+      "citedByCount": 169,
       "countsByYear": [
         {
           "year": 2026,
@@ -33636,19 +33983,19 @@
         },
         {
           "year": 2015,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2014,
           "cited_by_count": 7
         },
         {
+          "year": 2014,
+          "cited_by_count": 8
+        },
+        {
           "year": 2013,
-          "cited_by_count": 11
+          "cited_by_count": 13
         },
         {
           "year": 2012,
-          "cited_by_count": 11
+          "cited_by_count": 10
         }
       ],
       "isOpenAccess": false,
@@ -33774,7 +34121,7 @@
           "score": 0.0012000000569969416
         }
       ],
-      "citedByCount": 1,
+      "citedByCount": 2,
       "countsByYear": [],
       "isOpenAccess": false,
       "openAccessStatus": "closed",
@@ -33950,11 +34297,11 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2020,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2019,
@@ -34368,7 +34715,17 @@
       "key": false,
       "impactFactor": 5,
       "impactFactorSource": null,
-      "meshTerms": [],
+      "meshTerms": [
+        "Schwann Cells",
+        "Neurons",
+        "Peripheral Nervous System",
+        "Cells, Cultured",
+        "Animals",
+        "Humans",
+        "Rats",
+        "Pilot Projects",
+        "Artificial Organs"
+      ],
       "keywords": [
         "allorecognition",
         "Schwann cells",
@@ -34400,7 +34757,7 @@
           "score": 0.007199999876320362
         }
       ],
-      "citedByCount": 1,
+      "citedByCount": 2,
       "countsByYear": [],
       "isOpenAccess": false,
       "openAccessStatus": "closed",
@@ -34528,7 +34885,7 @@
           "score": 0
         }
       ],
-      "citedByCount": 4,
+      "citedByCount": 5,
       "countsByYear": [],
       "isOpenAccess": false,
       "openAccessStatus": "closed",
@@ -34661,7 +35018,7 @@
           "score": 0.002899999963119626
         }
       ],
-      "citedByCount": 25,
+      "citedByCount": 26,
       "countsByYear": [
         {
           "year": 2022,
@@ -34685,7 +35042,7 @@
         },
         {
           "year": 2015,
-          "cited_by_count": 1
+          "cited_by_count": 2
         }
       ],
       "isOpenAccess": false,
@@ -35013,7 +35370,7 @@
           "score": 0
         }
       ],
-      "citedByCount": 6,
+      "citedByCount": 7,
       "countsByYear": [
         {
           "year": 2022,
@@ -37446,7 +37803,7 @@
       "openAlexType": "conference-abstract",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W4310107118",
-      "abstract": "Backgrounds Despite cord blood is an important alternative stem cell source for the patients without HLA matched donors, engraftment failure is the most significant obstacle in cord blood transplantation (CBT). Donor-specific anti-HLA antibody and hemophagocytic syndrome (HPS) after severe pre-engraftment immune reaction are the major causes of engraftment failure. However, the allo-immunity associated with graft rejection has not been fully understood. In HLA-mismatched transplantation, mismatched HLA is an important target for allo-immunity but the immunogenicity is different depending on the mismatched HLA pair of donor and recipient. Therefore, we hypothesized that by evaluating the antigenicity of mismatched HLA, we could improve donor selection criteria for CBT. Methods: We performed a retrospective analysis of clinical data on 4,100 single-unit CBT in Japan between 2001 and 2017 deposited in Transplant Registry Unified Management Program (TRUMP). Using the PIRCHE algorithm (PIRCHE AG, Berlin), the number of mismatched HLA-derived epitopes to be presented by HLA was predicted. PIRCHE was quantified separately for the mismatched recipient loci (HLA-A, -B, -C, -DRB1) and the presenting donor-HLA (ClassI or ClassII, matched or mismatched HLA). Specifically, we evaluated binding affinities of peptides that could be made from recipient mismatched HLA to donor HLA using netMHCpan and netMHCIIpan. Epitopes with IC50 < 500 nM for Class I and < 1000 nM for Class II were defined as PIRCHE-I and PIRCHE-II, respectively. Results: The death-censored median observation period was 2.7 years (0.5-17.1), median age at transplantation was 53 years (16-75), and 96.4% of patients were infused with HLA-mismatched cord blood. The present cohort includes patients with AML (49.6%), ALL (14.0%), Lymphoma (12.9%), MDS (10.8%), CML (2.2%), and other diseases (10.5%). Full-intensity conditioning was performed in 50.4% of patients. All patients received calcineurin inhibitors (CNI) for graft-versus-host disease (GvHD) prophylaxis, 1410 (34.5%) of them received MMF and 2110 (51.5%) received MTX in combination with CNI. The number of PIRCHEs derived from each HLA-loci showed zero-inflated distributions. Patients with PIRCHE-I derived from recipient mismatched HLA-B (rB-PIRCHE-I) had a higher non-relapse mortality (NRM, Hazard ratio [HR] = 1.19, p = 0.004) and lower progression free survival (PFS, HR = 1.12, p = 0.002). They tended to have higher risk for engraftment failure and infection was leading cause of death. rB-PIRCHE-I was not associated with incidence of acute and chronic GvHD. Interestingly, rB-PIRCHE-I on matched HLA (rB-PIRCHE-I on match) was significantly associated with prognosis (PFS, HR = 1.11, p = 0.005), but those presented on mismatched HLA were not (PFS, HR = 1.07, p = 0.1). The numbers of infused nucleated cells and CD34+ cells in the graft were higher in the patients with rB-PIRCHE-I on match, but there was no difference in other patient backgrounds with or without rB-PIRCHE-I on match. In patients transplanted with HLA-B mismatched cord blood, rB-PIRCHE-I on match was prognostic. In patients who received MMF, rB-PIRCHE-I on match was associated with engraftment failure (Figure 1) and poor prognosis (NRM, HR = 1.48, p < 0.001; PFS, HR = 1.26, p < 0.001), whereas there was no prognostic impact in the patients with MTX. In order to elucidate the mechanism by which rB-PIRCHE-I increases engraftment failure in patients with MMF, we performed a detailed analysis of 100 patients who underwent CBT with MMF in the cohort of Kyushu University Hospital. As a result, we found that the frequency of HPS was significantly higher in patients with rB-PIRCHE-I on match (HR = 5.75, p = 0.001) Discussion: In the early period after CBT, donor antigen-presenting cells (APCs) are not reconstituted and donor T-cell is restricted to donor HLA. Therefore, we speculate that recipient APCs are inducing severe allo-immune reaction by presenting rB-PIRCHE-I on matched HLAs which are recognizable to donor T-cells. Furthermore, NK cells in the graft have been reported to prevent GvHD via suppression of recipient APCs, and MMF has the ability to suppress NK cells; it is possible that MMF enhanced the allo-immune response induced by recipient APCs. (Figure 2) Conclusion: HLA-mismatched cord blood without rB-PIRCHE-I is more desirable as a donor; when selecting a donor with rB-PIRCHE-I, it may be better to use MTX instead of MMF. Figure 1View largeDownload PPTFigure 1View largeDownload PPT Close modal",
+      "abstract": null,
       "authors": [
         {
           "name": "Takeshi Sugio"
@@ -43595,7 +43952,7 @@
       "openAlexType": "conference-abstract",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2550019273",
-      "abstract": "Abstract Introduction: The outcome of allo-SCT in patients with hematological malignancies is still hampered by GVHD and relapse. Specific depletion of αβ T- cells is proposed to result in a decreased incidence of aGVHD, whereas the remaining innate cells such as NK cells and γδT cells may provide control of infected and transformed cells the first months post SCT. This strategy has been pioneered in haploindentical transplantation with promising results. Within this study, we extend αβT- cell depleted allo-SCT to patients with a matched related and unrelated donor. The primary aim is to develop an allogeneic SCT protocol with a low incidence of aGVHD without an increased incidence of infections or relapse to serve as a platform for post-allo interventions such as a pre-emptive DLI or transfer of genetically modified T cells. Methods: Patients with hematological malignancies (including AML, ALL, MM, NHL) who received an αβT-cell depleted allo-SCT of a HLA matched sibling (MRD) or HLA matched (9 or 10/10) unrelated donor (MUD) were analysed. αβT-cell reduction was performed by negative selection with anti-αβTCR antibodies in combination with magnetic microbeads, using the automated CliniMACS device (Miltenyi Biotec, Bergisch Gladbach, Germany). The maximal contamination with αβT-cells was 5x105/kg. The conditioning regimen consisted of: ATG (Genzyme®) 6 mg/m2 + fludarabine 120 mg/m2 + busilvex AUC=90. Immune suppression consisted of 28 days of mycophenolic acid. A cohort of 32 patients was retrospectively analyzed for clinical parameters including immune reconstitution, engraftment, infections, GVHD, relapse, NRM and OS and compared to an historical control cohort of recipients of a T cell replete allo-SCT. In addition in a subset of patients NGS of the TCRβ chain was performed using the Illumina/MiSeq sequencing platform after isolation diverse immune subsets within the αβT-cell repertoire. Results: The combination of ATG/fludarabine/busilvex was well tolerated with hematological recovery within 3 weeks. Primary engraftment (chimerism > 95%) was observed in all patients (n=32). Immune reconstitution primarily consisted of NK cells. In addition, γδT cells were detectable at normal numbers the first half year post SCT, whereas the adaptive immune repertoire showed a delayed reconstitution. As compared to the historical control cohort, the incidence of CMV (54% vs 38%; p = 0,48) and EBV (32% vs 9%' p=0,148) infections did not show a significant increase. The incidence of aGVHD > grade II within 100 days in patients of a αβT-cell depleted allo-SCT was 0%. During this relative short time of follow-up (1-14 months) 2 patients developed a relapse (both > 6 months) and 2 patients deceased (one with mucormycosis, one with GVHD post DLI). With NGS of the TCRβ repertoire, a surprising diversity was observed in defined immune subsets ranging from clonal expansion of regulatory T cells to broad repertoires in effector memory cells. Conclusion: αβT-cell depletion in MRD/MUD results in a swift reconstitution of innate cells (NK cells and γδT-cells) the first 6 months post transplantation, followed by a subsequent reconstitution of the adaptive immune repertoire. The diversity appears to be different for diverse subsets of the αβT-cell repertoire, which remains to be confirmed in an extended pool of patients. The incidence of severe aGVHD is low, without a significant increase in infections or relapse shortly post allo-SCT. These results will be confirmed during extended follow-up and in a planned prospective multicenter study. Disclosures No relevant conflicts of interest to declare.",
+      "abstract": null,
       "authors": [
         {
           "name": "Moniek de Witte"
@@ -44296,7 +44653,7 @@
       "openAlexType": "conference-abstract",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2569589420",
-      "abstract": "Abstract Minor histocompatibility antigens (mHags) are highly immunogenic, HLA-bound polymorphic peptides playing prominent roles in the development of the graft vs host disease (GvHD) as well as the therapeutic graft vs tumor (GvT) effect of allogeneic stem cell transplantation (allo-SCT). To date, a small subset of mHags has been identified as genuinely hematopoietic system-specific. This small number of conceptually GvT-associated mHags are currently being tested in various clinical trials for the feasibility and efficacy of inducing an exclusive GvT effect without GvHD in patients with relapsing haematological malignancies after allo-SCT. Nonetheless, a broader and timely application of mHags as therapeutic tools in allo-SCT, as well as the development of appropriate GvHD prevention strategies still requires more insights that can be acquired through the identification of a much larger set of mHags presented by various HLA molecules in different ethnic populations. Recently, the introduction of genome-wide association (GWAS)-based strategies, despite a number of drawbacks, significantly accelerated the identification of mHags. To develop a strategy that can overcome the drawbacks of these earlier developed strategies, we now integrated our previously developed GWAS methodology [1,2] with the comprehensive genomic databases from the 1000 Genomes Project [3]. We show that the data set of the 1000 Genomes Project is suitable to identify all theoretical possible mHags, hereby enabling us to delineate important yet unknown characteristics of mHags. Furthermore, we demonstrate the actual power of this novel approach by the rapid and unambiguous identification of the HLA-DP4 restricted mHag UTDP4-1, which -despite extensive efforts in the past 15 years- could not be identified using any of the previously developed biochemical, molecular biological or genetic strategies. The 1000 Genomes Project-based identification of mHags thus represents a very rapid, convenient and robust method for the identification of new mHags, that will not only improve the understanding of the yet unknown facets of mHags but may also significantly enlarge the arsenal of targets for immunotherapy in haematological cancers. Spaapen et al., J.Exp.Med. 2008 Nov 24;205(12):2863-72. Oostvogels et al., Leukemia 2013 Mar;27(3):642-9. Abecasis et al., Nature 2012 Nov 1;491(7422):56-65. Disclosures Lokhorst: Celgene: Research Funding; J&J: Research Funding; Genmab: Research Funding. Mutis:Genmab BV: Research Funding; J&J: Research Funding; Celgene: Research Funding.",
+      "abstract": null,
       "authors": [
         {
           "name": "Rimke Oostvogels"
@@ -44553,7 +44910,7 @@
       "openAlexType": "conference-abstract",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2553981673",
-      "abstract": "Abstract Background: Graft-versus-host disease (GVHD) is a major cause of mortality after unrelated hematopoietic stem cell transplantations (HSCT). Despite the development of modern immunosuppressive strategies, a nearly perfectly controlled compatibility of the classical HLA genes (HLA-A, -B, -C, -DRB1, -DQB1, and -DPB1) and availability of numerous so-called minor histocompatibility antigens (e.g. HY or HA-1), its incidence remains largely unexplained to date. MIC genes (MHC class I chain-related) - a distinct lineage of MHC class I genes – are promising candidates to explain, at least partially, the incidence of GVHD in HLA-matched transplantations. MICA and MICB are highly polymorphic (100 alleles for MICA and 40 for MICB) and encode functional cell-surface glycoproteins up-regulated by cell stress. They interact with NKG2D, an activating receptor expressed on the surface of cytotoxic αβ CD8+ and γδ T lymphocytes and natural killer cells. MIC genes are already known to have a HLA-independent effect on solid graft outcomes and may play a similar role in HSCT by triggering GVHD. Objective: The objective of the present study was to determine the impact of donor/patient matching at the MICA and MICB loci on the incidence of GVHD in patients undergoing unrelated HSCT. Methods: We retrospectively analyzed a multicenter cohort of 1072 unrelated transplantations performed between 1996 and 2013. All donor-recipient pairs were fully typed at high resolution for HLA-A, -B, -C, -DRB1, -DQB1, and -DPB1 and were matched for ten of ten HLA alleles (HLA 10/10 matched). High resolution genotyping of MICA and MICB was performed by sequenced-based typing in order to define matching grades between donors and patients. The endpoints of the study were acute and chronic GVHD. Apart from HLA-DPB1 matching, statistical models were adjusted for major clinical variables which have been shown to be associated with outcome (patient’s age, patient’s and donor’s sex, patient’s and donor’s serological status for cytomegalovirus, year of transplantation, time to transplantation, transplantation center, source of stem cells, conditioning regimen, GVHD prophylaxis, treatment with anti-thymocyte globulin, disease category and severity at transplantation). Results: Of the 1072 transplantations, 134 (12.5 %) and 380 (35.4 %) were mismatched at the MICA and MICB locus, respectively. Both MICA and MICB mismatches were significantly associated with an increased incidence of severe acute GVHD (grades III-IV) in univariate and multivariate models (multivariate model: HR = 2.32, 95 % CI = 1.84-2.92; p=0.0003 for MICA and HR = 1.49, 95 % CI = 1.24-1.79; p=0.03 for MICB). At day 100 post-HSCT severe acute GVHD incidences in mismatched vs. matched transplantations were 19.62 % vs. 15.08 % and 20.00 % vs. 14.84 % for MICA and MICB, respectively (Figure 1). Chronic GVHD was associated with MICA and MICB mismatches in univariate analysis (HR = 1.55, 95 % CI = 1.27-1.89; p=0.029 for MICA and HR=1.38, 95 % CI = 1.19-1.62; p=0.03 for MICB), but showed only a trend for association in multivariate models. Figure 1 Estimated cumulative incidence curves of grades III–IV acute GVHD according to MICA (panel A) and MICB (panel B) matching status. The solid and dashed lines represent MIC matched and mismatched grafts, respectively. The Fine and Gray model was used with relapse and death considered as competing risks. Figure 1. Estimated cumulative incidence curves of grades III–IV acute GVHD according to MICA (panel A) and MICB (panel B) matching status. The solid and dashed lines represent MIC matched and mismatched grafts, respectively. The Fine and Gray model was used with relapse and death considered as competing risks. Conclusion: To date this is the largest reported MICA and MICB sequence analysis whether in HSCT or solid organ transplantation. Inclusion of MICA and MICB typing in the donor selection process may be a practical clinical strategy for lowering the risks of severe acute GVHD after unrelated HSCT. Disclosures No relevant conflicts of interest to declare.",
+      "abstract": null,
       "authors": [
         {
           "name": "Raphael Carapito"
@@ -46950,7 +47307,7 @@
       "openAlexType": "conference-abstract",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W4246078988",
-      "abstract": "Abstract Abstract 736 Introduction Despite multiple improvements in the last decade in the field of HSCT, acute graft versus host disease (aGVHD) remains a life-threatening complication and reduces substantially efficacy of HSCT. In particular, the outcome of patients with severe steroid-resistant aGVHD is very poor. Therefore, it remains important to search for new therapeutic strategies for the treatment of aGVHD. Objective Feasibility of the generation and efficacy of mesenchymal stroma cells (MSCs) generated with fetal calf serum (FCS) has been suggested recently. However, FCS is a putative source of prions and virus transmission. Therefore, the feasibility of the generation of MSCs expanded with human plasma and platelet lysate (hPPL) was tested as well as the feasibility and safety of the application of hPPL-MSCs in patients with steroid-refractory aGVHD. Furthermore multiple immunological changes after infusion of MSC were characterized, in vitro. However, truly active mechanisms in human are poorly understood as well as whether infusion of MSC selectively impairs GVHD-inducing immune cells or also anti-virus and anti-leukemia reactive T-cells. Therefore, phenotypical and functional changes in immunological cell types and cytokine levels were investigated. Method In an open-label, non-randomized prospective phase I/II study MSCs were extracted from the bone marrow of healthy volunteers, expanded with hPPL, and stored. Patients with steroid-refractory aGVHD grade II to IV were treated with hPPL-MSC. 50 patients were included and received up to four infusions. Response rate, transplantation-related deaths, and other adverse events were assessed for up to 12 months after the last infusion of the cells. In addition, a comprehensive phenotypical and functional analysis was performed with PBMCs and serum isolated from all patients before, during, and after infusion of MSC. Results Between January 2009 and July 2012, 50 patients were included, 2 patients dropped out, 5 patients are so far incompletely documented. Thus 43 patients were so far available for analysis, 6 children and 37 adults. Median age was 51,5 years (1.3–65.9). Organs involved in aGVHD were the skin (56%), the gastro-intestinal tract (86%) and the liver (33%). Overall grade was II for 11 (26%), III for 28 (65%), and IV for 3 (7%) patients. Mean number of infusion were 3 (1–4). No severe side effects were observed. Median follow-up was 4.06 months (range 0.43–12). Complete overall response was observed in 24 patients (56%) after a median of 53 days (range 3–116 days). The overall survival was significantly better in responders when compared to non-responders (p <0.001). Most patients who relapsed with GVHD of the gut were again sensitive to steroids, except one patient who then responded well to a second cycle of MSCs. Immunological monitoring suggests that anti-viral and anti-leukemia reactive T-cells are well preserved in all patients who responded to MSC treatment. In addition, we identified biomarkers which associate even 2 weeks after MSC infusion with a complete resolution of GVHD, which occurred usually after months. Conclusion Generation and infusion of hPPL-MSCs in steroid-resistant aGVHD grade II- IV is feasible, safe and appears to be effective. In addition, also patients who initially responded to hPPL-MSCs but develop later a relapse of aGVHD during tapering or cessation of immunosuppressive drugs become again sensitive to the treatment with steroids. Infusion of MSC did not impair anti-virus and anti-leukemia reactive T-cells. Identified biomarkers predict very early a usually late clinical resolution of GVHD, thus might be useful to early guide clinical decisions. Disclosures: No relevant conflicts of interest to declare.",
+      "abstract": null,
       "authors": [
         {
           "name": "Liane CJ te Boome"
@@ -47194,7 +47551,7 @@
       "openAlexType": "conference-abstract",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2530035443",
-      "abstract": "Abstract Abstract 2979 Allogeneic stem cell transplantation (allo-SCT), alone or followed by donor lymphocyte infusion (DLI), is a potentially curative treatment for various hematological malignancies. In an HLA-matched transplantation setting, the therapeutic graft-versus-tumor (GvT) effect is mediated by donor T-cells directed at minor histocompatibility antigens (mHags), which are HLA-bound polymorphic peptides. Since mHags are also involved in the induction of graft-versus-host disease (GvHD), the immunotherapeutic potential of a mHag depends on its hematopoietic tissue restriction. The identification of more relevant mHags, which are presented by frequent HLA molecules and display an equally balanced population frequency, is imperative to enable broad implementation of mHag-based immunotherapy. We now report the discovery of a novel mHag that fulfills all these criteria and thus has evident clinical and immunotherapeutic relevance. The mHag was identified by analysis of a cloned CD8+ cytotoxic T lymphocyte (CTL), isolated from a multiple myeloma (MM) patient at the peak of his clinical response. This response started just after a second DLI following an HLA matched sibling transplantation and resulted in a complete remission that at present persists for over 8 years, without other treatment. The CTL 503A1 was specifically selected for analysis since it displayed strong cytotoxic activity toward a mHag which was presented by the frequent HLA-molecule HLA-A2*0101. Phenotype analyses revealed a phenotype frequency of around 40% in the Caucasoid population, providing a possibility to apply this mHag in immunotherapy in nearly 12% of allo-SCT patients. Using genome wide zygosity-genotype correlation analysis, followed by fine epitope mapping with synthetic peptides, we identified the antigen recognized by this clone as a nonameric peptide encoded by the SNP rs2166807 on the gene C12orf35. This new mHag was designated as UTA2-1. Quantitative PCR experiments confirmed the hematopoietic tissue restriction of gene C12orf35, with high expression on malignant B and T cells. In a detailed analysis exploring the clinical relevancy of UTA2-1, CTL 503A1 lysed not only benign hematopoietic cells but also primary and immortalized multiple myeloma cells without affecting fibroblasts, keratinocytes or stromal cells derived from the original patient. Tetramer analyses executed on original recipient peripheral blood samples taken after allo-SCT and the DLIs, demonstrated significant expansion of UTA2-1 specific T-cells, coinciding with strong clinical responses after allo-SCT and the second DLI. In summary, UTA2-1 has an ideally balanced population frequency, HLA-A2 restriction, hematopoietic-specific tissue distribution, optimal expression on malignant cells and the clinical capacity to evoke effective T-cell responses during an anti-myeloma effect. With these properties, UTA2-1 is the most clinically relevant mHag identified so far, next to the well-studied mHag HA-1, and has potential of expanding mHag-based adoptive immunotherapy for a great number of patients. Disclosures: No relevant conflicts of interest to declare.",
+      "abstract": null,
       "authors": [
         {
           "name": "Rimke Oostvogels"
@@ -47713,7 +48070,7 @@
       "openAlexType": "conference-abstract",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W2979622763",
-      "abstract": "Abstract Abstract 1196 Poster Board I-218 Introduction: Allogeneic hematopoietic stem cell transplantation (alloSCT) from volunteer unrelated donors (URD) may be associated with a higher non-relapse mortality (NRM) and worse outcome as compared to alloSCT using HLA-identical sibling donors. However, many parameters next to donor type define NRM. The impact on outcome of allele-matching for HLA-A, -B, -C and -DRB1 between donor and recipient has clearly been demonstrated. The prognostic impact of the EBMT risk score, that takes into account age, stage of disease, time from diagnosis to transplantation, donor type and donor-recipient gender combination, has recently been validated in a variety of hematological malignancies including acute leukemia and myelodysplastic syndrome (MDS). We evaluated the relative prognostic value of high-resolution HLA matching and the EBMT risk score for patients with poor-risk acute leukemia and MDS who received an URD transplant. Patients and methods: Between 1987 and 2006, 327 patients (≥16y) with poor-risk acute leukemia and MDS underwent URD alloSCT in the Netherlands. Patients were in 1st complete remission (CR1, n=129), 2nd CR (CR2, n=91), beyond CR2 or not in remission (n=107). The leukemia-risk was considered to be poor if patients had adverse cytogenetics or were not in CR1. The majority of the grafts was T-cell depleted (94%). High-resolution typing of HLA-A, -B, -C, and -DRB1 alleles was available for analysis in 270 donor-recipient pairs and had in part been performed retrospectively. Results: We evaluated the impact of high-resolution matching for HLA-A, -B, -C and -DRB1 on progression free survival (PFS) and overall survival (OS). Patients who were fully matched (8/8) with their donors (n=170) hadsignificantly superior PFS (40+/-4% vs 26+/-5%, hazard ratio (HR)=0.68; 95%CI 0.50–0.92, p=0.01) and OS (39+/-4% vs 29+/-5%, HR=0.70; 95%CI 0.51-0.96, p=0.03), compared to patients with mismatched (≤7/8) donors (n=100). Superior OS in the 8/8 group appeared to be due to a lower NRM (24+/-4% vs 39+/-5%, HR=0.54; 95%CI 0.35-0.85, p=0.008), while the relapse mortality rate was identical in both groups (37+/-4% vs 32+/-5%). Patients with EBMT risk scores of 1-2 (n=71), 3 (n=77), 4 (n=76) and 5-7 (n=103) had a predicted 5 year OS of 52%, 41% (HR=1.57; 95%CI 0.98-2.52), 29% (HR=2.07; 95%CI 1.32-3.26) and 19% (HR=2.69; 95%CI 1.76-4.11), respectively (p 4) had a dismal outcome, despite allele-matching. These results emphasize the importance of incorporating age, disease stage, donor-recipient gender combination and time interval from diagnosis to transplantation (EBMT risk score parameters) as well as high-resolution HLA-typing in the risk assessment prior to URD alloSCT. As excellent OS was noted in well matched EBMT low-risk patients, our data underscore the importance of an immediate search for an unrelated donor in poor-risk leukemia patients in CR1 below the age of 40, who should then receive their alloSCT as early consolidation therapy following induction chemotherapy. Disclosures: No relevant conflicts of interest to declare.",
+      "abstract": null,
       "authors": [
         {
           "name": "Tom Lodewyck"
