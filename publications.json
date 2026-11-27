@@ -1,6 +1,6 @@
 {
   "orcid": "0000-0001-9441-1019",
-  "generatedAt": "2026-11-22T12:48:38.727Z",
+  "generatedAt": "2026-11-27T14:12:21.217Z",
   "source": "ORCID scholarly publications with verified Eric Spierings authorship; conference abstracts classified separately; enriched with Crossref, Europe PMC and OpenAlex metadata; curated conference abstracts verified against publisher, congress and institutional sources",
   "includedWorkTypes": [
     "book",
@@ -877,7 +877,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -1596,7 +1596,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -1615,8 +1615,7 @@
       "volumeIssuePages": "vol. 106, no. 2, pp. e70374",
       "categories": [
         "matching",
-        "diagnostics",
-        "cellular"
+        "diagnostics"
       ],
       "primaryCategoryLabel": "Epitope matching",
       "key": false,
@@ -1644,10 +1643,9 @@
         "hypertensive disorders of pregnancy",
         "HLA-C",
         "killer cell immunoglobulin-like receptors",
-        "HLA homozygosity",
-        "CD4+ T cell epitopes",
-        "HLA class II",
-        "placentation"
+        "HLA class II epitopes",
+        "placental immunity",
+        "HLA homozygosity"
       ],
       "openAlexTopics": [
         {
@@ -2975,7 +2973,7 @@
           "score": 0
         }
       ],
-      "citedByCount": 4,
+      "citedByCount": 5,
       "countsByYear": [
         {
           "year": 2026,
@@ -2983,7 +2981,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 2
+          "cited_by_count": 3
         }
       ],
       "isOpenAccess": true,
@@ -3320,11 +3318,11 @@
           "score": 0.1088000014424324
         }
       ],
-      "citedByCount": 12,
+      "citedByCount": 13,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -3426,7 +3424,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -3578,7 +3576,7 @@
         },
         {
           "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "orcid": "https://orcid.org/0000-0002-0445-8217",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -3679,7 +3677,7 @@
           "corresponding": false,
           "institutions": [
             "Amsterdam UMC Location University of Amsterdam",
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -3689,7 +3687,7 @@
           "corresponding": false,
           "institutions": [
             "Amsterdam UMC Location University of Amsterdam",
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -3716,7 +3714,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -3725,7 +3723,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -3734,7 +3732,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -3795,7 +3793,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -3985,7 +3983,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -4127,7 +4125,7 @@
         },
         {
           "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "orcid": "https://orcid.org/0000-0002-0445-8217",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -4227,7 +4225,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -4236,7 +4234,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -4263,7 +4261,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -4272,7 +4270,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -4281,7 +4279,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -4342,7 +4340,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -4526,11 +4524,11 @@
           "score": 0.03909999877214432
         }
       ],
-      "citedByCount": 16,
+      "citedByCount": 17,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2025,
@@ -4670,8 +4668,12 @@
           "score": 0.003599999938160181
         }
       ],
-      "citedByCount": 1,
+      "citedByCount": 2,
       "countsByYear": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
         {
           "year": 2024,
           "cited_by_count": 1
@@ -4845,7 +4847,7 @@
           "name": "Gautam Kok",
           "orcid": "https://orcid.org/0000-0002-4285-3381",
           "position": "first",
-          "corresponding": true,
+          "corresponding": false,
           "institutions": [
             "Wilhelmina Children's Hospital"
           ]
@@ -4854,7 +4856,7 @@
           "name": "Eveline F. Ilcken",
           "orcid": "",
           "position": "middle",
-          "corresponding": true,
+          "corresponding": false,
           "institutions": [
             "Wilhelmina Children's Hospital"
           ]
@@ -5917,11 +5919,11 @@
           "score": 0.000699999975040555
         }
       ],
-      "citedByCount": 20,
+      "citedByCount": 21,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2025,
@@ -6401,11 +6403,11 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 29,
+      "citedByCount": 31,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 14
         },
         {
           "year": 2025,
@@ -6590,11 +6592,11 @@
           "score": 0.0006000000284984708
         }
       ],
-      "citedByCount": 56,
+      "citedByCount": 57,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 16
+          "cited_by_count": 17
         },
         {
           "year": 2025,
@@ -6877,7 +6879,7 @@
         },
         {
           "name": "Nicolas Congy‐Jolivet",
-          "orcid": "https://orcid.org/0000-0002-2441-6145",
+          "orcid": "https://orcid.org/0000-0003-4263-1700",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -7169,7 +7171,7 @@
           "score": 0.0005000000237487257
         }
       ],
-      "citedByCount": 66,
+      "citedByCount": 65,
       "countsByYear": [
         {
           "year": 2026,
@@ -7190,10 +7192,6 @@
         {
           "year": 2022,
           "cited_by_count": 5
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
         }
       ],
       "isOpenAccess": true,
@@ -7412,7 +7410,7 @@
         },
         {
           "name": "Nine V.A.M. Knoers",
-          "orcid": "https://orcid.org/0000-0001-7454-7795",
+          "orcid": "https://orcid.org/0009-0001-2916-1524",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -7493,7 +7491,7 @@
           "score": 0.05460000038146973
         }
       ],
-      "citedByCount": 61,
+      "citedByCount": 62,
       "countsByYear": [
         {
           "year": 2026,
@@ -7501,7 +7499,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 14
+          "cited_by_count": 15
         },
         {
           "year": 2024,
@@ -7828,11 +7826,11 @@
           "score": 0.010499999858438969
         }
       ],
-      "citedByCount": 16,
+      "citedByCount": 17,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -8031,7 +8029,7 @@
         },
         {
           "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "orcid": "https://orcid.org/0000-0002-0445-8217",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -8129,7 +8127,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -8138,7 +8136,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -8165,7 +8163,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -8174,7 +8172,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -8183,7 +8181,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -8192,7 +8190,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -8353,11 +8351,11 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 21,
+      "citedByCount": 22,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -8875,15 +8873,15 @@
           "score": 0.007699999958276749
         }
       ],
-      "citedByCount": 33,
+      "citedByCount": 35,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 11
+          "cited_by_count": 12
         },
         {
           "year": 2025,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2024,
@@ -9494,11 +9492,11 @@
           "score": 0.9984999895095825
         },
         {
-          "name": "vaccines and immunoinformatics approaches",
+          "name": "Transplantation: Methods and Outcomes",
           "score": 0.00039999998989515007
         },
         {
-          "name": "Transplantation: Methods and Outcomes",
+          "name": "vaccines and immunoinformatics approaches",
           "score": 0.0003000000142492354
         }
       ],
@@ -9738,11 +9736,11 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 60,
+      "citedByCount": 62,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2025,
@@ -9754,7 +9752,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2022,
@@ -9798,7 +9796,7 @@
       "pmcid": null,
       "url": "https://doi.org/10.1038/s41409-020-0886-5",
       "fullTextUrl": null,
-      "bestOpenAccessUrl": "https://doi.org/10.1038/s41409-020-0886-5",
+      "bestOpenAccessUrl": "https://scholarlypublications.universiteitleiden.nl/handle/1887/3185174",
       "openAlexId": "https://openalex.org/W3015723639",
       "openAlexType": "article",
       "crossrefType": "journal-article",
@@ -10257,7 +10255,7 @@
           "score": 0.004699999932199717
         }
       ],
-      "citedByCount": 14,
+      "citedByCount": 15,
       "countsByYear": [
         {
           "year": 2025,
@@ -10277,11 +10275,11 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 2
+          "cited_by_count": 3
         }
       ],
       "isOpenAccess": true,
-      "openAccessStatus": "bronze",
+      "openAccessStatus": "green",
       "relatedOpenAlexWorks": [
         "https://openalex.org/W2553981673",
         "https://openalex.org/W2511359521",
@@ -10624,7 +10622,7 @@
           "score": 0.11349999904632568
         }
       ],
-      "citedByCount": 64,
+      "citedByCount": 62,
       "countsByYear": [
         {
           "year": 2026,
@@ -10632,7 +10630,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 10
+          "cited_by_count": 9
         },
         {
           "year": 2024,
@@ -10644,7 +10642,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 10
+          "cited_by_count": 9
         },
         {
           "year": 2021,
@@ -10763,15 +10761,15 @@
           "score": 0.031700000166893005
         }
       ],
-      "citedByCount": 118,
+      "citedByCount": 119,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 13
+          "cited_by_count": 14
         },
         {
           "year": 2025,
-          "cited_by_count": 26
+          "cited_by_count": 27
         },
         {
           "year": 2024,
@@ -10795,10 +10793,6 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
           "cited_by_count": 1
         }
       ],
@@ -11835,7 +11829,7 @@
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 21
+          "cited_by_count": 22
         },
         {
           "year": 2025,
@@ -11864,10 +11858,6 @@
         {
           "year": 2019,
           "cited_by_count": 2
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
         }
       ],
       "isOpenAccess": true,
@@ -11926,7 +11916,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -12112,7 +12102,7 @@
         },
         {
           "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "orcid": "https://orcid.org/0000-0002-0445-8217",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -12210,7 +12200,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Vrije Universiteit Amsterdam",
             "Amsterdam UMC Location Vrije Universiteit Amsterdam"
           ]
@@ -12221,7 +12211,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Vrije Universiteit Amsterdam",
             "Amsterdam UMC Location Vrije Universiteit Amsterdam"
           ]
@@ -12250,7 +12240,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -12260,7 +12250,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -12270,7 +12260,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -12341,7 +12331,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -12412,7 +12402,7 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 60,
+      "citedByCount": 61,
       "countsByYear": [
         {
           "year": 2026,
@@ -12432,7 +12422,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 16
+          "cited_by_count": 17
         },
         {
           "year": 2021,
@@ -12702,7 +12692,7 @@
         },
         {
           "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "orcid": "https://orcid.org/0000-0002-0445-8217",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -12800,7 +12790,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Vrije Universiteit Amsterdam",
             "Amsterdam UMC Location Vrije Universiteit Amsterdam"
           ]
@@ -12811,7 +12801,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Vrije Universiteit Amsterdam",
             "Amsterdam UMC Location Vrije Universiteit Amsterdam"
           ]
@@ -12840,7 +12830,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -12850,7 +12840,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -12860,7 +12850,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -12870,7 +12860,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -12995,11 +12985,11 @@
           "score": 0.001500000013038516
         }
       ],
-      "citedByCount": 59,
+      "citedByCount": 60,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -13239,7 +13229,7 @@
         },
         {
           "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "orcid": "https://orcid.org/0000-0002-0445-8217",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -13337,7 +13327,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Amsterdam UMC Location Vrije Universiteit Amsterdam"
           ]
         },
@@ -13347,7 +13337,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Amsterdam UMC Location Vrije Universiteit Amsterdam"
           ]
         },
@@ -13376,7 +13366,7 @@
           "corresponding": false,
           "institutions": [
             "Amsterdam UMC Location University of Amsterdam",
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -13386,7 +13376,7 @@
           "corresponding": false,
           "institutions": [
             "Amsterdam UMC Location University of Amsterdam",
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -13396,7 +13386,7 @@
           "corresponding": false,
           "institutions": [
             "Amsterdam UMC Location University of Amsterdam",
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -13406,7 +13396,7 @@
           "corresponding": false,
           "institutions": [
             "Amsterdam UMC Location University of Amsterdam",
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -13792,7 +13782,7 @@
         },
         {
           "name": "Chee Loong Saw",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-9301-2072",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -14066,7 +14056,7 @@
           "score": 0.11659999936819077
         }
       ],
-      "citedByCount": 27,
+      "citedByCount": 28,
       "countsByYear": [
         {
           "year": 2026,
@@ -14074,7 +14064,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 3
+          "cited_by_count": 2
         },
         {
           "year": 2024,
@@ -14082,7 +14072,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2022,
@@ -14098,7 +14088,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 3
+          "cited_by_count": 4
         }
       ],
       "isOpenAccess": true,
@@ -14310,7 +14300,7 @@
         },
         {
           "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "orcid": "https://orcid.org/0000-0002-0445-8217",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -14408,7 +14398,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Amsterdam UMC Location Vrije Universiteit Amsterdam"
           ]
         },
@@ -14418,7 +14408,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Amsterdam UMC Location Vrije Universiteit Amsterdam"
           ]
         },
@@ -14447,7 +14437,7 @@
           "corresponding": false,
           "institutions": [
             "Amsterdam UMC Location University of Amsterdam",
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -14457,7 +14447,7 @@
           "corresponding": false,
           "institutions": [
             "Amsterdam UMC Location University of Amsterdam",
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -14467,7 +14457,7 @@
           "corresponding": false,
           "institutions": [
             "Amsterdam UMC Location University of Amsterdam",
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -14477,7 +14467,7 @@
           "corresponding": false,
           "institutions": [
             "Amsterdam UMC Location University of Amsterdam",
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -14611,7 +14601,7 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 28,
+      "citedByCount": 27,
       "countsByYear": [
         {
           "year": 2026,
@@ -14643,7 +14633,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 6
+          "cited_by_count": 5
         }
       ],
       "isOpenAccess": true,
@@ -14692,7 +14682,7 @@
           "position": "first",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Vrije Universiteit Amsterdam"
           ]
         },
@@ -14702,7 +14692,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Vrije Universiteit Amsterdam"
           ]
         },
@@ -14712,7 +14702,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Vrije Universiteit Amsterdam"
           ]
         },
@@ -14731,7 +14721,7 @@
           "position": "last",
           "corresponding": true,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Vrije Universiteit Amsterdam"
           ]
         }
@@ -14922,7 +14912,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Cancer Center Amsterdam",
             "Amsterdam UMC Location Vrije Universiteit Amsterdam"
           ]
@@ -15049,7 +15039,7 @@
           "score": 0.0017999999690800905
         }
       ],
-      "citedByCount": 32,
+      "citedByCount": 31,
       "countsByYear": [
         {
           "year": 2026,
@@ -15078,10 +15068,6 @@
         {
           "year": 2019,
           "cited_by_count": 3
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
         }
       ],
       "isOpenAccess": true,
@@ -15206,7 +15192,8 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Australian Red Cross Lifeblood"
+            "Australian Red Cross Lifeblood",
+            "Australian Red Cross"
           ]
         },
         {
@@ -15215,7 +15202,8 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Australian Red Cross Lifeblood"
+            "Australian Red Cross Lifeblood",
+            "Australian Red Cross"
           ]
         },
         {
@@ -15399,7 +15387,7 @@
         },
         {
           "name": "Chee Loong Saw",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-9301-2072",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -15886,7 +15874,7 @@
           "score": 0.13349999487400055
         }
       ],
-      "citedByCount": 37,
+      "citedByCount": 39,
       "countsByYear": [
         {
           "year": 2026,
@@ -15902,7 +15890,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2022,
@@ -15918,7 +15906,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 2
+          "cited_by_count": 3
         }
       ],
       "isOpenAccess": true,
@@ -16126,7 +16114,7 @@
         },
         {
           "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "orcid": "https://orcid.org/0000-0002-0445-8217",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -16224,7 +16212,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Amsterdam Cardiovascular Sciences",
             "Vrije Universiteit Amsterdam",
             "Amsterdam UMC Location Vrije Universiteit Amsterdam"
@@ -16236,7 +16224,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Amsterdam Cardiovascular Sciences",
             "Vrije Universiteit Amsterdam",
             "Amsterdam UMC Location Vrije Universiteit Amsterdam"
@@ -16266,7 +16254,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -16276,7 +16264,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -16286,7 +16274,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -16296,7 +16284,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -16535,24 +16523,23 @@
         "HLA alleles",
         "tissue allografts",
         "minor histocompatibility antigens",
-        "killer cell immunoglobulin-like receptors",
-        "HLA mismatch"
+        "killer cell immunoglobulin-like receptors"
       ],
       "openAlexTopics": [
         {
           "name": "Renal Transplantation Outcomes and Treatments",
-          "score": 0.5874000191688538
+          "score": 0.5985999703407288
         },
         {
           "name": "Transplantation: Methods and Outcomes",
-          "score": 0.3122999966144562
+          "score": 0.29249998927116394
         },
         {
           "name": "Organ and Tissue Transplantation Research",
-          "score": 0.038100000470876694
+          "score": 0.0333000011742115
         }
       ],
-      "citedByCount": 18,
+      "citedByCount": 19,
       "countsByYear": [
         {
           "year": 2026,
@@ -16572,7 +16559,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2021,
@@ -16819,7 +16806,7 @@
         },
         {
           "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "orcid": "https://orcid.org/0000-0002-0445-8217",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -16917,7 +16904,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Vrije Universiteit Amsterdam"
           ]
         },
@@ -16927,7 +16914,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Vrije Universiteit Amsterdam"
           ]
         },
@@ -16955,7 +16942,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -16965,7 +16952,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -16975,7 +16962,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -16985,7 +16972,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "University of Amsterdam"
           ]
         },
@@ -17485,8 +17472,8 @@
           ]
         },
         {
-          "name": "A. van der Meer",
-          "orcid": "https://orcid.org/0000-0001-6922-9637",
+          "name": "Arnold van der Meer",
+          "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -17605,7 +17592,7 @@
         },
         {
           "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "orcid": "https://orcid.org/0000-0002-0445-8217",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -18113,7 +18100,7 @@
         },
         {
           "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "orcid": "https://orcid.org/0000-0002-0445-8217",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -18205,7 +18192,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Amsterdam Cardiovascular Sciences",
             "Vrije Universiteit Amsterdam",
             "Amsterdam UMC Location Vrije Universiteit Amsterdam"
@@ -18217,7 +18204,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers",
+            "Amsterdam UMC",
             "Amsterdam Cardiovascular Sciences",
             "Vrije Universiteit Amsterdam",
             "Amsterdam UMC Location Vrije Universiteit Amsterdam"
@@ -18729,15 +18716,15 @@
           "score": 0.07280000299215317
         }
       ],
-      "citedByCount": 56,
+      "citedByCount": 59,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 5
         },
         {
           "year": 2025,
-          "cited_by_count": 7
+          "cited_by_count": 9
         },
         {
           "year": 2024,
@@ -18766,10 +18753,6 @@
         {
           "year": 2018,
           "cited_by_count": 4
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
         }
       ],
       "isOpenAccess": true,
@@ -18966,7 +18949,7 @@
         },
         {
           "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "orcid": "https://orcid.org/0000-0002-0445-8217",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -19280,15 +19263,15 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 112,
+      "citedByCount": 114,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2025,
-          "cited_by_count": 16
+          "cited_by_count": 17
         },
         {
           "year": 2024,
@@ -19613,7 +19596,7 @@
           ]
         },
         {
-          "name": "C. Schönemann",
+          "name": "Constanze Schönemann",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -19699,15 +19682,15 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 209,
+      "citedByCount": 213,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 23
+          "cited_by_count": 24
         },
         {
           "year": 2025,
-          "cited_by_count": 32
+          "cited_by_count": 33
         },
         {
           "year": 2024,
@@ -19715,7 +19698,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 14
+          "cited_by_count": 15
         },
         {
           "year": 2022,
@@ -19739,7 +19722,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 2
+          "cited_by_count": 3
         }
       ],
       "isOpenAccess": true,
@@ -19978,7 +19961,7 @@
         },
         {
           "name": "Mieke W.H. Roeven",
-          "orcid": "",
+          "orcid": "https://orcid.org/0000-0002-5381-0846",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -20082,7 +20065,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Amsterdam University Medical Centers"
+            "Amsterdam UMC"
           ]
         },
         {
@@ -20181,11 +20164,11 @@
           "score": 0.010300000198185444
         }
       ],
-      "citedByCount": 34,
+      "citedByCount": 35,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -20455,7 +20438,7 @@
           "score": 0.03229999914765358
         }
       ],
-      "citedByCount": 60,
+      "citedByCount": 59,
       "countsByYear": [
         {
           "year": 2026,
@@ -20710,7 +20693,7 @@
           "score": 0.0868000015616417
         }
       ],
-      "citedByCount": 28,
+      "citedByCount": 29,
       "countsByYear": [
         {
           "year": 2025,
@@ -20722,7 +20705,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2022,
@@ -20853,7 +20836,7 @@
         },
         {
           "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "orcid": "https://orcid.org/0000-0002-0445-8217",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -20994,7 +20977,7 @@
           "score": 0.00019999999494757503
         }
       ],
-      "citedByCount": 29,
+      "citedByCount": 26,
       "countsByYear": [
         {
           "year": 2025,
@@ -21022,11 +21005,11 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2018,
-          "cited_by_count": 6
+          "cited_by_count": 4
         },
         {
           "year": 2017,
@@ -21174,7 +21157,7 @@
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2025,
@@ -21211,10 +21194,6 @@
         {
           "year": 2017,
           "cited_by_count": 3
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
         }
       ],
       "isOpenAccess": true,
@@ -21740,7 +21719,7 @@
           "score": 0.08730000257492065
         }
       ],
-      "citedByCount": 54,
+      "citedByCount": 53,
       "countsByYear": [
         {
           "year": 2026,
@@ -21772,7 +21751,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 6
+          "cited_by_count": 5
         },
         {
           "year": 2018,
@@ -22451,11 +22430,11 @@
           "score": 0.002099999925121665
         }
       ],
-      "citedByCount": 92,
+      "citedByCount": 93,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2025,
@@ -22479,7 +22458,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 9
+          "cited_by_count": 11
         },
         {
           "year": 2019,
@@ -22491,15 +22470,11 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2016,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
+          "cited_by_count": 5
         }
       ],
       "isOpenAccess": true,
@@ -22579,8 +22554,8 @@
           ]
         },
         {
-          "name": "A. van der Meer",
-          "orcid": "https://orcid.org/0000-0001-6922-9637",
+          "name": "Arnold van der Meer",
+          "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -22699,7 +22674,7 @@
         },
         {
           "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "orcid": "https://orcid.org/0000-0002-0445-8217",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -23262,7 +23237,7 @@
           "score": 0.0008999999845400453
         }
       ],
-      "citedByCount": 113,
+      "citedByCount": 111,
       "countsByYear": [
         {
           "year": 2026,
@@ -23290,7 +23265,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2019,
@@ -23298,7 +23273,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 20
+          "cited_by_count": 19
         },
         {
           "year": 2017,
@@ -23306,7 +23281,7 @@
         },
         {
           "year": 2016,
-          "cited_by_count": 9
+          "cited_by_count": 8
         },
         {
           "year": 2015,
@@ -23491,7 +23466,7 @@
           "score": 0
         }
       ],
-      "citedByCount": 8,
+      "citedByCount": 7,
       "countsByYear": [
         {
           "year": 2026,
@@ -23503,10 +23478,6 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
           "cited_by_count": 1
         },
         {
@@ -23669,7 +23640,7 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 23,
+      "citedByCount": 22,
       "countsByYear": [
         {
           "year": 2026,
@@ -23694,10 +23665,6 @@
         {
           "year": 2021,
           "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
         },
         {
           "year": 2019,
@@ -23880,15 +23847,15 @@
           "score": 0.07090000063180923
         }
       ],
-      "citedByCount": 59,
+      "citedByCount": 63,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2024,
@@ -23916,7 +23883,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 7
+          "cited_by_count": 9
         },
         {
           "year": 2016,
@@ -24081,8 +24048,7 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "University Medical Center Groningen",
-            "University of Groningen"
+            "University Medical Center Groningen"
           ]
         },
         {
@@ -24096,7 +24062,7 @@
         },
         {
           "name": "Cynthia Huisman",
-          "orcid": "https://orcid.org/0000-0003-0616-2847",
+          "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -24118,7 +24084,6 @@
           "position": "middle",
           "corresponding": false,
           "institutions": [
-            "Radboud University Nijmegen",
             "Radboud University Medical Center"
           ]
         },
@@ -24448,7 +24413,7 @@
           "score": 0.00019999999494757503
         }
       ],
-      "citedByCount": 7,
+      "citedByCount": 6,
       "countsByYear": [
         {
           "year": 2026,
@@ -24461,10 +24426,6 @@
         {
           "year": 2021,
           "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
         },
         {
           "year": 2017,
@@ -24642,8 +24603,12 @@
           "score": 0.017400000244379044
         }
       ],
-      "citedByCount": 33,
+      "citedByCount": 34,
       "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2025,
           "cited_by_count": 1
@@ -24654,11 +24619,11 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2021,
-          "cited_by_count": 2
+          "cited_by_count": 1
         },
         {
           "year": 2020,
@@ -25330,8 +25295,8 @@
           ]
         },
         {
-          "name": "A. van der Meer",
-          "orcid": "https://orcid.org/0000-0001-6922-9637",
+          "name": "Arnold van der Meer",
+          "orcid": "",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -25430,7 +25395,7 @@
         },
         {
           "name": "Bouke G. Hepkema",
-          "orcid": "https://orcid.org/0000-0002-3906-9887",
+          "orcid": "https://orcid.org/0000-0002-0445-8217",
           "position": "middle",
           "corresponding": false,
           "institutions": [
@@ -25438,7 +25403,7 @@
           ]
         },
         {
-          "name": "A.J. Lambeck",
+          "name": "Annechien J.A. Lambeck",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -25706,7 +25671,7 @@
       "countsByYear": [
         {
           "year": 2025,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2024,
@@ -25718,7 +25683,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2021,
@@ -25851,11 +25816,11 @@
           "score": 0.006599999964237213
         }
       ],
-      "citedByCount": 130,
+      "citedByCount": 134,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -25871,7 +25836,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2021,
@@ -25879,11 +25844,11 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 10
+          "cited_by_count": 11
         },
         {
           "year": 2019,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2018,
@@ -25891,7 +25856,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 16
+          "cited_by_count": 15
         },
         {
           "year": 2016,
@@ -26186,7 +26151,7 @@
           "score": 0.03020000085234642
         }
       ],
-      "citedByCount": 104,
+      "citedByCount": 106,
       "countsByYear": [
         {
           "year": 2026,
@@ -26194,7 +26159,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2024,
@@ -26202,7 +26167,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2022,
@@ -27103,7 +27068,7 @@
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -27123,7 +27088,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 9
+          "cited_by_count": 8
         },
         {
           "year": 2020,
@@ -27300,11 +27265,11 @@
           "score": 0.025499999523162842
         }
       ],
-      "citedByCount": 4,
+      "citedByCount": 3,
       "countsByYear": [
         {
           "year": 2013,
-          "cited_by_count": 4
+          "cited_by_count": 3
         }
       ],
       "isOpenAccess": false,
@@ -27596,7 +27561,7 @@
           "name": "Victorien M. Wolters",
           "orcid": "",
           "position": "middle",
-          "corresponding": true,
+          "corresponding": false,
           "institutions": [
             "University Medical Center Utrecht"
           ]
@@ -27623,7 +27588,7 @@
           "name": "Roderick H.J. Houwen",
           "orcid": "https://orcid.org/0000-0001-6124-7937",
           "position": "last",
-          "corresponding": true,
+          "corresponding": false,
           "institutions": [
             "University Medical Center Utrecht"
           ]
@@ -27683,7 +27648,7 @@
           "score": 0
         }
       ],
-      "citedByCount": 50,
+      "citedByCount": 51,
       "countsByYear": [
         {
           "year": 2025,
@@ -27711,7 +27676,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2018,
@@ -27719,15 +27684,15 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2016,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2015,
-          "cited_by_count": 6
+          "cited_by_count": 5
         },
         {
           "year": 2014,
@@ -27870,11 +27835,11 @@
           "score": 0.05079999938607216
         }
       ],
-      "citedByCount": 5,
+      "citedByCount": 3,
       "countsByYear": [
         {
           "year": 2013,
-          "cited_by_count": 5
+          "cited_by_count": 3
         }
       ],
       "isOpenAccess": true,
@@ -28015,11 +27980,11 @@
           "score": 0.00039999998989515007
         }
       ],
-      "citedByCount": 127,
+      "citedByCount": 130,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2025,
@@ -28031,7 +27996,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2022,
@@ -28055,7 +28020,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 10
+          "cited_by_count": 11
         },
         {
           "year": 2016,
@@ -28294,7 +28259,7 @@
           "score": 0.04349999874830246
         }
       ],
-      "citedByCount": 35,
+      "citedByCount": 36,
       "countsByYear": [
         {
           "year": 2024,
@@ -28302,7 +28267,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2022,
@@ -28374,9 +28339,9 @@
       "typeLabel": "Journal-Article",
       "doi": "10.1111/iji.12022",
       "pmid": "23279968",
-      "pmcid": "PMC3887040",
+      "pmcid": null,
       "url": "http://europepmc.org/abstract/med/23279968",
-      "fullTextUrl": "https://europepmc.org/articles/PMC3887040",
+      "fullTextUrl": null,
       "bestOpenAccessUrl": "https://doi.org/10.1111/iji.12022",
       "openAlexId": "https://openalex.org/W1966911627",
       "openAlexType": "article",
@@ -28515,7 +28480,7 @@
           "institutions": []
         },
         {
-          "name": "J.‐M. Tiercy",
+          "name": "Jean‐Marie Tiercy",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -28561,14 +28526,7 @@
       "key": false,
       "impactFactor": null,
       "impactFactorSource": null,
-      "meshTerms": [
-        "Humans",
-        "Graft vs Host Disease",
-        "HLA Antigens",
-        "Hematopoietic Stem Cell Transplantation",
-        "Immunogenetics",
-        "Histocompatibility"
-      ],
+      "meshTerms": [],
       "keywords": [
         "histocompatibility",
         "HLA matching",
@@ -28631,7 +28589,7 @@
         },
         {
           "year": 2016,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2015,
@@ -28643,7 +28601,7 @@
         },
         {
           "year": 2013,
-          "cited_by_count": 3
+          "cited_by_count": 2
         }
       ],
       "isOpenAccess": true,
@@ -29162,7 +29120,7 @@
           "score": 0.00009999999747378752
         }
       ],
-      "citedByCount": 20,
+      "citedByCount": 21,
       "countsByYear": [
         {
           "year": 2023,
@@ -29170,7 +29128,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2020,
@@ -29947,7 +29905,7 @@
       "pmcid": "PMC2955557",
       "url": "http://europepmc.org/abstract/med/20823116",
       "fullTextUrl": "https://europepmc.org/articles/PMC2955557",
-      "bestOpenAccessUrl": "https://doi.org/10.1093/humrep/deq242",
+      "bestOpenAccessUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2955557/",
       "openAlexId": "https://openalex.org/W2148563151",
       "openAlexType": "article",
       "crossrefType": "journal-article",
@@ -30090,7 +30048,7 @@
           "score": 0.00039999998989515007
         }
       ],
-      "citedByCount": 45,
+      "citedByCount": 44,
       "countsByYear": [
         {
           "year": 2026,
@@ -30106,7 +30064,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2022,
@@ -30118,7 +30076,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2019,
@@ -30154,7 +30112,7 @@
         }
       ],
       "isOpenAccess": true,
-      "openAccessStatus": "bronze",
+      "openAccessStatus": "green",
       "relatedOpenAlexWorks": [
         "https://openalex.org/W2167359080",
         "https://openalex.org/W2015286701",
@@ -30462,7 +30420,7 @@
           "score": 0
         }
       ],
-      "citedByCount": 80,
+      "citedByCount": 79,
       "countsByYear": [
         {
           "year": 2026,
@@ -30478,7 +30436,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 3
+          "cited_by_count": 2
         },
         {
           "year": 2022,
@@ -30658,7 +30616,7 @@
           ]
         },
         {
-          "name": "FERRY A. OSSENDORP",
+          "name": "Ferry A. Ossendorp",
           "orcid": "https://orcid.org/0000-0001-9730-7954",
           "position": "middle",
           "corresponding": false,
@@ -31480,8 +31438,12 @@
           "score": 0.06449999660253525
         }
       ],
-      "citedByCount": 89,
+      "citedByCount": 90,
       "countsByYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2023,
           "cited_by_count": 1
@@ -31645,7 +31607,7 @@
           "score": 0.00019999999494757503
         }
       ],
-      "citedByCount": 70,
+      "citedByCount": 69,
       "countsByYear": [
         {
           "year": 2025,
@@ -31673,7 +31635,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 3
+          "cited_by_count": 2
         },
         {
           "year": 2013,
@@ -31965,7 +31927,7 @@
           "score": 0.0013000000035390258
         }
       ],
-      "citedByCount": 100,
+      "citedByCount": 65,
       "countsByYear": [
         {
           "year": 2022,
@@ -31973,43 +31935,43 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 3
+          "cited_by_count": 2
         },
         {
           "year": 2020,
-          "cited_by_count": 6
+          "cited_by_count": 3
         },
         {
           "year": 2019,
-          "cited_by_count": 5
+          "cited_by_count": 1
         },
         {
           "year": 2018,
-          "cited_by_count": 3
+          "cited_by_count": 1
         },
         {
           "year": 2017,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2016,
           "cited_by_count": 4
         },
         {
-          "year": 2015,
-          "cited_by_count": 5
+          "year": 2016,
+          "cited_by_count": 1
         },
         {
-          "year": 2014,
+          "year": 2015,
           "cited_by_count": 3
         },
         {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
           "year": 2013,
-          "cited_by_count": 9
+          "cited_by_count": 7
         },
         {
           "year": 2012,
-          "cited_by_count": 11
+          "cited_by_count": 7
         }
       ],
       "isOpenAccess": true,
@@ -32096,7 +32058,7 @@
           ]
         },
         {
-          "name": "Gérard Souillet",
+          "name": "G Souillet",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -32132,7 +32094,7 @@
           ]
         },
         {
-          "name": "Dominique Rigal",
+          "name": "D. Rigal",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -32322,7 +32284,7 @@
           "name": "Stefan Böhringer",
           "orcid": "https://orcid.org/0000-0001-9108-9212",
           "position": "middle",
-          "corresponding": true,
+          "corresponding": false,
           "institutions": [
             "National Cancer Institute",
             "University of Duisburg-Essen"
@@ -32411,7 +32373,7 @@
           "score": 0.00139999995008111
         }
       ],
-      "citedByCount": 68,
+      "citedByCount": 69,
       "countsByYear": [
         {
           "year": 2026,
@@ -32439,7 +32401,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2019,
@@ -32665,7 +32627,7 @@
           "score": 0.0017999999690800905
         }
       ],
-      "citedByCount": 50,
+      "citedByCount": 51,
       "countsByYear": [
         {
           "year": 2025,
@@ -32677,7 +32639,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2021,
@@ -32997,7 +32959,7 @@
           "score": 0.01730000041425228
         }
       ],
-      "citedByCount": 42,
+      "citedByCount": 41,
       "countsByYear": [
         {
           "year": 2017,
@@ -33149,7 +33111,7 @@
           "score": 0.005900000222027302
         }
       ],
-      "citedByCount": 97,
+      "citedByCount": 93,
       "countsByYear": [
         {
           "year": 2025,
@@ -33193,7 +33155,7 @@
         },
         {
           "year": 2012,
-          "cited_by_count": 4
+          "cited_by_count": 2
         }
       ],
       "isOpenAccess": false,
@@ -33375,10 +33337,6 @@
           "cited_by_count": 1
         },
         {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
           "year": 2022,
           "cited_by_count": 3
         },
@@ -33396,15 +33354,15 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
           "cited_by_count": 2
         },
         {
+          "year": 2017,
+          "cited_by_count": 3
+        },
+        {
           "year": 2016,
-          "cited_by_count": 5
+          "cited_by_count": 4
         },
         {
           "year": 2015,
@@ -33412,7 +33370,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2013,
@@ -33596,7 +33554,7 @@
           ]
         },
         {
-          "name": "FERRY A. OSSENDORP",
+          "name": "Ferry A. Ossendorp",
           "orcid": "https://orcid.org/0000-0001-9730-7954",
           "position": "middle",
           "corresponding": false,
@@ -33705,11 +33663,11 @@
           "score": 0.2062000036239624
         }
       ],
-      "citedByCount": 121,
+      "citedByCount": 123,
       "countsByYear": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2023,
@@ -33947,7 +33905,7 @@
           "score": 0.002300000051036477
         }
       ],
-      "citedByCount": 169,
+      "citedByCount": 168,
       "countsByYear": [
         {
           "year": 2026,
@@ -33959,7 +33917,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 2
+          "cited_by_count": 1
         },
         {
           "year": 2022,
@@ -34285,7 +34243,7 @@
           "score": 0
         }
       ],
-      "citedByCount": 85,
+      "citedByCount": 84,
       "countsByYear": [
         {
           "year": 2025,
@@ -34577,7 +34535,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2020,
@@ -34585,7 +34543,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2018,
@@ -34609,7 +34567,7 @@
         },
         {
           "year": 2013,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2012,
@@ -34677,7 +34635,7 @@
           ]
         },
         {
-          "name": "Enrico Marani",
+          "name": "E. Marani",
           "orcid": "",
           "position": "middle",
           "corresponding": false,
@@ -35026,7 +34984,7 @@
           "score": 0.002899999963119626
         }
       ],
-      "citedByCount": 27,
+      "citedByCount": 25,
       "countsByYear": [
         {
           "year": 2022,
@@ -35207,8 +35165,12 @@
           "score": 0.0003000000142492354
         }
       ],
-      "citedByCount": 33,
+      "citedByCount": 34,
       "countsByYear": [
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
         {
           "year": 2021,
           "cited_by_count": 1
@@ -35378,7 +35340,7 @@
           "score": 0
         }
       ],
-      "citedByCount": 7,
+      "citedByCount": 6,
       "countsByYear": [
         {
           "year": 2022,
@@ -37371,8 +37333,7 @@
         "https://openalex.org/W4254378245",
         "https://openalex.org/W2610444446",
         "https://openalex.org/W2095425955",
-        "https://openalex.org/W2078568804",
-        "https://openalex.org/W4231110819"
+        "https://openalex.org/W2078568804"
       ],
       "abstractClassification": {
         "decision": "exclude",
@@ -42152,13 +42113,8 @@
           "score": 0.04919999837875366
         }
       ],
-      "citedByCount": 1,
-      "countsByYear": [
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        }
-      ],
+      "citedByCount": 0,
+      "countsByYear": [],
       "isOpenAccess": false,
       "openAccessStatus": "closed",
       "relatedOpenAlexWorks": [
@@ -45085,7 +45041,7 @@
         },
         {
           "name": "Immune Cell Function and Interaction",
-          "score": 0.002899999963119626
+          "score": 0.0031999999191612005
         },
         {
           "name": "Renal Transplantation Outcomes and Treatments",
@@ -45184,7 +45140,7 @@
       "fullTextUrl": null,
       "bestOpenAccessUrl": null,
       "openAlexId": "https://openalex.org/W4248224126",
-      "openAlexType": "article",
+      "openAlexType": "conference-abstract",
       "crossrefType": "journal-article",
       "openAlexUrl": "https://openalex.org/W4248224126",
       "abstract": null,
